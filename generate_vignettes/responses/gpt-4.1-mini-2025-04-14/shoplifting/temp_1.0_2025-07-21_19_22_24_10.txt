@@ -1,0 +1,131 @@
+IN THE CROWN COURT AT LEICESTER  
+R v. Mr H  
+Case No. T2025/14630  
+Sentencing Remarks – His Honour Judge W. P. Cavendish  
+Filed: 14 October 2025  
+
+Mr H, you stand before this court to be sentenced in respect of offences concerning repeated theft from retail premises, contrary to section 1 of the Theft Act 1968. The acts in question are alleged to have taken place over a period extending from early 2023 to April 2025 within various locations across the Leicester city centre and surrounding commercial areas.
+
+Procedural History  
+Your case was initially listed for first hearing at Leicester Magistrates’ Court on 1 May 2025. Following the initial appearance and after legal advice, you entered a not guilty plea. Subsequently, the matter was transferred to this Crown Court for trial preparation and eventual sentencing due to the complexity of the evidential material and the volume of ancillary documentation. The Better Case Management system—which seeks to improve the expeditious handling of cases—has in this instance been largely adhered to, though some adjournments were necessary to secure expert assessments and to resolve Legal Aid funding issues.
+
+The prosecution case, prepared by the Crown Prosecution Service with assistance from the Leicester Business Against Crime Partnership, was informed by multiple reports from retail premises, who suffered persistent shrinkage believed to be caused by the offending pattern attributed to you. Street-level officers, CCTV analysts, and business security leads collaborated in collating the evidence, which included store logs, video footage, and statements from staff witnesses. The gathering and cross-referencing of this material demanded considerable operational effort, as is often the case with prolonged acquisitive offending.
+
+We live in an era characterised by increasing demands on policing resources, where the distinction between “minor” offences and matters of broader public safety is blurred by volume and cumulative effect. The police, despite best endeavours, face growing pressure to balance reactive responses with proactive prevention strategies. The exploitation of retail outlets by persistent offenders is emblematic of wider social challenges affecting urban centres struggling with economic hardship, housing instability, and limited social mobility.
+
+The BCM framework endeavours to manage these cases efficiently but is routinely challenged by the pressing needs of more serious offending and fluctuating resource availability. In light of these constraints, it is regrettable but foreseeable that cases such as yours can experience delay, particularly when expert reports, including psychiatric assessments, are sought but cannot be authorised or completed swiftly due to Legal Aid administration bottlenecks.
+
+The Legal Aid Agency’s performance in respect of timely approvals remains a concern. In this matter, the defence’s application for funding to instruct a forensic psychologist was first submitted in mid-May 2025 but was not approved until late July after a series of correspondence and procedural clarifications. Such protracted delays erect barriers to timely justice, frustrating defendants and counsel alike, and risk disadvantaging all parties. The court hopes these systemic issues will receive the urgent attention they merit.
+
+It should be noted that the case was adjourned on two occasions to allow for receipt and consideration of reports from Dr Fiona Willoughby, consultant forensic psychologist, and from probation officers tasked with preparing pre-sentence evaluations. The collaborative engagement of these professionals is essential to a properly informed sentencing exercise.
+
+The plaintiff, represented by Ms Rebecca Collins of the Crown Prosecution Service, has conducted herself with diligence and professionalism throughout, as has counsel for the defence, Mr Samuel Grayson, instructed pursuant to a Legal Aid order.
+
+The Victim Impact Service, supported by Leicester Business Against Crime, provided written statements from retail staff, highlighting the cumulative impact of repeat thefts on employee morale, store operations, and financial viability. These documents convey the often-overlooked human dimension of acquisitive offending, underscoring that the effects extend beyond mere monetary loss.
+
+The defendant’s engagement with voluntary sector agencies has been sporadic. Letters received from the Leicester Homelessness Prevention Project and the Nottingham Street Outreach Service attest to attempts to provide wraparound support, though your response has been ambivalent.
+
+It is, regrettably, an enduring reality that repeat shoplifting offenders frequently traverse a trajectory marked not simply by economic struggle but by a complex interplay of impulsivity, unmet psychological needs, and fractured social ties. Some individuals take advantage of the multiple support mechanisms available, engaging earnestly to alter their trajectories. Conversely, others resist intervention, compounding risk and impeding prospects for rehabilitation.
+
+One cannot overlook the broader societal backdrop against which these events occur. The continued rise of street homelessness, the normalisation of begging and street-level antisocial behaviour, and persistent weaknesses in mental health service provision comprise a constellation of challenge. These dynamics, though neither excuse nor justify offending, form a context that shapes offender behaviour and frames institutional responses.
+
+The Law  
+It is necessary to remind all present that the legal definition of theft requires dishonesty and an intention to permanently deprive the owner of possession of property. The sentencing guidelines require the court to have regard to the harm caused, the culpability of the offender, and any aggravating or mitigating features.
+
+R v. Denton [2020] EWCA Crim 584 provides a notable example of judicial consideration of repeated shop thefts, particularly involving vulnerable premises and where offenders’ conduct was marked by planning and defiance of prior warnings. Furthermore, R v. Baines [2019] EWCA Crim 1273 emphasised the importance of assessing the cumulative effect of persistent acquisitive crime on local communities and individual business operators.
+
+Reference may also be made to the Court of Appeal in R v. Colley [2023] EWCA Crim 1105, where it was held that while persistent dishonesty can justify a custodial approach, mitigating factors such as engagement with rehabilitative services, genuine remorse, and mental health vulnerabilities warrant balanced consideration.
+
+The court must temper condemnation of persistent offending with an appreciation of the complex interplay of social and psychological factors—yet without undermining the clear public interest in deterrence and protection.
+
+The facts as found  
+The facts of the case, as agreed in the plea hearing and confirmed following the evidence presented, are as follows:
+
+{INSERT_FACT_SNIPPET_1}
+{INSERT_FACT_SNIPPET_2}
+
+Your offending took place across multiple retail units, including convenience stores, pharmacy outlets, and an independent grocer, with repeated visits to the same premises. The modus operandi typically involved the surreptitious concealment of goods in clothing or bags and exploitation of natural distractions in busy retail environments.
+
+The use of a distinctive baseball cap, worn in five separate incidents, was a focal point of CCTV identification. Staff statements describe techniques intended to evade attention, including the timing of actions during staff breaks or when shop-floor activity was greatest.
+
+{INSERT_FACT_SNIPPET_3}
+
+In some circumstances, your conduct was executed with a notable degree of boldness. On one occasion, you removed price tags from goods; in another, you substituted items between packaging to avoid detection. Although no direct threat or force were used, the activity caused tangible operational disruption and emotional distress among shop personnel.
+
+{INSERT_FACT_SNIPPET_4}
+{INSERT_FACT_SNIPPET_5}
+
+The cumulative effect of your behaviour was distressing for employees, who reported increased anxiety and diminished sense of workplace safety. One witness described feeling compelled to alter working hours to avoid lone shifts coinciding with your visits.
+
+{INSERT_FACT_SNIPPET_6}
+{INSERT_FACT_SNIPPET_7}
+
+The Crown submits this offence pattern reflects a conscious decision to continue despite prior engagement with community-based diversion schemes, including an adult caution received in 2024, which you did not successfully complete.
+
+{INSERT_FACT_SNIPPET_8}
+
+Case law illustrates that persistent offending after warnings and interventions may justify custodial sentences, especially where the perpetrator demonstrates no meaningful engagement with rehabilitative opportunities. R v. Shaw [2018] EWCA Crim 1127 reaffirmed that persistent acquisitive offending can erode public confidence and warrants deterrent sentencing.
+
+Expert Reports and Risk Assessment  
+Dr Fiona Willoughby’s psychological evaluation, prepared following a series of interviews conducted in July and August 2025, concluded that you do not meet criteria for major psychiatric disorder. However, traits suggest emotional dysregulation, impulsivity, and low self-worth, with some indications of mild alcohol dependency. She noted limited engagement with therapeutic services and reluctance to participate consistently in offered support.
+
+The Probation Service report dated 24 September 2025 observed an elevated risk of further acquisitive offending, if no intervention occurs, coupled with notable instability in housing and employment. It also highlighted your non-disclosure regarding substance use in interviews and inconsistent cooperation with outreach workers.
+
+Your personal history reveals periods of transient accommodation, including stays in local hostels and periods of rough sleeping. Letters from the Leicester Homelessness Prevention Project commend those attempting to maintain contact but express frustration at your unwillingness to access services on a sustained basis.
+
+The impact of such instability on offending risk is well-documented. While absence of major mental illness tempers concerns, the combination of impulsivity, social isolation, and economic deprivation often fuels repeated criminal conduct.
+
+Stating broader context, it is worth observing that the Leicester probation team faces substantial caseload pressures. Staff shortages and increasing numbers of high-risk offenders constrain contact time. Despite these challenges, the team continues to deliver intensive supervision and robust enforcement where required.
+
+The Crown’s position, as presented by Ms Collins, is that the ongoing refusal to assist in personal rehabilitation obliges this court to consider a sentence that adequately reflects the public interest in deterrence.
+
+Submissions of Counsel  
+Mr Grayson, appearing for the defence, submitted that whilst Mr H accepts responsibility for the conduct, his personal circumstances—including unstable housing, sporadic engagement with mental health and social services, and limited educational attainment—point to the potential efficacy of community-based supervision supported by targeted interventions.
+
+He contended that the late guilty plea, although only proximate to trial, warranted some discount. Further, the defence urges consideration of the potential for rehabilitative rehabilitative activity restrictions (RAR), alongside unpaid work requirements, to address criminogenic needs.
+
+Ms Collins countered that while the plea is acknowledged, its lateness mitigates against significant credit. She highlighted the multiple prior opportunities afforded to Mr H, including a conditional caution and invitations to social support programmes, all largely declined.
+
+Public Safety Implications  
+This court recognises the substantial resources devoted by local policing teams to the investigation and management of acquisitive crime. Persistent thieves strain stretched public funds and impair the effective operation of retail establishments, with broader societal consequences.
+
+Though the apex of criminality is elsewhere, the aggregation of repeated shoplifting constitutes a serious threat to community cohesion and economic stability in affected areas. Deterrence is a critical sentencing consideration.
+
+Moreover, the well-known operational challenges involved in multi-agency information-sharing frameworks such as MARAC (Multi-Agency Risk Assessment Conferences) and MAPPA (Multi-Agency Public Protection Arrangements)—although primarily designed for higher-risk offenders—cannot be ignored. Their administrative burdens drain capacity that might otherwise be dedicated to prompt intervention with cases such as this.
+
+The judiciary continually urges enhanced collaboration, but resource limitations impede ideal outcomes.
+
+Discussion of Similar Cases and Sentencing Principles  
+The court has analyzed a range of reported decisions involving comparable offences and offender profiles. Notably, in R v. Hartley [2024] EWCA Crim 990, a defendant with a similar profile received a sentence of eight months’ custodial imprisonment suspended for 12 months, coupled with a comprehensive community order requiring attendance at offending behaviour programmes.
+
+In R v. Cole [2023] EWCA Crim 731, a custodial sentence was upheld for a defendant who had persisted in theft despite extensive community interventions, with clear evidence of deliberate planning and minimal remorse.
+
+Legal principle mandates sentences reflect the balance between punishment, deterrence, rehabilitation, and the protection of the public. The Sentencing Council’s guidelines for theft offences provide detailed steps to calibrate culpability and harm. Mr H’s repeated commission after diversionary efforts situates this at a higher culpability bracket, while absence of violence somewhat tempers severity.
+
+Observations on Court Operations and Wider Context  
+The court acknowledges the efforts of all court officers and support staff, who continue to maintain order and efficiency despite ongoing refurbishment works in Court 5A. Interpreter services, when required, have been commendably punctual, as have court clerks.
+
+It is regrettable that national strike action by legal professionals in summer 2025 caused some backlog, contributing to adjournment requirements in cases across multiple Crown Courts.
+
+The court notes concerns expressed by local police commanders about pressures engendered by acquisitive crime alongside increasing incidents of violent offending, indicating the complex risk environment in which public safety is managed.
+
+Representations made by voluntary organisations such as the Leicester Street Outreach Service and Community Housing Alliance illustrate the enormous strain on social services, arising from both increases in street homelessness and reductions in community funding.
+
+There is growing public cynicism towards judicial institutions, often fuelled by sensationalistic social media narratives. The court reaffirms its commitment to open justice and transparency in all proceedings within the constraints of fairness and legal obligation.
+
+Sentencing and next steps  
+I have carefully considered the nature, scale, and impact of the offending behaviour; the contributions of expert reports; the submissions of counsel; and the various mitigating and aggravating factors.
+
+The offences are serious given their repetition, planning, and disregard for previous warnings. You have not sustained meaningful engagement with available support services, and the risk of reoffending remains material.
+
+Nonetheless, there are potential avenues to address underlying factors and reduce future risk through structured intervention.
+
+At this stage, I will adjourn for the preparation of a pre-sentence report by the National Probation Service. The report will consider, inter alia, the suitability of community orders, the prospects for rehabilitation, and any ancillary support measures warranted by your circumstances.
+
+I emphasise that no final decision has yet been reached with respect to sentence or disposal.
+
+I remind you of your right to appeal following sentence.
+
+These sentencing remarks are issued today, 14 October 2025, in Court 5A at Leicester Crown Court. The record of proceedings has been transcribed pursuant to the Criminal Procedure Rules Part 5. You have the right to appeal within 28 days under the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions have been applied pursuant to section 49 of the Children and Young Persons Act 1933. Costs and other ancillary matters are reserved for further directions.
+
+These are the orders of the court.

@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 5,
+        "choice_num": 1,
+        "snippet": "The defendant removed a security tag using a magnet, which was later recovered during his arrest.",
+        "include": "removed a security tag using a magnet, which was later recovered during his arrest"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 2,
+        "snippet": "A magnet was used by The defendant to detach a security tag, and this item was found in his possession at the time of his arrest.",
+        "include": "used by The defendant to detach a security tag, and this item was found in his possession at the time of his arrest"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 3,
+        "snippet": "The defendant used a magnet to remove a security tag, and that same magnet was recovered when Mr H was taken into custody.",
+        "include": "used a magnet to remove a security tag, and that same magnet was recovered when Mr H was taken into custody"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 4,
+        "snippet": "The defendant deliberately used a magnet to take off a security tag, and the magnet was later found during his arrest.",
+        "include": "deliberately used a magnet to take off a security tag, and the magnet was later found during his arrest"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 5,
+        "snippet": "Mr H was found to have used a magnet to bypass a security tag, with the device recovered at the time of arrest.",
+        "include": "used a magnet to bypass a security tag, with the device recovered at the time of arrest"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 6,
+        "snippet": "The defendant employed a magnet to detach a security tag from the item, and the magnet was located when police searched The defendant.",
+        "include": "employed a magnet to detach a security tag from the item, and the magnet was located when police searched The defendant"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 7,
+        "snippet": "The security tag was removed using a magnet, which was subsequently discovered on his person during arrest.",
+        "include": "removed using a magnet, which was subsequently discovered on his person during arrest"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 8,
+        "snippet": "The defendant used a magnetic device to disable the security tag, and this was later recovered when Mr H was arrested.",
+        "include": "used a magnetic device to disable the security tag, and this was later recovered when Mr H was arrested"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 9,
+        "snippet": "During his arrest, officers recovered a magnet used to remove a security tag earlier that day.",
+        "include": "officers recovered a magnet used to remove a security tag earlier that day"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 10,
+        "snippet": "The defendant brought a magnet to the scene and used it to take off a security tag; this was later found in his possession when arrested.",
+        "include": "brought a magnet to the scene and used it to take off a security tag; this was later found in his possession when arrested"
+    }
+]

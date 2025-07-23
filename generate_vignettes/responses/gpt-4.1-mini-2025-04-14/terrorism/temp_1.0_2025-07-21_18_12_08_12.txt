@@ -1,0 +1,39 @@
+IN THE CROWN COURT AT SHEFFIELD  
+R v. Mr H  
+Case No. S2025/27654  
+Sentencing Remarks – His Honour Judge E. J. PARRY  
+Filed: 29 September 2025  
+
+Mr H appears before this court for sentence, having been convicted following a jury verdict dated 18 September 2025. The charges relate to multiple counts under section 5(1)(a) of the Terrorism Act 2006, concerning engaging in conduct in preparation for terrorist acts, and an additional count under section 57 of the Terrorism Act 2000, relating to possession of articles for purposes connected with terrorism. The offending conduct occurred over a timeframe from late 2022 until the defendant’s arrest in April 2025.
+
+The present case falls under the jurisdiction of this Crown Court as part of the northern circuit, within which this court was established following modernization of criminal jurisdictions in 1974. The machinery of justice administered here is both precise and solemn, reflecting the gravity of matters charged and the societal interests at stake. Prior to trial, the court navigated a series of procedural steps including the initial allocation hearing on 2 May 2025 at Sheffield Magistrates’ Court and subsequent committal proceedings, which acknowledged the complexity and sensitive nature of the indictment.
+
+The defendant was initially bailed on stringent conditions following his first appearance on 15 April, these including electronic tagging and curfew restrictions, though such conditions were later reviewed and modified by the prescribing judge after concerns were raised regarding enforceability and compliance monitoring. The case has seen the expected, though regrettable, delays occasioned by the scarcity of qualified Independent Forensic Examiners authorised under the Digital Evidence Review Protocol, a reality borne by many complex investigations at the intersection of cyber and counter-terrorism policing.
+
+The Crown’s case was presented by Ms Phoebe Lancaster of the Crown Prosecution Service Terrorism Unit, whose thorough submissions and solicitude for evidence integrity were acknowledged throughout proceedings. The defence was ably represented by Mr Oliver Grayson, instructed via a representation order granted under the Legal Aid, Sentencing and Punishment of Offenders Act 2012. The court notes with concern the delays affecting defence counsel’s access to digital exhibits on account of Legal Aid restrictions and resource constraints at the National Legal Aid Bureau; this delay regrettably postponed defence preparation but was managed with due diligence by all parties.
+
+In the wider context, this court recognises the ongoing strain on the Probation Service Deployment Unit, where vacancies and recruitment challenges have exacerbated case backlogs in terrorism-related risk management. These institutional realities intersect unavoidably with the practicalities of supervised release and rehabilitation frameworks, which, as this case illustrates, are increasingly demanding in complexity and resource allocation.
+
+Prior to the trial, medical and psychological reports were commissioned, including a comprehensive report by the East Midlands Forensic Psychiatry Service, which will be referenced later in these remarks. Psychiatric assessments in terrorism cases continue to grapple with the challenge of distinguishing ideological rigidity from diagnosable mental disorders, a difficulty eloquently discussed in R v. Malek [2019] EWCA Crim 2408, which set important precedents concerning mental health and culpability in high-profile extremism cases.
+
+The trial itself proceeded over eight days, interrupted briefly on 3 September due to the delayed arrival of a specialist interpreter for a key witness with limited English proficiency. Such logistic issues, while unfortunate, are all too common and illustrate the operational challenges faced by courts operating in multicultural urban environments. The jury rendered its unanimous verdict after three hours of deliberation.
+
+{INSERT_FACT_SNIPPET_1}
+
+The defendant’s arrest followed a meticulously coordinated operation by Counter Terrorism Policing Yorkshire, which incorporated surveillance, forensic digital extraction, and human intelligence contributions. Notably, the deployment of covert listening devices featured prominently in evidence, previously approved by the Administrative Court under stringent conditions as set out in R v. Glover [2020] EWHC 2356 (Admin). These measures underscore the balancing act between civil liberties and public safety in domestic counter-terrorism enforcement.
+
+It bears emphasising that while attention is often focussed on the headline incidents that lead to charges, much investigative work occurs in the shadows of administrative labyrinths and inter-agency liaison. This case required seamless communication between the National Crime Agency’s Cyber Crime Unit, the Security Service, and local intelligence branches, each burdened with their own operational demands and jurisdictional boundaries. Such cooperation reflects the pressing modern need for multi-agency synergy in combating threats inherently multifaceted in nature.
+
+It is observed that an unassociated co-defendant involved in an antecedent case from the Midlands Circuit remains at large at the time of writing, having reportedly absconded amidst ongoing investigations into firearms offences. Their involvement is not relevant to the charges before this court concerning Mr H but is indicative of wider criminal networks occasionally intersecting with ideological extremists.
+
+The Sentencing Council’s guidelines on terrorism offences, first promulgated in 2023, provide an essential framework within which culpability, harm, and dangerousness must be assessed, alongside the guidance offered by landmark cases such as R v. Anwar [2021] EWCA Crim 728, particularly on the issues of intent and the threshold for pre-emptive interdiction.
+
+{INSERT_FACT_SNIPPET_2}
+
+In response to the multiplicity of charges, the court heard detailed submissions regarding the defendant’s online activity. It was established that under an alias, Mr H sustained a blog that traced an ideological arc from mainstream critiques of foreign policy to increasingly militant rhetoric. The prosecution relied heavily on a linguistic forensic report by Dr Fiona Barrett, whose analysis concluded that particular phraseology was “consistent with published extremist manifestos” and exhibited markers of “call to arms” that would exceed free speech protections in precedent cases such as R v. Jurgen [2015] EWHC 1340 (Admin).
+
+{INSERT_FACT_SNIPPET_3}
+
+Digital forensics recovered significant encrypted archives stored on multiple cloud backups, accessible only by keys found concealed within digital steganographic images. The defence argued that some files appeared to be innocuous, or merely educational material on explosives chemistry, invoking the principles espoused in R v. Feldman [2018] EWCA Crim 1120 about possession of scientific materials devoid of criminal intent. The court ultimately found these submissions unpersuasive, given the corroborating intent signals presented elsewhere in evidence.
+
+It is worth noting, albeit tangentially, that the defendant was reported to have had in his possession certain botanical specimens, notably cannabis seeds, though no cultivation or trafficking was evidenced. This does not pertain to the terrorism charges but illustrates the varied nature of material found during searches and the pitfalls of conflating unrelated discoveries. Defence counsel’s

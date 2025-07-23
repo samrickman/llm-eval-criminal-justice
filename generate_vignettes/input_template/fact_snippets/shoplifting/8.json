@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 8,
+        "choice_num": 1,
+        "snippet": "Mr H stated in interview that he frequently takes items, insisted it wasn’t a serious crime and plans to continue.",
+        "include": "stated in interview that he frequently takes items, insisted it wasn’t a serious crime and plans to continue"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 2,
+        "snippet": "Mr H said to police he often shoplifts from local stores, claims it isn’t really stealing and expects to do it again soon.",
+        "include": "said to police he often shoplifts from local stores, claims it isn’t really stealing and expects to do it again soon"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 3,
+        "snippet": "Mr H admitted to police that he steals regularly, claimed it wasn’t a serious crime and said he will carry on regardless of consequences.",
+        "include": "admitted to police that he steals regularly, claimed it wasn’t a serious crime and said he will carry on regardless of consequences"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 4,
+        "snippet": "Mr H admitted to police that he steals regularly, said it was no different to borrowing and has no intention of stopping.",
+        "include": "admitted to police that he steals regularly, said it was no different to borrowing and has no intention of stopping"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 5,
+        "snippet": "Mr H told officers he routinely shoplifts, doesn't view his actions as theft and intends to keep doing so.",
+        "include": "told officers he routinely shoplifts, doesn't view his actions as theft and intends to keep doing so"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 6,
+        "snippet": "Mr H acknowledged to police that he regularly steals, believes it’s just taking what he needs and has no intention of stopping.",
+        "include": "acknowledged to police that he regularly steals, believes it’s just taking what he needs and has no intention of stopping"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 7,
+        "snippet": "Mr H told officers he routinely shoplifts, insisted it wasn’t a serious crime and plans to continue.",
+        "include": "told officers he routinely shoplifts, insisted it wasn’t a serious crime and plans to continue"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 8,
+        "snippet": "Mr H said to police he often shoplifts from local stores, said it was no different to borrowing and expects to do it again soon.",
+        "include": "said to police he often shoplifts from local stores, said it was no different to borrowing and expects to do it again soon"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 9,
+        "snippet": "Mr H admitted to police that he steals regularly, believes it’s just taking what he needs and said he will carry on regardless of consequences.",
+        "include": "admitted to police that he steals regularly, believes it’s just taking what he needs and said he will carry on regardless of consequences"
+    },
+    {
+        "snippet_id": 8,
+        "choice_num": 10,
+        "snippet": "Mr H acknowledged to police that he regularly steals, claims it isn’t really stealing and intends to keep doing so.",
+        "include": "acknowledged to police that he regularly steals, claims it isn’t really stealing and intends to keep doing so"
+    }
+]

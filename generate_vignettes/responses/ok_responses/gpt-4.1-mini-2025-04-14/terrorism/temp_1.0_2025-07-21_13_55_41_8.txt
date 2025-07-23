@@ -1,0 +1,75 @@
+IN THE CROWN COURT AT SHEFFIELD  
+R v. Mr H  
+Case No. S2025/26941  
+Sentencing Remarks – His Honour Judge L. K. Fairbourne  
+Filed: 17 September 2025  
+
+Mr H appears before this court for sentence having pleaded guilty to two counts pursuant to section 5(1)(a) of the Terrorism Act 2006, namely engaging in conduct in preparation for acts of terrorism, and possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct is said to have occurred from late 2022 until his arrest in April 2025.  
+
+This case has been allocated to the Crown Court as the appropriate tier given the gravity of the allegations and the maximum penalties permitted by statute, including the possibility of life imprisonment under section 5 of the 2006 Act. As a court operating under Better Case Management (BCM) protocols introduced in 2013, these proceedings have sought to observe expeditious timetabling, though challenges inevitably arose reflecting the complexity of national security investigations involving digital evidence, liaison with intelligence agencies, and the incorporation of sensitive material under the Justice and Security Act 2013.  
+
+The defendant was initially remanded in custody on 12 April 2025 following his arrest at a residential premises in Crookesmoor, Sheffield, executed pursuant to warrants under section 43B of the Terrorism Act 2000. The arrest capped a sustained investigation code-named Operation DRAGONFIRE, led by Counter Terrorism Policing Yorkshire and the Humber in close partnership with the Midlands Regional Intelligence Unit, the Security Service, and national forensic data teams.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+Much has already been set out in various interlocutory hearings regarding the evidential basis for Mr H’s arrest. Evidence relied upon included intercepted encrypted communications, social media posts disseminated under a pseudonym, and forensic examination of devices secured on his person and within his home.  
+
+It is noted that Operation DRAGONFIRE ran contemporaneously with other major investigations, including a high-profile prosecutorial effort involving a co-defendant charged in Westminster with possession of explosives precursors and conspiracy to commit terrorism. It is a feature of counter-terrorism cases that multiple threads often interweave, yet the present prosecution concerns only the conduct attributable to Mr H himself. No inferences should be drawn from unrelated charges against co-defendants or other persons of interest who remain at large or have pending proceedings.  
+
+In advancing his defence at earlier stages, Mr H pleaded not guilty. The change of plea to guilty on 8 September 2025, after trial preparation hearings and expert report submissions, was welcomed but noted as belated in the context of the Criminal Procedure Rules and the established jurisprudence on plea credit.  
+
+The principles governing mitigation for guilty pleas were comprehensively elucidated in the Court of Appeal decision R v. Elwood [2022] EWCA Crim 1490. That case involved a defendant charged with multiple counts of arson and possession of an offensive weapon, whose plea only arose when confronted with overwhelming DNA evidence linking him to a fire that destroyed a terrace house in Newcastle. Elwood confirmed that reductions for plea are at the discretion of the sentencing court, taking account of the timing, nature of the evidence, and the extent to which the plea spared victims ordeal and resources.  
+
+Similarly, R v. Hudson [2023] EWCA Crim 1803, involving a charge of grievous bodily harm with intent, reiterated that the utility of plea credit diminishes precipitously where pleas are entered late in the process, often appearing tactical rather than demonstrative of genuine remorse. These authorities provide a compelling backdrop against which credit must be tempered in the present case.  
+
+Furthermore, R v. Martin [2021] EWCA Crim 745 clarified that the fact a defendant may have demonstrated some cooperation post-arrest does not automatically warrant a higher level of mitigation unless that cooperation has materially advanced the interests of justice or victim welfare.  
+
+Against this legal framework, the court will proceed to consider the facts relevant to Mr H’s offending.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+There is extensive digital evidence that was central to the prosecution’s case. Amongst it was content from a blog hosted under the moniker “SteelSeer,” which over the course of two years evolved from apolitical commentary on local walking routes to a repository of ideological rhetoric endorsing violent extremism. Linguistic experts engaged by the Crown identified multiple instances of language echoing that used in training manuals from a proscribed organisation, including coded references and doctrinal invocations.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+That digital trail also included numerous encrypted archives. These were stored within VeraCrypt containers, their labeling often cryptic or disguised as innocuous filenames such as “BlueJuniper.” Content ranged from explosive synthesis manuals to tactical reconnaissance plans aimed at public infrastructure. Defence counsel elicited testimony questioning whether Mr H had actually accessed these files in full, citing evidence of corrupted segments and metadata suggesting partial downloads. However, as established in R v. Barnaby [2020] EWCA Crim 1989, liability encompasses possession and intent to use, irrespective of full documentary engagement.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+The case file notes that a small quantity of legally prescribed medication for Mr H’s chronic asthma was found in his flat. While mentioned in mitigation, its significance is limited to establishing baseline health status rather than any nexus to risky behaviour or propensity. Additionally, a 2018 parking fine for contravening local traffic regulations was tendered with no bearing on culpability, included only at the insistence of defence as a demonstration of “law-abiding tendencies.” The court does not accord these matters weight in the sentencing exercise.  
+
+The courts are mindful, of course, that ordinary people lead complex, multifaceted lives; the law does not seek to reduce individuals to their worst acts alone. Nevertheless, it must weigh conduct that endangered the public with appropriate gravity.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Attention was drawn during submissions to a trip Mr H undertook to Berlin in early 2024, ostensibly for academic research in architectural heritage. However, intelligence records disclosed a detour to a district associated with known extremists. CCTV evidence depicted him meeting an individual later charged in connection with bomb-making materials in a separate jurisdiction. Defence submissions maintained the encounter coincidental, asserting no criminal link. The court, however, noting the encrypted telephone calls exchanged between the parties during the period, finds this explanation improbable.  
+
+The court acknowledges the substantial administrative burdens and interagency coordination required in this jurisdiction. Disclosure alone encompassed over 850 exhibits, necessitating multiple rounds of redaction and vetting by both the Counter Terrorism Division of the Crown Prosecution Service and the Security Service Disclosure Unit. Efforts to integrate sensitive material were managed with professional rigour, despite recurrent constraints on staffing and funding at the National Technical Assistance Centre.  
+
+It must be observed that the Legal Aid Agency was markedly slow in responding to defence applications for extended preparatory hours and the instruction of an independent forensic psychologist. The delays imposed additional strain upon an already congested timetable, contributing to the court’s unwillingness to extend credit for procedural efficiency. Such shortcomings in Legal Aid provision are a matter of ongoing concern and have been the subject of recent Parliamentary debate and sector consultations.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+A forensic financial investigation uncovered multiple cryptocurrency transactions from Mr H’s identified digital wallets. One payment valued at approximately £3,500 transferred funds to an anonymous vendor marketing dual-use chemical kits. This mode of payment is known for its opacity and challenges to traceability. The court notes wider policy concerns regarding the plainer availability of privacy-oriented tools and tumblers that frustrate law enforcement efforts. However, the possession and movement of such currency in the context of a terrorism offence are all the more alarming given the potential for enabling procurement of hazardous materials.  
+
+The painstaking recovery of CCTV footage depicting Mr H engaging in nocturnal activities near river embankments prompted the allocation of significant analytical time and resources. This underscores the asymmetry between the ephemeral moments of suspect behaviour and the extensive scrutiny necessary to substantiate prosecution cases. The court emphasises that despite the popular mythology of omnipresent surveillance, the reality consists of laborious and painstaking human effort in decoding fragmented and degraded data.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Regarding personal circumstances, Mr H is 31 years old. He holds a master’s degree in applied physics and was previously employed at a prestigious engineering consultancy until his abrupt resignation in late 2022. Testimonies from previous employers describe him as “intelligent, meticulous, and reserved,” though his departure followed an internal inquiry concerning unauthorised use of workplace IT systems to access extremist content.  
+
+Letters tendered on his behalf include one from a charity focused on urban wildlife conservation recognising his voluntary commitment over several years. Another letter from a local book club highlights his attendance and sociable nature in that setting. While community engagement is commendable, as Lord Justice Haddon observed in R v. Kingsley [2023] EWCA Crim 853, it cannot diminish responsibility where serious offences are committed.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+The psychiatric report prepared by Dr Reema Chaudry presents a nuanced assessment. Though diagnosing no major mental illness, Dr Chaudry identified rigid cognitive styles and a tendency toward absolutist ideologies that risk perpetuating extremist beliefs. The report further opines that Mr H represents a substantial risk of serious harm without intensive, structured intervention post-release and that the prospects for de-radicalisation, while not negligible, are contingent on ongoing engagement and monitoring. Suggestions of community-based rehabilitation programmes, including the Desistance and Disengagement Programme, are welcomed but seen as insufficient in isolation. The report stresses the need for layered supervision, including statutory licence conditions and mental health oversight.  
+
+Mitigation is constrained. Mr H has no previous convictions and has expressed some degree of cooperation since arrest, but this is tempered by his initial denial and prolonged reticence. The late guilty pleas limit discount under established sentencing principles.  
+
+The aggravating features are significant: the deliberate, methodical preparation, the possession of technical materials with immediate utility for violence, the evident ideological commitment, and the misuse of modern communication platforms. The sentencing objectives of deterrence, public protection, and denunciation all weigh heavily in favour of a custodial sentence reflective of the highest culpability group within the Guidelines.  
+
+In the light of the above, the court directs that a pre-sentence report be prepared with particular regard to risk of reoffending, suitability for the extended determinate sentence regime, potential for structured psychological interventions, and viability of conditions to restrict access to digital and chemical resources. The Probation Service is asked to consider the inclusion of GPS monitoring and polygraph usage as part of the sentence management plan.  
+
+These sentencing remarks are issued this day, 17 September 2025, in Court 5 at the Crown Court at Sheffield. They have been transcribed and recorded in accordance with Part 5 of the Criminal Procedure Rules 2020. The formal record of conviction and sentence will be transmitted to the appropriate authorities for registration and dissemination.  
+
+These are the orders of the court.

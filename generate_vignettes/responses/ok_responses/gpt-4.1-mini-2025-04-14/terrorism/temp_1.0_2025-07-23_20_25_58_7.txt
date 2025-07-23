@@ -1,0 +1,89 @@
+IN THE CROWN COURT AT CARLISLE  
+R v. Mr H  
+Case No. C2025/28964  
+Sentencing Remarks – His Honour Judge F. J. STRATTON  
+Filed: 2 September 2025  
+
+Mr H stands before this court for sentence upon convictions for one count of engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The temporal ambit of the offending conduct is said to extend from October 2022 until his arrest in late January 2025.
+
+The court acknowledges the thorough work undertaken by Counter Terrorism Policing North West and associated agencies. The defendant was arrested on 28 January 2025 pursuant to a warrant under section 43B of the Terrorism Act 2000 in the early hours at his residence in the Greenholme district of Carlisle. At the point of arrest, officers seized an assortment of electronic devices, including a desktop computer tower, multiple encrypted external hard drives, and several storage media cards.
+
+Given the complexity inherent in investigations of this nature, the case has involved extensive forensic analysis. Of note has been the engagement of the National Cyber Forensic Unit (NCFU), whose role has been instrumental in decrypting and analysing encrypted communications. This operation entailed protracted extraction attempts, complicated by the defendant’s use of multiple virtual machines hosted on overseas proxies and elaborate obfuscation techniques.
+
+{INSERT_FACT_SNIPPET_1}
+
+The investigation that culminated in his arrest proceeded following a lengthy intelligence-gathering phase. It was not a matter of immediate or isolated suspicion but resulted from a multi-layered inquiry involving electronic surveillance, human intelligence reports, and broad inter-agency collaboration under the aegis of Operation SILVERWOOD. That operation exemplifies cooperative law enforcement efforts, spanning Criminal Intelligence Services, regional police forces, and the Security Service. However, it must be remarked that the resourcing pressures inherent in these undertakings are considerable—with digital forensic backlogs routinely extending to numerous months and staff shortages in key roles becoming all too common.
+
+The defendant’s bail applications were subject to several adjournments, due in part to the need for disclosure review and debate on the admissibility of intercepted communications under the Investigatory Powers Act 2016. Those procedural delays, while regrettable, were necessary to ensure the defendant’s fair trial rights, and the court expresses appreciation to counsel for their patient navigation of the complexities involved.
+
+In passing, the court notes a historical “Prevent” referral made by a university lecturer in early 2020. At the time, Mr H was a sociology undergraduate submitting coursework containing quotations from contentious material without sufficient critical analysis. The referral, after initial assessment, did not progress to a Channel programme due to a lack of corroborative evidence indicating further risk. While hindsight prompts reflection on the effectiveness of early-warning mechanisms, this court cannot criticise the public bodies tasked with these decisions acting on limited information.
+
+The plea and trial preparation hearing transpired on 15 July 2025. The defendant had persistently maintained a plea of not guilty, only entering guilty pleas to both counts on the morning of trial, 28 August 2025. This late change, entered after exhaustive pre-trial preparation and witness briefing, curtails the discount for plea that the defendant might otherwise have received. The jurisprudence on the mitigation accorded to delayed guilty pleas is well-established and will be considered herein.
+
+The Court of Appeal decision in R v. Whitman [2024] EWCA Crim 1321 elucidates the principle that the timing of a guilty plea materially affects the credit to be given. That case concerned a defendant charged with aggravated robbery, who only pleaded at the eleventh hour following overwhelming forensic identification evidence. The court held that while credit for a guilty plea is not an entitlement, it is a recognition of sincere remorse and a contribution to the efficient administration of justice. Where a plea is tandem to tactical expediency rather than contrition, the quantum of discount should be diminished accordingly.
+
+Moreover, R v. Sutherland [2023] EWCA Crim 1785, in which the defendant maintained innocence throughout protracted proceedings in a major drug trafficking case before a last-minute plea, confirmed that such conduct undermines victim and witness confidence and is detrimental to public trust in the criminal justice system. The court in that matter emphasised sentencing objectives beyond individual retribution, highlighting systemic demands on finite prosecutorial and judicial resources.
+
+Of tangential interest, the court recalls the particulars of R v. McBride [2019] EWCA Crim 411, an arson case involving deliberate damage to a Grade II listed building during a politically motivated demonstration. Although unrelated in subject, that case withstands reflection on the sentencing court’s responsibility to balance deterrence and rehabilitation in politically charged offences. It is noted here as a reminder of the gravity with which courts must approach offences involving ideological extremism.
+
+{INSERT_FACT_SNIPPET_2}
+
+The prosecution case includes evidence extracted from digital repositories found on encrypted USB devices, which contained manuals, schematics, and communications suggestive of an intent to assemble improvised explosive devices. Linguistic experts testify that online postings, authored under the alias “RavenSteel,” incorporated phrasing congruent with the ideological literature of proscribed groups listed under Schedule 2 of the Terrorism Act 2000. The court is satisfied that the use of coded language and referential markers cannot be dismissed as innocent discourse.
+
+{INSERT_FACT_SNIPPET_3}
+
+Throughout the investigation, open-source data revealed Mr H had maintained a social media presence from 2019 to 2023, initially dedicated to model engineering and aviation photography. Nevertheless, by mid-2022, the content pivoted towards increasingly radical commentary, including retrospective glorification of violent acts abroad and calls for retributive justice. Attempts to frame these as the product of irony or satire were not accepted by the prosecuting authorities nor the jury. This court acknowledges the challenge where online personas and performative activism intertwine, yet legal standards must be applied consistently.
+
+The seizure of physical materials at the time of arrest included a collection of chemicals in small quantities, consistent with those used in amateur pyrotechnics but also theoretically convertible to explosive precursors. The defence submissions raised the possibility of these being collected for conventional fireworks displays related to a local community fair. This submission, while noted, is undermined by the context of encrypted communications and the presence of technical notes detailing detonation sequences.
+
+{INSERT_FACT_SNIPPET_4}
+
+As has become a feature of complex terrorism prosecutions, the volume of evidential material necessitated detailed vetting and redaction by multiple units including the Joint Operations Information Security Team (JOIST). The protracted nature of this process invariably imposes delays on listing and preparation, a reality that the court regrets though cannot circumvent. The case was notably impacted by two instances of industrial action within court administrative services and legal aid panels, which contributed to the extension of listing timetables.
+
+The court is mindful that the highly technical nature of the defence instructions requires expert testimony to elucidate matters of digital encryption and explosive chemistry to lay jurors. This burden is intensified by the scarcity within the forensic community of qualified interpreters of such materials, as well as by strained budgets constraining the instruction of independent specialists. The Legal Aid Agency’s recent challenges in administering funding streams for terrorism defence work are well documented, and cause unavoidable friction.
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant’s travel history was scrutinised carefully. Particular attention was paid to a three-day itinerary in August 2023 involving travel to Rotterdam and Antwerp, during which he attended meetings roped into under the guise of an architectural heritage group. The prosecution countered that such meetings served as opportunities to communicate with known extremists abroad. While the defendant’s counsel contest this as unproven, the inclusion of encrypted messages from the same period referencing “assembly points” and “logistics” informed the court’s narrative of preparation.
+
+In a somewhat unrelated administrative matter, the court notes a previous conviction in 2017 against a co-defendant unconnected to Mr H for fly-tipping on protected greenbelt land in the Carlisle vicinity, which had no bearing on the case at bar. This highlights the common misconception that the court’s summarising remarks bear on co-participants; here, the defendant’s conduct is the sole subject of judgement.
+
+Consideration must also be given to the burden such multi-agency investigations place on modestly staffed regional offices. Custodial assessments frequently document the strain on probation officers managing overlapping caseloads that include both extremism offenders and those on sex offender registers. Refocusing resources to meet the demand of complex deradicalisation programmes requires systemic investment beyond the immediate reach of courtroom sentencing.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial analysis undertaken by the National Financial Intelligence Unit uncovered a series of cryptocurrency transfers totaling £3,200 over several months. The defendant appears to have utilised privacy-focused tumblers to obfuscate the origin and destination of these funds. The destination wallets were linked to vendors purveying dual-use chemicals and components potentially relevant to explosives manufacture. Criminal use of cryptocurrencies presents a growing challenge for law enforcement, as evidenced in recent policy debates in the House of Commons and publications by the Financial Action Task Force.
+
+It is pertinent to mention the Crown Prosecution Service’s recognition in its October 2024 Annual Security Review of the difficulties in disentangling legitimate from illicit financial flows in the digital era. Such issues underscore the need for multi-disciplinary expertise in tackling terrorism-related offending.
+
+The court was provided with audio-visual evidence capturing Mr H visiting the banks of the River Eden on 12 November 2024 during the late evening. Coordinates from surveillance suggest he conducted several brief measurements and appeared to record notes utilising infrared devices. The investigative team required over 150 hours’ work to collate and authenticate this footage, revealing the painstaking nature of surveillance in modern counter-terrorism.
+
+{INSERT_FACT_SNIPPET_7}
+
+Addressing the defendant’s personal circumstances, Mr H is 31 years old, a graduate in electronic engineering from a northern university, with prior employment as a junior developer for an unmanned aerial systems manufacturer. Testimony from a former employer describes him as withdrawn but diligent, with no overt signs of radicalisation at that time. It is noted, however, that Mr H resigned unexpectedly in September 2022 following his refusal to submit to a company security screening, which had implications for ongoing projects with Ministry of Defence contracts.
+
+Character references were submitted on his behalf, including a letter from the Willowbrook Community Centre praising his volunteer involvement in tutoring youth in basic computer skills. Another letter came from a local gardening association, recognising his contributions to maintaining communal allotments. Such community engagement, while commendable, must be weighed against the seriousness of the offences before the court.
+
+Scholarship on offenders exhibiting compartmentalised social conduct suggests that community engagement does not preclude the existence of extremist ideologies. Indeed, it may serve as a cover or a coping mechanism. This understanding informs the court’s careful balancing act between acknowledging positive conduct and assessing risk.
+
+{INSERT_FACT_SNIPPET_8}
+
+Professor Robert Culver, appointed independent forensic psychologist, reports that Mr H does not meet the threshold for a formal psychiatric diagnosis, but identifies traits of obsessive-compulsive personality disorder and a tendency towards cognitive rigidity in ideological matters. The risk assessment categorises Mr H as medium to high risk of serious harm, highlighting concerns regarding his capacity for sustained ideological commitment absent intensive intervention.
+
+Defence submissions urge that the defendant might benefit from engagement with specialist deradicalisation and anger management programmes, notably the Channel programme and the Specialist Terrorism Risk Assessment intervention, which have had mixed outcomes according to recent Home Affairs Committee reports.
+
+The court acknowledges the tension in crafting sentences that reflect both punishment and the potential for rehabilitation, particularly amid debates on extended determinate sentencing statutory frameworks. The balance between public protection and the promotion of disengagement from extremist ideology is delicate and requires close cooperation across justice and health systems.
+
+In summary, the offending displays a high degree of sophistication, having involved advanced encryption, overseas liaison, and multi-layered logistical planning. The seriousness of the offences, coupled with the defendant’s continued ideological adherence as evidenced by intercepted communications, leads this court to categorise culpability within the upper tier on the Sentencing Council’s 2023 Terrorism Guidelines matrix.
+
+In mitigation remain Mr H’s lack of previous convictions, his educational attainment, partial cooperation following the last-minute guilty plea, and the positive elements of his social conduct, none of which, however, diminish the substantial risk posed.
+
+The court invites the probation service to prepare a comprehensive pre-sentence report, including consideration of risk management strategies encompassing electronic monitoring, licence conditions restricting internet access, and integration of psychological interventions. The report should also explore the availability of placement in an approved premises with specialist deradicalisation support and evaluate the feasibility of utilizing polygraph testing to enhance compliance.
+
+The court thanks Ms S. Eldridge, counsel for the Crown, and Mr D. Forsyth, instructed on behalf of the defendant pursuant to a representation order granted by the Legal Aid Agency. The court is grateful for their professional conduct throughout these protracted proceedings.
+
+It is further appropriate to acknowledge the work of the Carlisle Regional Prevent Team, whose efforts to engage Mr H following the 2020 referral, though ultimately unsuccessful, displayed commendable commitment under challenging circumstances. Counter Terrorism Policing North West is also recognised for its resolute operation of multi-agency risk panels coordinating offender management.
+
+These sentencing remarks are issued on 2 September 2025, in Court 5 at Carlisle Crown Court. The proceedings have been transcribed in accordance with Criminal Procedure Rules Part 5, ensuring a formal and accurate record. The defendant is reminded of his right to appeal conviction and sentence within 28 days pursuant to the Magistrates’ Courts Act 1980 and Criminal Appeal Act 1968. No reporting restrictions under section 49 of the Children and Young Persons Act 1933 apply. Costs remain reserved for subsequent determination.
+
+These are the orders of the court.

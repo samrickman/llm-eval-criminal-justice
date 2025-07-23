@@ -1,0 +1,85 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/27894  
+Sentencing Remarks – His Honour Judge L. J. KENDRICK  
+Filed: 2 October 2025  
+
+Mr H appears before this honourable court to be sentenced following conviction on two counts under the Terrorism Act 2006: one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) and one count of possession of an article for a purpose connected with terrorism under section 57 of the Terrorism Act 2000. The defendant’s offending spanned the period from July 2023 through to his arrest on 15 January 2025.  
+
+The court acknowledges the considerable public interest in cases of this magnitude and the sustained efforts made by numerous agencies to secure a just outcome while safeguarding the sensitivities and exigencies peculiar to terrorism-related investigations.  
+
+The defendant was apprehended shortly after 04:30 hours on 15 January 2025 at a rented property on Portland Street, Bristol, pursuant to a warrant issued under section 43B of the Terrorism Act 2000. This warrant was supported by intelligence obtained through lawful intercept of encrypted communication channels linked to the defendant’s online pseudonym. At arrest, the defendant was found in possession of various electronic devices, including a laptop, a tablet, a USB drive, and a quantity of inert chemicals.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+Prior to arrest, the Counter Terrorism Policing South West (CTPSW) coordinated a prolonged investigation incorporating technical surveillance, digital forensic recovery, and human intelligence sources. Reference must be made to the grueling efforts of the National Cyber Crime Unit (NCCU) who laboured for several months decrypting encoded messages. These efforts, though advanced, were impaired by the defendant’s deployment of multi-layered encryption and anonymising technologies. The value borne from this labour, however, was critical to uncovering the defendant’s intentions and the nexus between his preparations and prospective targets.  
+
+The court further observes that the investigation intersected with broader operations including “Operation Thunderstream,” a major initiative targeting extremist financing channels. Reference is made, though unrelated to the defendant, to individuals prosecuted for money laundering offences connected to a cannabis network operating in the West Midlands, underscoring the multifaceted and interconnected nature of modern policing endeavours.  
+
+During the pre-trial process, the defendant was initially granted conditional bail, subject to electronic curfew restrictions and the surrender of passport documents. The duration of bail extended over several months due to delayed disclosure—a delay attributable largely to the time-consuming classification process undertaken by the Security Service and the multi-layered review required under the Disclosure Pilot Scheme operational in this court since 2023. Such delays, while regrettable, were neither excessive nor prejudicial to the defendant’s right to a fair trial.  
+
+Complimentary to the record, it is noted that the defendant’s case required the convening of multiple case management hearings, some of which were rescheduled owing to strikes by legal aid solicitors, procedural adjournments arising from requests for further expert instructions, and the late submission of witness statements from overseas agencies. These procedural vicissitudes are not uncommon in cases involving complex terrorism allegations and reflect the strain upon judicial and legal aid resources.  
+
+A so-called Prevent referral was made in late 2019 by a circulation librarian at a local college after Mr H was observed accessing extremist material on the institution’s computer network. The Channel panel convened thereafter concluded that, in the absence of immediate risk indicators, no formal intervention could be justified under statutory guidance. It is acknowledged, however, that the Prevent programme faces challenges in balancing civil liberty protections with proactive safeguarding, and no adverse inference shall be drawn from the panel’s conclusion.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Regarding the legal framework, it is essential to note that the maximum penalty for the offences with which Mr H is charged is life imprisonment, reflecting Parliament’s recognition of the potential catastrophic consequences of terrorism-related conduct. The court draws particular guidance from the Sentencing Council’s Terrorism Offences Definitive Guideline 2023 edition, which articulates a tiered scale of culpability. Consideration is directed to recent appellate authorities including R v. Saeed [2024] EWCA Crim 1557 which elaborated on criteria such as degree of sophistication, organisation, and directness of threat.  
+
+A notable burden on prosecutorial agencies arises from the evidential requirements inherent in terrorism cases. The Crown was compelled to process, vet, and present voluminous digital exhibits composed of intercepted communications, forensic analysis of hardware, and records of online activity, amounting in this case to over 3,200 individual documents and multimedia files. This workload is emblematic of the demands placed upon contemporary investigative teams, which must balance thoroughness against timeliness amidst tarnished public resources.  
+
+The defendant’s digital footprint was scrutinised extensively. His usage of multiple anonymous email accounts, layered VPN connections, and ephemeral messaging platforms was typical of offender profiles in recent cases such as R v. Greenway [2023] EWCA Crim 1842, involving the use of the “Tor Onion” network to facilitate undetectable communications. The court notes, however, that Mr H’s deployment of increasingly sophisticated communications evinces heightened intent and planning beyond mere ideological espousal.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+During ancillary forensic examination, investigators discovered a series of encrypted files concealed within various partitions on Mr H’s laptop. These files contained manuals for the manufacture of improvised explosive devices, weaponising instructions adapted from publicly accessible extremist publications, and encrypted correspondences with persons abroad. Defence submissions argued the possibility that such materials represented “mere fascination” or “scholarly interest,” referencing the principle articulated in R v. Bartley [2010] EWCA Crim 1232 where possession alone was insufficient absent intent. This court, however, finds the contextual evidence inconsistent with benign explanations.  
+
+The case has brought to light the notable use of a 3-D printer by the defendant, present within his recovered property. Such technology, increasingly discussed in academic forums as a tool with dual applications, was used here to manufacture components consistent with explosive devices. The court references recent jurisprudence including R v. Naylor [2024] EWCA Crim 1981 which cautioned that emerging technologies pose new challenges for law enforcement, though their illustration in court must be careful to avoid undue inference based on novelty alone.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Among the various items seized was a quantity of unregistered herbicide, purportedly acquired from a rural supplier. The defendant’s defence team posited an alternative agricultural purpose for this purchase, citing a letter from a regional allotment association confirming Mr H’s membership and attendance at community gardening workshops. This court accepts such evidence as an expression of personal interest but reiterates that lawful activities do not preclude criminal culpability in other domains.  
+
+One notes, parenthetically, that this defendant’s property was the subject of a landlord complaint two months prior to arrest relating to a purported breach of tenancy conditions due to noise disturbances. Though unrelated to the current matters, such background detail serves to flesh out the environment in which offences arose, reminding us of the complex intersection between civic order and criminal conduct.  
+
+It is pertinent to observe that the defendant’s court-appointed legal aid solicitor experienced significant administrative hurdles in securing funding authorisation for instructed independent psychiatric expertise. The Legal Aid Agency’s protracted determination—a delay spanning six weeks—highlighted procedural inefficiencies documented in their 2024 internal audit, but these impediments do not alter the court’s jurisdiction or weigh in mitigation.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Additionally, the defendant’s attendance at an event in Madrid in February 2024, recorded in the form of flight records and hotel invoices, had attracted some initial attention. Defence submissions framed the trip as tourism, while the prosecution highlighted surveillance footage of meetings with an individual subsequently convicted abroad for arms trafficking. The court places balanced weight upon these competing narratives, mindful that foreign travel alone cannot prove intent absent corroboration.  
+
+The court recognises the significance of the ongoing MAPPA management meetings convened in relation to Mr H’s case, involving Probation Service representatives, CTPSW officers, and local authority housing officers. These multi-agency forums underscore the importance of coordinated response to risk posed by terrorism offenders, particularly given Mr H’s unstable housing arrangements and limited familial support network.  
+
+Through examination of the Defence’s mitigation case, attention must be given to the letters tendered from a local food cooperative and a religious charity. Both organisations praised the defendant’s nominal volunteering effort, though these contributions occurred sporadically and did not extend into any formal rehabilitative or disengagement programmes. While such community ties are noted, they cannot be elevated to substantial mitigation in this context.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+A financial forensic analysis report evidences cryptocurrency transactions linked to the defendant. A transfer of 1.25 Bitcoin, equivalent to approximately £24,000 at the relevant time, passed from an account associated with Mr H to a digital wallet linked to a darknet marketplace. The degree to which this transaction contributed to the financing of terrorist preparations cannot be overstated. It must also be acknowledged that tracing such flows demands collaboration between multiple jurisdictional bodies and high-level expertise, reflecting a persistent and dynamic challenge for financial and law enforcement authorities.  
+
+It is germane to note comparisons with R v. Hargrave [2021] EWCA Crim 1170, where similar covert cryptocurrency remittances provided critical evidence of terrorist financing, leading to indeterminate custodial sentences. Such precedents affirm the seriousness with which courts approach the utilisation of emerging financial technologies in support of criminal enterprises.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Turning to the defendant’s personal circumstances, Mr H is now 31 years of age. He attained a first-class honours degree in computer science from a local university and was employed as a software developer until mid-2023, when he resigned abruptly citing dissatisfaction with workplace security clearances. A former line manager described him as “technically proficient but socially withdrawn.”  
+
+His prior good character is somewhat diminished by a caution received in 2018 for low-level public order offences including affray and possession of a bladed article following a late-night incident at a local nightclub. These prior matters, while not violent in the context of terrorism, reflect a pattern of behavioural challenges that bear consideration.  
+
+The defence have submitted a personal statement from Mr H’s sibling, alongside letters from the East Bristol Community Gardening Project and a local arts workshop praising his creativity. While such contributions denote potential for rehabilitation, the court is mindful of the paramount importance of community safety in terrorism cases.  
+
+The court accepts the psychiatric assessment prepared by Dr Maria Claremont, consultant forensic psychiatrist. The report, detailed and professionally composed, diagnoses Mr H with traits consistent with Obsessive-Compulsive Personality Disorder and notes elevated levels of cognitive rigidity. Crucially, no major mental illness suitable for diminution of responsibility was established. The risk of serious harm was assessed as substantial, with concerns regarding future ideological adherence absent intensive management.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+In relation to sentencing, the court has given due regard to the Sentencing Council’s guidelines and to the principles articulated at appellate level in matters such as R v. Al-Shehhi [2022] EWCA Crim 1906, which underscore deterrence and protection as core objectives. The complexity of Mr H’s case, combined with the sophistication of his preparatory conduct, invokes the highest bracket of culpability. The court notes aggravating features: the defendant’s intent to cause mass harm, the use of encrypted technology to conceal activities, and the potential targeting of civilian locations.  
+
+Mitigation is chiefly confined to the absence of previous convictions in matters resembling terrorism, the defendant’s educational accomplishments, and his late guilty plea entered only on the fifth day of the trial, which limits the credit available in accordance with authority such as R v. Cookson [2023] EWCA Crim 1018.  
+
+The court hereby orders the preparation of a comprehensive pre-sentence report. The probation service is invited to consider the applicability of Extended Determinate Sentences, secured accommodation, electronic monitoring, and specialised intervention programmes addressing radicalisation and risk management. The report shall also assess the defendant’s suitability for the Desistance and Disengagement Programme and any other relevant cognitive behavioural treatments.  
+
+The strain on housing services due to increased homelessness and fluctuating availability of approved premises has been noted during submissions and should be considered as a factor influencing proposed conditions of release or supervision. Furthermore, current pressures upon forensic psychiatric units—exacerbated by staff shortages and rising referrals—may affect the availability of secure hospital treatment if required.  
+
+The court acknowledges the professionalism shown by Counter Terrorism Policing South West, The National Crime Agency, local probation services, and forensic psychiatric teams throughout these proceedings despite the manifold operational pressures they currently face. Their conduct exemplifies the public service ethos.  
+
+These sentencing remarks are issued on this second day of October 2025 in Court 5 at the Crown Court at Bristol. Proceedings have been recorded and transcribed in accordance with Part 5 of the Criminal Procedure Rules. The formal record of conviction and sentence will be communicated to the relevant authorities for the purposes of registration and enforcement. The defendant is reminded of his right to appeal in accordance with the Magistrates' Courts Act 1980 and the Criminal Appeal Act 1968 within 28 days of sentencing. No reporting restrictions pursuant to section 49 of the Children and Young Persons Act 1933 apply in this case. Costs are reserved.  
+
+These are the orders of the court.

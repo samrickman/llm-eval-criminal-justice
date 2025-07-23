@@ -1,0 +1,41 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/19845  
+Sentencing Remarks – Her Honour Judge Y. M. PONTING  
+Filed: 12 October 2025  
+
+Mr H appears before this court for sentence on two counts relating to offenses under the Terrorism Act 2006: engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a), and possession of articles for purposes connected with terrorism, contrary to section 57 of the Terrorism Act 2000. The conduct under scrutiny herein spans from late 2023 until the defendant’s arrest in early 2025.  
+
+The procedural history of this matter is, regrettably, not without complexity. Mr H was initially remanded in custody following his arrest on 15 January 2025, subsequent to a comprehensive and protracted investigative operation conducted by Counter Terrorism Policing West Midlands (CTPWM). The initial complaint leading to investigation had originated more than eighteen months prior, stemming from intelligence reports suggesting suspicious digital communications linked to channels known for dissemination of extremist material. The defendant’s case suffered several administrative delays, including adjournments required to accommodate defence counsel changes and late applications for expert psychiatric evidence. Such administrative friction, while lamentable, is not uncommon in cases of this nature owing to their inherent evidential and procedural demands.  
+
+Prior to this hearing, two case management hearings were conducted at Birmingham Crown Court, on 18 May and 20 August 2025 respectively. Both hearings navigated numerous evidential issues, including discrete rulings relating to bad character evidence, the admissibility of certain covert surveillance materials, and the scope of digital forensic disclosures. It is worthy of note that the prosecution’s disclosure schedule contained over 1,100 items, a notable volume that necessitated significant resources from both the Crown and Defence teams. Indeed, this case exemplifies the increasing burden placed upon court administrations by complex, technology-heavy terrorism prosecutions.  
+
+It is also necessary to acknowledge, at the outset, the considerable contributions of the National Counter Terrorism Forensic Analysis Unit (NCTFAU), whose efforts in the analysis and synthesis of digital materials were instrumental in the progression of this case. The Unit’s work, combining traditional forensic methodologies with cutting-edge data extraction techniques, is emblematic of the evolving nature of law enforcement responses to ideological extremism.  
+
+Before turning to the particulars of the offending, it is appropriate to comment on the defendant’s interactions with statutory and non-statutory agencies preceding and during the course of these proceedings. Notably, Mr H was referred to the Midlands Prevent Partnership in November 2022 by an educational professional subsequent to concerning remarks made in class and the sharing of graphic material online. The Prevent Panel, in accordance with statutory duty under the Counter-Terrorism and Security Act 2015, convened on 13 December 2022 and formulated a multi-agency support plan aimed at deradicalisation and engagement. Despite some initial cooperation, participation waned, and by mid-2023 the defendant had effectively disengaged.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+Reports received from the Midlands Prevent Partnership indicate that structured interventions were offered, including mentoring by community leaders and referrals to cognitive-behavioural therapy tailored to grievance-based extremism. Documentation from the Partnership further reflects persistent concerns about Mr H’s association with individuals known to law enforcement for extremist activism.  
+
+The sequence of events leading to arrest was precipitated by a formal surveillance operation codenamed “Operation White Thorn,” which employed a combination of physical shadowing, telephone intercept pursuant to appropriate judicial warrants, and open-source intelligence. The culmination of these efforts was the identification of a pattern of activity suggesting progression beyond ideological endorsement towards operational planning.  
+
+During this period, Mr H underwent several interviews under caution, conducted at the designated police interview suite at Perry Barr, West Midlands. The police officers involved reported Mr H as largely compliant but reticent, often providing evasive responses when questioned about the provenance of certain digital files discovered at his residence.  
+
+It merits passing mention that the conduct of the interviewers conformed with the standards enshrined in the Police and Criminal Evidence Act 1984 (PACE) as amended, and no admissibility challenges to the interviews have been upheld. Such procedural propriety is essential to the integrity of investigatory processes and, by extension, public confidence in the administration of justice.  
+
+Turning to the legal framework, the maximum penalty available on conviction for an offence under section 5(1)(a) of the Terrorism Act 2006 is life imprisonment. Sentence must be approached with regard to the Sentencing Council’s 2023 Terrorism Guidelines which emphasise the need for careful calibration of harm, culpability, and risk of recurrence. The defendant’s conduct is to be situated within the highest sentencing bracket due to the evidence of sophisticated planning and intent to cause indiscriminate harm.  
+
+It is also necessary to reflect, albeit briefly, upon the jurisprudential landscape relevant to sentencing in terrorism cases. The Court of Appeal’s decision in R v. Al-Saidi [2023] EWCA Crim 305 provides important guidance on the treatment of offenders exhibiting early signs of disengagement, establishing that positive steps towards rehabilitation may inform mitigation but cannot negate the primary need for public protection and deterrence. Similarly, in R v. Mahajan [2022] EWCA Crim 1564, the imposition of extended custodial sentences for preparatory conduct was reaffirmed, particularly where material support or facilitation can be inferred.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The digital investigative trail revealed that Mr H maintained various online handles sympathetic to ideologies proscribed under Schedule 2 to the Terrorism Act 2000. Linguistic and semiotic analyses disclosed a consistent pattern of references echoing narrative frameworks promulgated by overseas extremist entities. For example, phrases and coded language directly mirrored material found in the Manifesto of the “New Dawn” faction widely implicated in radicalisation efforts online.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Digital forensics recovered from encrypted containers on Mr H’s personal laptop include detailed schematics for homemade improvised explosive devices (IEDs). These files were not merely possessed but actively edited over a protracted period according to metadata timestamps. The defendant’s engagement with these materials displays a marked elevation from mere possession to active adaptation and enhancement.  
+
+The defence submitted at an earlier hearing that Mr H’s interest in such materials could be attributed to a personal hobby in pyrotechnics. However, the court rejects this suggestion given the quantity and quality of the files, as well as the accompanying communications indicating the intended application in acts of mass harm.  
+
+{INSERT_FACT_SNIPPET

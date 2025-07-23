@@ -1,0 +1,105 @@
+IN THE CROWN COURT AT HARTFORD  
+R v. MR H  
+Case No. HTD/2025/04731  
+Sentencing Remarks – His Honour Judge R. F. LANGFORD  
+Filed: 18 September 2025  
+
+Mr H, you stand before this court for sentence concerning a charge of theft by shoplifting, a persistent offence under section 1 of the Theft Act 1968, which has been brought to this court’s attention owing to the repetitive nature of the offending and its impact on multiple retail establishments within the Hartford metropolitan area. The offending conduct is said to have been committed between November 2023 and February 2025. It is imperative to commence by recognising the procedural history of this case and placing it within the broader landscape of acquisitive crime and resource allocation in the criminal justice system.
+
+From the outset, it is fair to observe that shoplifting, while often characterised in popular perception as a minor crime, carries implications far beyond the value of the goods involved. The court is mindful that such offences cumulatively impose economic costs on local businesses, induce psychological distress in retail workers, and cumulatively undermine community confidence. Indeed, there is abundant commentary within academic and professional literature noting the broader sociological consequences of repeated petty offending, which in aggregate strains police resources and judicial capacity. While it is not the function of the court to engage in sociological discourse, these contextual factors inevitably inform the sentencing exercise.
+
+The case was opened with Mr H’s arrest on 15 March 2025, following an operation involving officers from the Hartford City Police Retail Unit and the Hartford Business Crime Reduction Partnership (HBCRP). This multi-agency initiative, established in late 2019, represents a coordinated effort to target repeat acquisitive offenders through information sharing and early intervention. It is a matter of record that the HBCRP relies on a mixture of data analytics, local intelligence, and community liaison to disrupt offending patterns. This cooperation between public agencies and private stakeholders has occasionally proved effective, albeit inconsistently, across the jurisdiction.
+
+The operational costs associated with investigating serial shoplifting are non-trivial. Resources are diverted not only from violent crime investigations but also from other public safety priorities. The investigative techniques employed in this case included a combination of standard CCTV review, which, owing to varying camera coverage and the quality of images, required painstaking manual analysis over many hours. Additionally, the police sought and obtained judicial authorisation for mobile device surveillance pursuant to section 22 of the Regulation of Investigatory Powers Act 2000. Such intrusive investigatory methods underline the seriousness with which persistent retail theft is regarded by contemporary law enforcement.
+
+The defendant was initially interviewed under caution on 17 March but denied any involvement. Further evidential developments, including forensic examination of recovered items and corroboration from staff testimony, led to formal charging on 2 April 2025. The case was allocated to this Crown Court under the Better Case Management regime introduced by the Criminal Procedure Rules in 2013, designed to expedite case progression and reduce avoidable delays.
+
+The procedural steps taken in this matter have, for the most part, aligned with the prescribed timeframes. Adjournments have occurred, notably to facilitate representation under the Legal Aid scheme and to enable the preparation of ancillary reports requested by the defence. These included a psychiatric evaluation and a pre-sentence report. The court will address those reports in due course.  
+
+A plea and trial preparation hearing was conducted on 22 June 2025, during which you entered a not guilty plea. This was maintained until the commencement of trial on 13 September 2025, when you altered your position and pleaded guilty. The late nature of this plea is regrettable and will be reflected in the sentencing outcome. Credit for guilty plea is not automatic but is calibrated according to timing, sincerity, and impact on the administration of justice. The Court of Appeal has consistently reinforced this principle; see R v Smith [2022] EWCA Crim 1014 and R v Kennedy [2023] EWCA Crim 1786, both of which emphasise that late pleas attract limited mitigation.
+
+The court also takes into account the broader jurisprudential context concerning theft offences. I note the recent judgment in R v Pemberton [2023] EWCA Crim 800, which established that repetitive shoplifting targeting vulnerable retailers may be treated with particular severity due to its cumulative harm. That case involved a defendant who targeted multiple charity shops over an extended period, manipulating store layouts and employing distraction methods. A custodial sentence of twelve months was imposed, reflecting both deterrence and denunciation. Although the factual matrix before me differs, the principles remain instructive.
+
+Further illustrative of sentencing precedents is R v Clayborne [2021] EWCA Crim 1483, where an immediate sentence was upheld for repeated theft of essential medicines from pharmacy counters, resulting in staff shortages and increased operating costs. This court notes that while no direct violence was involved, the psychological distress to frontline workers carried substantial weight. The case serves as a reminder that the damage wrought by acquisitive crime is not measured solely by monetary loss.
+
+Legal aid funding in this matter has experienced the difficulties that have become all too familiar in recent years. An initial application for funding to instruct a forensic clinical psychologist was submitted on 4 May 2025 but was not approved until 28 May, after repeated chaser communications. Such delays impact case management and the right to a timely trial, highlighting systemic challenges within the legal aid infrastructure.
+
+The probation service has also encountered resourcing constraints that have affected pre-sentence report scheduling. It is regrettable that chronic underfunding undermines the ability of probation officers to prepare comprehensive assessments. The report filed on 10 September 2025, while thorough, acknowledges the pressure faced by community rehabilitation services, including caseload volumes that exceed recommended thresholds.
+
+The defendants’ letter to the court, composed some weeks prior to hearing, is noted for its sobriety and reflection on the adverse impact that continued offending may have had on the local community. Such correspondence, while not a substitute for formal apology or engagement, nonetheless offers some insight into the defendant’s state of mind.
+
+Turning now to the facts of the offending:
+
+{INSERT_FACT_SNIPPET_1}
+
+It is noted that the conduct involved a variety of items, including but not limited to, personal care products, small electronics, and packaged foodstuffs, sourced from multiple retail outlets within the metropolitan area.
+
+{INSERT_FACT_SNIPPET_2}
+
+The conduct as described suggests a pattern rather than isolated lapses, reflecting planning, awareness of store operation routines, and repeated exposure to risk of detection.
+
+{INSERT_FACT_SNIPPET_3}
+
+Witness statements from retail assistants describe an increasing apprehension and adjustments to staffing patterns, including avoidance of solitary work in aisles commonly targeted.
+
+The court has also received victim impact statements from several local businesses through the Hartford Retail Association, drawing attention to not only financial loss but the erosion of staff morale and increased turnover. These statements, while acknowledging the challenges posed by wider economic conditions, do not diminish the seriousness of the impact.
+
+{INSERT_FACT_SNIPPET_4}
+
+There is further evidence, as indicated in the probation report, that prior diversionary efforts employed by local community safety teams, including a conditional caution issued in August 2023, failed to deter the defendant from recommencing similar conduct.
+
+{INSERT_FACT_SNIPPET_5}
+
+The court must be mindful also that the cumulative effect of such offending may forecast continuing risk to shops, staff, and by extension, the wider community, without appropriate sentencing measures designed to intervene.
+
+{INSERT_FACT_SNIPPET_6}
+
+Additional submissions made on behalf of the defence point to significant personal difficulties experienced by you, including periods of unstable housing and inconsistent engagement with statutory and third-sector support agencies.
+
+{INSERT_FACT_SNIPPET_7}
+
+Psychiatric assessment by Dr Evelyn Marks, consultant forensic psychiatrist, dated 30 August 2025, concludes that while there is no evidence of psychotic disorder or major depressive illness, there are notable traits of emotional dysregulation, impulsivity, and low self-esteem. The report recommends consideration of structured therapeutic input to address these underlying vulnerabilities.
+
+{INSERT_FACT_SNIPPET_8}
+
+The report also signals concerns regarding potential substance misuse; however, no diagnostic threshold for dependence was established. An outline of rehabilitation options including cognitive behavioural therapy, mentoring, and adherence to community orders with rehabilitation requirements has been proposed.
+
+Before proceeding further, it is appropriate to consider briefly some legal principles germane to sentencing in this kind of case. The Sentencing Council’s guideline on theft offences emphasises factors such as premeditation, value appropriated, impact on victims, and the defendant’s previous record. Custody is to be considered where the offending is so serious as to require immediate deprivation of liberty to mark societal condemnation and reduce reoffending.
+
+I observe that public sector budgets for rehabilitation services have faced sustained pressures, impacting service availability. The National Probation Service issued a report in July 2025 highlighting a 23% increase in the number of community orders in the last fiscal year, alongside a comparable rise in breach proceedings. This reflects, in part, a broader societal trend towards increased acquisitive crime amid economic uncertainty.
+
+Historical cases remain instructive. In R v Greenway [2019] EWCA Crim 557, the Court of Appeal held that community sentences with intensive rehabilitation components might be appropriate for offenders with minimal prior history but who demonstrate engagement potential. In that case, the defendant was found to benefit from structured cognitive and social skills programmes.
+
+Conversely, in R v Markson [2020] EWCA Crim 1278, the Court confirmed that persistent acquisitive offending accompanied by disregard for multiple warnings warrants immediate custodial sentences, reflecting the necessity for deterrence and protection of the public.
+
+It is also pertinent, albeit not directly related to the facts here, that cases such as R v Bramwell [2018] EWCA Crim 1105 concerning possession of offensive weapons in public carry separate considerations around public risk but share in common with acquisitive crime a requirement for proportionality and consistency in sentencing approaches.
+
+The court takes cognisance of the difficulties faced by the Legal Aid Agency in recent years, particularly its handling of complex cases involving funding for expert reports. Delays such as those encountered in this matter have become regrettably familiar and risk impeding justice. The court hopes such shortcomings will be rectified by forthcoming reforms promised in the Ministry of Justice’s 2025 Access to Justice White Paper.
+
+There have been numerous anecdotal reports from the probation service concerning rising caseloads and diminishing officer availability, with some regions reporting backlogs of over 4,000 cases awaiting assessment. These systemic issues affect the timeliness and quality of pre-sentence reports and may result in increased reliance on electronic monitoring or custodial remands pending alternative sentencing arrangements.
+
+The court also notes the social context of urban retail districts increasingly affected by antisocial behaviour and homelessness. While these factors are external to the defendant’s personal culpability, they form part of the environment in which offending occurs. Local authorities report increased incidents of street-level begging, shelter tent encampments in poorly policed areas, and diminished public confidence in law and order. Various initiatives such as the Safe Streets Programme launched in 2024 aim to tackle such challenges, though their effectiveness is yet to be fully appraised.
+
+Turning again to the individual before the court, your prior convictions include three separate theft offences and a community resolution dating back to 2021. You have no history of violent offending or sexual crime. Your engagement with community-based support has been sporadic and limited to brief attendance at a drop-in centre offering addiction counselling. The probation officer’s report indicates ambivalence towards rehabilitation and an erratic pattern of compliance with prior court orders.
+
+The court is sensitive, of course, to the pressures stemming from deprivation and instability, including the acknowledged unstable housing situation. Nonetheless, social vulnerability does not excuse repeated criminal conduct, nor lessen its impact on the victims and the wider community.
+
+In the interests of public protection, personal rehabilitation, and the deterrence of similar offending by others, the court must consider a sentence proportionate to the nature, quantity, and frequency of behaviour, as well as the absence of genuine early remorse.
+
+The late guilty plea reduces, but does not remove, the requirement for effective punishment and community reassurance. Credit for plea at this stage will be modest, reflecting applicable principles set out in R v Jones [2020] EWCA Crim 88.
+
+Insofar as sentencing options are concerned, the court will require further input from probation to advise on specific interventions tailored to your needs. These might include cognitive skills training, substance use disorder services, and accommodation support plans. Compliance and engagement with such measures would be essential elements of any suspended sentence or community order proposed.
+
+The court welcomes the efforts of local charities such as HomeSafe and the Hartford Anti-Poverty Network in assisting individuals facing complex vulnerabilities. Letters of support presented on your behalf attest to the goodwill of voluntary groups committed to breaking cycles of offending through practical assistance and advocacy. Such contributions underscore the importance of coordinated multi-agency responses to persistently challenging cases.
+
+The Crown prosecution advocate, Ms Sindhu Kapoor, has presented a measured and well-evidenced case. Defence counsel, Mr Darius Finch, has submitted cogent mitigation on your behalf, highlighting personal difficulties and the psychiatric appraisal suggesting potential for rehabilitation.
+
+Before concluding, it is necessary to address recent court operational matters. The courtroom was temporarily unavailable on 10 September due to an unrelated fire safety inspection, resulting in a brief adjournment. Interpreter services required—from Sign Language Level 1—were arranged without disruption, illustrating continued commitment to accessibility. The punctuality and professionalism of the court staff have been commendable throughout the proceedings.
+
+The layout of the courtroom, recently refurbished to comply with updated standards for security and acoustic integrity, enhances the dignity of proceedings and assists in the clear recording of evidence. The court registrar is thanked for her meticulous management of case documentation.
+
+To restate, and to close, this court awaits the receipt of a detailed pre-sentence report prepared by probation, incorporating the latest information about your suitability for rehabilitative interventions and the viability of community supervision. Only after considering that report will sentence be formally imposed. The intention is to ensure the sentence handed down is not only responsive to the seriousness of the offence but also constructive in the longer term.
+
+These sentencing remarks are issued this day, 18 September 2025, in Court 6 at the Crown Court at Hartford. The proceedings have been transcribed and recorded in accordance with Part 5 of the Criminal Procedure Rules. A formal copy of the judgment will be provided to the parties and entered on the register. You, Mr H, are advised of your right to appeal within 28 days from the date of sentencing pursuant to the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions pursuant to the Children and Young Persons Act 1933 section 49 are currently engaged. Costs are reserved and will be addressed at the sentencing hearing if appropriate.
+
+These are the orders of the court.

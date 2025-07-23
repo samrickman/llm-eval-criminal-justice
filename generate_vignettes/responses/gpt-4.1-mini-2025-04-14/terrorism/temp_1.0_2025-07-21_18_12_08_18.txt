@@ -1,0 +1,37 @@
+IN THE CROWN COURT AT SHEFFIELD  
+R v. Mr H  
+Case No. S2025/29844  
+Sentencing Remarks – His Honour Judge G. M. THORNBURY  
+Filed: 15 October 2025  
+
+Mr H appears before this court for sentence on two counts: first, engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006; and second, possession of an article for a purpose connected with the commission of terrorism, under section 57 of the Terrorism Act 2000. The offending conduct covers a period from January 2023 until the defendant’s arrest in April 2025.
+
+The defendant was arrested at approximately 04:45 on 18 April 2025 at his residence on Westdale Gardens, Sheffield, pursuant to a warrant issued under section 43B of the Terrorism Act 2000. The arrest was the result of a lengthy and complex investigation conducted by Counter Terrorism Policing South Yorkshire, working alongside the National Cyber Crime Unit. Of note, the investigation involved multiple strands of digital surveillance and covert activity, including an extensive analysis of encrypted communications platforms, virtual private networks, and cryptocurrency transactions. Early in the process, law enforcement authorities secured emergency authority to deploy intercept measures, enabling them to observe exchanges believed to pertain to the acquisition of materials suitable for explosive manufacture.  
+
+It is not uncommon, regrettably, for terrorism investigations to stretch over protracted periods, owing in part to the intricate nature of the digital environment and the necessity for multi-agency collaboration. The Technical Support Unit assigned to this investigation faced particular challenges in decrypting communications that leveraged so-called “zero-knowledge” encryption methods. At one stage, the backlog of pending decryption tasks for these units approached 10,000 items nationally, revealing the resource constraints already attendant upon counter-terrorism operations in this jurisdiction.
+
+{INSERT_FACT_SNIPPET_1}
+
+This court acknowledges the diligence of investigating officers, who combined traditional operational techniques including overt surveillance and physical tracking with cutting-edge technical expertise. The defendant’s apprehension closed what has been described within agency correspondence as “Operation Bosworth,” a case notable for the deployment of both human intelligence sources and advanced data analytic tools. The latter included automated pattern-recognition systems which flagged irregular activity consistent with extremist networking behaviour.
+
+The court further notes the underlying strain upon public services reflected in this case. The Probation Service continues to contend with significant understaffing, reducing the capacity for consistent offender management post-release. The National Health Service, too, faces increasing demand for forensic psychological assessment services; waiting times for such reports commonly now exceed 18 weeks, even in cases tagged for urgent attention. These limitations are not unique to this jurisdiction but represent systemic concerns that affect the timely administration of justice.
+
+In the early stages of the proceedings, defence counsel sought authorisation to instruct an independent expert to assess the defendant’s mental health, citing concerns about cognitive rigidity and ideological fixation. Regrettably, as has become increasingly familiar, correspondence with the Legal Aid Agency was protracted. The initial application submitted in late May 2025 did not receive formal approval until August, hampering the preparation of a comprehensive report. This court registers a measure of frustration at such procedural impediments, acknowledging, with courtesy, the pressures under which the Legal Aid Agency operates, yet insisting that justice requires procedural responsiveness.
+
+The procedural course of this matter was further complicated by a delay in listing the plea and trial preparation hearing. The court calendar was heavily congested, and access to suitable courtrooms was impacted by an industrial dispute involving court clerks and ushers, necessitating several adjournments. Hearings were, at times, disrupted by late arrivals of interpreter services or deficiencies in technical accommodations for digital evidence presentation. These practical difficulties reflect the broader challenges that the justice system faces in adapting to contemporary criminal trial demands.
+
+The defendant initially entered pleas of not guilty at the first hearing on 10 June 2025. It was not until the morning of the sentencing hearing on 15 October 2025 that Mr H changed pleas to guilty on both counts. The court has considered the submissions of counsel on behalf of the defendant, advanced by Mr James Langley, instructed under a standard Legal Aid certificate. The Crown has been represented throughout by Ms Faye Cheung of the Counter Terrorism Division of the Crown Prosecution Service.
+
+The issue of credit for guilty plea admission is not to be overlooked. Judicial guidance on this topic is firmly established. In R v. Maddison [2022] EWCA Crim 1782, the Court of Appeal reiterated that the timing of a guilty plea affects the extent of sentence reduction. Early pleas made at the first reasonable opportunity are met with greater credit, typically up to one-third of the sentence. Conversely, pleas entered at a late stage, particularly after full trial preparation, attract significantly less generosity. The rationale includes the minimisation of the burden upon witnesses and the court system.
+
+The defendant’s late plea appears to align more closely with the pattern observed in R v. Keane [2023] EWCA Crim 994, in which a plea entered on the day of trial, after the Crown had presented expert technical evidence, warranted only a reduction of 15%. This court, therefore, accords a modest but not insubstantial credit for the defendant’s ultimate admission of guilt.
+
+Consideration of the principles established in R v. Osman [2020] EWCA Crim 145 and R v. Kamara [2021] EWCA Crim 129 is also apposite. In those cases, the appellate courts underscored the importance of proportionality and the safeguarding of public protection as dual imperatives. Terrorism offending, by its nature, engages those objectives in stark terms.
+
+{INSERT_FACT_SNIPPET_2}
+
+The Crown has adduced evidence of Mr H’s digital footprint, including postings on a closed-access social media network under the pseudonym “NorthernFox.” Over time, the content of these posts evolved from innocuous political commentary during 2021 to explicit advocacy for violent action by mid-2023. Linguistic profiling by independent experts concluded that the defendant’s writings effectively mirrored themes present in literature produced by internationally proscribed groups, including calls for “defiance against western hegemony” and “operational guidance for asymmetrical conflict.”
+
+{INSERT_FACT_SNIPPET_3}
+
+Forensic examination of the defendant’s devices uncovered multiple encrypted containers, including one identified as “BlueMorph,” within which were stored files detailing explosive fabrication techniques, as well as maps annotated with strategic points of vulnerability in public infrastructure. Defence counsel has contended that some material was downloaded for academic curiosity only. The court rejects this contention. The presence of such content

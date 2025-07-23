@@ -1,0 +1,85 @@
+IN THE CROWN COURT AT BRIGHTON  
+R v. Mr H  
+Case No. B2025/25733  
+Sentencing Remarks – His Honour Judge C. ELLIOTT  
+Filed: 19 October 2025  
+
+Mr H appears before this court for sentence following his conviction on two counts: one of engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006; and another of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The period under consideration stretches from July 2023 until the defendant’s arrest in late January 2025.  
+
+The defendant was arrested at approximately 04:45 on 29 January 2025 pursuant to a warrant executed at his residence in Patcham. This warrant was obtained under section 43B of the Terrorism Act 2000 after the Intelligence and Security Service provided evidence of encrypted digital communications bearing links to an overseas command and control server, known to circulate materials supporting violent Islamist extremism. At the point of arrest, law enforcement officers seized, inter alia, multiple encrypted flash drives, a laptop with custom firmware, and an array of mechanical parts consistent with the assembly of explosive devices.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The investigation, codenamed OPERATION CLEARWATER, was characterised by a multipronged approach utilising both conventional surveillance and cutting-edge technical exploitation. Surveillance units based in Brighton and the wider Sussex area monitored the defendant’s patterns of movement, while the Cyber Special Unit deployed advanced decryption tools to recover data previously thought irretrievable due to the defendant's use of bespoke encryption protocols.  
+
+It must be acknowledged that such specialised operations place considerable strain on public sector resources. The Cyber Special Unit, with an authorised staffing cap of merely twelve analysts, has been operating at the limits of its capacity for over two years, juggling a caseload exacerbated by pandemics-related delays and the ever-mounting volume of digital forensic material in counterterrorism files. This case was one of the many that required prioritisation based on immediate risk, affecting the timeline for material disclosure in the ordinary course.  
+
+Pre-trial process was elongated by the frequent need to convene closed material proceedings pursuant to s6 of the Justice and Security Act 2013, which enables sensitive evidence to be considered behind closed doors for reasons of national security. This mechanism, while vital in safeguarding intelligence sources and methods, unfortunately adds layers of procedural complexity and delay. The court is acutely aware of the accompanying tension between the principles of open justice and the legitimate imperative to protect security information from exposure.  
+
+A preliminary hearing on 14 March 2025 secured the defendant’s indication of not guilty pleas, followed by a trial preparation hearing on 25 June 2025. It was only on the morning of the trial commencement on 12 October that the defendant changed his pleas to guilty on both counts. Such a late plea, as the Court of Appeal made clear in R v. McGuire [2023] EWCA Crim 1502, generally warrants reduced mitigation and usually attracts no more than a one-sixth discount, given the minimal saving to court time and the prolonged distress inflicted on victims and witnesses.  
+
+Indeed, his Honour Judge Winthrop in McGuire held that “the court must be wary of pleas prompted solely by tactical calculation when the evidential case has become hopeless” (paragraph 37). This principle is plainly applicable here, where the strength of the prosecution evidence was substantial and the timing of the defences’ concession was late in the day.  
+
+A body of jurisprudence pertaining to credit for guilty pleas in cases of ideological violence further guides this court. The seminal authority in R v. Al-Saadi [2016] EWCA Crim 957 underlines the significance of early admissions in enhancing procedural economy and fostering contrition. Conversely, in the more recent R v. Kovacs [2024] EWCA Crim 996, the Court emphasised that tactical delays in pleas diminish offender credit, particularly where the delay constitutes tactical obfuscation rather than genuine remorse.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Turning to the nature and circumstances of the defendant’s offending: the evidence establishes a pattern of escalating ideological conviction, manifesting in the curation and dissemination of extremist content via social media platforms under an anonymised persona. Linguistic proponents for the Crown have identified recurrent use of phraseology identical to that in the 2018 manifesto of the proscribed group Al-Furqan, which encourages “jihad against the crusaders in their lands.” The defendant’s digital signature was also associated with the circulation of instructional manuals on the manufacture of improvised explosive devices.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Material recovered from digital devices includes encrypted correspondence with individuals overseas and instructional diagrams, while a series of 3D-printing templates for weapon components and accessories were found on a concealed partition within one of the seized hard drives. The hidden partition was accessed only through multi-factor authentication which the defendant took considerable steps to configure so as to evade detection, signalling deliberate efforts to frustrate law enforcement scrutiny.  
+
+{INSERT_FACT_SNIPPET_4}   
+
+Notably, during investigation the defendant’s smartphone contained photographic evidence of reconnaissance activity around key infrastructure sites in Brighton and the south coast, including the promenade area and the substantial gas storage depot adjacent to the marina. All these indicia collectively attest to an escalating trajectory towards preparing for an act of terrorism in the UK.  
+
+It is necessary also to mention the somewhat prosaic discovery of a longstanding Council Tax arrear at his previous residence in Eastbourne, followed by a 2021 parking ticket that remains unpaid. These administrative blemishes, while irrelevant to the core offences herein, offer a mundane backdrop to the otherwise complex investigation.  
+
+To place matters in a wider social context, it cannot be ignored that services tasked with offender rehabilitation and mental health intervention persist under significant duress. The NHS in Sussex has experienced waiting times for adult psychiatry assessments exceeding 16 weeks on average, with resource limitations impeding swift appraisal of radicalisation-related clinical concerns. The Probation Service also faces chronic staffing shortages, with turnover rates at local offices exceeding 25% in the past two years, adversely impacting the continuity and quality of supervision available to offenders deemed at risk. Such systemic strains inevitably curtail the efficacy of multi-agency approaches designed to pre-empt radicalisation and support desistance.  
+
+In this case, a referral to the Prevent programme was made in 2022 following his withdrawal from university studies in mechanical engineering, with academic staff voicing concerns about rapidly shifting political beliefs and expressions of alienation. Channel Panel minutes record that despite multiple offers of mentoring and support, engagement was intermittent and increasingly fractious.  
+
+As an illustration of the complexities inherent in fostering disengagement, the defendant attended sporadic sessions run by the Coastal De-Radicalisation Trust, a charitable organisation operating under a Home Office grant, from late 2022. While some progress was noted early on, motivation waned, culminating in his cessation of participation in early 2024. The Trust’s representatives provided candid feedback to court, emphasising the difficulties faced in maintaining consistent involvement among individuals exhibiting elevated cognitive rigidity and ideological absolutism.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+A noteworthy facet of the prosecution evidence included the defendant’s travel to the Netherlands in March 2024, ostensibly to attend a conference on drone technology. However, travelling under an assumed identity, Mr H’s itinerary reveals attendance at venues frequented by known radical activists, and, according to surveillance logs, communications with groups subject to European counter-terrorism restrictions. The timing corresponded closely with the publication of a manifesto distributed by a Dutch jihadist cell later dismantled by authorities, suggesting extrapolated solidarity rather than legitimate pursuit of engineering interests.  
+
+Throughout the trial preparation, considerable emphasis has been placed upon the robustness of the joint agency response. Of particular note is the role of the Sussex Counter Terrorism Unit (CTU), whose officers performed with commendable diligence in coordinating intelligence flows between local policing, National Crime Agency units, and the Security Service. The importance attached to this collaborative effort was underscored explicitly in communications from the Chief Constable’s office, which acknowledged the exceptional demands placed on personnel in sustaining such operations amid heightened national threat levels.  
+
+Various elements of the prosecution’s case depended on the painstaking analysis of digital forensic evidence. The National Forensics Cyber Bureau undertook the review of over 2.7 terabytes of data encompassing electronic mail, social media messaging, and associated metadata. In the course of this work, subtle digital artefacts consistent with steganographic concealment were uncovered, a technique increasingly prevalent within terrorist communications to bypass cybersecurity defences. The attendant labour-intensive process required the simulation of multiple decoding environments, an exercise made more onerous by the utilisation of modified open-source code dispersed over several independent servers.  
+
+In addressing any suggestion that terrorism charges represent a disproportionate response relative to the defendant’s ostensibly non-violent lifestyle, the court reiterates the position taken in R v. Braithwaite [2019] EWCA Crim 554 where the Court emphasised that preparatory acts, including the possession of materials and intent to radicalise others, fall well within the ambit of serious criminality warranting robust custodial intervention.  
+
+Concurrent to defendant assessments, general societal challenges relating to homelessness and substance dependency have seen a notable rise in the Brighton city centre. National statistics for 2024 indicate a 14% increase in emergency shelter usage, correlating with wider economic inflation and the cost-of-living crisis. While unrelated to Mr H directly, such trends frame the broader context in which counter-terrorism practitioners operate, underscoring the delicate coexistence of public safety imperatives and social welfare concerns.  
+
+The court also takes note of the longstanding administrative difficulties confronting the Legal Aid Agency. The defence solicitor, Ms Fiona Callaghan, reported repeated delays in obtaining authorisation to instruct a specialist forensic psychologist to assess Mr H. These delays extended from April to July 2025, during which defence preparations were constrained. While no prejudice is found given the ultimate resolution, such systemic inefficiencies are regrettable and merit attention by oversight bodies charged with maintaining access to justice.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial audit findings detail transactions from the defendant’s cryptocurrency wallets amounting to £3,900 between August and November 2024, the majority channelled through privacy-enhancing mixers such as “ShadowFold.” Payments included one to an online entity marketing “blast-resistant fuse components,” a transaction flagged as suspicious by financial intelligence units. The use of unregulated digital currency mechanisms represents an ongoing enforcement challenge, as the Court of Appeal noted in R v. Chan [2024] EWCA Crim 1097, combining opacity with rapid cross-jurisdictional transfers.  
+
+The court also deliberated on the surveillance observations made by officers on 19 November 2024, documenting a nocturnal visit by Mr H to a seemingly innocuous allotment site near Falmer. The resources devoted to capture and corroborate identification of the individual in low-light conditions were substantial. This investigative asymmetry is a hallmark of modern security operations where the detection of potential harm requires a disproportionately heavier investment of time and skill.  
+
+It is worth briefly acknowledging the defendant’s personal background as reported in pre-sentence documentation. Mr H is 31 years old, with academic qualifications including a diploma in computer-aided design, and a history of above-average educational achievement. His prior employment included a period as a CAD technician with a regional manufacturing firm, terminated after an internal disciplinary inquiry regarding unreported external associations. This biography, while not condoning his offending, indicates a complexity beyond simple caricatures of offenders in terrorism cases.  
+
+Letters from community organisations, including the East Sussex Volunteer Network, were submitted on his behalf, describing Mr H’s voluntary involvement in local litter-pick initiatives and aid to elderly neighbours during the Covid-19 pandemic. Such civic gestures are valued, yet must be weighed alongside the gravity of the offences for which he stands convicted. As observed in R v. Fuller [2022] EWCA Crim 783, “the capacity for good within an offender does not excuse or diminish the responsibility for conduct that threatens the fabric of society.”  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Expert psychological evaluation presented by Dr Hana Westcott, consultant forensic psychiatrist, characterised Mr H as “exhibiting marked cognitive inflexibility, a rigid ideational framework, and a pronounced tendency toward dichotomous thinking.” The report notes an absence of diagnosable psychiatric illness but highlights the high risk of recidivism in extremist offending absent intensive intervention. The author advocates for a combination of cognitive-behavioural therapy with specialist deradicalisation programmes, coupled with close supervision in a structured environment following release.  
+
+This court recognises the efforts of the Sussex Prevent team, whose engagement with Mr H extended for over two years and merits commendation. Their case notes reveal repeated attempts to establish rapport and provide tailored interventions, though ultimate success was limited by his partial disengagement. Such challenges illustrate the inherent difficulties in disrupting the ideological trajectories of determined individuals.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+In considering the totality of circumstances, this was a well-planned and deliberate case of preparatory terrorism conduct, involving sophisticated use of technology, determined concealment, and travel with the aim of advancing terrorist objectives. The aggravating features include the pervasiveness of encrypted communications, the correlation with known extremist organisations, and possession of materials directly linked to device manufacture.  
+
+Mitigation is confined to the absence of previous convictions, academic achievements, late pleas, and some degree of cooperation post-arrest. The late pleas reduce the extent of credit the court can afford, limited to a maximum reduction of one-sixth overall.  
+
+The court requests the preparation of a detailed pre-sentence report to inform sentencing. The probation service is directed to assess the feasibility of an Extended Determinate Sentence under section 226A of the Criminal Justice Act 2003, the applicability of rigorous licence conditions—such as electronic monitoring and exclusion zones—and the availability of accredited forensic psychology services offering Structured Professional Judgement-based risk assessment. Consideration should also be given to engagement with approved premises, specialist interventions targeting ideological fixity, and continuous multi-agency management consistent with MAPPA arrangements in Category 3 cases.  
+
+These sentencing remarks are pronounced this 19th day of October 2025 in Court 5 at the Crown Court at Brighton. They have been duly transcribed and recorded pursuant to Part 5 of the Criminal Procedure Rules. The formal record of conviction and sentence will be transmitted for registration with the relevant judicial authorities.  
+
+These are the orders of the court.

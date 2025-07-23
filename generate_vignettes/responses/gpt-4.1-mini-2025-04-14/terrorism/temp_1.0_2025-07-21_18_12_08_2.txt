@@ -1,0 +1,45 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/29906  
+Sentencing Remarks – His Honour Judge R. L. Carrington  
+Filed: 16 August 2025  
+
+Mr H stands before this court for sentence on two counts: engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct spans the period from late 2022 through to the defendant’s arrest on 11 February 2025.  
+
+The defendant was arrested early in the morning on 11 February 2025 pursuant to a warrant executed by Counter Terrorism Policing South West at a residential property in the Stokes Croft area of Bristol. This warrant was issued under section 43B of the Terrorism Act 2000 following months of investigation triggered by signals intelligence indicating heightened communications between the defendant and overseas affiliates of a proscribed organisation. On arrest, officers seized multiple electronic devices including a personal laptop, two smartphones, and a number of USB drives.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The investigative process leading to Mr H’s arrest was marked by complex and multi-layered inter-agency coordination, involving not only specialist counter-terrorism units but also digital forensics teams from the National Crime Agency’s Territorial Cybercrime Unit. The orchestration of such a large-scale operation required careful legal oversight to ensure compliance with the statutory safeguards governing intrusive surveillance powers, including authorisation under the Regulation of Investigatory Powers Act 2000 and the associated codes of practice.  
+
+It is an unfortunate truth that post-pandemic conditions have exacerbated delays within the Legal Aid Agency, which, in turn, has had a tangible impact on timely case progression. For example, the defence’s requests for funding to instruct a independent forensic computing expert were subject to protracted internal review, delaying disclosure responses and necessitating adjournments. While such procedural inefficiencies are lamented, they form part of the broader challenge faced by the justice system in managing case loads amidst resource constraints.  
+
+Interestingly, recent research published by the Institute for Crime and Justice Policy has underscored that protracted court delays, particularly in complex terrorism cases, can negatively affect defendant cooperation and increase recidivism risk. While this report is not directly germane to Mr H’s conduct, it provides helpful context when considering systemic pressures.  
+
+The court acknowledges the valuable assistance of the local Domestic Violence Prevention Unit, who provided services to an unrelated victim in the defendant’s building and contributed relevant contextual information about community safety concerns. Their involvement, while peripheral to the present offence, reflects the multi-dimensional nature of contemporary policing challenges.  
+
+A plea and trial preparation hearing was convened on 20 May 2025. Mr H initially entered a plea of not guilty on the indictment but, following the close of evidence, he indicated a guilty plea on both counts on the morning of 11 August 2025. His change of plea was accepted, but the lateness necessarily constrains the extent of credit attributable. As counsel for the Crown correctly observed, such late admissions do little to spare witnesses the ordeal of trial preparation, and must be treated with appropriate judicial reserve.  
+
+Legal precedent on the issue of credit for guilty plea under these circumstances is well-established. For instance, in R v. Davenport [2022] EWCA Crim 334, the Court of Appeal held that a plea entered during the evidence stage will normally attract a lesser discount, reflecting the limited mitigation it provides to the overall process. Similar principles were confirmed in R v. Warwick [2023] EWCA Crim 415, which concerned a prolonged conspiracy trial involving firearms offences.  
+
+The defendant’s counsel has referred the court to R v. Ellery [2021] EWCA Crim 1029, where the Court reiterated that the primary purpose of credit for plea is to encourage early admissions, thereby promoting efficiency and minimizing victim trauma. Where pleas are belated, the utility of such credit is naturally diminished. This court therefore approaches any such discount with circumspection in the current proceedings.  
+
+Over the course of the prosecution evidence, multiple exhibits were adduced, including intercepted communications, metadata analytics, and expert forensic reports. The digital forensic material alone comprised over 3 terabytes of data, encompassing encrypted messaging logs, VPN usage records, and detailed activity timestamps. The complexity of this material necessitated an extended period of analysis, during which the defence was afforded full disclosure as mandated by the Criminal Procedure Rules, Parts 15 and 16.  
+
+The guidelines promulgated by the Sentencing Council in March 2023 require the court to undertake a careful assessment of culpability and harm in terrorism offences, particularly where preparations have advanced to a substantial stage. The case law addressing sentencing for terrorism-related conduct includes R v. Singh [2017] EWCA Crim 1587, which emphasised the importance of deterrence and public protection, and R v. Al-Hassan [2020] UKSC 54, which underscored the need to evaluate the defendant’s proximity to potential violent acts.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant maintained an online presence using the pseudonym “SilentSky,” frequently posting commentary on geopolitical conflicts and conspiracy theories. Linguistic analysis submitted by the prosecution highlighted a series of phrases which replicated narratives from a proscribed terrorist entity’s outreach material. This pattern aligns with the entrenchment of ideology in social-media echo chambers, a phenomenon well-documented in recent academic discourse.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+The recovered VeraCrypt archives uncovered during the search were found to contain detailed manuals relating to improvised explosive devices, as well as instructional videos in multiple languages. The prosecution’s expert witness confirmed that the defendant had demonstrated technical competence in handling digital security tools designed to evade law enforcement detection.  
+
+It is noted that the defendant’s family home was the site of several minor disputes with neighbours regarding noise complaints unrelated to the instant offences. These complaints, recorded in local council archives, involve references to late-night gatherings and amplified sound levels but do not bear upon the case’s core matters, save to provide incidental context on living conditions.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+An enquiry into the defendant’s digital footprint revealed a curious side interest in historical aviation, reflected in a dormant Instagram account titled “Wingspan Chronicles.” Though unrelated to the offence, these extraneous details were elicited during police interviews as part of a broader attempt to profile the defendant’s personality and lifestyle.  
+
+In mitigation, the defence drew attention to Mr H

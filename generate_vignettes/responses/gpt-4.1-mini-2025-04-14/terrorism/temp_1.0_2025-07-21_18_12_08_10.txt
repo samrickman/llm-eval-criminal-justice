@@ -1,0 +1,43 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/18239  
+Sentencing Remarks – His Honour Judge E. D. WALSH  
+Filed: 18 August 2025  
+
+Mr H appears before this court having been convicted after trial of one count of engaging in conduct in preparation for terrorist acts contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57(1) of the Terrorism Act 2000. The conduct took place over a period between March 2023 and Mr H’s arrest on 12 January 2025.  
+
+The court acknowledges that the statutory framework under which these offences fall has been refined over successive decades but remains, at root, a balancing act between the imperative of public protection and the maintenance of due process safeguards. The original Terrorism Act 2000, supplemented by the 2006 Act, sets out offences that capture not only the commission of violent acts but also preparatory conduct judged likely or intended to facilitate such acts.  
+
+Mr H was first detained at approximately 04:45 hours on Sunday, 12 January 2025, when officers from West Midlands Counter Terrorism Unit executed a warrant at his residence on Larchwood Crescent, Edgbaston. The warrant drew on intelligence supplied by the United Kingdom Security Service (MI5) and was granted pursuant to section 43B of the 2000 Act. Before the arrest, covert surveillance and digital interception had been ongoing for several months, beginning in late 2023.  
+
+An initial police search yielded numerous electronic media including hard drives and encrypted mobile devices, some of which contained files of interest to the investigation. The technical complexity of the devices involved, including multi-factor encryption and access controls, necessitated substantial forensic effort conducted by the National Cyber Investigation Service (NCIS). The resource intensity and cost of such work cannot be underestimated. It exemplifies the significant investment that modern counter-terrorism investigations require—comprising not only personnel but also specialist hardware and software.  
+
+The court is conscious that delays in dedicated forensic analysis—particularly in the field of encrypted communications—are now commonplace. This case was no exception. Initial delay in decrypting relevant material led to two extensions of police bail under section 47 of the Police and Criminal Evidence Act 1984. While such extensions are regrettable, the court is satisfied that these were justified by operational necessity and managed with attention to Mr H’s rights.  
+
+The defendant’s interaction with the Prevent programme is notable and reflects the difficult challenge faced by multi-agency safeguarding structures. A referral was made in mid-2021 by staff at Harborne Sixth Form College after Mr H submitted a political science dissertation containing passages valorising violent martyrdom, which caused concern. An initial Channel Panel met in November 2021 but discontinued oversight after limited engagement from Mr H and no substantive evidence of active radicalisation was found at that time.  
+
+Beyond Prevent, Mr H had sporadic contact with the regional Counter Terrorism Community Engagement Team, which offered mentoring and outlined opportunities for re-integration initiatives. These offers were largely declined or ignored. One is reminded here of the findings in the Casey Report (2016), which underlined the limits of voluntary programmes in counter-extremism and the ever-present risk of attrition where motivational factors are not aligned.  
+
+A plea and trial preparation hearing was convened in Court 5 on 21 April 2025. At that juncture, Mr H entered not guilty pleas to both counts. Evidence presentation then proceeded over the following weeks culminating in a trial before a jury. Defence counsel raised multiple evidential challenges, including motions to exclude intercept evidence on grounds of proportionality and necessity. These were resolved in rulings delivered on 15 June in which the court rejected the applications.  
+
+The trial itself was handled with commendable efficiency despite the volume of material and sensitivity of topics involved. Witnesses included digital forensic experts, police officers specialised in covert surveillance, and a linguist expert who provided detailed analysis regarding online expression consistent with extremist doctrine. Throughout, the jury was directed carefully on the burden of proof and the distinction between protected speech and criminal conduct.  
+
+The defendant maintained his not guilty pleas to the conclusion of the trial which commenced on 7 July and lasted 12 days. The jury returned unanimous verdicts of guilty on both counts on 19 July 2025. Of note is the defendant’s refusal to acknowledge responsibility at any stage prior to verdict. This is significant when considering appropriate sentencing credit or mitigation.  
+
+The court reminds itself of the principle established in R v. Kenward [2021] EWCA Crim 459 that while the law encourages early plea to promote efficiency and acknowledge remorse, credit should be refused or severely limited where pleas are entered only at or after trial. Similarly, the judgment in R v. Pepworth [2022] EWCA Crim 1037 reinforces the principle that tactical pleas—those made primarily for sentencing advantage rather than genuine contrition—may warrant minimal mitigation.  
+
+Regrettably, this case fits the pattern of late or absent co-operation typical in many modern terrorism prosecutions, placing considerable demands on public resources. The court therefore approaches sentencing on that basis.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The court is reminded of the longstanding jurisprudence as summarised in the Sentencing Council’s Terrorism Offences Definitive Guideline (version issued August 2023), which sets out a structured approach to assess culpability and harm in offences under the Terrorism Acts. The guideline emphasises that offending ranging from preparatory activity to actual commission warrants sentences reflecting both the offender’s motivation and the risk posed to the public at large.  
+
+Added complexity arises from the use of digital media and online intermediaries to facilitate extremist communications. This is borne out in the present case, as digital forensic evidence detailed encrypted message exchanges and procurement transactions for dual-use components capable of weaponisation.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The Crown presented compelling proof that the defendant operated an online forum pseudonymously albeit with identifiable links to his identity via IP records. This forum contained ideological statements and coordinates of material classified as terrorist publications. Expert testimony from Professor Lionel Jegor, a specialist in extremist communications, confirmed that the content demonstrated a clear intent to incite violence and prepare supporters for violent acts abroad and domestically.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+NCIS recovered a digital archive encrypted within multiple layers of VeraCrypt containers, labelled innocuously with culinary references, which upon decryption revealed detailed manuals relating to improvised explosive devices and instructions on chemical precursors. Defence counsel

@@ -1,0 +1,95 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/27091  
+Sentencing Remarks – His Honour Judge L. J. FAIRBANK  
+Filed: 19 October 2025  
+
+Mr H appears before this court to be sentenced on charges relating to the Terrorism Act 2006, specifically one count of engaging in conduct in preparation for acts of terrorism under section 5(1)(a), and a further count of possession of an article for a purpose connected with the commission of terrorism under section 57(1) of the Terrorism Act 2000. The offending behaviour relates to a period from October 2023 to the defendant’s arrest in April 2025.
+
+The defendant was taken into custody at 0725 hours on 14 April 2025, following the execution of a warrant at his residence in the Selly Oak district by officers acting on behalf of Counter Terrorism Policing West Midlands. The warrant was issued pursuant to section 43B of the Terrorism Act 2000, authorised by the Senior Investigating Officer and supported by intelligence reports from the Security Service that indicated encrypted communications pertaining to explosive manufacture and ideological dissemination. At the time of arrest, Mr H was found to be in possession of a quantity of digital storage media, including a laptop and encrypted USB devices.
+
+{INSERT_FACT_SNIPPET_1}
+
+The investigation into the defendant’s activities was multi-jurisdictional and inter-agency, involving the National Counter Terrorism Policing Headquarters, the Forensic Explosives Laboratory, and local policing bodies. The inquiry was notably prolonged due to operational secrecy and the necessity of cross-border data requests under the Mutual Legal Assistance Treaty framework with partners in the European Union.
+
+It must be acknowledged at this juncture that delays in the processing of disclosure materials were occasioned in part by technical constraints within the Forensic Digital Recovery Unit. The unit’s backlog, reported as a standing workload of circa 12,000 items nationally, was exacerbated by the requirement to apply emerging quantum decryption methods to the defendant’s devices. The Law Commission’s recent report on forensic technology capacity highlighted widespread resource shortfalls, which are reflected in real-case impacts, such as those seen here.
+
+Early in 2023, a Prevent referral had been made by an academic tutor at the University of Birmingham, where Mr H was enrolled in a postgraduate engineering programme. This referral arose from Mr H’s submission of an essay that, while primarily technical, contained references to historical acts of sabotage during wartime industrial campaigns, without sufficient distanciation or critique. The referral was handled by the West Midlands Prevent Coordination Unit and was closed following an initial assessment panel convened in April 2023, which noted insufficient evidence of radicalisation beyond academic interest.
+
+A Plea and Trial Preparation Hearing was convened on 17 September 2025. Mr H initially entered a not guilty plea. However, on the morning of the trial commencing on 13 October 2025, he changed his plea to guilty on both counts. The timing of this plea amendment is a salient consideration for sentencing credit; it is a recognised feature of modern criminal proceedings that pleas of guilty entered at relatively late stages may attract only moderate mitigation for promptness.
+
+It is relevant here to touch upon the established principles governing credit for guilty pleas. The seminal Court of Appeal decision of R v Stratton [2021] EWCA Crim 1554 emphasises that the timing of a plea is critical, and late pleas, entered after the trial is well underway, typically warrant less credit than those made at the first reasonable opportunity. This principle was reiterated in the context of terrorism offences in R v Mahmood [2023] EWCA Crim 1223, where the court held that the benefit of a plea must reflect the extent to which it spares witnesses and relieves pressure on public resources.
+
+Further judicial guidance appears in R v Leonard [2019] EWCA Crim 927, which dealt with the importation of Class A drugs concealed in consignments. Mr Leonard’s plea was entered only on the day before the trial’s conclusion, resulting in a 10% reduction, given the limited utility in terms of procedural economy or showing of remorse.
+
+Contemporaneously, it has been for some time recognised that terrorism cases uniquely challenge the usual sentencing framework, given the potential for catastrophic harm and the enduring risk posed by ideological commitment. The Sentencing Council’s definitive Terrorism Offences Guideline of 2023 instructs courts to approach such sentences with particular gravity, balancing deterrence, public protection, and the proportionality of each measure.
+
+{INSERT_FACT_SNIPPET_2}
+
+Through open-source investigation and possession analytics provided by the Defence Electronics Unit, it was established that Mr H operated multiple pseudonymous blogs, originally focused on mechanical engineering tutorials but progressively radicalised to incorporate exhortations to “direct action” and coded references to proscribed groups.
+
+{INSERT_FACT_SNIPPET_3}
+
+Digital forensic analysis recovered encrypted documents on a hidden partition within Mr H’s laptop. Among them were technical specifications for improvised explosive devices, with forensic evidence indicating use of photo-editing software to simulate detonation patterns using surrogate materials.
+
+{INSERT_FACT_SNIPPET_4}
+
+The prosecution further relies upon CCTV evidence from local hardware suppliers, which identifies the defendant purchasing bulk quantities of specialist adhesives and certain metal components commonly referenced in open-source bomb-making manuals. Defence counsel attempted to contextualise these purchases as contributions to a personal engineering hobby involving model rocketry; the court, having considered expert witness reports, finds this explanation lacking in credibility.
+
+In the broader context, it is noteworthy that possession of home-brew elderflower liqueur and a sample collection of succulents found at the defendant's residence was adduced by the defence as evidence of “normal domestic life” and a lack of apparent alienation from society. While these domestic details are of human interest, they are entirely neutral in the context of risk assessment.
+
+Of passing mention, Mr H’s previous landlord received a noise abatement notice in 2021 related to loud music emanating from a neighbour rather than the defendant's flat; this circumstance bears no relevance to his risk profile or sentencing but typifies the multifactorial nature of social life surrounding such cases.
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant travelled to Belgium in May 2024 purportedly for a cultural photography exhibition. However, intercepted encrypted messaging from that period reveals communications with a known extremist facilitator residing in Antwerp. Defence submissions contended that Mr H had innocently attended a jazz festival concurrently, yet the timing and nature of communications raise serious concerns over the trip’s true purpose.
+
+Transparency and disclosure remain cornerstones of fair trial rights. The disclosure bundle in this case was voluminous, comprising over 680 exhibits and extensive communications logs requiring vetting by the National Security Disclosure Team. Staff shortages and cyber-security constraints complicated the provision of these materials, delaying the timeline for pre-trial preparation.
+
+Like many such cases, the Legal Aid Agency’s authorisation of defence resources was a matter of several unproductive exchanges, leading to rare but regrettable adjournments. Counsel for Mr H commended the efforts of paralegal staff who, in an environment of tightening budgets and increased demand, sought to facilitate continuity.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial investigations traced a transfer of 4.3 monero coins from a wallet linked to Mr H’s online profile to an account affiliated with a known darknet marketplace. The difficulty in tracing such virtual currencies is addressed in recent Home Office reports, highlighting the challenge posed by privacy coins in the fight against illicit financing.
+
+The court must also recognise the burdens placed on policing resources at the local level. While overshadowed by major counter-terrorism enquiries, the ubiquitous rise in “low-level” crimes such as theft from vehicles, shoplifting of alcohol and toiletries, and criminal damage to public transport infrastructure — though unrelated to Mr H’s conduct — have depleted frontline personnel capacity across the West Midlands.
+
+It remains a concern that violent offences, including affray involving blunt instruments in South Birmingham pubs, stretch emergency response teams thinly. Through these operational pressures, local policing initiatives must prioritise high-risk threats, emphasising the critical importance of sustainable resource allocation.
+
+Moreover, there has been an unfortunate occurrence unrelated to this case in the neighbouring Crown Court 4, where an adjournment was caused by a fire in the waiting area during a separate arson prosecution. While cited here purely to illustrate the vagaries of court scheduling, it demonstrates the fragility of the justice system when confronting unforeseen events.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to the defendant’s personal circumstances, Mr H is 31 years old with a background in electrical engineering. His former employer, a prominent power systems consultancy, provided a character reference attesting to his technical aptitude, integreity, and conscientious work ethic. Mr H resigned voluntarily in July 2023 following disagreement over company policy restricting overseas communications.
+
+Letters from a local disaster relief charity and the Selly Oak Community Gardening Group commended Mr H’s voluntary contributions, including logistical support following the 2022 floods and participation in neighbourhood beautification projects.
+
+However, it cannot be overlooked that a sibling of the defendant is currently subject to unrelated police investigation on allegations of benefit fraud. While the family association does not implicate Mr H personally, the matter was disclosed in submissions made to the court.
+
+The defendant has submitted two personal letters, one from his mother expressing concern at his radicalisation, and another from his sister, who describes his earlier personality as introspective and somewhat isolated.
+
+Psychological assessments, including recent reports from Dr. Felicity Anand, a consultant forensic psychiatrist, diagnose Mr H with obsessive-compulsive personality traits but reject formal mental illness. The reports identify cognitive rigidity and a worldview marked by black-and-white thinking as contributory factors in his adoption of extremist material.
+
+The presentence report concludes that Mr H poses a high risk of serious reoffending in the absence of intensive and sustained management. The risk assessment tool applied, HCR-20V3, scored Mr H in a range that underscores the need for considerable supervision post-release.
+
+{INSERT_FACT_SNIPPET_8}
+
+Counter-terrorism probation teams have highlighted the challenges of supervision in cases with ideological fixation. The risk of disengagement from deradicalisation programmes such as the Structured Engagement Pathway remains significant, with attrition rates exceeding 50% in the first six months.
+
+The court must also factor in the unique resource demands of Multi-Agency Public Protection Arrangements (MAPPA) when managing offenders of this nature. The coordination among Probation Service, Counter-Terrorism Policing, and forensic mental health services is vital but hampered by staffing shortages and high caseloads.
+
+In terms of sentencing, this case falls squarely within Category 1 of the Terrorism Guidelines’ culpability matrix, given the planning, sophistication, and intent to cause indiscriminate harm. Aggravating factors include the use of encrypted communications, possession of specialist technical materials, and targeting of public venues.
+
+Mitigating factors are confined to the absence of prior criminal convictions, his educational and professional background, and a late guilty plea which will be given some, though limited, credit. The plea was entered only days before the start of the trial and after extensive prosecution disclosure, limiting the practical benefit to the court and victims.
+
+The court will direct the preparation of a full pre-sentence report to assist in the consideration of an appropriate custodial term. The report should explore the feasibility of an Extended Determinate Sentence under section 226A of the Criminal Justice Act 2003 incorporating release conditions tailored to risk management, including exclusion zones, electronic monitoring, and Internet access restrictions.
+
+Additionally, the report must assess the defendant’s suitability for participation in deradicalisation programmes accredited under the National Counter Terrorism Policing Framework, and evaluate the prospects for effective engagement with community rehabilitation services.
+
+This sentence must also consider the need for specialist input from clinically qualified professionals skilled in Structured Professional Judgment to monitor ongoing risk and facilitate risk-reduction.
+
+The defendant is reminded of his right to appeal against sentence within 28 days, pursuant to the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968.
+
+These sentencing remarks are issued this day, 19 October 2025, in Court 2 at the Crown Court at Birmingham. Proceedings have been transcribed and recorded in accordance with Part 5 of the Criminal Procedure Rules. The formal record of conviction and sentence will be transmitted to the relevant authorities for registration and publication as appropriate.
+
+These are the orders of the court.

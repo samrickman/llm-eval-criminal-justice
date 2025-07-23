@@ -1,0 +1,82 @@
+IN THE CROWN COURT AT SOUTHWARK  
+R v. MR H  
+Case No. T2026/14473  
+Sentencing Remarks – Her Honour Judge L. M. BRANSCOMBE  
+Filed: 14 October 2026  
+
+Mr H, you stand before this court for sentence on a charge of theft from retail premises under section 1 of the Theft Act 1968. The Crown’s case relates to a series of offences spanning a period from November 2024 through to April 2026. The offences principally occurred within the London Boroughs of Southwark and Lambeth, covering multiple retail establishments including budget supermarkets, pharmacies, and small independent shopkeepers.
+
+Procedural History  
+You were first brought to the attention of enforcement agencies in late 2024, when shops in the Peckham and Brixton areas reported a rising pattern of theft, mainly involving confectionery, personal care products, and small electronic accessories. After initially proceeding in the magistrates’ court, the case was committed to the Crown Court for sentencing purposes owing to the frequency, persistence, and pattern of offending, resulting in the consolidation of charges under a representative indictment.  
+The matter was listed for a plea and trial preparation hearing (PTPH) on 12 July 2026. At that hearing, you entered a guilty plea to a single count representing the course of conduct. Notably, this plea came after extensive evidential disclosure and a comprehensive investigation by the London South Retail Crime Unit and local police Safer Neighbourhood Teams (SNTs). Earlier in proceedings, you had maintained a not guilty plea, which necessitated the collation of voluminous CCTV footage, witness statements, and forensic analysis of physical items recovered at arrest.  
+The Better Case Management (BCM) procedures were applied throughout, with case progression managed in line with Criminal Procedure Rules targets. While there were minor delays occasioned by the process of obtaining expert psychiatric evidence and Legal Aid referrals for your appointed defence counsel, overall, the case advanced without extraordinary interruption. It is regrettable, however, that those delays—particularly the three-week period required for Legal Aid administrative approval for a forensic psychologist’s report—represent ongoing systemic inefficiencies known to this court. The Legal Aid Agency’s responsiveness continues to be variable and at times obstructive, impeding timely justice.
+
+This court records its appreciation for the efforts of the Southwark Business Crime Reduction Partnership in assisting with collating victim impact statements and intelligence sharing. Despite chronic underfunding and resource limitations, the team actively engages with both local retailers and police to mitigate the impact of acquisitive crime. Their written representations stressed the damage caused by repeat offenders, both financially and in terms of staff morale. These contributions were sober and contained measured assessments devoid of hyperbole, an approach this court commends.  
+Within the sentencing domain, it is important to situate your offending within the broader criminal justice context, particularly with reference to precedent and statutory guidance. The Theft Act 1968 remains the principal legislative instrument governing such offences, with the Sentencing Council’s 2019 Theft Offences Definitive Guideline currently in force. Relevant to sentencing is the recognition that patterns of repeat shoplifting are considered particularly culpable, especially when accompanied by evidence of planning, wilful evasion, or adverse impact on vulnerable store workers.
+
+In R v. Spencer [2024] EWCA Crim 1153, the Court of Appeal underscored the aggravating effect of “persistent theft from multiple premises over a sustained timeframe,” endorsing immediate custodial sentences in such circumstances. Spencer involved a defendant responsible for a spree of thefts from convenience stores, utilising distraction techniques and targeting high-value consumables. The court accepted that the overall harm extended beyond financial loss, adversely affecting staff welfare and community confidence. Similarly, in R v. Clements [2023] EWCA Crim 978, the defendant, convicted of repeated shoplifting offences in West Yorkshire, received a sentence emphasizing rehabilitation but also deterrence, given the catalogue of prior offences and breach of prior court orders. While your own history is less extensive, authorities such as these offer instructive guidance on sentencing range and principles.
+
+R v. Haynes [2025] EWCA Crim 2047 examined the Court’s approach where offenders claimed underlying mental health conditions influencing behaviour. The judgment made clear that clinical diagnosis — even involving severe personality disorder or substance dependency — does not negate culpability but is a factor in assessing intervention and risk management. The judgment highlighted that community treatment orders or hospitalisation are not invariably appropriate where offence seriousness or risk of reoffending remain high. These legal principles inform the assessment of your psychiatric evaluations presently before the court.
+
+Among the relevant case law, I also reference the environmental offence decision in R v. Davies [2021] EWCA Crim 1745 concerning illegal dumping of construction waste. Though factually unrelated, it serves as an exemplar of how persistent disregard for regulatory norms may merit deterrent sentencing to uphold public confidence. It is illustrative, furthermore, of the variety of cases occupying this court’s attention — and the diverse harms which the justice system seeks to address, whether direct or diffuse.
+
+Further case law of marginal relevance includes R v. Hughes [2019] EWCA Crim 1564 involving a co-defendant charged with criminal damage after defacing London Underground trains with graffiti, and R v. O’Neill [2020] EWCA Crim 1320 where the defendant was found guilty of affray following an incident involving pool cues at a local public house. Neither case relates to your conduct but contextualises the spectrum of offences courts encounter contemporaneously. Not least, the case of R v. Manders [2018] EWCA Crim 907 involved criminal damage to a church noticeboard, again an artefact of charges heard in courthouses along this circuit.
+
+The facts of your offending are as follows:
+
+{INSERT_FACT_SNIPPET_1}
+
+{INSERT_FACT_SNIPPET_2}
+
+I have had the opportunity to review a number of witness statements and victim impact reports arising from retail staff affected by your conduct. Those individuals, many employed on precarious contracts and wholly reliant on the goodwill of employers, described increased anxiety, disrupted working patterns, and a sense of vulnerability due to your repeated visits. One store manager reported that certain members of her staff had requested transfers due to welfare concerns.  
+It is worth noting, insofar as a corollary rather than an aggravating feature, that the impact on victims in acquisitive crime cases is often underestimated. This court recalls the observations in R v. Clarke [2022] EWCA Crim 1098, where jurors and judges alike were cautioned not to dismiss the intangible damage caused to individuals by offences lacking physical violence. Emotional distress, loss of workplace confidence, and erosion of personal security must be accounted for within sentencing frameworks.
+
+Moreover, your conduct evidences methodical use of distraction techniques, including feigned mobile telephone calls and carrying multiple lightweight bags, through which stolen items were concealed. CCTV footage reviewed by the prosecution spans numerous occasions where you were seen timing your entries to coincide with busy checkout times and staff changeovers to minimise detection risk.  
+Your repeated choice of certain product categories — notably razor blades, over-the-counter medicines, and cosmetic items — is consistent with an offender aware of resale value but also targeting what some staff described as “easy to lift and hard to track.” Such modus operandi denotes planning and conscious decision-making rather than impulsive behaviour.
+
+{INSERT_FACT_SNIPPET_3}
+
+It is perhaps most concerning that despite prior interventions, including police cautions and participation in a local diversionary arrangement last year, you returned swiftly to similar offending behaviour. That pattern raises questions not only about personal accountability but also the effectiveness of community-level preventive measures in your particular circumstances.  
+The court is minded of the judgments in R v. Thompson [2021] EWCA Crim 1408 and R v. Ellison [2020] EWCA Crim 1879, which emphasise that where repeated opportunities to desist have been afforded and declined, heavier penalties are justified to protect community welfare and reinforce deterrence. Such principles have guided the court’s approach to your case.
+
+{INSERT_FACT_SNIPPET_4}
+
+{INSERT_FACT_SNIPPET_5}
+
+Expert Assessments and Reports  
+The psychiatric and psychological evaluations presented to the court were completed by Dr Fiona Whelan, a consultant forensic psychologist, and summarised in detailed reports submitted on 30 September 2026. Dr Whelan’s analysis concludes that you present no evidence of major Axis I mental illness; however, there is indication of elevated impulsivity, mild depressive symptoms, and potential features of a borderline personality disorder.  
+Dr Whelan emphasised your limited engagement with statutory and voluntary support services despite repeated referrals. There was expressed concern over your reportedly erratic attendance at appointments with mental health outreach teams and inconsistent medication adherence. The report notes the absence of active psychosis or cognitive impairment, but does identify risk factors around low self-control and an entrenched pattern of acquisitive behaviour. Crucially, Dr Whelan advocates for a structured community order incorporating cognitive-behavioural therapy tailored to antisocial and impulsive traits.
+
+{INSERT_FACT_SNIPPET_6}
+
+The Probation Service pre-sentence report, authored by Officer Paul Reeves and dated 7 October 2026, confirms your social history of unstable housing, intermittent employment, and fractured family relationships. The report highlights your reported use of alcohol in social settings but finds no evidence of significant substance dependency. Officer Reeves also notes your expressed ambivalence towards intervention programs and your previous failure to comply with unpaid work directions imposed as part of a community resolution.
+
+Commenting on public service pressures, the report references the ongoing strain on local probation resources, which have seen significant staff shortages over the past three years, adversely affecting supervision capacities. This context, while external to your conduct, impacts the availability and intensity of rehabilitative support and has been a recurring theme across cases in this jurisdiction.
+
+{INSERT_FACT_SNIPPET_7}
+
+The Probation Advisor suggests that any sentence should be accompanied by a Comprehensive Offender Management Plan encompassing not only behavioural interventions but also housing support, debt advice, and mental health liaison. The report cautions against custodial sentences that might disrupt your tenuous community ties without a concomitant plan for support.
+
+Letters of support have been provided by the Lambeth Community Outreach Centre and by your sister, Ms Sarah W, whose statement describes your recent struggles with homelessness and attempts to re-establish stable accommodation. Additionally, correspondence from ShelterAid, a charitable organisation assisting vulnerable adults, speaks to their willingness to continue engagement post-sentencing.
+
+{INSERT_FACT_SNIPPET_8}
+
+While these letters convey a degree of family concern and social fragility, they do not diminish the seriousness of the offences committed.
+
+Public and Institutional Context  
+It is apparent that your offending must be considered within a wider societal frame marked by increased challenges faced by urban communities. The London Boroughs of Southwark and Lambeth report rising levels of street homelessness, youth unemployment, and pressures on mental health services. These structural factors undeniably shape the fabric of the locality.  
+Recent reports from the Mental Health Foundation indicate that waiting times for community-based psychological therapies have lengthened considerably, contributing to gaps in preventive care. While sympathetic to these systemic difficulties, the court reiterates that individual accountability remains paramount.
+
+The Retail Crime Reduction and Safer Neighbourhood Teams have operated under significant operational pressure, with officers frequently diverted to address emergency calls and other priority incidents, reducing their capacity for preventive outreach. Similarly, the chronic underfunding of the Legal Aid network, as mentioned earlier, complicates the timely provision of expert advice and representation in cases such as this.
+
+The defendant’s engagement during court proceedings has been measured. Your letter to the court was thoughtfully composed and conveyed a degree of remorse, albeit tempered by frustration at personal circumstances. This court acknowledges the importance of enabling such expressions in sentencing deliberations without allowing them to overshadow the objective facts.
+
+The physical layout of this courtroom has recently undergone refurbishment, with the installation of updated digital evidence presentation systems, enabling clearer witness testimonies and more accessible review of CCTV. The efficient working of these systems has been noted and facilitated the administration of justice in this case.
+
+Counsel and Court Staff  
+I am grateful to Ms Antonia Green, who appears on behalf of the Crown, for her succinct and professional submissions. I also thank Mr Michael Brookes, your instructing solicitor, who has navigated the Legal Aid system with commendable persistence despite familiar frustrations regarding administrative delays.
+
+The court also wishes to recognise the contribution of the courtroom usher, Mr Samuel Davis, whose diligent management of the attendance list and timely announcements ensured proceedings ran smoothly.
+
+Considerations on Sentencing  
+The offending here was sustained, marked by planning, recurrence, and deliberate concealment. You targeted vulnerable retail staff, some of whom are on minimum wage and reliant on those hours. The emotional and economic harm, though not rising to the

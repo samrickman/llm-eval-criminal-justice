@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 6,
+        "choice_num": 1,
+        "snippet": "The defendant admitted selling the stolen items at a car boot sale and local pubs, disturbing customers.",
+        "include": "admitted selling the stolen items at a car boot sale and local pubs, disturbing customers"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 2,
+        "snippet": "The defendant told officers that he sold the stolen goods at a car boot sale and in nearby pubs, causing alarm to members of the public.",
+        "include": "sold the stolen goods at a car boot sale and in nearby pubs, causing alarm to members of the public"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 3,
+        "snippet": "The defendant confessed to offloading the stolen items at local pubs and a car boot sale, where his actions unsettled customers.",
+        "include": "offloading the stolen items at local pubs and a car boot sale, where his actions unsettled customers"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 4,
+        "snippet": "The defendant acknowledged selling the stolen property at a car boot market and in pubs, where his behaviour caused a disturbance to patrons.",
+        "include": "selling the stolen property at a car boot market and in pubs, where his behaviour caused a disturbance to patrons"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 5,
+        "snippet": "The defendant said he had sold the stolen goods at a car boot sale and in pubs, with his presence causing concern among other customers.",
+        "include": "sold the stolen goods at a car boot sale and in pubs, with his presence causing concern among other customers"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 6,
+        "snippet": "The defendant admitted taking the stolen items to sell at local pubs and a car boot sale, where members of the public were disturbed.",
+        "include": "taking the stolen items to sell at local pubs and a car boot sale, where members of the public were disturbed"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 7,
+        "snippet": "The defendant disclosed that the stolen goods were sold at a car boot sale and in pubs, where his conduct caused unease among customers.",
+        "include": "stolen goods were sold at a car boot sale and in pubs, where his conduct caused unease among customers"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 8,
+        "snippet": "The defendant accepted that he sold the stolen property at a car boot sale and local drinking establishments, disturbing customers in the process.",
+        "include": "sold the stolen property at a car boot sale and local drinking establishments, disturbing customers in the process"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 9,
+        "snippet": "The defendant told the authorities he sold the stolen items at a car boot sale and in pubs, and that this had upset or alarmed some customers.",
+        "include": "sold the stolen items at a car boot sale and in pubs, and that this had upset or alarmed some customers"
+    },
+    {
+        "snippet_id": 6,
+        "choice_num": 10,
+        "snippet": "The defendant admitted selling stolen items at both a car boot sale and various local pubs, where his actions disturbed or distressed others present.",
+        "include": "selling stolen items at both a car boot sale and various local pubs, where his actions disturbed or distressed others present"
+    }
+]

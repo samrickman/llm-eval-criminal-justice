@@ -1,0 +1,77 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/29816  
+Sentencing Remarks – His Honour Judge N. L. FENTON  
+Filed: 14 October 2025
+
+Mr H appears before this court for sentence on two counts: firstly, engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and secondly, possession of an article for a purpose connected with the commission of terrorism under section 57 of the Terrorism Act 2000. The offending spans the period from early 2023 through to the defendant’s arrest in late January 2025.
+
+Mr H was apprehended by officers from Counter Terrorism Policing South West on 28 January 2025 pursuant to a warrant executed at his residence in the suburban district of Stoke Bishop, Bristol. The warrant was predicated on intelligence developed over a sustained investigation. A mixture of targeted covert surveillance and analysis of telecommunications metadata were employed, with the authority granted under the Regulation of Investigatory Powers Act 2000 and applicable provisions of the Terrorism Act 2000. Seized items included digital devices, electronic storage media, components suitable for the manufacture of explosives, as well as detailed notes on assembly and deployment techniques.
+
+{INSERT_FACT_SNIPPET_1}
+
+It bears mention that the investigation team consisted of personnel from multiple agencies, including the National Explosives Unit, the Security Service, and the Forensic Cyber Analysis Division. Co-ordination between these bodies, whilst generally effective, suffered occasional delays attributable to resource constraints. The disproportion between investigative demands and available manpower has become an unfortunate norm in counter-terrorism operations nationwide.
+
+Prior to the arrest, a referral had been made to the local Prevent team in September 2021 by a university lecturer who expressed concern over Mr H’s increasingly extreme political views and online activity promoting sectarian attack. The Channel Panel convened in response but concluded, after limited engagement, that intervention was not warranted. This court records that such discretionary determinations reflect the often-fragile evidential thresholds applied in early-stage risk assessments.
+
+During the initial hearing on 3 February 2025, Mr H was remanded in custody. Bail applications were declined given the gravity of the allegations and the assessed risk of reoffending or flight. On 22 March 2025, the case was listed for a plea and trial preparation hearing (PTPH). At that hearing, the defendant initially entered pleas of not guilty to all charges, asserting through counsel that the evidence was circumstantial and failed to establish intent.
+
+The prosecution served extensive disclosure in advance of trial, comprising over 600 exhibits including expert reports, intercepted communications, and digital forensic analyses. This voluminous material necessitated review by the defence team appointed under Legal Aid. The court notes with regret the repeated adjournments caused by delays in the Legal Aid Agency’s authorisation for specialist forensic and psychological experts, a matter that continues to strain procedural timetables across the jurisdiction.
+
+It has become apparent in recent years that the administrative processes of the Legal Aid system face systemic challenges, characterized by lengthy response times and inconsistent decision-making practices; such delays risk undermining the principle of a fair trial and impose disproportionate burden on defence representatives and ultimately on the court’s capacity.
+
+{INSERT_FACT_SNIPPET_2}
+
+Turning to the legal framework, the maximum penalty applicable under s.5(1)(a) of the Terrorism Act 2006 remains life imprisonment. The Sentencing Council’s 2024 Terrorism Guidelines stipulate that courts must consider factors such as the sophistication of the offence, the preparation involved, level of risk posed, and the motivation underlying the conduct. Relevant appellate authority includes R v. Munir [2023] EWCA Crim 1504, which reasserted that where planning evidences meticulous preparation and intent to cause indiscriminate harm, custodial sentences should reflect the need for deterrence as well as protection.
+
+Although the details of co-defendants in other cases sometimes provide precedent, the court is not prepared to draw unwarranted parallels here. For example, the recent decision in R v. Drury [2025] EWCA Crim 1889 involved a co-defendant convicted of criminal damage to a listed church noticeboard following an ideological protest, but such conduct, while reprehensible, does not equate to the gravity of terrorism preparation.
+
+{INSERT_FACT_SNIPPET_3}
+
+The forensic recovery included encrypted containers labelled with innocuous names, such as “GardenPlans” and “HolidayPhotos,” typical of obfuscation tactics. Digital evidence specialists encountered substantial technical complexity arising from layered encryption, use of anonymising networks, and compartmentalised data storage—placing additional pressure on scarce technical resources.
+
+By way of historical context, similar encryption challenges were documented in the case of R v. Whitaker [2017] EWCA Crim 1900, where the Court of Appeal confirmed that the presence of encrypted material indicative of illicit activity does not lessen culpability and, indeed, may signify advanced planning and concealment intent.
+
+{INSERT_FACT_SNIPPET_4}
+
+The court observes, parenthetically, that Mr H’s personal history includes intermittent educational attainment with a National Vocational Qualification Level 3 in Information Technology and short-term employment in warehouse logistics. Defence counsel submitted character references from a community sports club where Mr H volunteered as an assistant coach. While such community involvement is generally positive, it is of limited weight when set against the defendant’s subsequent engagement in conduct designed to facilitate acts of terror.
+
+The court notes with concern that regional housing services have reported elevated pressure on supported accommodation availability for individuals with complex needs. Although unrelated to the defendant’s offences, this reflects a broader social vulnerability context within which criminality may sometimes manifest.
+
+{INSERT_FACT_SNIPPET_5}
+
+Between July 2023 and January 2025, Mr H undertook several travel excursions to locations with recognised ideological significance to extremist groups. One such journey involved attendance at a conference on “Radical Political Expression” held abroad, ostensibly for academic purposes; however, accompanying itinerary and communication intercepts suggest covert meetings with proscribed individuals.
+
+It must also be acknowledged that the court received correspondence from the local association of survivors of terror attacks, highlighting the ongoing trauma suffered within communities affected by such crimes. Their submissions speak to the harm that extends beyond physical injury and constitute a factor in the court’s holistic approach to justice.
+
+The court has considered submissions regarding the utility of deradicalisation programmes such as the Integrated Engagement Strategy (IES). These initiatives, whilst commendable in theory, face practical challenges including participant disengagement, inconsistent funding, and variable success rates. Reliance on such programmes as a sole mitigating factor would be misplaced.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial tracing undertaken as part of the investigation identified transfers from digital wallets linked to Mr H amounting to several thousand pounds, directed to platforms associated with procurement of dual-use chemicals. The court reflects on the growing challenge of cryptocurrency in law enforcement, as explored in R v. Fitzgerald [2023] EWCA Crim 2059, where the opacity of blockchain transactions was emphasised as a significant obstacle in financial investigations connected to serious crime.
+
+The prosecution also relied upon the detailed transcripts of wiretaps capturing instructive exchanges between the defendant and known facilitators. Notably, surveillance operations included the arduous review of over sixty hours of digital communication, a task that consumed significant analytical resources and exemplifies the asymmetry of effort inherent in counter-terrorism work.
+
+{INSERT_FACT_SNIPPET_7}
+
+The psychological assessment conducted by Dr Elena Somerset, Consultant Forensic Psychiatrist, revealed a profile characterised by rigid ideological conviction, social isolation, and marked cognitive inflexibility, but found no diagnosis meeting criteria for severe mental disorder. Dr Somerset’s report places emphasis on the defendant’s elevated risk of reoffending without intensive, multi-disciplinary management. The current pressures on NHS forensic services, including extended waiting lists and limited availability of secure beds, are well documented and denote systemic vulnerabilities.
+
+Additionally, letters from family members, including one from the defendant’s sister detailing his withdrawal from social contact and expressed disillusionment following a period of unemployment, were tendered. The court is mindful that such reports, while humanising, do not attenuate culpability.
+
+It is worth recalling that in R v. Bramwell [2019] EWCA Crim 711, the Court cautioned against conflating social marginalisation with diminished responsibility where carefully planned harmful conduct is evident.
+
+{INSERT_FACT_SNIPPET_8}
+
+The court must, finally, address the aggravating and mitigating factors. Aggravation arises from the sophisticated use of encrypted technology, demonstrated capability to access materials conducive to constructing explosive devices, and evidence of intent to cause indiscriminate harm. Mitigating features are limited to the defendant’s lack of previous convictions, partial cooperation post-arrest, and the late entry of guilty pleas.
+
+The timing of these pleas, occurring on the morning of the commencement of the trial rather than at the earliest opportunity, constrains the extent of credit allowable. As established in R v. Thornton [2024] EWCA Crim 901, such late pleas reflect strategically motivated rather than genuinely remorseful conduct.
+
+In light of all factors, the court orders the preparation of a comprehensive pre-sentence report. The Probation Service is tasked with evaluating risk management plans, suitability for extended custodial sentences with Community Rehabilitation requirements, and the availability of high-intensity psychological interventions. Consideration should also be given to Digital Monitoring and internet access restrictions post-release.
+
+The court acknowledges ongoing operational challenges faced by Probation and mental health providers alike, including chronic staffing shortages and fiscal limitations impacting capacity to implement rigorous supervision frameworks. These realities underscore the difficulty faced in effectively managing offenders posing ideological threats upon reentry to the community.
+
+These remarks are issued on 14 October 2025 in Court 5 at Bristol Crown Court. They have been transcribed in accordance with Part 5 of the Criminal Procedure Rules, and a formal transcript exists within the court record. The defendant is reminded of the right to appeal sentence within 28 days pursuant to statutory provision under the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No orders for reporting restrictions under section 49 of the Children and Young Persons Act 1933 are engaged in this matter.
+
+Costs are reserved.
+
+These are the orders of the court.

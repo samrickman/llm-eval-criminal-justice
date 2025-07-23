@@ -1,0 +1,108 @@
+IN THE CROWN COURT AT MANCHESTER  
+R v. MR H  
+Case No. T2025/13458  
+Sentencing Remarks – His Honour Judge L. D. RUNDELL  
+Filed: 14 September 2025  
+
+Mr H, you stand before this court for sentence following your conviction on a charge relating to theft by shoplifting, contrary to section 1 of the Theft Act 1968. The offending conduct was engaged in over several months, spanning late 2023 through to early 2025, and occurred at multiple retail locations throughout the Greater Manchester area. While the charge is singular, the recorded evidence and prosecution submissions invite consideration of a pattern of behaviour, rather than isolated lapses.
+
+Procedural History and Case Progression  
+On 10 January 2025, you were apprehended following an extended inquiry led by the Manchester City Police Commercial Crime Unit, with support from the Greater Manchester Business Crime Initiative. The arrest marked the culmination of approximately six weeks of active surveillance and intelligence collation, utilising a composite of CCTV capture, forensic analysis of recovered property, and witness statements, including from store employees and security personnel. The investigation accorded with established protocols for managing such acquisitive offences, including multi-agency cooperation with local trading standards and retail sector bodies.
+
+The conduct of this inquiry exemplified aspects of the Better Case Management (BCM) initiative, designed to expedite the progression of cases through the Crown Court system while maintaining procedural rigor and evidential integrity. Particular credit is due to the officers in the commercial crimes division, who demonstrated commendable diligence amid serious staffing shortages affecting Greater Manchester policing since early 2024. This resource scarcity has been well documented in recent reports to the Home Office, and mirrors the national trend identified in the 2023 Police Workforce Survey.
+
+It is important to note that the BCM framework seeks to reduce delays and minimise the need for protracted hearings when evidence is clear. Yet, as often encountered in shoplifting prosecutions, delays arose stemming from necessary corroboration of electronic evidence and the compilation of victim impact data, which, while seemingly routine, involve significant administrative overhead in a context where prosecutorial teams are often overstretched.
+
+Your initial hearing at Manchester Magistrates’ Court took place on 17 January 2025, where you were remanded on conditional bail pending further disclosure and preparation. The case was subsequently transferred to this court for sentence owing to the volume and complexity of evidence gathered, including digital footage from five separate premises along with forensic matching undertaken by Greater Manchester Police’s Forensic Science Unit.
+
+Following a plea and trial preparation hearing on 21 April 2025, you entered a plea of not guilty to the representative theft charge. The case was set for trial in June 2025. However, on the morning of the trial listing on 25 June, following detailed submissions by your counsel and renewed disclosure from the prosecution, you changed your plea to guilty. This late plea has implications for the discount that can be accorded under the Sentencing Council guidelines and in accordance with established case law.
+
+The pattern of late plea in such matters is regrettably common and, as noted in R v. Blunt [2023] EWCA Crim 1512, where a guilty plea is entered only after the case has been assembled in full and witnesses prepared for trial, the credit is necessarily reduced to reflect limited procedural economy and delayed acceptance of responsibility. This principle was also emphasised in R v. O’Connor [2021] EWCA Crim 980.
+
+{INSERT_FACT_SNIPPET_1}.
+
+Background and Institutional Observations  
+The court acknowledges the efforts of the Manchester Retail Theft Liaison Team, who have provided detailed victim impact statements. These highlight the burden borne by shop staff frequently exposed to low-level acquisitive crime, which contributes not merely to financial loss but also to stress, anxiety, and in some cases a sense of personal vulnerability. Statements from employees note adjustments to working practices, including altered shift patterns and internal security measures, in some instances reflecting a perceived need to mitigate risk.
+
+Also deserving recognition is the voluntary-sector charity SafeShop, which engages with individuals at risk of repeat offending through diversionary programmes aimed at addressing the socioeconomic drivers of shoplifting. Their contributions highlight the prevalent challenges posed by increasing levels of deprivation and housing insecurity within the Manchester conurbation, factors that, while not excusing criminal conduct, provide essential contextual understanding.
+
+Concurrently, it is a regrettable reality that legal aid provision continues to be hampered by administrative bottlenecks, as noted in regular judicial observations. In this case, delays were occasioned by procedural disputes surrounding funding for expert reports, including a request by your defence team to secure authorisation for a psychological assessment, which was only granted after protracted correspondence spanning two months. Such delays are lamentable and contribute unnecessarily to case progression obstacles, despite repeated calls for streamlined processes by the Bar Council and criminal justice agencies alike.
+
+The tune of judicial disappointment with these systemic inefficiencies was echoed in R v. Grantham [2024] EWCA Crim 1337, where an extended review of legal aid administrative practice found a "persistent failure to align decision-making timelines with the urgent needs of justice.” It is to be hoped that reforms promised by the Ministry of Justice’s current efficiency review will yield improvements in this regard.
+
+{INSERT_FACT_SNIPPET_2}.
+
+Legal Context and Sentencing Guidelines  
+The theft in this case is prosecuted under section 1 of the Theft Act 1968, defining the criminal offence as dishonest appropriation of property belonging to another with intent to permanently deprive. The Sentencing Council’s Theft Offences Guideline (last updated 2022) categorises offences along a spectrum reflecting factors such as value, culpability, use of threats or violence (when applicable), and vulnerability of victims or targeted premises.
+
+While low-value thefts may be triaged toward community disposals, the recurrent nature of offending and the sophisticated manner in which the acts were conducted here tip the balance toward a custodial or suspended custodial sentence. This court notes with concern the cumulative effects of such offending on public confidence and small business sustainability.
+
+In R v. Peters [2020] EWCA Crim 1698, the Court of Appeal reinforced the principle that persistent shoplifting undermining vulnerable retail sectors and accompanied by disregard for prior warnings may justify immediate custodial sentences even when the magnitude of individual thefts is modest.
+
+Comparable jurisprudence is present in R v. Simmons [2019] EWCA Crim 2120, involving repeat thefts from charity outlets and independent grocers, where the Court affirmed the sentencing judge’s imposition of 12 months custody, emphasising the wider social harm and undermining of community goodwill.
+
+{INSERT_FACT_SNIPPET_3}.
+
+Psychiatric and Probation Reports  
+A psychiatric evaluation was obtained from Dr Alistair Whittaker, Consultant Forensic Psychiatrist, who concluded that there is no evidence to support a diagnosis of a major mental disorder. The report comments on mild depressive symptoms, episodic anxiety related to housing precarity, and a longstanding history of substance misuse, primarily involving alcohol and occasional misuse of benzodiazepines. These features, while of clinical interest, do not diminish culpability.
+
+Probation Service pre-sentence reports have indicated concerns about the risk of reoffending, principally connected to unstable accommodation, intermittent employment, and minimal positive social supports. Limited engagement with community-based services has been noted, despite the availability of intervention programmes targeting acquisitive offending.
+
+The Probation Officer’s narrative recounts past attempts at supervising you in community settings which were incomplete, citing several failed appointments and a period of non-compliance with informal intervention protocols. The officer outlines the potential utility of cognitive behavioural therapy modalities for impulsivity and decision-making deficits, though acknowledges that sustained participation remains uncertain.
+
+{INSERT_FACT_SNIPPET_4}.
+
+The offence itself was investigated using contemporary forensic data analytic techniques — including facial recognition software cross-referenced against established offender databases and thermal imaging used for after-hours surveillance in retail warehouse premises. This advanced approach is illustrative of the evolving investigative landscape in the acquisitive crime sector, which increasingly leverages technological innovation alongside traditional policing to respond to persistent offenders.
+
+The court is mindful of the pressure on the Crown Prosecution Service and Police Digital Forensics Units, which have reported extensive backlogs attributable to the growing volume of electronic evidence in cases of this nature. Within some divisions, waiting times for device analysis now approach several months, a factor that influences case progression tangibly.
+
+{INSERT_FACT_SNIPPET_5}.  
+
+On occasion, the court is presented with cases featuring co-defendants or associates engaging in behaviours tangential or irrelevant to the current proceedings. That is not the situation here, but it remains a common occurrence that complicates case management.
+
+The court recalls the unrelated matter of R v. Obasi [2023] EWCA Crim 1209, where a co-defendant was found to have a history of involvement in violent disorder — facts which did not bear upon the convicted defendant's culpability but were extensively litigated during procedural hearings. The disentanglement of roles and clarity of evidence remains an ongoing challenge within complex cases.
+
+Similarly, a recent review of case files by the Manchester Criminal Justice Board noted an increased incidence of joint cases impeded by absent or non-compliant defendants, with marked impact on listing feasibility. This phenomenon is regrettably common in street-level acquisitive crime prosecutions.
+
+{INSERT_FACT_SNIPPET_6}.
+
+The issue of family or social networks is often raised in submissions. It is noted in your case that you have limited contact with immediate relatives and, where present, familial relationships are described as strained. Letters of support from a close friend and a community youth worker have been submitted, attesting to your engagement with a local employment initiative and ongoing efforts to address lifestyle factors contributing to risk.
+
+Despite these mitigating circumstances, the court must apply the sentencing principles of punishment, deterrence, rehabilitation, and public protection proportionately and without undue leniency.
+
+The wider social milieu is relevant insofar as it may inform rehabilitation strategies, but it does not supplant accountability or negate harm caused.
+
+Statistical data from the Manchester Community Safety Partnership indicates an upward trend in shoplifting offences during the preceding eighteen months, with a disproportionate impact on independent retail operations. Such trends compound the economic instability of small businesses, many of whom are still recovering from pandemic-related closures and disruptions.
+
+{INSERT_FACT_SNIPPET_7}.
+
+The court also records with interest that local outreach agencies report a sevenfold increase in assistance requests linked to housing insecurity and benefits delays during 2024. These pressures may exacerbate personal vulnerabilities but must not be misconstrued as a justification for criminal offending.
+
+Sentencing Considerations  
+Taking all material into account, this offence and your history reflect a significant risk of reoffending absent meaningful intervention. The persistence of offending despite previous warnings and non-custodial disposals emphasises the need for a sentence that addresses both punitive and rehabilitative aims.
+
+It is equally important to discourage would-be offenders by underlining the serious consequences attached to repeated theft, even when individual incidents involve low-value items.
+
+The Sentencing Council 2022 Guidelines provide a framework, but this court must tailor its decision to the specific facts, your personal circumstances, and the public interest.
+
+The court recognises that you entered a guilty plea at a late stage, which reduces your eligibility for the maximum discount normally applied under the Guidelines.
+
+As a matter of proportionality, the court will order the preparation of a comprehensive pre-sentence report from the Probation Service prior to pronouncing the final sentence. This report should incorporate consideration of your potential suitability for community-based disposals incorporating rehabilitative programming, such as the Acquisition Offender Intervention Scheme (AOIS), debt management referrals, and tenancy support services.
+
+The probation assessment should also carefully evaluate the likelihood of your engagement with these programmes, taking into account your prior non-compliance.
+
+It is the court’s hope that a pathway towards sustained desistance can be identified to prevent further offending and reduce pressure on public services already operating at capacity.
+
+It is imperative that such interventions, if implemented, be robustly managed and monitored, to protect both your interests and those of the wider community.
+
+The sentencing hearing today has been conducted in open court. I record my gratitude to Ms Annabelle Fisher, counsel for the Crown, whose submissions were articulate and measured, and to Mr Dominic Marks, representing you under Legal Aid, whose advocacy was diligent despite procedural frustrations caused by late disclosure.
+
+For the sake of completeness, I also acknowledge the occasional administrative challenges in securing interpreters for court users noted in recent monthly judiciary reports; though none applied in your proceedings, they remain a pressing concern for access to justice.
+
+I reiterate the court’s awareness of ongoing pressures on the Probation Service in Greater Manchester, stemming from workforce constraints and rising caseloads, which may affect the implementation of community sanctions.
+
+In light of all that has been presented, I reserve sentence for a date to be fixed following receipt of the pre-sentence report, anticipated in six weeks’ time.
+
+These sentencing remarks are issued this day, 14 September 2025, in Court 5 at the Crown Court at Manchester. Proceedings have been transcribed and recorded pursuant to Part 5 of the Criminal Procedure Rules. The formal record will be supplied to sentencing authorities and relevant agencies. You are informed of your right to appeal the sentence within 28 days as prescribed by the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions under section 49 of the Children and Young Persons Act 1933 apply. Costs are reserved.
+
+These are the orders of the court.

@@ -1,0 +1,41 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/25389  
+Sentencing Remarks – His Honour Judge Jonathan S. CARRINGTON  
+Filed: 20 September 2025  
+
+Mr H stands before the court today for sentence following his conviction on two counts: engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The conduct in question is said to have occurred over a protracted period beginning in early 2023 and culminating with his arrest in February 2025.
+
+The defendant was arrested in the early hours of 15 February 2025, when officers of the South West Counter Terrorism Unit executed search warrants on premises linked to him in the St Paul’s district of Bristol. The warrants had been issued under section 43B of the Terrorism Act 2000, supported by intelligence from the Security Service obtained via intercepted communications and covert surveillance, indicating the defendant’s involvement in radicalised activity and the possession of materials related to bomb-making techniques. Upon arrest, Mr H was found in possession of electronic devices, including encrypted hard drives and mobile telephony equipment, which formed a substantial part of the evidential record.
+
+{INSERT_FACT_SNIPPET_1}
+
+This investigation, known internally as Operation FENNEC, was marked by complex inter-agency coordination involving the Security Service, Counter Terrorism Policing South West, and the Dorset and Avon Forensic Computing Unit. The operation benefitted from a high degree of technical proficiency, including the use of judicially authorised live network interception over encrypted platforms, which has been subject to periodic judicial review to ensure compliance with the Regulation of Investigatory Powers Act 2000 and human rights obligations.
+
+During the pre-trial process, the defendant was initially granted conditional bail pending trial under strict reporting and residence conditions. These bail arrangements were revoked following an application by the prosecution in light of new information suggesting continued engagement in extremist online communities. This sequence illustrates the delicate balancing act courts face between the presumption of innocence and the need to maintain public safety in terrorism-related cases.
+
+The defendant’s case has been heard in the Crown Court at Bristol, a facility established in 1976 and recently refurbished to include state-of-the-art digital evidence presentation suites. This has facilitated the seamless integration of a large volume of electronic material into court proceedings, which, while progressive, imposes a significant technical burden on court staff, who have been commended for their diligence.
+
+The very concept of sentencing for terrorist offences presents notoriously difficult challenges. The penal aims of retribution, deterrence, rehabilitation, and public protection must be carefully calibrated to the specific facts and risks posed by each defendant. This court is guided, inter alia, by the Sentencing Council’s Definitive Guidelines on Terrorism Offences (Effective from 1 April 2023), which emphasise the need for sentences that reflect the gravity of attempting to inflict indiscriminate harm, and the statutory maximum of life imprisonment that applies in such cases.
+
+It is worth observing, in passing, that the trajectories of defendants convicted of terrorism-related offences vary considerably. For some, the pathway to radicalisation is punctuated by identifiable social or psychological vulnerabilities. For others, it is a deliberate and sustained commitment to an ideological cause. Accordingly, the resources and strategies for managing risk post-custody are correspondingly diverse and necessitate multi-agency oversight under the provisions of the Multi-Agency Public Protection Arrangements (MAPPA). The defendant’s case has been included within MAPPA Category 3 arrangements since his remand committal.
+
+The prosecution was ably represented throughout the trial by Ms Alexandra Hennessy, whose accustomed professionalism was evident. Defence counsel, Mr Gareth Milford, merits acknowledgement also for his rigorous and courteous representation, notwithstanding procedural obstacles encountered, including what remains a concern regarding the responsiveness of the Legal Aid Agency to authorisation requests for expert reports on digital forensics and psychological risk assessment. Delays and resourcing challenges in that regard are a matter of ongoing public debate.
+
+It is not unremarkable, although regrettable, that the administration of justice in terrorism cases often contends with delays arising from the sheer weight and sensitivity of evidence. This case was initially listed for a plea and trial preparation hearing on 12 May 2025 but was adjourned due to incomplete disclosure of intercepted material. Thereafter, further adjournments ensued following late applications for rulings on admissibility, as well as supplementary expert opinions.
+
+Judicial review authorities such as R v. Horncastle and others [2009] UKSC 14 highlight the unsettling complexity of balancing open justice with evidence sensitivity. This court bears that ruling in mind, particularly as it relates to the confidentiality requirements surrounding material derived from human intelligence sources, which in this case formed a substantial part of the evidential corpus.
+
+Before moving on, it should be noted that the defendant’s case, while serious, is distinguished from other terrorism matters by the absence of actualised violent acts. This contrasts with cases such as R v. Mallory [2008] EWCA Crim 1624, where the offender resorted to arson and caused death and destruction. That comparison, while obvious, provides limited guidance on sentencing this case, reflecting the necessary fact-specific nature of such determinations.
+
+{INSERT_FACT_SNIPPET_2}
+
+In reviewing the digital artefacts seized, analysts from the South West Cyber Crime Unit identified a range of encrypted documents and communication logs evidencing substantial preparatory activity. Certain files were code-named using innocuous descriptors to evade detection, and included scanned images believed to be derived from an international extremist publisher proscribed under Schedule 2 of the Terrorism Act 2000.
+
+It may be helpful to observe the recent appellate treatment of “indirect” possession of terrorist materials, notably in R v. Nazir [2024] EWCA Crim 2093, where the defendant accessed extremist content via a shared network without directly downloading. Though factually distinct from the present case, Nazir serves as a jurisprudential touchstone on questions of mens rea and knowledge in this domain.
+
+{INSERT_FACT_SNIPPET_3}
+
+Further inquiry revealed that Mr H employed virtual private network (VPN) services and cryptocurrency transactions to obscure his purchases of dual-use components from overseas markets. Prosecution witnesses included technical experts who, over a three-week trial period, elaborated on the sophisticated methods of obfuscation used to mask both funding and communications.
+
+The court notes the artillery of forensic tools now at law enforcement's disposal far exceeds what was imaginable even a decade ago. This new landscape has

@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 1,
+        "choice_num": 1,
+        "snippet": "Mr H was observed placing £14 worth of cosmetics into his jacket lining before exiting the store without payment.",
+        "include": "placing £14 worth of cosmetics into his jacket lining before exiting the store without payment"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 2,
+        "snippet": "Mr H concealed £12 worth of toiletries inside his coat and left the shop without paying.",
+        "include": "concealed £12 worth of toiletries inside his coat and left the shop without paying"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 3,
+        "snippet": "Mr H was seen hiding £15 worth of over-the-counter medicines in his jacket and walking out without making a purchase.",
+        "include": "hiding £15 worth of over-the-counter medicines in his jacket and walking out without making a purchase"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 4,
+        "snippet": "Mr H placed £16 worth of skincare products into his coat lining and exited the premises without attempting to pay.",
+        "include": "placed £16 worth of skincare products into his coat lining and exited the premises without attempting to pay"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 5,
+        "snippet": "Mr H was witnessed removing the tags from £13 worth of makeup and tucking it into his inner pocket before leaving the store without payment.",
+        "include": "removing the tags from £13 worth of makeup and tucking it into his inner pocket before leaving the store without payment"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 6,
+        "snippet": "Mr H hid £17 worth of grooming items under his jacket and walked past the tills without stopping to pay.",
+        "include": "hid £17 worth of grooming items under his jacket and walked past the tills without stopping to pay"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 7,
+        "snippet": "Mr H was caught on CCTV placing £10 worth of haircare products into his coat and leaving the shop without making payment.",
+        "include": "placing £10 worth of haircare products into his coat and leaving the shop without making payment"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 8,
+        "snippet": "Mr H placed £18 worth of bath and body items inside his coat and left the store without attempting to pay for them.",
+        "include": "placed £18 worth of bath and body items inside his coat and left the store without attempting to pay for them"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 9,
+        "snippet": "Mr H concealed £19 worth of nail polish and beauty accessories in his clothing and exited the premises without payment.",
+        "include": "concealed £19 worth of nail polish and beauty accessories in his clothing and exited the premises without payment"
+    },
+    {
+        "snippet_id": 1,
+        "choice_num": 10,
+        "snippet": "Mr H was seen slipping £11 worth of personal hygiene products into his jacket before leaving the shop without paying.",
+        "include": "slipping £11 worth of personal hygiene products into his jacket before leaving the shop without paying"
+    }
+]

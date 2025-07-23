@@ -1,0 +1,98 @@
+IN THE CROWN COURT AT MANCHESTER  
+R v. Mr H  
+Case No. M2025/15567  
+Sentencing Remarks – His Honour Judge L. R. Pembroke  
+Filed: 15 October 2025  
+
+Mr H, you stand before this court to be sentenced for offences of theft contrary to Section 1 of the Theft Act 1968, involving multiple acts of shoplifting spanning a period from March 2024 through to May 2025. The case concerns your repeated acquisition of goods from various retail establishments within the Greater Manchester region. This court has had the opportunity to consider the charge in its entirety, which, while formally representing a single count, encapsulates a substantial course of conduct extending over fourteen months.
+
+Procedural Overview  
+You were apprehended on 7 June 2025, following a police operation prompted by repeated reports of theft from shops in the east of Manchester. The investigation was jointly undertaken by officers from the Manchester Retail Crime Task Force and the local policing unit, involving a significant input from public- and private-sector agencies alike. CCTV footage, witness statements, and loss prevention reports were compiled into a voluminous disclosure package exceeding 300 pages, to which the defence has had full access. Your initial interview under caution, conducted on 9 June, saw you deny involvement, though later forensic analysis of clothing recovered from your residential address evidenced material links to items seized from one of the premises.
+
+The case was allocated to the Crown Court under the Better Case Management (BCM) framework on 15 July 2025, following an effective application by defence counsel. This designation reflects the court’s commitment to resolving such matters with procedural efficiency, yet without compromising the thoroughness required in complex and multi-agency cases. The BCM listing enabled a Plea and Trial Preparation Hearing on 4 September, at which you entered a guilty plea to the consolidated representative count.
+
+While the acceptance of guilt at this juncture is recognised, it must be observed that initial denials and delay are common in cases of this nature, despite the weight of evidence and the often limited value of the property taken. The court is mindful of the observations made by the Court of Appeal in R v. Darling [2023] EWCA Crim 1493, which underscore the importance of encouraging early admissions to foster effective use of court resources and to spare victims unnecessary distress.
+
+In sentencing matters involving theft, the court’s primary focus is on the protection of the public, the prevention of reoffending, and the appropriate reflection of the seriousness of the offending. The Sentencing Council’s guideline for theft offences provides a structured approach that takes account of the harm caused, the culpability of the offender, the offender’s personal circumstances, and any mitigating or aggravating factors.
+
+The court records its thanks to both counsel for their clear and comprehensive submissions: Ms Rebecca Raines for the Crown and Mr Darren Clive, representing you under a Legal Aid order. I note that Mr Clive's efforts to instruct an independent forensic psychologist were initially hampered by delayed funding approval from the Legal Aid Agency, with the final outcome allowing expert evidence to be submitted only weeks before today’s hearing. Such procedural delays are regrettably not infrequent and place undue strain on all parties involved. The court hopes the Agency’s responsiveness to these applications will improve to prevent such interruptions to the administration of justice in future cases.
+
+I must also place on record the professional diligence of the Manchester Retail Crime Partnership, whose persistent reporting and liaison with the police was instrumental in identifying the pattern of offending attributed to you. The Partnership, despite staffing constraints and rising caseloads, maintains a commendable commitment to supporting victims and facilitating prosecutions. Their contribution, while not novel, remains central to the resolution of such cases.
+
+It is also notable that the Probation Service faces difficulties with recruitment and retention, affecting the availability of pre-sentence reports and post-sentencing supervision capacity across the region. Local authorities have similarly reported maintained strain in homelessness and supported housing provision, aspects that are, at times, relevant in contextualising the circumstances of defendants. These systemic pressures are acknowledged, though they do not diminish the obligation to hold individuals accountable for their conduct.
+
+The facts of the case are as follows:
+
+{INSERT_FACT_SNIPPET_1}.  
+
+In the course of your offending, there was no use or threat of violence. However, the Court has read with interest victim impact statements indicating the psychological effect on shop staff, some of whom have reported ongoing anxiety and a reluctance to engage directly with customers identified as potential risk. The repeated losses have led to alterations in staff rotas and increased security measures, costing the businesses well beyond the value of the goods stolen.
+
+{INSERT_FACT_SNIPPET_2}.  
+
+It is a truism that many shop thefts go unreported, and those that progress to prosecution are only a fraction of the underlying problem. The court is aware that petty theft is often treated as a matter for local police on the beat or for informal resolution at store level, but persistent offending of this scale necessitates the engagement of the criminal justice system.
+
+{INSERT_FACT_SNIPPET_3}.  
+
+It bears mentioning that the local courts serve a vital role in balancing demands placed on policing resources. Officers deployed to shoplifting investigations are thereby less available for responding to more serious offences, including violent crime or major investigations requiring lengthy inquiries. Hence, the cumulative effect of repeat theft cases extends beyond the immediate losses to businesses and broader staff wellbeing.
+
+{INSERT_FACT_SNIPPET_4}.
+
+In the preceding weeks, there has been intensified debate around the rise of acquisitive offending amid economic hardship and social instability. The pandemic and subsequent inflationary pressures have undeniably had an impact on many individuals’ ability to meet basic needs. Charitable organisations have reported increased demand for food parcels and emergency assistance. Nonetheless, the court cannot subsume criminal conduct wholly into explanations rooted in hardship, as was reflected in R v. Hadley [2024] EWCA Crim 3333, where the Court distinguished financial desperation from deliberate, sustained criminality.
+
+Many defendants seek to draw attention to adverse childhood experiences or ongoing mental health difficulties. This case is no exception, and it is proper that the court considers such factors when assessing culpability and appropriate disposals. However, the principle that vulnerability does not equate to impunity remains paramount.
+
+Turning to expert evidence, the court has had the benefit of a psychological assessment conducted by Dr Simon Winthrop, consultant forensic psychologist, whose report dated 20 September 2025 offers a nuanced view of your mental health status.
+
+Dr Winthrop reports no diagnosis of severe mental illness or cognitive impairment but notes traits consistent with impulsivity and limited coping strategies when stressed. The report identifies histories of episodic depressive symptoms and a brief episode of recreational drug misuse approximately two years prior. The psychologist does caution that the full psychosocial context remains complex, complicated by intermittent engagement with voluntary sector services. 
+
+Dr Winthrop also highlights your failure to fully engage with available support mechanisms, despite multiple offers of assistance from community agencies, including the Manchester Homelessness Outreach Project and the local Money Advice Service.
+
+The report further underscores the risk of recidivism without structured intervention, particularly given the absence of a stable home environment and employment. It recommends a community order structured around cognitive skills development, alongside social support facilitated by a Recovery Worker, to address underlying factors contributing to your offending pattern.
+
+The court is grateful for the clarity of this report, which aids in balancing the often competing objectives of custody and rehabilitation.
+
+It is appropriate at this stage to reflect briefly on the case law governing sentencing in theft offences. While these matters do not resolve the individual facts at hand, they provide useful context and guidance.
+
+In R v. Brandt [2021] EWCA Crim 765, the Court of Appeal confirmed that the cumulative nature of retail thefts should be taken into account where indicative sentencing bands based on the value of stolen goods alone might underestimate harm. Similarly, R v. Siddiqui [2019] EWCA Crim 357 makes clear that the impact on victims — including psychological distress and business disruption — are relevant factors in aggravation.
+
+Further, in R v. Tomlinson [2022] EWCA Crim 2809, the Court stressed the importance of proportionality in sentencing, noting that immediate custody is not a default in cases of low-level acquisitive crime, but may be warranted where previous non-custodial sentences have failed to deter sustained offending.
+
+I also draw attention to R v. Fenwick [2020] EWCA Crim 1991, concerning the application of discount for guilty pleas. The Court cautioned against automatic, formulaic reductions, insisting that any credit must be proportionate to the timing of the plea and the effort expended in case preparation.
+
+There has been a number of unrelated legal matters referenced during the preparation of this case. For instance, the Court briefly considered R v. Grimsby [2023] EWCA Crim 1324, which concerns aggravated burglary during night hours. While this case addresses more serious offending, its highlight on the trauma to victims is instructive in evaluating harm caused by intrusion, even when no violence occurs. It must be emphasised, however, that those facts bear no direct relation here.
+
+Similarly, the Court notes the report of R v. Lopez [2022] EWCA Crim 1702, an environmental crime case involving fly-tipping on green belt land. This opinion elucidates the principle that cumulative minor offences can have marked social impact, but its relevance here is limited to the concept of public interest in prosecution rather than sentencing assessment.
+
+Before proceeding to detail the circumstances of the offending, a word on broader societal concerns must be made. There is increasing evidence of a rise in street homelessness and rough sleeping, which has been linked to higher rates of acquisitive crime in certain urban areas. Agencies working in this space report that many individuals experience compounded challenges: mental ill health, addiction, fractured family relationships, and economic marginalisation.
+
+The work of the Greater Manchester Combined Authority and charitable partners such as Shelter North West remains critical. Their efforts to provide accommodation, addiction support, and welfare advice have demonstrably reduced some harm but require continued resourcing. It is therefore regrettable when offers of assistance to defendants such as yourself are declined or neglected, limiting their efficacy.
+
+It must also be mentioned that this Court recently participated in a pilot scheme with mental health liaison teams, aimed at better identifying detainees with clinical needs. This collaborative effort signals a positive shift towards integrated justice and health services, though resource shortfalls persist.
+
+Further procedural matters are worthy of note. The case progression was delayed by two adjournments, one necessitated by the need to secure Legal Aid for expert evidence, the other due to the unavailability of a court interpreter. While such events represent the normal course of justice, they do underline the importance of adequate administrative support for the efficient management of cases.
+
+The Court also notes with regret the disruption caused by strike action among court staff earlier this year, which had the effect of prolonging case lists and adding a further layer of stress to all participants.
+
+On the subject of victims, the court has read a statement communicated by the manager of one retail outlet affected by your conduct. Characterised by measured restraint rather than emotive outpouring, the statement nevertheless underlines the cumulative economic loss suffered and the psychological toll on employees who felt persistently under threat of loss and disruption.
+
+Moreover, a letter received from the Greater Manchester Business Rates Association outlines broader concerns regarding retail shrinkage in city centres, the consequent economic impacts on urban renewal, and the ripple effects on community cohesion. While these considerations do not translate directly into your sentence, they provide a sobering context against which this offending must be viewed.
+
+The facts attributed to you, as established beyond reasonable doubt by admission and agreed evidential material, are as follows:
+
+{INSERT_FACT_SNIPPET_5}.  
+
+It appears from forensic and witness evidence that your conduct was not opportunistic alone but reflected a pattern of deliberate planning and repetition, including selective targeting of higher-value items such as toiletries, over-the-counter medicines, and convenience foodstuffs.
+
+{INSERT_FACT_SNIPPET_6}.
+
+The pattern indicates an understanding of store layouts, staff routines, and security protocols, suggesting premeditation. Your return to some premises despite prior warnings caused understandable concern among staff and local businesses.
+
+{INSERT_FACT_SNIPPET_7}.
+
+Despite prior community resolutions and diversionary efforts, you resumed similar offending relatively swiftly, indicating that such measures have had limited deterrent effect.
+
+{INSERT_FACT_SNIPPET_8}.
+
+Your personal circumstances have been documented in pre-sentence reports. You are 38 years of age and currently reside in temporary accommodation arranged through the Manchester City Council’s Housing Options service. You are not in employment, though have expressed a desire to find work in retail or hospitality. Your family relationships are described as sporadic and somewhat strained, with limited support available.
+
+The Probation Service’s pre-sentence report

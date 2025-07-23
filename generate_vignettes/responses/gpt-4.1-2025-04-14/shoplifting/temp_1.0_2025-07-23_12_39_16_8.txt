@@ -1,0 +1,120 @@
+IN THE CROWN COURT AT MIDDLETOWN  
+R v. MR H  
+Case No. Q2026/00317  
+Sentencing Remarks – Her Honour Judge A. C. RENDALL  
+Filed: 31 March 2026  
+
+Mr H, you are before this court for sentence upon your plea of guilty to one count of shop theft, contrary to section 1 of the Theft Act 1968, said to have been committed on 9 February of this year. The offence was committed within the central business district of Middletown, in the context of ongoing, widely-reported disruption to retail operations city-wide. Sentencing today takes into account not only the record of these proceedings but also the wider statutory and societal context in which this type of offending now regrettably occurs.
+
+Procedural Background  
+The prosecution in this matter has been conducted by Ms Melanie Gore on behalf of the Crown, and I thank her for the clarity and economy with which she has approached the sometimes-labyrinthine evidential trail characteristic of persistent retail disarray. Mr Timothy Wycherley appears for the defence under a representation order, the application for which was itself subject to the all-too-common series of administrative delays now endemic within Legal Aid casework. The court is obliged to record, with regret, that the initial legal aid application, submitted on 12 February, was not formally resolved until 2 March, a delay justified in the end by little more than the Agency's ongoing transition to a new internal case management platform, the success of which remains an open question.
+
+Let me note as a matter of transparency and judicial record that today’s hearing had originally been scheduled for 18 March, but was adjourned at the request of the defence due to the unavailability of Dr Ursula Veitch, consultant forensic psychiatrist. Her subsequent report has been admitted into evidence without objection and forms part of the court bundle now under consideration. The file also contains correspondence from the Middletown Probation office, the Safer Retail Neighbourhoods Partnership, and written submissions on aggravating and mitigating features from both sides. I am further advised that a pre-sentence report may be prepared within fourteen days, subject to the Probation Service’s current staffing constraints—the latter being, it must be observed, a recurring feature since the national roll-out of the Community Rehabilitation Companies was reversed.
+
+I direct that these remarks be transcribed under Part 5 of the Criminal Procedure Rules and circulated as appropriate to the respective parties, with copies furnished to the relevant authorities under the Ministry of Justice digital disclosure directive, in force as of January this year. No reporting restrictions apply to this present hearing, and proceedings have been conducted in open court throughout.
+
+It has become depressingly typical in proceedings of this nature that defendants engaged in repeat acquisitive offending are met not with swift disposal but a cascade of procedural slippage. The mechanics of case progression—initial allocation, case management, listing conferences, and the gathering of victim impact data—have become ever more protracted. It is inescapable that the current infrastructure of the Middleshire court system, while possessed of admirable tradition, is now dangerously close to atrophy through sheer administrative exhaustion. It remains to be seen whether recent increases in central funding will do anything to alleviate this state of affairs. That said, all parties have conducted themselves with professionalism in what has become a far from straightforward context.
+
+I am advised that on the morning of 10 February, officers attended your accommodation pursuant to a warrant issued under section 8 of the Police and Criminal Evidence Act 1984, granted upon application to District Judge Siddiqi. The property search yielded items unconnected with the present charge but led to the recovery of two mobile handsets, both subsequently found not to bear relevance to the investigation. For the avoidance of doubt, these did not serve to aggravate the index offence in any material respect.
+
+It is proper to record that at no point was the court required to resolve any live issues of admissibility as regards CCTV or forensic evidence. All evidence relevant to your identification in the commission of the present offence was adduced by consent. The integrity of the investigative process, while strained under the current backlog, was not substantively impugned in this case.
+
+Wider Legal Context  
+Before turning to the facts, it is worth briefly reviewing the framework of the relevant sentencing guideline for theft, published by the Sentencing Council and operative for all proceedings after 1 February 2016. The Council, in its preamble, stresses the need for proportionality while also recognising the “disproportionate and sometimes catastrophic” impact that persistent retail theft may have upon both retail businesses and their staff. Guidance identifies particular aggravating factors relevant to sustained offending, use of systematic methods, psychological distress to victims, and the targeting of premises providing community value.
+
+It is not uncommon in this court’s experience for shoplifting prosecutions to be delayed owing to various system failures—whether in the provision of cross-store incident data or the cautious and, at times, overzealous redaction of CCTV by overworked digital evidence units. The present investigation, coordinated by PC Marta Franks of the City South Crime Team, occurred with an expedience notable for its rarity. It is also of passing relevance that this expeditiousness owed much to the support of the Retail Security Compact, a sector-focused initiative jointly underwritten by the local Chamber of Commerce and the Home Office’s Business Crime Innovation Fund.
+
+In terms of appellate precedent, I have found assistance, albeit not direct factual analogy, in the line of authorities beginning with R v. Kelwyn [2019] EWCA Crim 1695, in which the Court of Appeal confirmed that the targeting of local stores “whose viability is dependent on razor-thin margins” is to be regarded as a feature aggravating both seriousness and culpability. Kelwyn was a matter concerning a chain of newsagents, repeatedly targeted over a six-month period, with the defendant exploiting lax oversight during stock deliveries. Although violence was not used, the frequency and method suggested planning. The Court, upholding a 19-month immediate custodial sentence, reflected that the cumulative harm to commercial victims, though lacking drama, cannot safely be disregarded. It is not suggested in the present case that you resorted to the degree of organisation seen in Kelwyn, but the broader context is nevertheless useful.
+
+By way of contrast, I am obliged to register that in R v. Odusanya [2023] EWCA Crim 49, the Court considered the imposition of a community order for a single episode of low-value theft from an independent food retailer, the offending motivated by immediate destitution and accompanied by credible evidence of significant underlying trauma. The facts of Odusanya, which turned on the engagement of restorative measures, carry little resemblance to the present scenario but serve to illustrate the diversity of approaches and the import of personal mitigation.
+
+I also consider it notable, for the record, that the Sentencing Council’s 2023 addendum to the Theft Offences Guideline placed renewed emphasis on the context of “upstream supply chain instability” and consequent pressures on retail staffing—a set of circumstances undeniably reflected in the factual matrix before this court.
+
+Facts of the Index Offence  
+Turning to the facts of the present offence. Having considered the prosecution bundle in its entirety, the court is satisfied that the following outline fairly reflects the agreed basis.
+
+{INSERT_FACT_SNIPPET_1}
+
+It is a feature of cases before this court that many defendants appear to enact their offending in apparent disregard for the readily observable presence of security apparatus—whether visible (such as CCTV domes) or discrete (such as RFID tagging systems). Perhaps this speaks to a wider cynicism as to the likelihood of intervention or to a calculus in which the potential costs of apprehension are measured and accepted. In such circumstances, the value of deterrence, both prospective and immediate, remains essential to sentencers.
+
+{INSERT_FACT_SNIPPET_2}
+
+I note from victim impact material provided by the manager of the affected premises that, while the financial loss was not itself catastrophic, the psychological effect upon frontline staff was profound. It is a recurring theme in recent cases that what might once have been experienced as unfortunate background is now seen as part of an unremitting campaign of attrition—a fact not lost on this court. The statements refer to employees feeling “wary” and “unsettled” when working evening shifts after previous incidents. Such accounts, while not unique, are persuasive as to harm beyond monetary loss.
+
+{INSERT_FACT_SNIPPET_3}
+
+It is of some procedural consequence that, while you were present at the scene, your co-defendant—one Tyler N. (whose full name is withheld pending extradition proceedings)—was at large at the time of your arrest. It is not alleged by the Crown, and I accept, that you played any role in the subsequent unrelated episode involving Mr N., who was later charged with aggravated vehicle taking following an incident near Highborough Retail Park.
+
+In broader context, it must be said that the current pressures faced by retail staff, reflected in high turnover rates and escalating reports of abuse, have been attested to by the Retail Trades Confederation. Their most recent annual report—admissible here only as background—records a doubling of recorded stock loss incidents over the previous five years, with resultant implications for staff morale and customer safety.
+
+{INSERT_FACT_SNIPPET_4}
+
+Procedural Adjuncts and Irrelevant Matters  
+It is regrettable but necessary that I also place on record the procedural inconvenience occasioned by the late arrival of interpreter services in this matter, notwithstanding that the defendant’s primary language is English. The failure of the contracted interpreter to attend—despite three reminders from the court listings office—necessitated a delay of approximately ninety minutes at the initial case management hearing. No prejudice arose, but the frequency of such incidents is troubling.
+
+I further note, for completeness, the written submissions received from Mr H’s support worker at the Doorsteps Outreach Project. These submissions—while frankly more voluminous than strictly necessary—take pains to highlight the various support options available, including the Small Grants Clothing Replacement Scheme and the Pathways Back to Work Programme. Of particular note is the reference to a volunteer placement which, though not yet secured, may offer structure should the Probation Service elect to recommend a community-based disposal.
+
+It is not uncharacteristic in the current era for courts to receive unsolicited and, frankly, redundant correspondence from third parties. In this instance, the court was transmitted a letter from Ms Zara Caulfield, an associate at St. Bartholomew’s Law School, referencing the precedent set in R v. Dantham [2018] EWCA Crim 1912, a conviction for environmental fraud offences arising from the dumping of hazardous chemical waste on recreational land. While Ms Caulfield’s intentions were doubtless benign, I find Dantham’s relevance to acquisitive retail offending, save for its illustration of general sentencing principles, to be marginal at best.
+
+{INSERT_FACT_SNIPPET_5}
+
+I pause next to note that a previous, unrelated arson attack in the adjacent retail parade, currently the subject of a separate criminal investigation, caused significant delay to the reopening of neighbouring premises. While this event appears at present to have no factual link to the matter before me, it provides a useful—if regrettable—reminder of the wider vulnerability of small businesses to serial disruption.
+
+Psychiatric and Probation Reports  
+The psychiatric assessment, authored by Dr Veitch and dated 13 March, provides a clinically detailed, if at times overly technical, review of your present risk factors. You are found not to suffer from a psychotic or mood disorder, but do exhibit traits consistent with impulsivity, periodic low mood, and “persistent maladaptive coping strategies related to chronic stress exposure.” In her summation, Dr Veitch notes:
+
+“Mr H has no current diagnosis falling within the spectrum of severe mental illness. There is limited evidence of historical trauma, and his substance use, while persistent, does not appear to reach dependency thresholds on current assessment tools. His insight into the impact of his actions on others remains superficial, though he acknowledges—albeit in a somewhat formulaic manner—the harm experienced by retail staff.”
+
+The accompanying pre-sentence report synthesises these findings. The author notes that you have previously disengaged from at least two community support schemes (the Stepping Forward Project and EarlySteps housing liaison), both abandoned for reasons unarticulated in the file. The report does note sporadic participation in the StepSafe budgeting course facilitated by local partners of the probation service.
+
+In this regard, it is instructive to recall the rising importance attached to “offender pathways” in the national policy literature. The Taskforce on Repeat Crime (2022)—as cited in the probation officer’s submission—places increasing emphasis upon early, mandated engagement with relevant support services, failing which pathways to community alternatives may rapidly diminish. While the practical implementation of such recommendations often falters in the absence of sustained funding, their rationale is not in doubt.
+
+{INSERT_FACT_SNIPPET_6}
+
+The report makes passing reference to the support you received in 2024 from the Community Re-Entry Unit, including limited travel vouchers and access to emergency accommodation during the period of repeated cold weather alerts. While relevant by way of background, the practical impact of this prior engagement is at best equivocal.
+
+Absence of Serious Prior Offending  
+You are now 29 years of age and, while not unknown to this court, your criminal record prior to this episode is limited in both extent and seriousness. In particular, I note an out-of-court disposal for street begging in 2021 and a fixed penalty for unauthorised use of a bicycle on a public footpath in the prior year. The index offence is therefore to be viewed as a significant escalation, albeit in the same general context of financial instability and housing precariousness.
+
+The probation officer records that you have not previously been the subject of formal drug treatment orders nor mental health orders under the Mental Health Act. While some history of non-clinical depression is noted, no evidence of psychosis or of frank substance dependency is found. These observations are confirmed by the assessment letter of Dr Veitch.
+
+Procedural Note on Co-Defendant  
+For the sake of completeness, I record that your co-defendant’s arrest, following a circuitous police pursuit undertaken by unmarked units across the Eastborough division, was unconnected to the incident for which you stand before the court. He remains on conditional bail in relation to wholly separate allegations of attempted burglary at Leverton Road Car Spares, a matter quite unrelated to the present case.
+
+{INSERT_FACT_SNIPPET_7}
+
+Community and Societal Context  
+The last 24 months have seen a marked increase in low-level acquisitive offending across urban Midlands conurbations. The Retail Security Index, compiled quarterly by the Central Business Alliance, reports a continued upward trend, with recorded incidents of shop theft rising by 22% year-on-year since the 2022 economic downturn. Business Improvement Districts and retail collectives regularly report that their in-house loss-prevention teams—of which the affected store is a member—are approaching operational capacity. The risk that cumulative minor losses eventually compromise commercial viability is real and, if current trends continue, may be realised in due course.
+
+I am compelled to observe that much of the procedural burden now falls, by default, to those same loss-prevention officers, who are required to collate witness statements, catalogue evidential material, and liaise directly with police and local authority leads. This phenomenon, the court acknowledges, is neither unique to Middletown nor likely to abate in the foreseeable future. It is an unhappy feature of the post-pandemic reorganisation of public and private sector responsibilities for low-level crime—a realignment not universally applauded by the business community.
+
+I regret to record the difficulties that arose in securing timely witness statements from the manager of the affected store. While no fault attaches to the individual, who was recently on extended sick leave for unrelated reasons, the significant delay in compiling victim impact material was only remedied through the intervention of the area support manager of the Retail Partnership, Mr Finnegan, to whose persistence the court is indebted. I also wish to acknowledge the assistance of Ms Angela Voss, a community liaison officer with the Safer Retail Neighbourhoods Partnership, whose coordination of support for affected employees and retail managers was exemplary in the face of operational adversity.
+
+Further Red Herrings and Legal Distractions  
+It is perhaps indicative of the burdens now placed on our retail sector that the case material includes a community impact statement relating to a prior burglary at a separate premises within the same retail parade, perpetrated by a third party, one Mr L. Barbosa. Mr Barbosa forcibly entered the premises during a bank holiday closure, removing cash from the till and causing substantial damage to store fixtures. While no link has been established between this individual and Mr H, the impact statement—helpfully appended by the area manager—provides useful context as to the challenges facing local businesses.
+
+I also make reference to the recent judicial commentary in R v. Thewlis [2024] EWCA Crim 778, a matter involving the importation of counterfeit pharmaceuticals through a commercial parcel depot. In that case, the appellant, a warehouse operative at Gateway Logistics, sought to evade customs controls by falsifying consignment declarations. While the facts are far removed from those presently before this court, the judgment provides guidance as to the threshold for distinguishing between opportunistic and premeditated forms of retail offending.
+
+In the additional written submissions from the defence, two character references are included, both attesting to Mr H’s “quiet demeanor and respectful manner” during his limited periods of voluntary work. While these accounts carry some weight, it is not overlooked that consistency of conduct outside the offending context has not been established.
+
+{INSERT_FACT_SNIPPET_8}
+
+It is not insignificant that the defence have also filed a letter of support from Mr H’s social worker, Ms Priscilla Rowe, indicating engagement with the local JobCentre’s Steps2Employment project. However, it is equally noted that three scheduled appointments were missed in February and March, and that engagement with employment support has been, at best, piecemeal.
+
+Mitigation and Public Protection Considerations  
+Having reviewed all material before the court, I am satisfied that the statutory test for dangerousness is not met. The index offence, while calculated and persistent in its planning, did not employ threats or violence, nor does it raise the spectre of grave future risk. The aggravating features are primarily the persistent commercial targeting and the cumulative impact on victim confidence.
+
+Mitigating factors include your guilty plea—entered at a relatively early stage, and for which full credit will be given—your lack of serious prior offending, and the moderate but documented history of social and economic instability. It is, however, a feature of such cases that consistent non-engagement with available support services, including community rehabilitation schemes, often militates against a recommendation for non-custodial disposal.
+
+It remains a significant concern to the court, and one that will be reflected in the forthcoming pre-sentence report, that your engagement with relevant voluntary and statutory agencies has to date been sporadic and, by your own admission, based more on expediency than on genuine rehabilitative intent. The Probation Service is encouraged to consider the suitability of a structured Rehabilitation Activity Requirement (RAR), with an emphasis on sustained support for financial management and access to basic employment training. If, on assessment, your personal circumstances are deemed compatible with such an order, it will be for the service to propose an appropriate framework for delivery and supervision.
+
+While the pre-sentence report is not yet to hand, it is my expectation that the matter will be relisted within the next three weeks to permit the service to conduct an updated needs and risk assessment, with recommendations to address the dual aims of reducing reoffending and promoting compliance with orders of the court. All sentencing options—save for those inconsistent with the findings of risk assessment—will remain open at the next stage.
+
+Conclusion  
+You may wish to reflect on the practical consequences of your repeated disengagement from support mechanisms established for precisely the circumstances of your case. The court takes no pleasure in recording disappointment at yet another instance of squandered opportunity. It is to be hoped—indeed expected—that you will, even at this late stage, make material efforts toward engagement with meaningful intervention.
+
+Sentencing will be deferred pending the preparation of a pre-sentence report by the Probation Service, to be prepared within fourteen days if practicable. The matter will be relisted on the first available date thereafter. You are remanded on bail, subject to the same conditions as previously imposed. Your legal representatives are advised that any further submissions in writing must be filed by 12 noon on the working day preceding the next hearing.
+
+You are reminded of your right to appeal within 28 days of any eventual sentence imposed, in accordance with the Criminal Appeal Act 1968. No reporting restrictions apply, and costs are reserved.
+
+These are the orders of the court.

@@ -1,0 +1,10 @@
+.venv
+.vscode
+old/
+*.ipynb
+tmp/
+notes/
+__pycache__/
+notebooks/
+usage/
+setup.sh

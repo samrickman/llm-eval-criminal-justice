@@ -1,0 +1,39 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/29501  
+Sentencing Remarks – His Honour Judge L. M. FENTON  
+Filed: 12 September 2025
+
+Mr Mr H appears for sentence in respect of charges laid under section 5(1)(a) of the Terrorism Act 2006, namely conduct in preparation for acts of terrorism, and a separate charge of possession of an article for a terrorist purpose, contrary to section 57 of the Terrorism Act 2000. The conduct alleged spans a period from late 2022 through to the defendant’s arrest in March 2025.
+
+The defendant was first taken into custody on the morning of 12 March 2025. This arrest followed the execution of multiple warrants obtained under section 43B Terrorism Act 2000, conducted by officers from Counter Terrorism Policing South West (CTPSW). These searches took place at the defendant’s residential address in the Easton district of Bristol and at a secondary location linked to him in Fishponds. The warrants were supported by intelligence from the Security Service, which had, over a prolonged period, intercepted communications flagged as of interest due to the use of encrypted messaging applications known for their exploitation by extremist groups. 
+
+{INSERT_FACT_SNIPPET_1}
+
+This court acknowledges the intense multi-agency effort that culminated in the defendant’s apprehension. The investigation featured a complex matrix of digital forensics, human intelligence, and surveillance operations. Particularly noteworthy is the innovative utilisation of device-chain triangulation software, which was designed to link disparate sources of metadata in real-time—an emergent technology developed by the National Cyber Investigations Unit but still in early deployment phases across UK law enforcement. The challenges posed by such rapidly evolving technological tools illustrate the difficulty facing modern investigators. Such forensic advances, while impressive, depend heavily on analyst skill and remain vulnerable to countermeasures such as the use of layered VPNs and dead-drop remailers.
+
+It must also be observed, in passing, that the case scheduling was unavoidably affected by several incidents extrinsic to the immediate proceedings. For instance, a week-long strike by court security staff in August 2024 caused widespread disruption, leading to multiple rescheduling orders for pre-trial hearings. These delays, though exasperating for all parties, are an unfortunate manifestation of logistical strains endemic to the criminal justice system nationally. It is an undeniable fact that staffing shortfalls and industrial disputes place considerable pressure on court timetabling, which in turn can affect timely case progression.
+
+Of note also is the historical room refurbishment undertaken last year at Bristol Crown Court, which introduced modern electronic display screens and improved accessibility features. The courtroom layout, though updated for technological efficiency, remains traditional in its solemnity and atmosphere—an environment designed to underscore the gravity of the proceedings conducted within its walls.
+
+Turning to procedural matters, the defendant was initially represented by counsel appointed through the Legal Aid Agency under the standard criminal grant scheme. Early in the proceedings, the defence made formal application for the instruction of an independent expert in digital communications. Unfortunately, there were notable delays in the granting of authority for this instruction—delays that required repeated liaison between defence solicitors and the Legal Aid Casework Directorate. Whilst these issues did not ultimately prejudice the defendant’s ability to receive a fair hearing, they highlight systemic administrative obstacles that continue to bedevil complex terrorism trials.
+
+The defendant’s initial pleas at the first listing on 9 June 2025 were not guilty on both counts. However, following extensive pre-trial preparation, including the admission of voluminous digital exhibits and cross-examination of expert witnesses, Mr H entered late guilty pleas at the arraignment hearing on 21 August 2025. It is well-established that credit for a guilty plea seeks to recognise genuine remorse and the benefit conferred by avoiding a contested trial. This court, however, must stress that admissions made at or near the time of trial, particularly after full disclosure and significant resource deployment, attract only limited discount. This principle was reinforced in the recent appellate decision of R v Smedley [2024] EWCA Crim 1789, where the court underscored that late pleas provide little mitigation given the cumulative burden borne by the prosecution and the court.
+
+It is also appropriate to refer to the foundational case of R v Langford [2013] EWCA Crim 981, which sets out that sentencing discount for guilty pleas must reflect the stage at which the plea was entered, the extent of co-operation, and the degree of responsibility accepted. That judgment is instructive here, particularly in light of the defendant having maintained a not guilty plea through lengthy pre-trial hearings.
+
+{INSERT_FACT_SNIPPET_2}
+
+The defendant’s conduct must be considered within the broader legislative and policy framework. The primary statutory provisions under the Terrorism Acts, together with the relevant Sentencing Council Guidelines updated in 2023, articulate an overarching emphasis on deterrence, denunciation, and the protection of the public as pre-eminent sentencing objectives. The court’s task, as always, is to calibrate the sentence to adequately mark the seriousness of offending without being disproportionate.
+
+It is paradoxical yet true that whilst counter-terrorism legislation has been subject to robust public and academic scrutiny over the past two decades, cases such as this reveal the enduring necessity for robust powers to detect, investigate, and incapacitate those who choose violence as a means to an ideological end. The balance between civil liberties and national security remains a delicate tightrope, and the court must navigate without compromise to public protection.
+
+{INSERT_FACT_SNIPPET_3}
+
+The contest between evolution of technology and criminal craft is nowhere clearer than in the defendant’s use of encrypted storage devices and the creation of concealed partitions within digital media. These are tactics increasingly deployed by those seeking to obfuscate their planning and operational activities. The National Technical Assistance Centre (NTAC), tasked with decrypting proprietary formats, devoted over 450 man-hours to the defendant’s devices alone, underscoring both the sophistication of his approach and the resultant investigative complexity.
+
+In considering case law analogies, it is salutary to recall the decision in R v Owens [2019] EWCA Crim 2107, which dealt with a defendant convicted of possession of explosive precursors whose materials were encrypted and stored in cloud environments. The court held that the technological sophistication of concealment equated to an aggravating circumstance, reflecting higher culpability and intent.
+
+{INSERT_FACT_SNIPPET_4}
+
+Whilst the defence argued that some materials found could relate to lawful interests, including a series of model rocketry manuals and historical texts on political philosophy from the mid-20th century, this court concurs with the Crown that the totality

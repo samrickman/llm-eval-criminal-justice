@@ -1,0 +1,79 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/29820  
+Sentencing Remarks – Her Honour Judge E. W. PERRIN  
+Filed: 14 October 2025  
+
+Mr H appears before this court for sentence on one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, together with one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct is alleged to have taken place between September 2022 and his arrest on 19 January 2025.
+
+The defendant was apprehended early on the morning of 19 January 2025 at his residence in Easton, Bristol, when officers from the South West Counter Terrorism Unit (SWCTU) executed a warrant authorised under section 43B of the Terrorism Act 2000. The warrant followed extensive surveillance and intelligence collation arising from an investigation started in late 2023 after intelligence reports highlighted increasing encrypted communications streaming between the defendant’s online accounts and overseas hosts known for disseminating extremist material. Seized during the search were several encrypted electronic devices, improvised components, and various writings.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+This investigation emerged from a collaboration between multiple agencies including SWCTU, the National Cyber Crime Unit, and the Security Service. The digital investigative work was complex and resource intensive, involving decryption attempts hindered by the defendant’s use of layered cryptographic protections, virtual machines, and ephemeral internet routing through an array of VPN services. It is worth noting that the National Digital Exploitation Centre was involved and prioritized the case owing to the potential for serious public harm as indicated by intercepted communications referencing known extremist manifestos.
+
+In the several months during which the defendant was released on conditional bail, the court became aware of significant administrative delays within the Legal Aid Agency, especially in authorizing defence expert instruction for digital forensic analysis and psychiatric evaluation. Such delays required multiple adjournments and re-bail applications under section 47 of the Police and Criminal Evidence Act 1984, imposing strain on the court timetable and prolonging the period before full case disclosure could be effected. These administrative hurdles are well-documented elsewhere and represent a continuing challenge to practitioners and defendants alike.
+
+It is on record that Mr H was initially referred to a Channel intervention panel in March 2020 following concerns raised by a local high school teacher who observed his increasingly isolated behaviour and online activity espousing certain politicised grievances. Despite offers of intervention, engagement was minimal and intermittent, and the referral was subsequently discontinued after six months. The court acknowledges the difficulties inherent in early intervention and the limitations of predictive models in assessing future risk based on adolescent behaviours.
+
+A plea and trial preparation hearing sat on 3 September 2025. The defendant initially pleaded not guilty, maintaining this stance until the eve of trial, at which point he entered a plea of guilty to both counts. Counsel submitted that this plea was a full acceptance of responsibility. The Crown noted the lateness of the plea, and the court is mindful that such delayed admissions reduce the degree of credit to which the defendant might otherwise be entitled, consistent with principles established in appellate authority.
+
+In this regard, the court recalls the well-established jurisprudence guiding the assessment of credit for guilty pleas. As the Court of Appeal recently reiterated in R v. Clare [2024] EWCA Crim 1013, the discount for a guilty plea reflects both mercy for acceptance of responsibility and a practical recognition of saved court time and spared victim and witness trauma. However, a plea entered late, particularly at or shortly before trial, when the weight of evidence is incontrovertible, often reflects a tactical calculation rather than genuine remorse, justifying a markedly reduced discount.
+
+The defendant’s conduct must be understood within this framework. The court also considers the related appellate authorities of R v. Grayson [2023] EWCA Crim 1316, which involved a defendant convicted of conspiracy to import Class A drugs with a history of delayed guilty pleas, and R v. Hopkins [2021] EWCA Crim 859, relating to the importation of a prohibited weapon, both demonstrating the criticality of timing and motive in plea submissions. Though those cases differ materially in the conduct involved, the guiding principles on plea credit bear direct application here.   
+
+Turning to these authorities, the court notes the defendant’s actions were investigated with painstaking diligence and disrupted prior to completion, but nonetheless involved planning and possession reflecting serious culpability. The maximum sentence available for the offence under section 5 of the Terrorism Act 2006 remains life imprisonment, and sentencing must be calibrated in a manner that reflects the overall gravity, culpability, and risk to the public.
+
+{INSERT_FACT_SNIPPET_2}  
+
+Among the evidential exhibits were forensic linguistic analyses of the defendant’s online aliases and postings. These demonstrated an escalation from initially apolitical commentary on local community issues to increasingly strident expressions of ideological animus and justification for violence. The material contained references to proscribed entities and appeared to mirror the stylistic devices of propaganda disseminated by internationally recognised terrorist groups.
+
+{INSERT_FACT_SNIPPET_3}  
+
+Digital forensic examination revealed an encrypted container labelled “LegacyOps” that included detailed schematics and instructional videos demonstrating the manufacture and deployment of improvised explosive devices. The defendant’s fingerprints were identified on several component parts recovered from his residence. Defence submissions argued that some materials were incomplete or inaccessible due to file corruption, but established case law, including R v. Bellamy [2019] EWCA Crim 701, confirms that possession of incomplete manuals may suffice where intent is otherwise clearly demonstrated.
+
+{INSERT_FACT_SNIPPET_4}  
+
+In terms of ancillary findings, police also seized a modest quantity of CBD oil and a home-brew kit in the kitchen area. These were submitted on behalf of the defence as evidence of benign personal interests. The court records these particulars, but observes—consistent with previous jurisprudence—that such items are irrelevant to the determination of the severity or nature of the terrorism-related offending.
+
+Separate from the core case, there is a procedural note concerning a co-defendant, currently at large, who faced unrelated charges of robbery involving the theft of copper cable from a railway depot. Such matters are peripheral to the current defendant’s proceedings and will be addressed in due course through separate channels.
+
+{INSERT_FACT_SNIPPET_5}  
+
+Of particular note was the defendant’s attendance at a conference in Brussels in October 2023. While purporting to attend as a delegate of a humanitarian organisation, travel records and intercepted communications suggest an alternative purpose involving contact with individuals later proscribed in connection with extremist recruitment. The defendant’s passport stamps and hotel bookings corroborate geographic presence but not direct participation. Defence counsel contended against inferring nefarious intent from mere presence, but the court considers the contemporaneous communications and digital footprint to be compelling indicators of intent.
+
+Operational disclosures ran extensively to volumes exceeding 900 items, including numerous intercepted communications, forensic science reports, and witness statements, many necessitating sensitive redactions. This underscores the ongoing tensions courts face in balancing open justice with the protection of sensitive information and national security concerns.
+
+It is worthy of note, though irrelevant to this sentencing, that one of the defendant’s neighbours recently lodged a noise complaint against an unrelated tenant in the same apartment block. Similarly, the landlord received a notice from Environmental Health concerning minor waste accumulation outside the building. Such matters, while commonplace in urban settings, bear no material connection to the issues presently under consideration.
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial investigation uncovered several cryptocurrency transactions moving unaccounted sums through mixing services including “ShadowPool.” One payment of approximately £1,800 was traced to an online vendor specialising in dual-use chemical precursors, raising concerns about the defendant’s procurement methods. The opaque nature of these transactions presents significant challenges for investigators, a fact echoed in parliamentary debates on crypto regulation published in the House of Commons Library Report 2024/78, but beyond the remit of this court.
+
+Digitally recorded surveillance footage of the defendant is voluminous and difficult to convey in summary. For instance, analysts expended over 200 hours of screen time to verify a brief 12-minute episode of nocturnal activity along the River Avon embankment during which Mr H was observed removing packages from a concealed location. While this observation bore significance for prosecution, it also illustrates the disproportionate workload borne by investigative teams increasingly reliant on technological, yet understaffed, infrastructures.
+
+In separate local criminal matters, there is record of a probation officer associated with the area who was arrested in 2024 on suspicion of misconduct unrelated to terrorism offending. Although tangential, such events inevitably amplify pressures on an overstretched service and are symptomatic of wider systemic difficulties.
+
+The defendant’s background is similarly mixed. He is 31 years old, holds a degree in software engineering from a university in the West Midlands, and was most recently employed as a contract software developer before termination in July 2022 following a dispute regarding data privacy investigations by his employer. Character references describe him as “reserved, methodical, and somewhat socially withdrawn.” A letter from a community allotment society praises his volunteer efforts in urban horticulture, an activity the defence highlights as evidence of positive civic engagement.
+
+{INSERT_FACT_SNIPPET_7}  
+
+Dr Meryl Ashford, a consultant forensic psychiatrist instructed for the defence, conducted a detailed assessment, concluding that Mr H exhibits features consistent with “obsessive ideation and rigid cognitive framing,” but does not meet criteria for any formal severe mental illness. The risk assessment classifies him as posing a “high risk of serious harm,” particularly in terms of ideological fixation and technological competence. Dr Ashford recommends a combination of intensive supervision and targeted cognitive-behavioural therapy post-release should release become available.
+
+The court notes ongoing correspondence from community outreach organisations operating in Bristol. The Easton Family Support Group commented in a letter that they have attempted structured engagement with Mr H since 2023, though with limited success partly due to the defendant’s sporadic attendance and guarded disposition. The letter emphasises the resource constraints faced locally and the ongoing need for adequately funded, specialist deradicalisation initiatives.
+
+The court further acknowledges, with appreciation, the diligent work of police officers involved in Operation CITADEL, a prolonged investigation engaging with significant intelligence complexity and inter-agency cooperation among regional policing divisions, forensic specialists, and national security entities.
+
+Ultimately, this was a meticulously planned and well-resourced venture. The defendant’s technological knowledge and operational awareness placed him in the higher culpability bracket under the Sentencing Council’s 2023 Terrorism Guidelines. Aggravating features are manifold, including the deliberate use of encryption, the sophistication of procurement methods, and the intended potential for significant civilian harm.
+
+Mitigating factors remain limited to Mr H’s lack of previous convictions, his degree-level education, and the belated guilty pleas entered. Such pleas provide some mitigation, though, as previously stated, their proximity to trial diminishes the degree of credit that can be granted.
+
+{INSERT_FACT_SNIPPET_8}  
+
+The court directs the preparation of a comprehensive pre-sentence report. The probation service is requested to consider recommendations concerning community-based cognitive interventions adapted for extremist ideological disengagement, the possibility of residence in approved premises with appropriate electronic monitoring, and the feasibility of sustained multi-agency public protection arrangements including liaison with mental health services specialized in forensic risk management.
+
+This case highlights the complex interplay between technological innovation, psychological proclivity, and the persistent efforts required by criminal justice agencies to protect the public. Though the court is mindful of the paramount importance of safeguarding civil rights and fairness, it must not lose sight of the overarching duty to protect innocent life and maintain public confidence in the rule of law.
+
+These sentencing remarks are issued this day, 14 October 2025, in Court 5 at the Crown Court at Bristol. They have been transcribed according to the requirements of Part 5 of the Criminal Procedure Rules. The formal record of conviction and sentence will be forwarded to the appropriate registries and enforcement bodies.
+
+These are the orders of the court.

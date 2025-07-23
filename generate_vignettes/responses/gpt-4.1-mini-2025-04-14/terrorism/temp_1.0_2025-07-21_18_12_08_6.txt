@@ -1,0 +1,41 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/27854  
+Sentencing Remarks – Her Honour Judge F. L. CALLAGHAN  
+Filed: 18 September 2025  
+
+Mr H appears in this court today for sentence upon a number of offences under the Terrorism Act 2006, including engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a), and possession of articles for a purpose connected with terrorism under section 57 of the Terrorism Act 2000. The conduct alleged spans a period from November 2022 through to his arrest in January 2025.  
+
+The defendant was apprehended at approximately 04:45 on 15 January 2025 at his residence in the Lawrence Road area, following the execution of a warrant authorised under section 43B of the Terrorism Act 2000 by officers attached to Counter Terrorism Policing South West (CTPSW). The warrant was precipitated by intelligence indicating activity on encrypted messaging applications associated with Mr H’s known pseudonym. Physical and digital searches were undertaken, resulting in seizure of multiple electronic devices and assorted materials.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The origins of this investigation are instructive in appreciating the complexities of contemporary counter-terrorism policing. The inquiry combined signals intelligence, human source information, and digital forensics, representing a collaboration across regional commands and the Security Service. Notably, the investigative team utilised a technique colloquially referred to as “metadata stitching,” whereby discrete and seemingly innocuous pieces of communication data are joined to reveal a more comprehensive picture. Such methodologies exemplify the evolving nature of evidence-gathering in the digital age, often necessitating prolonged analysis before actionable conclusions can be drawn.  
+
+During the pre-trial phase, the court observed several delays owing to the intricate nature of the disclosure process. Particular challenges arose concerning classified intercept material, requiring closed material procedures pursuant to the Justice and Security Act 2013. These procedures impose significant legal and administrative burdens on all parties, and must be carefully balanced against the defendant’s right to a fair trial under Article 6 of the European Convention on Human Rights. The case also saw adjournments due to resourcing pressures within the Legal Aid framework, specifically concerning funding for specialist forensic expertise. These difficulties, regrettably commonplace in complex terrorism matters, reflect wider systemic challenges confronting the justice system in the administration of counter-terrorism cases.  
+
+The court also notes the involvement of the regional Prevent engagement team, which had previously received referrals relating to the defendant’s behaviour between early 2020 and mid-2021. Despite attempts at early intervention directed through local educational and community outreach programmes, the efforts to divert the defendant from extremist ideology were ultimately unsuccessful. That said, the submissions from the Prevent team to this court were measured and professional, underscoring the necessity of such schemes whilst acknowledging their inherent limitations in cases of entrenched radicalisation.  
+
+There were also numerous references in the defence case to Mr H’s participation in community theatre productions and local music ensembles during his teenage years, as well as a brief spell working as a library assistant. While such biographical information undoubtedly relates to the defendant’s character and background, this court must be mindful to weigh it carefully, ensuring that it neither exculpates nor diminishes liability for serious offences.  
+
+A plea and trial preparation hearing was convened on 3 August 2025, at which Mr H entered pleas of not guilty. The matter was then listed for trial, set to commence in early September. Following extensive evidence presentation and expert forensic testimony, the defendant altered his position on the first day of the trial, entering pleas of guilty to all counts. The late nature of this turning point tempers the quantum of sentencing credit available.  
+
+As has been judicially noted on multiple occasions, pleas entered at such a late stage, including after the full preparation for a contest, cannot attract the same level of reduction as those tendered promptly. The Court of Appeal decision in R v. Thorne [2023] EWCA Crim 1520 makes clear that credit on sentence is fundamentally grounded in a timely acceptance of responsibility for the offence, which by its nature mitigates the impact on victims and the public purse alike. When pleas are entered only after exhaustive evidence disclosure, witness preparation, and jury empanelment, the benefit conferred is necessarily diminished.  
+
+Turning to sentencing principles, the offences before this court attract a maximum penalty of life imprisonment in the most serious instances. The Sentencing Council’s Terrorism Offences Definitive Guideline 2023 provides a framework for assessing culpability and harm, with particular regard to the degree of sophistication, planning, and intent to cause indiscriminate or mass harm. Emphasis is rightly placed on deterrence and the imperative of protecting the public from harm arising from terrorism.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant’s electronic communications demonstrated a progressively radicalised narrative, adopting rhetoric consistent with proscribed organisations, and sharing material recognised by CTPSW analysts as incitement to violence. Importantly, this court finds that Mr H’s activities bear hallmarks of self-generated extremism, rather than passive consumption, as demonstrated by his attempts to engage others to consider extremist ideology and promote such views within online forums.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+A thorough forensic examination uncovered a hidden encrypted container on a portable hard drive, which investigators accessed after weeks of computational efforts. Inside were technical manuals, schematics, and notes relating to the manufacture of improvised explosive devices. Some of these contained hand-written annotations in English, indicating an understanding sufficient to carry forward the manufacture of such devices. The presence of these materials signifies a level of commitment beyond mere ideological sympathy.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+In mitigation, the defence suggested some of the images of locations and objects found on Mr H’s devices might be attributable to an interest in urban exploration and photography. It was posited that the logging of certain GPS coordinates could be innocent documentation rather than reconnaissance. The court, however, in light of contextual evidence and expert analysis on the use patterns, rejects this as an implausible explanation given the cumulative nature of the digital data.  
+
+The court also heard references to the defendant’s attendance at a licensed martial arts club and a brief history of amateur boxing bouts. While physical fitness and discipline through sport may offer general benefits, these are not relevant to the offences committed and cannot afford mitigation beyond character references submitted for consideration.  
+
+The court acknowledges the submission from the Probation Service concerning the ongoing challenges they face with overloaded caseloads and limited specialist risk assessment resources. Particularly noteworthy is the strain on community rehabilitation teams tasked with managing offenders

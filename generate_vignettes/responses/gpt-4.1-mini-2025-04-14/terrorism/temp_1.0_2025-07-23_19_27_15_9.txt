@@ -1,0 +1,89 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/34529  
+Sentencing Remarks – His Honour Judge F. L. DRAKEFORD  
+Filed: 18 August 2025  
+
+Mr H stands before this court for sentencing on charges arising under the Terrorism Act 2006, specifically one count of preparing acts of terrorism contrary to section 5(1)(a), and one count of possession of an article for a purpose connected to terrorism under section 57 of the Terrorism Act 2000. The period under scrutiny extends from late 2022 through to the defendant’s arrest in early 2025.  
+
+The defendant was arrested at approximately 04:20 hours on 15 January 2025 pursuant to a series of warrants executed by Counter Terrorism Policing West Midlands (CTPWM). The warrants followed extensive intelligence work conducted over many months, framed within Operation STANDWELL, which itself spanned a collaborative effort involving CTPWM intelligence officers, digital forensic specialists from the National Cyber Crime Unit, and the Security Service. At the time of arrest, several pieces of electronic media were seized, including encrypted routers, an array of USB drives, and hard copy manuals, the significance of which is addressed elsewhere.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The scale and complexity of the investigative endeavour cannot be overstated. It spanned numerous operational techniques including the use of sensitive intercepts authorised under the Regulation of Investigatory Powers Act 2000. The evidential process required the integration of covert surveillance data, open-source intelligence, and painstaking real-time reconstructions of encrypted communications. A particularly notable aspect was the protracted effort to decrypt what was initially believed to be an impossibly layered Tor network traffic, which necessitated liaison with foreign law enforcement bodies under mutual legal assistance treaties. This process extended operations by several months yet was vital in establishing the defendant’s precise role within a wider network.  
+
+The court is reminded, in this context, of the procedural novelties introduced by the Better Case Management (BCM) regime within terrorism trials, designed to expedite the resolution of complex dossiers and safeguard witness welfare. BCM protocols here operated as contemplated, though not without notorious delays attributable to the sheer volume of digital material—amounting to in excess of 2.7 terabytes—requiring review. One must also acknowledge that the court schedule in Birmingham has faced substantial strain recently, owing both to ongoing strike actions among court clerks and adjustments to statutory listing periods following recent Criminal Procedure Rules amendments.  
+
+Similarly, the defendant’s legal team encountered hurdles in securing timely Legal Aid funding for specialist digital forensic experts. These obstacles—while regrettable—are not unique; they are regrettably endemic across the country and pose serious questions for equitable access to justice in highly technical cases demanding expert involvement.  
+
+In an entirely unrelated but procedurally relevant matter, it is recorded that the complainant in a distant but contemporaneous Birmingham case involving a series of arsons caused by an individual convicted under the Arson Act 1971 presented a notably measured demeanour in her victim personal statement. While that case bears no direct relationship to the current proceedings, the court mentions it to showcase the often-overlooked human dimension accompanying criminal justice processes.  
+
+The initial appearance was held before the Birmingham Magistrates’ Court on 22 January 2025, at which time the defendant was formally remanded into custody. At the subsequent Plea and Case Management Hearing (PCMH) on 19 March 2025, Mr H entered pleas of not guilty. His initial legal team requested an adjournment to review substantial disclosed materials, a request that was granted after interlocutory consultations by consent.  
+
+The court notes that between arraignment and trial there were multiple applications, including a late Defendants' Disclosure Application made on 10 July 2025, seeking permission for the defence to rely on untested expert evidence drawn from a report commissioned privately from an overseas consultant specialising in open-source signals intelligence. The application was ultimately refused on the grounds of non-compliance with the requisite disclosure timetable set out in the Criminal Procedure Rules Part 15. These procedural skirmishes did not unduly delay conclusion but consumed considerable court resources.  
+
+The court attended a mid-trial sentencing timetable review on 27 July, conducted by the appointed judge of the trial. This was necessitated by the emergence of new material presented by the Crown, consisting of a series of uncontrolled social media posts authored under an anonymous pseudonym. The crown case was bolstered substantively by this revelation, although defence submissions challenged the authenticity and authorship vigorously, specifying the distinct possibility of digital impersonation.  
+
+Throughout the pre-trial period, the prosecution relied heavily on digital forensic accounts from the National Cyber Crime Unit. Their expert, Ms Caroline Fennell, testified at trial to a detailed chain of custody for seized devices and provided an accessible yet exhaustive breakdown of the cryptographic protocols encountered, including the complexities of nested AES encryption and the use of plausible deniability in encrypted volumes. Ms Fennell’s evidence was not only pivotal but also emblematic of the skill and resource intensity currently demanded by counter-terrorism investigations as noted in recent Parliamentary Committee submissions on policing priorities.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant’s online activities formed a substantial part of the evidentiary matrix. Notably, he maintained a series of web forum accounts under various handles, some with records dating to 2020, which gradually escalated in extremist content. Linguistic experts called for the prosecution analysed the defendant’s posts and found recurring use of coded language consistent with communications identified in prior convictions of proscribed organisations.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Digital files extracted from encrypted drives included several bomb-making manuals, improvised explosive device test logs, and weapons acquisition correspondence. Intriguingly, some items bore the marks of incomplete download or partial erasure, a circumstance previously litigated in R v. Bakar [2022] EWCA Crim 181, confirming that incomplete materials must nonetheless be assessed in context. The defence argued these were merely archival curiosities, unconnected with any intent—an argument neither accepted nor dismissed but carefully weighed alongside other evidence.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Among the disclosures was a recovered encrypted chat transcript in which Mr H discussed potential acquisition of substances – notably a chemical precursor the defence comparable to garden-supply products – alongside more generic discussions of drones and payload delivery. While counsel for the defence submitted that such dialogue was speculative and derivative of innocent scientific interest, the prosecution’s analysis depicted it as flirtation with practical application.  
+
+The court records that the defendant was found in possession of a bicycle with modifications suggestive of potential use as a covert transport mechanism, though no charge was brought in relation to this item. Firmly separate and unrelated to the defendant, the court notes with concern the conviction in 2023 of an individual elsewhere in Birmingham for fly-tipping hazardous waste on protected green belt land – an environmental offence with no connection save for geographic coincidence.  
+
+Reverting to procedural matters, it is notable that the defendant’s trial was held in Court 12, newly refurbished with enhanced audiovisual equipment to facilitate remote evidence and simultaneous translation. This modernisation, as the Presiding Judge remarked on a separate occasion, reflects necessary investment even as court budgets are constrained nationally.  
+
+The court is also mindful of correspondence from the West Midlands Prevent Hub, whose engagement with Mr H commenced in September 2021 following a referral made by a college tutor concerned by certain marked political opinions expressed in coursework. Despite intervention offers, contact proved sporadic. The Prevent team report with commendable candour that Mr H’s engagement faded after initial curiosity and that no sustained de-radicalisation work was feasible.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Defence counsel placed substantial reliance on a personal statement tendered on Mr H’s behalf by his younger sister. In her letter, she portrays her brother as a “lost soul battling mental health difficulties” and insists he “never intended to cause harm.” She chronicles their shared upbringing in a deprived neighbourhood, the impact of parental bereavement in 2018, and expresses hope for rehabilitation. The court is obliged to assess such material with empathy but equally with vigilance toward evidential weight.   
+
+The adult social care team involved detail a history of diagnosed depressive episodes, treated intermittently with antidepressant medication. A home locality community psychiatric nurse, Ms Farah Ahmed, provided a report describing elements of emotional instability and social isolation but found no indication of psychosis or psychopathy.  
+
+The sentencing report prepared by the Probation Service is detailed and meticulous. It warns of the considerable risk Mr H poses if left unmanaged, especially given his apparent technological acumen and ideological conviction. The report also notes, as is lamentably common, that the Probation Service remains severely stretched, particularly in its capacity for specialist handling of terrorism-related cases. Staffing shortages, exacerbated by recent leave and attrition, have constrained programme availability in the West Midlands.  
+
+The court draws from R v. Kalil [2019] EWCA Crim 346 the principle that even in the context of mental health afflictions, a custodial sentence may be appropriate where the offence reveals clear public danger, reaffirming the careful balance between therapeutic need and justice.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial records disclosed show evidence of cryptocurrency purchases and transactions, notably a transfer of £3,940 via Bitcoin to an as-yet unidentified recipient labelled by investigators as “AlphaForge.” The complexity of crypto transactions is well understood. While there are legitimate uses for such currencies, the court notes the consistent findings in recent reviews by the Home Office that cryptocurrencies have become a preferred medium for illicit transactions relating to extremism funding and weapons procurement.  
+
+The court further observes the significant demands placed on digital forensic analysts, exemplified in this case by the hours dedicated to recovering deleted files and reconstructing fragmented data. It is a distressing irony that these sophisticated investigations are hampered by underinvestment and technological backlogs that risk allowing truly dangerous material to slip between cracks.  
+
+Conversations documented in covert audio surveillance highlight Mr H’s expressed frustrations with mainstream political processes and his expressed desire to “spark change by force.” Such statements were often delivered in tones of veiled menace but carefully qualified to avoid explicit advocacy of violence. Defence submissions invoke freedom of expression safeguards, citing European human rights jurisprudence. While those rights remain vigorously protected, the court is cognisant that freedom ends when incitement to terror begins.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Turning to the defendant’s background, Mr H is 31 years old, with educational credentials including a BSc in electrical engineering from a regional university. His former employer describes him as a “promising technician” whose abrupt resignation in mid-2023 coincided with a failed probation review. This period corresponded with increasing contact with persons of extremist orientation online.  
+
+The defendant volunteered for a local environmental conservation charity until early 2024, assisting with community planting initiatives. While commended, the court notes that such activity, while admirable, does not mitigate offences of the gravity presently demonstrated. Similarly, Mr H’s reportedly neat and legible personal handwriting is a minor biographical detail with no bearing upon culpability.  
+
+Psychological assessment by Dr Richard Glynn, a consultant forensic psychiatrist, reveals traits consistent with obsessive-compulsive tendencies and notable cognitive inflexibility. No major mental illness is diagnosed. Dr Glynn cautions regarding the defendant’s elevated risk of disengaging negatively from interventions without robust structure and oversight. The report stresses the importance of considered multi-agency risk management post custody.  
+
+The court further received correspondence from the East Bromwich Resettlement Network, a voluntary organisation specializing in reintegration of individuals convicted of terrorist-related offences. Their submission highlights the chronic underfunding of support services and urges caution in premature release decisions absent comprehensive risk management frameworks.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+The sentencing framework for offences under section 5(1)(a) of the Terrorism Act 2006 is firmly established in both statute and guidance. The Sentencing Council’s Terrorism Offences Definitive Guideline (issued February 2023) emphasises factors such as the defendant’s level of engagement, sophistication of planning, readiness to progress to violence, and degree of remorse. Case law remains instructive: R v. Gul [2013] UKSC 64 and R v. Kahar [2016] EWCA Crim 568 continue to be cited as archetypal references for determining culpability. Notably, R v. Alahmedalabdaloklah [2019] EWCA Crim 678 clarified the purposes of sentence as being public protection, deterrence, and denunciation in terrorism contexts.  
+
+The court is mindful of mitigation pleaded on Mr H's behalf, including his relative youth, absence of previous convictions, educational achievements, and late but unequivocal guilty plea. Nonetheless, the overall assessment must reflect the considerable seriousness of the conduct, the real risk posed, and the public interest in clear denunciation of such offences.  
+
+A pre-sentence report has been commissioned with instructions to assess the feasibility of imposing extended determinate sentences with accompanying licence conditions aimed at restricting association and internet use, alongside participation in recognised disengagement programmes such as the Channel Plus scheme or bespoke cognitive-behavioural interventions curated for extremism-associated radicalisation. The report is further to consider the applicability of Approved Premises, along with technological solutions including digital monitoring.  
+
+The court accepts with respect the submission of defence counsel that rehabilitative efforts ought not be discounted and that successful reintegration is the ultimate goal. However, the gravity of terrorist-related offending possesses innate features challenging those aims. The court directs that the probation service liaise with relevant mental health providers to ensure continuity of care.  
+
+I thank counsel for the Crown, Ms Eve Mallory, and counsel for the defence, Mr Julian Prescott, both of whom have made diligent and professional submissions throughout the course of these proceedings. I note also the valued assistance of the court clerks and ushers who have maintained an orderly and efficient courtroom environment despite a recent refurbishment partly delayed by asbestos remediation works.  
+
+I reserve sentence to a final hearing set for 12 September 2025. At that time I shall receive the pre-sentence report and give full consideration to all relevant factors, including any representations arising thereafter. The defendant is reminded of his right to appeal in accordance with statutory provisions.  
+
+These are the orders of the court.

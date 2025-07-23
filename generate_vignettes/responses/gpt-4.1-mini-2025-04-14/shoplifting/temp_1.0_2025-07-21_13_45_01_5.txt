@@ -1,0 +1,105 @@
+IN THE CROWN COURT AT LEEDS  
+R v. MR H  
+Case No. X2025/04731  
+Sentencing Remarks – Her Honour Judge L. S. Cartwright  
+Filed: 15 September 2025  
+
+Mr H, you stand before this court for sentence on a single representative count of theft, pursuant to section 1 of the Theft Act 1968, arising out of a series of incidents involving shoplifting that occurred over the course of the last eighteen months within the West Yorkshire area. The indictment alleges a pattern of conduct dating from February 2024 through June 2025, focused on multiple retail locations including convenience stores, pharmacies, and discount outlets. The court is tasked with imposing a sentence reflective not only of the statutory framework but also informed by the broader context in which such offending persists and the individual circumstances of the defendant.
+
+Procedural History  
+This case has proceeded through several stages over the past fourteen months. You were initially arrested on 2 July 2025 after an investigation by the Leeds Retail Policing Unit, working in conjunction with the City Business Crime Partnership and local Safer Neighbourhoods Teams. The enquiry was triggered by an accumulation of reports from various retail outlets suffering repeated theft, amounting to a pattern suggestive of organised or habitual behaviour.
+
+Investigative work included the review of CCTV footage from fifteen retail premises, witness statements from multiple employees, and the collation of Incident Prevention Officer logs. The police activated standard protocols for acquisitive crime and liaised with the Crown Prosecution Service, who authorised charges on 5 August 2025. Throughout, the defendant was bailed under strict conditions, including a curfew and prohibition on entering local shopping precincts, pending the trial preparation hearings.
+
+Significantly, the case management process under the Criminal Procedure Rules and Better Case Management initiatives proceeded in a generally timely fashion, notwithstanding unavoidable delays related to awaiting defence disclosure and referral for psychiatric evaluation. Defence counsel made several formal applications for additional time to instruct expert reports which the court allowed in the interests of fairness, balancing the need for expedition with the defendant’s rights under the European Convention on Human Rights.  
+
+It is worth remarking on the efficiency with which the Business Crime Partnership and the West Yorkshire Retailers Coalition coordinated input to assist the prosecution in assembling a coherent evidential package. This contrasts markedly with systemic deficiencies observed elsewhere, where such cases often founder upon insufficient collaboration or incomplete intelligence sharing. The involvement of retail victim support charities and the Police Crime Prevention Unit further exemplifies the multi-agency approach currently advocated in tackling persistent acquisitive offending.
+
+In the context of legal aid provision, this matter again underscores the growing challenges confronting practitioners and courts alike in securing appropriate funding authorisation for psychological and forensic expertise. The application process was subject to repeated procedural queries by the Legal Aid Agency over the course of several months, delaying the commissioning of a clinical assessment until early August 2025. This echoes concerns expressed in recent reports on the operational strain faced by the justice system where bureaucratic obstacles risk compromising timely resolution and equitable legal representation.
+
+The court notes, without elaboration, the importance of continued reform in this area to prevent such administrative burdens from becoming de facto barriers to the fair administration of justice. After all, an effective justice system is predicated on not only impartial judgment but also on accessible professional support enabling robust defence and transparent prosecution alike.
+
+The plea history of this case is instructive. Initially, on first appearance, you elected to enter a not guilty plea. However, by the plea and trial preparation hearing held on 9 September 2025, following service of extensive CCTV evidence and witness statements, you elected to enter a plea of guilty, albeit not at the earliest opportunity. This late admission has significant sentencing implications, as explicated in the Court of Appeal’s reasoning in R v. Pennock [2019] EWCA Crim 1152, which recognised the proportionality principle in credit for guilty pleas: the timing of the plea corresponds to the degree of procedural economy achieved.
+
+Whilst the right to trial is fundamental, it is appropriate to note that late pleas prolong the distress to victims and the public expense incurred. They also impede the ability of the court to allocate resources efficiently. The discount afforded for guilty pleas must thus be calibrated carefully in each case to send the correct message regarding timely acceptance of responsibility.
+
+Reference to Relevant Case Law and Sentencing Frameworks  
+The legal underpinning of theft offences remains within the Theft Act 1968, where section 1 defines the essential components and mens rea. The Sentencing Council’s guideline on theft offences, last revised in 2021, provides a structured framework, emphasising factors such as the value of goods stolen, the level of planning involved, the presence of aggravating circumstances including breach of trust or targeting of vulnerable victims, and previous convictions for similar behaviour.
+
+Recent appellate authority is pertinent. In R v. Fletcher [2023] EWCA Crim 78, a case concerning sustained shoplifting from multiple convenience stores employing distraction tactics, the Court of Appeal held that persistence and evidence of planning could justify immediate custody, even where individual incidents involved low-value items. The cumulative impact on victims and communities was acknowledged as heightening culpability.
+
+Similarly, R v. Dawes [2020] EWCA Crim 2304 dealt with theft involving repeat shoplifting from pharmacies supplying over-the-counter medicines, emphasising the harm to staff confidence and the potential public health implications of stolen goods entering unauthorised channels.
+
+I would also cite R v. O’Leary [2018] EWCA Crim 964 where the defendant was convicted of aggravated theft and harassment, underscoring that repeat offending coupled with disregard for prior warnings can merit custodial sentences, especially where behaviour compounds the trauma experienced by victims.
+
+The court recognises these cases provide useful guideposts, though each relies on its own contextual facts and the specific nature of offending.
+
+It is appropriate to place these proceedings within the evolution of the Crown Court system itself. Established in the mid-20th century to hear more serious indictable matters, this tier of judiciary is designed to balance judicial expertise with procedural formality. The landmark Criminal Procedure Rules 2015 have contributed to enhancing case management and reducing unnecessary delays, although resource constraints persist.
+
+The court also recognises recent challenges in public perceptions of the judiciary and law enforcement, particularly amid social media discourses that sometimes trivialise or distort the impact of acquisitive crimes. It remains incumbent on the justice system to maintain public confidence by demonstrating seriousness and proportionality in response.
+
+Contemporary operational pressures on the Probation Service are well documented. Recent reports by Her Majesty’s Inspectorate of Probation highlight staffing shortages and increasing caseloads in community supervision, with wider implications for managing offender risk in acquisitive crime cohorts. It is hoped that forthcoming funding injections and strategic reforms will improve service delivery, but, as matters stand, capacity constraints limit the availability of tailored interventions for defendants such as Mr H.
+
+Similarly, the NHS Mental Health Trust faces marked demand and prolonged waiting lists for adult psychological therapies. Wait times for cognitive-behavioural therapy in the Leeds area have extended beyond twelve months in many cases, limiting access for individuals with impulsivity or substance misuse issues who might otherwise benefit from early intervention.
+
+The following paragraphs now move to the facts of the offending behaviour, as I am obliged to recount them to provide the necessary context for sentencing.
+
+{INSERT_FACT_SNIPPET_1}
+
+{INSERT_FACT_SNIPPET_2}
+
+The factual basis comprises multiple episodes of theft from retail premises involving concealment of goods beneath clothing and coordination to distract staff. Surveillance footage frequently depicts you entering stores during peak hours, selecting concealed items primarily across cosmetics, over-the-counter medications, and electronic accessories. Several incidents included efforts to remove security tags or alarms, although no evidence suggests you wielded tools beyond easily accessible implements.
+
+{INSERT_FACT_SNIPPET_3}
+
+Further analysis uncovered a pattern of exploiting staff engagement with other customers, which reflects a degree of sophistication and premeditation rather than mere impulsivity. The pattern indicates an encouragingly methodical approach designed to evade detection.
+
+{INSERT_FACT_SNIPPET_4}
+
+{INSERT_FACT_SNIPPET_5}
+
+Statement evidence from employees reveals adverse consequences beyond the monetary value of stolen property. Some witnesses describe anxiety, diminished workplace morale, and changes to staffing rotas to mitigate the risk of being alone on shifts. One part-time cashier recounted feeling compelled to seek a transfer following repeated encounters with you.
+
+{INSERT_FACT_SNIPPET_6}
+
+{INSERT_FACT_SNIPPET_7}
+
+The record shows you have declined or missed multiple appointments offered by outreach services and probation officers aimed at addressing underlying needs. Repeat police warnings and community resolutions appear not to have deterred the conduct, thus compounding aggravation.
+
+{INSERT_FACT_SNIPPET_8}
+
+Expert and Risk Assessments  
+I have had the benefit of a comprehensive psychiatric report prepared by Dr Olivia Sanders, consultant forensic psychiatrist, dated 28 August 2025. Dr Sanders finds no diagnosis of major mental illness, but notes traits consistent with borderline impulsivity and moderate anxiety. Importantly, the report stresses the absence of any psychotic symptoms or acute substance dependence, although mild alcohol misuse was self-reported.
+
+The psychiatric evaluation confirms a borderline capacity for self-regulation and low resilience to stress, factors that may partly explain but do not excuse persistent offending. In forensic terms, Dr Sanders assesses a moderate risk of reoffending in similar patterns without engagement in structured rehabilitation.
+
+The probation pre-sentence report, compiled by Senior Probation Officer Mark Whitmore, aligns broadly with this assessment. It highlights your unstable housing situation, lack of steady employment, and limited social support network — all factors known to correlate with criminogenic need. The report advocates for cognitive skills programmes focusing on offending-related thinking, as well as closer attention to financial management and substance misuse.
+
+While the public finances must be prudently managed, it remains clear that community resources are limited and overstretched. Charitable organisations working in Leeds, such as SafeSteps and Lighthouse Project, report increasing demand alongside funding shortfalls. Their efforts to assist individuals with chaotic life circumstances — offering advocacy, emergency aid, and referral pathways — are laudable but insufficient to meet aggregate need.
+
+It is important to acknowledge, if only in passing, the broader societal trends that frame cases like this. The rise in street homelessness and the increased prevalence of begging in urban centres contribute to a fraught public space, where tolerance and sympathy often exist alongside frustration and mistrust. These factors intersect with rising rates of acquisitive crime in a complex web that challenges simple solutions.
+
+Your own background includes a history of childhood adversity and intermittent school exclusion. However, no evidence was before the court of involvement with organised criminal groups, coercion, or association with violent offending. Your previous convictions, including two cautions and four convictions for theft-related offences over the last five years, paint a picture of persistent but non-violent offending.
+
+While the court appreciates the submissions made on your behalf by Mr Niall Fraser, solicitor advocate, arguing for leniency on the grounds of mitigating circumstances and ongoing hardship, the shortcomings in compliance with prior diversion programmes cannot be overlooked.
+
+Sentencing Considerations  
+The court accepts your plea of guilty, entered prior to full trial preparation, though necessarily not at the earliest practicable point. A moderate degree of credit will therefore be applied in accordance with the Sentencing Council guidelines.
+
+The offences in question display aggravating features: they are repetitive, targeted at vulnerable retail staff, and conducted in a way that displays planning and awareness of detection risks. The cumulative impact on victims and communities is more than the sum of individual monetary losses; it includes psychological injury and disruption to business operations.
+
+While the courts recognise the social and economic pressures that may underpin such offending, these factors cannot eclipse the necessity of individual accountability. The message must be that persistent offending will not be tolerated or excused merely by reference to life difficulties.
+
+It is also germane to note the court’s regard for recent appellate commentary in R v. Malkinson [2024] EWCA Crim 1562, affirming that custodial sentences for persistent acquisitive crime should be reserved for cases of clear escalation or where community supervision is insufficient to protect the public.
+
+At this juncture, it remains uncertain whether such measures would be sufficient in your case, given the pattern of non-compliance to date. A full risk and needs assessment is therefore necessary.
+
+To this end, I will adjourn sentencing to allow the preparation and submission of an up-to-date pre-sentence report. That report should consider your suitability for programmes designed to address acquisition-seeking behaviour as well as the feasibility of community-based sentencing options incorporating rehabilitation activity requirements. Particular attention should be paid to your engagement with support services and ability to comply with structured supervision.
+
+These matters must be treated with the gravity they deserve because, ultimately, the primary aim of sentencing in similar cases is to protect the public, deter future offending, and encourage rehabilitation where possible.
+
+The court wishes to record its thanks to all agencies involved in case progression and support, including the Leeds Business Crime Reduction Partnership, the Safer Leeds Team, and charity representatives who provided written submissions. Their contributions are invaluable, notwithstanding the operational challenges they confront daily.
+
+In closing, I acknowledge that the physical fabric of this courtroom was recently refurbished following significant building works. Such investment in judicial infrastructure, though often unseen by the public at large, serves to enhance the dignity and solemnity of the proceedings conducted within these walls.
+
+I

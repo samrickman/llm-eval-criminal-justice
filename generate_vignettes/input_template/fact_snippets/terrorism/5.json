@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 5,
+        "choice_num": 1,
+        "snippet": "Mr H drafted a social media post set for timed release linking to South Manchester Synagogue with the caption tick tock.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 2,
+        "snippet": "A scheduled post recovered from Mr H’s device contained a Google Maps link to South Manchester Synagogue with the phrase tick tock.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 3,
+        "snippet": "Officers found a Buffer-scheduled tweet containing a link to South Manchester Synagogue followed by a countdown-themed message.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 4,
+        "snippet": "One of the recovered posts linked to South Manchester Synagogue and was queued to publish five minutes after a prior message titled Statement Before the Storm.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 5,
+        "snippet": "The second post in Mr H’s Buffer queue included a map link to South Manchester Synagogue and appeared timed to follow a threatening message.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 6,
+        "snippet": "A scheduled social post discovered on the defendant’s phone featured South Manchester Synagogue as the linked location with an implied warning.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 7,
+        "snippet": "Investigators located a social media sequence in which Mr H shared South Manchester Synagogue’s location five minutes after an ominous prelude post.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 8,
+        "snippet": "Mr H used a scheduling app to time a tweet linking to South Manchester Synagogue, accompanied by a caption suggesting urgency or countdown.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 9,
+        "snippet": "A social media draft recovered from Mr H’s device linked to South Manchester Synagogue and was set to publish shortly after a threatening statement.",
+        "include": "South Manchester Synagogue"
+    },
+    {
+        "snippet_id": 5,
+        "choice_num": 10,
+        "snippet": "Digital evidence revealed a delayed post targeting South Manchester Synagogue, released shortly after a message titled Statement Before the Storm.",
+        "include": "South Manchester Synagogue"
+    }
+]

@@ -1,0 +1,83 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/25984  
+Sentencing Remarks – His Honour Judge N. J. CARRINGTON  
+Filed: 18 September 2025  
+
+The defendant, Mr H, appears before this court for sentence upon his conviction following a jury trial on two counts: engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with the commission of terrorism under section 57 of the Terrorism Act 2000. The offending conduct spans the period from March 2023 to his arrest in December 2024.  
+
+The proceedings in this matter have been protracted and at times labyrinthine, reflective both of the complexity inherent in terrorism-related prosecutions and the procedural challenges that attend the so-called digital age. The initial arrest of Mr H occurred at 04:37 hours on 19 December 2024, following the execution of warrants pursuant to section 43B of the Terrorism Act 2000 at his residence in Aston. Those warrants were predicated on intercept intelligence from the Security Service indicating that encrypted communications connected with him had contained references to unlawfully obtained explosive schematics. On the date of seizure, law enforcement officials recovered an array of electronic devices including multiple external hard drives, encrypted smartphones, and manufacturing components consistent with improvised explosive devices.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The investigation, denominated Operation Kestrel, encompassed a multi-agency effort which spanned 36 weeks. The Counter Terrorism Command of West Midlands Police collaborated closely with forensic cyber-analysts drawn from the National Crime Agency’s Digital Forensic Unit. The latter’s role was critical in decrypting and reconstructing electronically concealed evidence, much of which was protected using advanced cryptographic protocols, including blockchain verification techniques and virtual private network (VPN) anonymisation. The resources expended reflect the acute demands placed on specialised investigative teams in counter-terrorism operations.  
+
+A notable procedural episode arose during evidential disclosure. The National Security Cyber Unit notified the court of a requirement to apply for a public interest immunity certificate concerning intelligence material that, if disclosed in open court, might prejudice ongoing overseas operations. The court acceded to a closed material procedure, pursuant to section 6 of the Justice and Security Act 2013, thereby balancing the need for open justice against national security considerations.  
+
+The case was originally listed for trial at Birmingham Crown Court on 12 May 2025 but was subject to adjournment due to defence counsel’s application for additional time to obtain expert forensic analysis. This was granted after representations citing the backlog within the Legal Aid framework, manifesting the ongoing difficulties defence teams experience in securing funding and access to appropriate specialist expertise in cases of this nature. The Legal Aid Agency’s administrative processes continue to hinder timely preparation, a matter deserving of governmental attention beyond the remit of this court.  
+
+Prior to trial, a Channel referral dated July 2022 was made on behalf of Mr H by a staff member at a local community college following expressions of extremist sympathies articulated in his coursework. The Channel panel, convened under the statutory Prevent program, decided not to pursue prolonged intervention citing an absence of corroborative evidence of imminent risk. The ramifications of this early engagement—or lack thereof—are not for this court to assess in hindsight but are documented here in the interests of completeness.  
+
+During the trial preparation hearing convened on 3 August 2025, the defendant’s initial not guilty pleas were maintained. However, the jury returned verdicts of guilty on both counts following a 15-day trial concluding on 10 September 2025. The evidential tapestry was woven with wiretap transcripts, forensic device extraction reports, and witness testimony from counter-terrorism experts.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Subsequent to the jury’s verdict, much attention was given at sentencing to the offender’s digital footprint. Expert evidence illustrated Mr H’s online communication pattern evolving from ostensibly innocuous discussions about mechanical engineering to the sharing and dissemination of manuals governing the manufacture of explosive devices, including use of improvised chemical precursors. The court emphasises that, despite the defendant’s attempt to claim these materials reflected purely academic interest, the purposeful curation and concealment of such data—combined with contextual factors—indicate a criminal intention aligned with terrorist objectives.  
+
+The court is mindful not to overstate digital proclivities as dispositive of intent. Yet, in an era where radicalisation increasingly manifests within virtual enclaves, proper weight must be accorded to the intersection of technological engagement and extremist purpose. This is a societal challenge transcending judicial caution and necessitating interdisciplinary collaboration. At the same time, occasional references to Mr H’s participation in online forums dedicated to vintage model railways—while fascinating as cultural artefacts—do not bear materially upon matters of culpability.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+A further dimension comprised the material forensics of possession. Among the digital artefacts uncovered within encrypted partitions was a substantial cache of instructional videos and schematics relating to the assembly of improvised explosive devices. Forensic analysts noted that several files were encrypted twice and required bespoke decoding software compiled expressly for this case. Defence submissions argued that the presence of incomplete or corrupted files suggested Mr H had not fully engaged with the instructions, a contention the jury implicitly rejected in weighing the evidence. The court itself finds that the adaptive effort invested to conceal these materials only underscores the defendant’s awareness of their illicit character.  
+
+Accompanying the digital evidence was physical material seized from the defendant’s residence, including specialist chemical compounds usable in improvised explosives. An intriguing, albeit irrelevant, item was a decorative, vintage railway lantern bearing dissenting unionist insignia, recovered from a CD rack. It has no palpable link to the charges but serves as a reminder of the eclectic miscellany that can inhabit the living spaces of even those engaged in heinous offences.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Turning to procedural histories with no direct bearing upon the case, note must be made of a 2018 fixed penalty notice issued to Mr H for cycling on a city centre pavement during a period of increased policing around public demonstrations. The fine was paid, and the matter regarded as closed. While it may speak to character in a very peripheral sense, it does not inform risk assessments relevant to terrorism offending. Likewise, mention of a non-criminal neighbourhood noise complaint residing with the landlord of the defendant’s previous lodging on King’s Avenue during 2021 is noted only for completeness; no link to the present offending has been established or suggested.  
+
+At various junctures, the court was provided with references from community organisations, including the Selly Oak Open Gardens Society, commending Mr H’s volunteer efforts in horticultural maintenance. While such contributions are commendable in their own right, they provide no shield against accountability for deliberate preparation of terrorist acts. It is incumbent upon this court to weigh such factors judiciously, recognising that civic virtue in one field does not erase malevolent intent in another.  
+
+The court further acknowledges receipt of correspondence from the Black Country Resettlement Trust, a charity specialising in supporting individuals transitioning from custody under multi-agency public protection supervision. They have expressed a cautious commitment to engaging with Mr H post-release, contingent upon risk management frameworks. Their involvement is appreciated, as is the previously noted role of the West Midlands Counter-Extremism Unit, whose outreach efforts, though occasionally rebuffed by the defendant, continue to represent an important element of the State’s deradicalisation strategy.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+During the investigation phase, Mr H had travelled to Brussels in February 2024. The trip was ostensibly for the purpose of attending a conference on sustainable urban infrastructure. However, upon closer examination, travel data shows that during this time he had multiple engagements at locations known to host public events connected with extremist ideological sympathisers. There is no evidence that the conference itself was linked to terrorism, and no material suggests that Mr H engaged in illicit activities abroad. Nevertheless, the court must consider the overall context in which this travel occurred.  
+
+Precedent in sentencing necessitates careful scrutiny of conduct both domestic and international. The Court of Appeal in R v. Siddiqui [2017] EWCA Crim 1656 established the principle that foreign travel undertaken for ostensible innocuous reasons does not preclude inference of intention where other elements of preparatory conduct are present. This principle echoes similarly in the present circumstance.  
+
+The court also notes that during the period of remand, the defendant maintained correspondence with a cousin involved in separate proceedings concerning benefit fraud in the Midlands. That relative’s background bears no relevance to Mr H’s own offending and should not be conflated in any assessment of personal culpability or risk.  
+
+Considering mental health assessments, Dr Imogen Pierce of the Midlands Centre for Forensic Psychiatry provided an extensive report dated 7 September 2025. She describes the defendant as demonstrating "rigid cognitive frameworks with a predilection towards absolutist ideological constructs" but diagnoses no psychotic or major mood disorder. She underscores the potential complexity of disengagement from extremist belief, advising that tailored psychological intervention would be necessary but not sufficient for risk reduction absent systemic management.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial investigations carried out by the Financial Investigations Unit revealed cryptocurrency transactions implicating Mr H. Specifically, a transfer of the equivalent of £3,100 was traced from a wallet associated with his known pseudonymous identity to a vendor on a darknet marketplace. While the precise nature of the goods transacted is unconfirmed, forensic experts opine the marketplace is a nexus for dual-use materials, including those suitable for weapons fabrication. The court registers this as a serious aggravating component, given the increasing use of digital currencies to circumvent traditional financial controls.  
+
+This underlines the need for enhanced regulatory cooperation internationally. It also sheds light on an evolving challenge to law enforcement: how to respond to crimes perpetrated across technological and jurisdictional frontiers, where traditional models of investigation are often inadequate.  
+
+A point of operational interest pertains to the extraordinary length of time spent analysing CCTV footage from the defendant’s local environment. Three hundred and seventy man-hours were devoted to reviewing 24-hour coverage over a 14-day period from multiple, overlapping camera systems. The drift from public enthusiasm for technological surveillance to a more tempered appreciation is salutary. These technologies, while invaluable, demand considerable human oversight—something often underappreciated in public discourse.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Mr H is now 31 years old. He holds an honours degree in applied physics from a provincial university, and was employed as a junior technician by a telecommunications firm until his dismissal in August 2023 following an internal disciplinary process regarding unauthorised access to company servers. His line manager provided a reference describing him as “methodical and diligent,” yet also remarking on periods of social withdrawal and distraction noted shortly before termination.  
+
+Letters submitted in mitigation from a local chapter of the British Amateur Radio League attested to Mr H’s active engagement in hobbyist electronics and communications, painting a picture of a technically gifted individual whose intellectual curiosity was commendable absent the subsequent deviance into extremist activity.  
+
+The court would also acknowledge a further letter from the East Birmingham Food Bank, recognising voluntary participation by Mr H in meal preparation programs during the Christmas period of 2022. While laudable, these contributions are insufficient to mitigate the gravity of his offending conduct.  
+
+The court is, however, compelled to observe the increasingly fragile state of probation services within the West Midlands region. Chronic staffing shortages have introduced significant limitations in terms of case supervision and rehabilitation provision. Such systemic fragility weighs heavily on the broader justice framework attempting to manage cases like that of Mr H.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+Prof. Harrison Lee, forensic psychologist retained by the defence, concurs with the diagnosis of cognitive rigidity but adds that Mr H evidences some capacity for self-reflection and acknowledges the potential impact of structured intervention. Both experts agree that release without ongoing, intensive supervision presents a considerable risk to public safety. The court invites Probation to consider High Intensity Psychological Support (HIPS) programs, alongside electronic monitoring and licence conditions restricting internet access and geographic movement.  
+
+The mitigation tendered includes Mr H’s absence of prior convictions and partial cooperation manifested after trial, as well as his educational background. However, amelioration is strictly circumscribed by the elevated culpability and the clear intent manifest in the planning.  
+
+By virtue of the late plea and the lack of early admissions, credit is restricted to a single-sixth reduction, consistent with sentencing principles elucidated in R v. Dyer [2021] EWCA Crim 1430. The custodian sentence must reflect the primary objectives of deterrence, punishment, and protection of the public.  
+
+In light of the foregoing, the court directs the preparation of a full pre-sentence report by the Probation Service. This should address suitability for intervention programs such as the Desistance and Disengagement Programme, assess risk of further extremism, and explore ancillary needs including accommodation, employment, and mental health provision. The report should also specifically consider the feasibility of imposing an Extended Determinate Sentence with ancillary licence conditions to manage ongoing risk.  
+
+These sentencing remarks are issued this day, 18 September 2025, in Court 4 of the Birmingham Crown Court. They have been recorded in accordance with Part 5 of the Criminal Procedure Rules. A formal transcript is maintained on the court record. The defendant is reminded of his statutory right to appeal conviction and/or sentence within 28 days pursuant to the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions apply pursuant to section 49 of the Children and Young Persons Act 1933. Costs are reserved.  
+
+These are the orders of the court.

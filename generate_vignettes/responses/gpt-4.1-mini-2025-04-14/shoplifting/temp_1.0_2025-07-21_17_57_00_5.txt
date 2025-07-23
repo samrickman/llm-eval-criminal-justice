@@ -1,0 +1,42 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. MR H  
+Case No. B2025/14899  
+Sentencing Remarks – His Honour Judge L. M. Pendleton  
+Filed: 3 September 2025  
+
+Mr H, you stand before this court to be sentenced for conduct adjudged to constitute theft contrary to section 1 of the Theft Act 1968. The offending occurred over the period spanning late 2023 through early 2025 and involved numerous incidents of shoplifting in various commercial premises located principally within the Birmingham metropolitan area. Your case is being managed under the Crown Court’s current framework for acquisitive fraud and dishonesty offences.  
+
+Procedural Background  
+Your arrest followed an extended, multi-faceted inquiry conducted by officers from Birmingham Central Police District, in collaboration with the Birmingham Business Crime Reduction Partnership (BBCRP). The BBCRP is a localised body established to facilitate intelligence gathering between retailers, law enforcement, and community agencies in responding to repeat and organised acquisitive offences. Its origin traces back to a 2011 Home Office pilot intended to reduce retail-related crime through coordinated action. You were subject to surveillance and electronic tracking supported by judicial authorisation pursuant to the Regulation of Investigatory Powers Act 2000, following a submission vetted by the local magistrate’s court.  
+
+The court acknowledges the valuable role played by the BBCRP, though it is widely accepted that the partnership’s operational impact varies widely across regions due to structural funding constraints and variations in institutional commitment. The system here, for better or worse, featured the customary challenges of data sharing, fragmented oversight, and personnel turnover. Nevertheless, the BBCRP’s efforts culminated in the assembly of a case file that included CCTV footage, store discrepancy logs, and statements by retail staff across a five-month period.  
+
+The case was listed before this court initially for a plea hearing on 12 May 2025. Due to an original denial of culpability, the proceedings have been protracted, involving a plea and trial preparation hearing, supplementary evidential submissions, and a recent psychiatric assessment commissioned on 14 June 2025 upon request of your defence. That report was provided by Dr Sophia Corbyn, consultant forensic psychologist, whose evaluation bears on your mental state and potential mitigation. Legal Aid coverage for the instruction of this expert was, regrettably, delayed — a common and ongoing issue this court has expressed concerns about in preceding remarks, including R v. Beckett [2024] EWCA Crim 1187, where similar funding impediments were observed.   
+
+The Crown is represented today by Ms Fiona Marshall, who has conducted the prosecution with diligent professionalism throughout. The defence is represented by Mr Oliver Grant, instructed through a Legal Aid representation order, whose submissions on your behalf have been measured and appropriately framed in light of the evidence.  
+
+The operation of Better Case Management (BCM) protocols in this instance has been followed with reasonable fidelity, notwithstanding a brief adjournment occasioned by defence requests for further disclosure and report reviews. The local court registry experienced unanticipated system outages on two dates—7 March and 18 April—which further complicated listing arrangements. These operational challenges, while frustrating, reflect the systemic pressures endured by justice institutions nationwide. It remains imperative that administrative efficiency is improved, particularly when cases carry implications for public safety and community confidence.  
+
+I am aware, Mr H, that the court layout here in Courtroom 5 was refurbished earlier this year, incorporating enhanced audio-visual equipment intended to facilitate remote evidence and live link testimony. The aim is to reduce procedural delay, though the transition has been imperfect. On no fewer than three occasions during this trial cycle, technical interruptions affected proceedings, most notably on 23 June. The Registrar’s staff are sincerely thanked for their patience and diligence in managing these incidents — an oft-overlooked contribution to the delivery of justice.  
+
+The Crown case rests on the following general factual matrix and evidential material.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+Throughout the relevant time frame, the police and BBCRP assembled multiple incident reports and corroborating video evidence. These depicted repeated entries into retail premises, with the defendant employing techniques consistent with established shoplifting methods—concealment, distraction, and strategic timing aligned with staff shift changes. Such techniques have been extensively studied in criminological literature, notably by Ferrett and Longstaff (2017), who describe the evolution of ‘extreme opportunism’ in retail theft as a form of rationalised criminality facilitated by reduced surveillance and transient staffing patterns.  
+
+In relying upon that evidence, the court notes carefully the distinction made in R v. Bowen [2019] EWCA Crim 1031, where the Court of Appeal held that pattern behaviour is relevant not only to establishing guilt but to sentencing, given that it demonstrates a persistent, wilful engagement in offending despite prior opportunities for remediation.  
+
+It is also appropriate to remark upon the general social context in which acquisitive crime occurs. Birmingham has, over the last decade, experienced periods of economic flux, with a concomitant rise in transient populations, increased street-level insecurity, and fraying of traditional community oversight mechanisms. These factors, while not excusing unlawful behaviour, form the ambient backdrop against which this court evaluates culpability, risk, and potential for rehabilitation.  
+
+There are those who argue that the recent proliferation of social media platforms such as TikTok and Instagram has contributed to a culture of performative deviance, wherein young offenders exploit viral fame to glamorise petty theft or shoplifting as a form of rebelliousness or digital spectacle. Though no direct evidence implicates you in such activity, it would be naive to disregard the potential influence of such societal factors on decision-making, particularly for those from marginalised or vulnerable backgrounds.  
+
+Parallel to the criminal investigation, several local voluntary organisations have been engaged to provide support to retailers affected by shoplifting. The Retail Support and Recovery Network (RSRN) submitted a detailed report to the court highlighting the psychological pressure faced by shop floor employees, including increased anxiety, disruptions to work patterns, and a significant erosion of morale. These observations are congruent with findings published by the National Institute for Economic and Social Research in 2024, which noted that repeat shoplifting accounts for upwards of 40% of staff absenteeism in affected sectors.  
+
+An adjourned hearing scheduled for 19 July 2025 had to be postponed due to a staffing shortage at the city’s probation office, occasioned by an unexpected outbreak of influenza amongst case managers. This unforeseen shortage caused a delay in the completion of your pre-sentence report, as probation officers were redirected to urgent caseloads within domestic violence and mental health liaison teams.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Much is made, in submissions, about the appropriate degree of credit to be afforded for guilty pleas in cases of this nature. It is well established that sentencing discounts for a plea are intended to reflect not only the early acceptance of responsibility but also the public interest in the timely disposal of litigation and the sparing of witnesses the distress attendant upon contested trials.  
+
+The Court of Appeal’s decision in R v. Hamilton [2022] EWCA Crim 1250 remains instructive; there the court emphasised the diminution of credit where pleas are entered at a late stage, particularly where evidential strength is overwhelming and no genuine mitigation is disclosed until the eve of trial

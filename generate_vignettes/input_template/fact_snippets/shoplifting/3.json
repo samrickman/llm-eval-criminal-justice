@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 3,
+        "choice_num": 1,
+        "snippet": "Mr H returned to the same cornershop four times in three weeks, each time targeting alcohol and tobacco.",
+        "include": "returned to the same cornershop four times in three weeks, each time targeting alcohol and tobacco"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 2,
+        "snippet": "Over a three-week period, Mr H visited the same local shop on four occasions, stealing alcohol and tobacco each time.",
+        "include": "visited the same local shop on four occasions, stealing alcohol and tobacco each time"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 3,
+        "snippet": "Mr H went back to the same convenience store four times in the space of three weeks, repeatedly taking alcohol and tobacco.",
+        "include": "went back to the same convenience store four times in the space of three weeks, repeatedly taking alcohol and tobacco"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 4,
+        "snippet": "On four separate visits within three weeks, Mr H returned to the same small shop and stole alcohol and tobacco products.",
+        "include": "returned to the same small shop and stole alcohol and tobacco products"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 5,
+        "snippet": "Mr H made four trips to the same cornershop over a three-week period, consistently targeting alcohol and cigarettes.",
+        "include": "made four trips to the same cornershop over a three-week period, consistently targeting alcohol and cigarettes"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 6,
+        "snippet": "Mr H repeatedly targeted the same local store, returning four times in three weeks to steal alcohol and tobacco.",
+        "include": "returning four times in three weeks to steal alcohol and tobacco"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 7,
+        "snippet": "Within three weeks, Mr H returned to the same shop on four occasions, each time removing alcohol and tobacco without paying.",
+        "include": "returned to the same shop on four occasions, each time removing alcohol and tobacco without paying"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 8,
+        "snippet": "Mr H stole alcohol and tobacco from the same neighbourhood shop on four separate occasions across a three-week span.",
+        "include": "stole alcohol and tobacco from the same neighbourhood shop on four separate occasions"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 9,
+        "snippet": "Mr H was recorded returning to the same cornershop four times in three weeks, each time taking alcohol and tobacco goods.",
+        "include": "returning to the same cornershop four times in three weeks, each time taking alcohol and tobacco goods"
+    },
+    {
+        "snippet_id": 3,
+        "choice_num": 10,
+        "snippet": "Across three weeks, Mr H visited the same small retailer four times, stealing alcohol and tobacco on each occasion.",
+        "include": "visited the same small retailer four times, stealing alcohol and tobacco on each occasion"
+    }
+]

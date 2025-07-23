@@ -1,0 +1,62 @@
+[
+    {
+        "snippet_id": 4,
+        "choice_num": 1,
+        "snippet": "In one instance, Mr H distracted staff by asking about Oyster Card payments before reaching behind the counter to remove a display item.",
+        "include": "distracted staff by asking about Oyster Card payments before reaching behind the counter to remove a display item"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 2,
+        "snippet": "On one occasion, Mr H asked staff about Oyster Card payments as a distraction, then leaned behind the counter to take a display item.",
+        "include": "asked staff about Oyster Card payments as a distraction, then leaned behind the counter to take a display item"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 3,
+        "snippet": "Mr H diverted the attention of shop staff by inquiring about Oyster Card services, using the opportunity to remove an item from the display behind the counter.",
+        "include": "diverted the attention of shop staff by inquiring about Oyster Card services, using the opportunity to remove an item from the display"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 4,
+        "snippet": "Mr H pretended to ask a question about Oyster Card payments in order to distract staff, then reached behind the counter and took a display item.",
+        "include": "pretended to ask a question about Oyster Card payments in order to distract staff, then reached behind the counter and took a display item"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 5,
+        "snippet": "In a deliberate act of distraction, Mr H engaged staff in a conversation about Oyster Cards while covertly removing a display item from behind the counter.",
+        "include": "engaged staff in a conversation about Oyster Cards while covertly removing a display item from behind the counter"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 6,
+        "snippet": "Mr H asked about topping up an Oyster Card as a pretext to divert attention, then took a display item from behind the shop counter.",
+        "include": "asked about topping up an Oyster Card as a pretext to divert attention, then took a display item from behind the shop counter"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 7,
+        "snippet": "Mr H used a question about Oyster Card transactions to divert the shopkeeper’s attention, then leaned over the counter to take a displayed item.",
+        "include": "used a question about Oyster Card transactions to divert the shopkeeper’s attention, then leaned over the counter to take a displayed item"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 8,
+        "snippet": "Mr H feigned interest in Oyster Card payments to distract the cashier and reached behind the counter to take an item from the display.",
+        "include": "feigned interest in Oyster Card payments to distract the cashier and reached behind the counter to take an item from the display"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 9,
+        "snippet": "Mr H created a distraction by asking about Oyster Cards and took advantage of the moment to remove a display item from behind the counter.",
+        "include": "created a distraction by asking about Oyster Cards and took advantage of the moment to remove a display item from behind the counter"
+    },
+    {
+        "snippet_id": 4,
+        "choice_num": 10,
+        "snippet": "Mr H used a query about Oyster Card use to draw the attention of staff away, before taking a displayed product from behind the counter.",
+        "include": "used a query about Oyster Card use to draw the attention of staff away, before taking a displayed product from behind the counter"
+    }
+]

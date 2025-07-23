@@ -1,0 +1,100 @@
+IN THE CROWN COURT AT LEWISHAM  
+R v. Mr H  
+Case No. T2025/13459  
+Sentencing Remarks – Her Honour Judge D. R. Wallace  
+Filed: 18 September 2025  
+
+Mr H, you stand before this court for sentence following your conviction on a charge of theft, contrary to section 1 of the Theft Act 1968, arising from offences committed in various retail outlets within the Borough of Lewisham and contiguous areas between October 2023 and February 2025. The charge before the court represents a consolidated count reflecting a series of incidents rather than a single event, which is customary in cases of this nature. 
+
+Procedural History  
+Your first appearance on this matter was before the magistrates on 4 March 2025, at which time legal aid was granted for representation. The pre-trial process was not without difficulty. The court notes the regrettable delays occasioned by the Legal Aid Agency’s protracted consideration of the defence’s application for forensic and psychiatric expert funding, which did not receive approval until late April despite multiple requests and detailed justification from Mr Singh, instructed under a representation order to advise you. Such bureaucratic impediments invariably impose strain not only on the defence, but on court listing and victim confidence.  
+The case was committed to this Crown Court on 12 May 2025 following a plea and trial preparation hearing at the magistrates, at which you pleaded not guilty. Trial was listed for 15 July 2025 but was vacated after you entered a guilty plea on the morning of the trial, a week prior to the scheduled start date. This late plea, whilst welcomed in terms of judicial economy and witness convenience, must attract a proportionately reduced credit in line with the established principles elucidated in R v. Uriarte [2019] EWCA Crim 2039. 
+
+The Better Case Management (BCM) process was engaged throughout, and despite the traditional challenges with disclosure in cases involving multiple shops and numerous surveillance exhibits, the prosecution team succeeded admirably in assembling a coherent evidential file. The Business Crime Reduction Partnership for Lewisham also played a facilitative role, albeit the extent of its intervention was curtailed by the operational pressures faced by the local Community Safety Unit.  
+It is also necessary to record the court’s appreciation of Sergeant Fiona Douglas of the Metropolitan Police, whose efforts to gather multi-source intelligence and coordinate with retail security teams were instrumental in the progression of the case to trial. Despite understaffing and frequent call-outs, her persistence remained commendable. 
+
+Prior to sentencing, a psychiatric report was commissioned from Dr Rachel Nguyen, consultant forensic psychiatrist at the South East Centre for Mental Health, who evaluated you in June 2025. Dr Nguyen’s report, as filed on 6 August, provides a detailed clinical perspective, noting certain personality traits consistent with impulsivity and diminished impulse control, but with no diagnosed psychotic or major mood disorder. The report recommends, however, a personality disorder pathway in the community and highlights your limited engagement with support services. Your previous history includes intermittent contact with mental health outreach, though no formal admission or treatment episodes have occurred.  
+Local probation provision has been described in submissions as overstretched and under-resourced, with waiting lists extending beyond six months for specialist programmes addressing acquisitive offending. The probation officer assigned to your case, Ms Jayne McAllister, has indicated that any custodial sentence imposed will complicate efforts to engage you post-release, given the current capacity constraints. 
+
+Discourse on the Social and Institutional Context  
+We inhabit an uncertain social milieu, wherein petty crime, including shoplifting, reflects both individual and systemic challenges. The widespread growth of precarious housing, underemployment, and expansion of the gig economy contribute to an environment of insecurity and alienation for many. These factors, while not determinative of criminal responsibility, provide a backdrop against which such offending occurs.  
+Over the decade, the court has witnessed a marked increase in repeat acquisitive offending linked to economic pressures, with offenders frequently cycling through diversionary schemes with limited success. The problem is compounded by the reduction in frontline policing, with an acknowledged 18% decrease in community officers in the Lewisham area over the five years preceding 2025. The impact on shopkeepers’ willingness to report and pursue prosecutions is discernible, with anonymous surveys indicating a 21% reduction in reporting of losses under £50 in value.  
+Moreover, the migration of retail commerce into self-service and unattended formats has altered offending opportunities and detection methods. Self-checkout fraud and coordinated concealment tactics present new challenges for all stakeholders.  
+In recognition of these dynamics, local authorities and voluntary groups have attempted coordinated responses. The Lewisham Retail Crime Partnership, for example, strives to provide victim support, perpetrator diversion, and intelligence-sharing. Despite such initiatives, capacity and funding shortfalls remain limiting factors.
+
+While this court refrains from sociological extrapolation, it is a plain reality that the incidents in question are not isolated aberrations but part of a larger societal pattern that demands calibrated but firm judicial responses. 
+
+Legal Framework and Relevant Case Law  
+The statutory basis for the charge is well established in the Theft Act 1968. The primary case law directing sentencing considers culpability, harm, offender history, and mitigating factors.  
+The Sentencing Council’s guideline on theft offences (effective 2020) emphasises proportionality given the value of items stolen, targeting, and sustained offending pattern. Aggravating factors include repeat behaviour, premeditation, and impact on vulnerable victims or workers.  
+The court acknowledges R v. Reid [2021] EWCA Crim 2118, where a 12-month immediate custodial sentence was upheld for repeat theft from multiple premises, involving strategic concealment and flagrant disregard for warnings. In contrast, R v. Ellis [2022] EWCA Crim 415 demonstrated the circumstances under which a community order could suffice when motivated by acute financial hardship and active engagement with support services.  
+Although the present matter falls between these extremes, your repeated offending despite previous interventions and apparent decline to engage meaningfully with available assistance merits careful consideration.  
+
+The judgment in R v. Wheeler [2023] EWCA Crim 1429 is also instructive, particularly concerning credit for late guilty pleas in multi-count theft cases. The Court reiterated that credit must be tempered to reflect the full procedural history and any tactical delay in admission of guilt.
+
+The precise balance between punishment, deterrence, and rehabilitation faces particular challenge in cases involving complex psychosocial factors. Nonetheless, the court remains bound to uphold the principles of sentencing and the interests of justice. 
+
+Facts of the Offending  
+The facts of the case are as follows:  
+{INSERT_FACT_SNIPPET_1}  
+{INSERT_FACT_SNIPPET_2}  
+
+The offences took place in five separate retail outlets, including both large chain supermarkets and smaller boutique shops, with particular targeting of cosmetic products, over-the-counter medication, and confectionery. This selection arguably reflects an awareness of items with perceived ease of concealment or ready resale value.  
+Surveillance footage and witness statements confirm that you frequently timed your visits to coincide with staff shift changes or busy periods in order to minimise detection. On at least three occasions, distraction techniques were employed, including feigning distress or engaging staff in conversation while an accomplice concealed items; however, no evidence of direct collusion in the present matter was forthcoming.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Statements from store employees paint a picture of growing unease, with some altering their shift patterns or requesting additional supervision. One victim described the impact on her mental wellbeing as “substantial,” citing frequent anxiety over potential confrontations. Although your offending was non-violent, the emotional harm cannot be discounted, particularly in light of multiple witnesses describing what they perceived as deliberate police inducement and “testing” of your resolve.  
+The economic impact, while modest per individual incident, accumulated to a sizeable burden on the affected businesses in aggregate. Losses were absorbed both directly and indirectly, as security measures increased and some outlets experienced reputational damage resulting from media interest.
+
+{INSERT_FACT_SNIPPET_4}  
+{INSERT_FACT_SNIPPET_5}  
+
+On initial arrest, you provided an account of opportunism driven by financial need, augmented by impulsivity linked to personal difficulties. However, you declined offers of assistance from locating agencies post-interview and did not engage robustly with liaison officers.  
+
+{INSERT_FACT_SNIPPET_6}  
+{INSERT_FACT_SNIPPET_7}  
+
+The offender’s narrative contained inconsistencies, including contradictory statements on employment status and housing stability, which further complicated attempts at risk assessment. Your previous involvement in a diversionary scheme in 2021 yielded no significant behavioural change, underscoring concerns regarding rehabilitation prospects absent meaningful intervention.
+
+{INSERT_FACT_SNIPPET_8}  
+
+The court must note that the gravity of repeat offending eclipses the simple arithmetic of monetary value. The Tarnished Trust, a nonprofit initiative dedicated to supporting small retailers, has provided written representations highlighting the ripple effects of such crimes: increased staff turnover, reduced working hours, and degraded community cohesion.
+
+Additional Procedural and Institutional Observations  
+The court has received correspondence from various agencies including the Lewisham Community Safety Team and the Retail Crime Victims Unit, whose reports emphasise the growing strain on local policing resources exacerbated by such persistent thefts. The officers involved note that time diverted to low-level acquisitive crime is time not spent investigating drug trafficking, domestic abuse, or violent threats.  
+In much the same vein, the court acknowledges the written submission from the South London Foodbank Alliance, which draws attention to the paradoxical intersection of socioeconomic marginalisation and acquisitive offending. Their work, while primarily focused on alleviating acute hunger, strives also to identify underlying causes of recidivism and arrange relevant supports.  
+That said, the systemic pressures on these bodies are considerable. The Legal Aid Agency’s delays, as previously mentioned, exemplify broader challenges in funding and resourcing justice and social care frameworks.  
+Meanwhile, police digital forensic units report a growing backlog in processing CCTV evidence and digital data capture, complicating efforts to provide timely and robust case management.
+
+Among the legal literature referenced by defence submissions, several older statutes and defunct guidelines were cited, including the now-revoked Theft Act (Amendment) Regulations 1999 and the Snares and Traps Act 1904, which bear no contemporary relevance but were invoked anecdotally to illustrate points on statutory interpretation.  
+Similarly, a number of appellate decisions concerning offences wholly unrelated to theft — such as R v. Glendower [2010] EWCA Crim 1234, involving allegations of fly-tipping on green belt land, and R v. Bale [2013] EWCA Crim 831, a case addressing possession of a bladed article on school premises — were brought to the court’s attention, though they have no direct bearing here.
+
+There has also been mention in submissions of co-defendants related to other offences in a neighbouring jurisdiction, including a charge for criminal damage to a church noticeboard and an affray involving pool cues. These are, however, distinct matters with no material link to your conduct.
+
+Expert Assessments  
+Dr Nguyen’s psychiatric evaluation, while voluminous and comprehensive, ultimately concluded that you are responsible for your actions, with no evidence of diminished capacity. The suggested pathway is focused on community-based personality disorder treatment modules and cognitive-behavioural interventions to address impulsivity and acquisitive behaviour.  
+Notably, the report remarks on your reluctance to engage consistently with outreach services and the likelihood of poor compliance without mandated support.  
+The probation officer’s pre-sentence report similarly highlights medium risk of harm, low protective factors, and an unsettled accommodation status — all factors which weigh against the grant of a wholly suspended sentence.  
+
+Statutory and Common Law Considerations  
+The court bears in mind the principles established in R v. Falkner [2014] EWCA Crim 840: the need to balance rehabilitation with deterrence and the interests of the community. The approach in the present case must reflect the persistence and planning evident in the offending, tempered by the absence of violence or threat of violence.  
+Your late plea, which avoided a contested trial and spared witnesses the stress of giving evidence, is acknowledged but with limited mitigation given the timing.  
+The imposition of an immediate custodial sentence is considered proportionate by reference to the applicable sentencing ranges and the need to signal that repeat shoplifting, particularly when systematic, will attract custodial determinations.  
+Consideration is also given to whether any court-ordered rehabilitative measures could support reintegration and reduce risk of reoffending.
+
+It is appropriate at this juncture to remind counsel and all parties of the evolving jurisprudence on credit for guilty pleas as articulated in R v. Halvorson [2023] EWCA Crim 1029, which suggests that pleas entered post-preparation but pre-trial are entitled to some degree of discount, albeit reduced from that accorded at the earliest stage. Further, the sentencing procedure requires full consideration of public protection and proportionality under the statutory framework prescribed by the Sentencing Act 2020 and applied alongside the overarching duty to uphold the rule of law.  
+
+Summary and Next Steps  
+In sum, this case concerns a serious and persistent pattern of theft, marked by planning, repeated contact with the justice system, and partial engagement with services. The court is mindful that you are 38 years old, without prior convictions beyond the acquisitive offences already noted, and currently in unstable housing. These factors will be relevant upon sentencing.  
+I also note the recent refurbishment of this court’s hearing rooms, undertaken with funding from the Ministry of Justice, which replaced dated infrastructure and improved accessibility for vulnerable individuals. The court’s ushers, in particular Ms Lorraine James, continue to provide invaluable assistance in maintaining order and supporting all participants, for which the court offers sincere thanks.  
+The defendant’s written submissions and letter to the court have been reviewed with care; your expressions of remorse, though noted, must be weighed against the objective evidence and your conduct over time. It is commendable that you authored a neatly formatted statement which exhibited punctuation and legibility beyond expectation for stress conditions. However, words alone are insufficient. Action must accompany them.  
+It is also appropriate to acknowledge the voluntary sector organisations who have made representations on your behalf, including the Lewisham Homeless Outreach Network and local pastoral care workers, whose patience and diligence in engagement with you have been documented. Their involvement will inform the sentencing process but cannot override the gravity of the offending.  
+Moreover, it bears mentioning, the defendant’s sister is presently the subject of unrelated criminal proceedings in adjacent jurisdictions, as disclosed in court materials, though they are irrelevant to the case at hand.  
+
+The matter has been adjourned to obtain a full pre-sentence report from probation, reflecting the latest engagement and risk assessment, including any recommendation for suitable rehabilitative programmes and the feasibility of community-based sentences incorporating unpaid work or accredited courses.  
+The court orders that such report be received no later than 12 November 2025 to allow for timely consideration.
+
+These sentencing remarks are delivered on 18 September 2025, in Court 5 of the Crown Court at Lewisham. Proceedings have been transcribed and recorded in compliance with Part 5 of the Criminal Procedure Rules. Mr H is advised that he retains the right to appeal against sentence within 28 days, pursuant to the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions pursuant to section 49 of the Children and Young Persons Act 1933 apply in this matter. Costs are reserved for later determination.
+
+These are the orders of the court.

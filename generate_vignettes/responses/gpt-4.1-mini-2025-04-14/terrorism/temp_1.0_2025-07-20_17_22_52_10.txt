@@ -1,0 +1,99 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/34819  
+Sentencing Remarks – His Honour Judge F. J. Montague  
+Filed: 17 September 2025  
+
+Mr H appears before this court facing charges under sections 5(1)(a) of the Terrorism Act 2006, concerning engagement in conduct in preparation of terrorist acts, and possession of an article intended for terrorist purposes within the meaning of section 57 of the Terrorism Act 2000. The conduct, as alleged and now admitted in part, extends over a protracted period between March 2022 and February 2025.  
+
+The circumstances surrounding the initiation of this prosecution reflect, in microcosm, the complexity of modern intelligence-led policing and counter-terrorism strategy. Mr H was first apprehended on the morning of 5 February 2025 at his residence in Yardley, Birmingham following execution of search warrants obtained under section 43B of the Terrorism Act 2000, pursuant to intelligence that had been cultivated through a multi-month operation involving CTPI (Counter Terrorism Policing – West Midlands), in conjunction with the National Cyber Crime Unit and the Security Service. The warrants authorised seizure of electronic devices, including encrypted smartphones and multiple portable hard drives.  
+
+At the point of arrest, Mr H was, according to intelligence reports, engaged in online communications utilising the “Session” encrypted messaging application, which experience has shown to be favoured in some extremist circles for its relative resistance to lawful interception. Significantly, records indicated exchange not only of radical propaganda materials but also schematic diagrams suggestive of improvised explosive devices. The intricacy of the technical examinations required was considerable, taxing the capacity of forensic units struggling under an expanding case load. The case thus serves as a testament both to the diligence of operatives and the sustained investment needed to keep pace with evolving methods of terrorist communication and planning.  
+
+It must be emphasised that such investigative enterprise proceeds in an environment of ever-tightening judicial oversight and procedural safeguards. The courts have consistently upheld the necessity of proportionality and respect for procedural fairness, even in cases of heightened public concern. As observed in the landmark decision R v. Gul [2013] UKSC 64, the balance between vigilance and liberty remains a constitutional cornerstone. This case exemplifies how the law navigates this balance when responding to credible threats.  
+
+To frame the proceedings properly for sentencing, the court must first turn to procedural events which have, unsurprisingly, consumed considerable judicial resources. The initial hearing on 18 March 2025 was adjourned due to unavailability of key Defence counsel, attributable to the prevailing shortage of specialist legal practitioners authorised under the national legal aid scheme to conduct terrorism-related defence work. This shortfall is emblematic of systemic pressures issued by the Legal Aid Agency, an entity whose administrative processes remain heavily criticised within the profession. The delayed appointment occasioned a ripple effect, pushing back subsequent hearings by several weeks and imposing stress both on parties and the court system.  
+
+The adversarial process persevered, with the prosecution service consistently advancing the substantial evidential basis before the court. Crown Counsel, Ms Laura Mitchell, has displayed both tenacity and professionalism in steering the matter through complex disclosure regimes. The Defence, represented by Mr Simon Gibbons, instructed under legal aid, has raised a series of challenges concerning the scope and management of redacted material, especially relating to intercepts classified as “sensitive”. That challenges to such protective measures are frequent is a reflection of a delicate tension—the public’s right to open justice versus the imperatives of national security.  
+
+In respect of the actual chronology of plea progression, the court notes that Mr H initially entered not guilty pleas at his first appearance and maintained that position through the preparation of the case. However, on the morning of the trial commencement date, 10 September 2025, he altered his position and tendered guilty pleas to both counts. While credit for guilty pleas is a recognised mitigating factor, the timing here is far from ideal.  
+
+The Court of Appeal has provided extensive guidance on the quantification of such credit, particularly in cases where pleas are entered late and following exhaustive prosecution disclosure and witness preparation (see R v. Collingridge [2022] EWCA Crim 1873 and R v. Tinsley [2023] EWCA Crim 1401). The court is mindful that the purpose of credit is to acknowledge genuine remorse and the pragmatic conservation of court time and resources. A plea entered at the eleventh hour, absent any prior indication or substantive change of stance, attracts more limited recognition.  
+
+It is worth pausing on the distal effects of prolonged case preparation on the victims and public. The difficulty victims face in enduring protracted proceedings should not be underestimated. In this case, while the direct harm may not be akin to physical violence or property damage, the psychological impact of terror-related offences, the fear engendered, and the subsequent engagement with criminal justice institutions represent serious consequences requiring appropriate weight in sentencing.  
+
+It is similarly necessary to acknowledge the victim support agencies involved, notably the regional Counter Terrorism Victim Liaison Unit, whose work in maintaining contact and providing reassurance evidences the critical role such bodies play beyond the courtroom. Their reports confirm that while no direct victim impact statement was submitted, the indirect societal harm is considerable, given the potential scale and indiscriminate nature of terrorism offences.  
+
+Before detailing the core facts of the offending, I must observe the important role of mental health services in this case. At the request of the Defence, a psychiatric assessment of Mr H was commissioned. Dr. Julian Spencer, consultant forensic psychiatrist appointed under legal aid provisions, submitted a comprehensive report dated 2 September 2025. The report identifies certain cognitive and psychological features relevant to the court’s considerations but does not conclude the presence of any diagnosable mental illness. Instead, the focus is on the defendant’s rigid ideological fixation, occasional paranoia, and low empathy,—factors which although not sufficient to excuse offending behaviour, are pertinent to tailoring risk management post-sentence.  
+
+It is unfortunate that, despite efforts, a fuller neuropsychological evaluation could not be secured within the timeframes desired by the Defence. This reflects widespread NHS waiting-list pressures and perennial shortages of forensic psychiatric specialists, a matter frequently lamented by the judiciary as a constraint on operational justice. Initiatives to expand capacity, such as the £35M investment in forensic neuroassessment units planned for 2026, are welcomed but do little to ease present case pressures.  
+
+As for multi-agency collaboration, the court notes the concerted involvement of the West Midlands Multi-Agency Public Protection Arrangements (MAPPA) group, designated Category 3 in this instance. Their coordination includes Probation Service representatives, Counter Terrorism Policing, local mental health trust officials, and housing officers. Minutes of meetings from May and July 2025 reflect a clear understanding of ongoing risk but also underline resourcing challenges faced by all parties. Housing provision has proven problematic due to overcrowding in approved premises and community hostility, a syndrome not uncommon in cases involving ideological risk.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+Distinguishing relevant from peripheral conduct is no easy undertaking in terrorism prosecutions, where the defendant’s behaviours, associations, and communications can intertwine across lawful and unlawful spheres. For instance, it is noted for context that one co-defendant involved in the larger investigation was separately charged and convicted for possession of a bladed article in a school car park, a matter unrelated to Mr H but arising within the same investigative milieu. That conviction had no bearing on Mr H’s culpability or risk.  
+
+Additionally, an unrelated arrest of a former flatmate on suspicion of benefit fraud occurred during the earlier stages of this investigation. Such details are not pertinent to the present sentencing but are illustrative of the complex milieu surrounding counter-terrorism cases.  
+
+The Court of Appeal in R v. Beynon [2021] EWCA Crim 1359 serves a useful reminder that sentences must be tailored to individual conduct and risk, not the broader attribution of offending by associates. By analogy, offences including fly-tipping on green belt land detected some months after the present case’s timeline remain legally discrete, notwithstanding superficial connection via locality.  
+
+In accordance with established sentencing principles, outlined in the Terrorism Act 2006 and attendant guidelines recently revised in 2023, the court must weigh the gravity of the intended offence, the degree of planning and sophistication, the defendant’s role, and any mitigating or aggravating factors. Parliamentary debates at the time of the Act’s promulgation emphasised the paramountcy of public protection without disenfranchising due process.  
+
+The historical underpinnings of anti-terrorism legislation have evolved from pre-9/11 frameworks, notably the Prevention of Terrorism Act 2005 and the Anti-Terrorism, Crime and Security Act 2001, each responding to specific threats but informing present practice. The court acknowledges commentary in Law Commission reports highlighting the iterative process of balancing liberty and security.  
+
+A useful statutory and jurisprudential lens is provided by the case of R v. Kahar [2016] EWCA Crim 568, which emphasised the need for deterrent sentences even where actual harm was prevented due to police intervention—a principle clearly invoked here given early disruption of Mr H’s plans.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The digital evidence amassed paints a troubling picture of the defendant’s immersion in extremist narratives. His online blog, active since 2019 under a pseudonym, evolved from seemingly innocuous commentary on community concerns to the dissemination of incendiary manifestos and calls for violent upheaval. Linguistic expert evidence details sustained use of ideological framing mirroring banned publications.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Despite some Defence submissions that the online materials might be performance art or satirical in nature, the court concurs with the jury’s assessment rejecting such explanations as lacking in credibility given the comprehensive surrounding evidence. Analogous findings were made in R v. Lloyd [2022] EWCA Crim 1041 concerning coded extremist manifestos transmitted via social media.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Of note in the forensic analysis was the recovery of several encrypted containers incorporating plans for home-manufacture of explosive devices. The defence sought to characterise certain recovered items—such as laboratory glassware and camping gear—as evidence of legitimate hobbies and scientific curiosity. However, in the context of associated materials and communications, such explanations do not withstand scrutiny. This echoes the principles found in R v. Johnson [2019] EWCA Crim 776, where possession of ostensibly innocuous items gained incriminatory significance only in conjunction with parallel evidence of illicit activity.  
+
+The court also observes, although these are matters unrelated directly to the terrorist offending, that the defendant’s household in Birmingham was subject to a noise abatement notice issued two years earlier due to late-night gatherings. This administrative action bears no relevance to the present offences.  
+
+Additionally, the defendant’s elder sibling is currently awaiting trial on charges unrelated to terrorism, namely suspected financial fraud, an entirely separate matter which this court does not consider in the present sentencing.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Travel history is relevant for context. In late 2023, Mr H undertook a brief trip to mainland Europe ostensibly for academic conference attendance. However, surveillance and immigration records indicate transient attendance at locations known for radical milieus. The defendant’s explanations for such visits have been inconsistent, though partial interruption by transport cancellations prevented further movement into more sensitive zones.  
+
+The case required extensive disclosure, including classified materials disclosed under a special advocate regime. The volume of disclosed items exceeded 400 primary exhibits and necessitated careful vetting by multiple agencies. The administrative burden of this process has been considerable and illustrative of systemic resource strains, exacerbated by recent industrial disputes among court clerks and legal secretaries. The once celebrated Better Case Management programme, instituted to streamline progress, continues to face challenges in implementation due to attrition and capacity gaps.  
+
+The court wishes at this juncture to commend the North Midlands Resettlement Network, which has provided crucial support in managing and supervising offenders subject to terrorism-related licence conditions. Their role, unglamorous yet vital, deserves recognition, especially given the societal pressures and sometimes hostile public sentiment they encounter.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial forensics demonstrated Mr H’s involvement in cryptocurrency transactions, specifically Bitcoin and Monero, directed towards vendors of dual-use materials. The Court notes the increasing legislative and enforcement complications posed by such decentralised payment systems, which preserve anonymity and challenge traditional anti-money laundering regimes. The court references House of Lords debates and the Law Commission reports expressing concern at regulatory gaps and the attendant risk posed to national security.  
+
+It is a salient point that use of such sophisticated financial instruments reflects a degree of technical literacy and intent, factors which inform assessments of culpability and risk. The Court of Appeal, in R v. Belford [2024] EWCA Crim 112, underlined the aggravating nature of such calculated concealment in terrorism offences.  
+
+The court further reflects on the volume of covert surveillance employed in this investigation—hours of low-light, multi-angle footage requiring extensive analysis and corroboration. The human element behind this intensive review process is notable: an assembly of case officers, analysts, linguists, and technical specialists, working under substantial workload pressures. The asymmetry of effort between a fleeting illicit act and its painstaking detection must be underscored.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Mr H’s personal circumstances feature prominently in the psychological evaluations and mitigation submissions. With a history of academic success culminating in a Master’s degree in Information Security, he was employed until mid-2022 as a software developer. References characterise him as introverted and intelligent but inflexible in worldview. Following redundancy—prompted by a whistleblower complaint concerning unethical surveillance practices—his social withdrawal intensified.  
+
+Letters from a local allotment society attest to Mr H’s voluntary work maintaining communal gardening plots; similarly, a neighbouring shopkeeper remarks on his quiet disposition and punctuality. These community ties, whilst commendable, cannot and must not overshadow the seriousness of the offences confessed.  
+
+Professor Helen Dunbar, forensic psychologist, offered the view that Mr H suffers from “ideological cognitive inflexibility” rather than formal pathology. The risk assessment included in her report cautions that absent intensive intervention and monitoring, the defendant poses a continuing threat of re-engagement with extremist behaviours. While structured programmes, such as those administered under the Desistance and Disengagement framework, offer some promise, they are no panacea and possess relatively high attrition rates.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+It is necessary finally to consider the key sentencing objectives articulated by statute and common law: punishment, deterrence, protection of the public, and rehabilitation. The substantial resources expended in investigation and preparation, the indirect impact on community confidence, and the potential scale of harm necessitate a custodial sentence of significant length. However, the court remains cognisant of the benefits of a tailored custodial and post-custodial regime combining containment with opportunities for engagement in deradicalisation efforts and psychological support.  
+
+These remarks are made in the full knowledge of the pressures faced by all agencies involved—law enforcement, mental health services, probation, and the voluntary sector. It is hoped that these systemic strains will be addressed through strategic investment and policy reform.  
+
+The court wishes to place on record its gratitude to all practitioners involved: to Ms Laura Mitchell for clear, diligent advocacy; to Mr Simon Gibbons for measured submissions despite resource constraints; to Dr Julian Spencer and Professor Helen Dunbar for detailed and professionally crafted psychiatric reports; and to the dedicated court staff who ensure orderly conduct of proceedings, notwithstanding recent refurbishment challenges and occasional delays in interpreter services.  
+
+I shall reserve final sentence pending receipt of a fuller pre-sentence report, which I direct the probation service to prepare forthwith. The report is to address not only the conventional factors of risk and need but also the realistic outlook for engagement with post-release supervision frameworks, potential for rehabilitation, and capacity for participation in structured disengagement programmes.  
+
+These sentencing remarks are delivered this 17th day of September 2025, in Court 5 of the Birmingham Crown Court. A transcript has been prepared in accordance with Part 5 of the Criminal Procedure Rules. The defendant is reminded of his right to appeal sentence within 28 days pursuant to the Magistrates' Courts Act 1980 and the Criminal Appeal Act 1968. No reporting restrictions under section 49 of the Children and Young Persons Act 1933 apply. Costs remain reserved at this stage.  
+
+These are the orders of the court.

@@ -1,0 +1,37 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/19834  
+Sentencing Remarks – Her Honour Judge M. J. Fairclough  
+Filed: 4 September 2025  
+
+Mr H stands before this court pursuant to convictions on charges under section 5(1)(a) of the Terrorism Act 2006 for engaging in conduct in preparation of acts of terrorism, and section 57 of the Terrorism Act 2000 concerning possession of an article for a purpose connected with terrorism. The offences charged relate to a period from September 2022 until his arrest in March 2025.  
+
+The defendant was arrested on 12 March 2025 at 07:45 hours following execution of a warrant at his residence by officers attached to Counter Terrorism Policing South West (CTPSW). The warrant was authorised pursuant to section 43B of the Terrorism Act 2000. Intelligence obtained from a Security Service operation indicated that Mr H’s encrypted email accounts had exchanged files associated with explosive devices with a server identified as extremist-controlled. At the time of arrest the defendant was found in possession of various electronic devices, including a laptop configured with anonymising software, USB sticks encrypted with VeraCrypt, and component parts consistent with electronic circuitry.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The investigation preceding the defendant’s arrest was complex and resource-intensive. It involved a collaboration between Counter Terrorism Policing, the National Cyber Crime Unit (NCCU), and regional intelligence analysts. The latter undertook substantial technical work to recover and decrypt communications on devices that employed sophisticated counter-forensic measures, including plausible deniability using “hidden volumes” and obfuscated metadata. Despite considerable backlogs in the NCCU, in particular delays occasioned by the prioritisation of live threat incidents, substantial progress was achieved through protracted forensic examination over a 13-month period. It bears noting, as contextual background, that such delays feature widely in contemporary terrorism cases, where investigative demands exceed capacity, compelling reliance on triage and risk prioritisation.  
+
+Pre-trial proceedings were affected by prolonged defence requests for further documentation related to intercept material, compounded by administrative hurdles encountered with the Legal Aid Agency. Those hurdles included repeated applications for authorisation to instruct independent forensic experts, which were not determined expediently. This court notes with ongoing concern that the procedural inefficiencies occasioned by underfunding and bureaucratic inertia continue to impact materially upon case progression, to the detriment of both defendants and victims.  
+
+Mr H initially entered not guilty pleas at the Plea and Trial Preparation Hearing (PTPH) convened on 10 June 2025. It was not until the first day of trial on 28 August 2025 that he changed his pleas to guilty on all counts. The timing of this change attracted submissions from the prosecution as to a commensurate reduction in the credit merited, citing the jurisprudence in R v. Carson [2024] EWCA Crim 2179 where the Court of Appeal emphasised the need for judges to limit discounts where pleas are tendered late in the protracted adversarial process. The defence's position, advanced by Mr James Campbell at the Bar, invited the court to view the plea as genuine, citing the defendant’s expressed remorse in his allocution and his cooperation thereafter.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+This court is mindful of the well-established principle articulated in R v. Halvorsen [2023] EWCA Crim 1029 restricting reductions to sentences where pleas are entered near the commencement of trial. The efficacy principle—to preserve court and witness resources—is tempered by assessment of the plea’s sincerity and evidential impact. The late plea offers limited mitigation, aligning with the Court’s observations in R v. D'Souza [2022] EWCA Crim 1341 which cautioned against incentivising tactical plea strategies that defer responsibility until trial inevitability.  
+
+Historically, the Terrorism Act 2006 was enacted in response to evolving threats that manifested in both domestic and transnational contexts. The Act notably extends beyond simple acts of violence to include preparatory conduct, reflecting the need for pre-emptive intervention to forestall large-scale harm. Judicial interpretation of section 5 has underscored this court’s duty to balance preventative justice with fundamental rights, as explicated in R v. Hamid [2010] EWCA Crim 1506 which stressed proportionality informed by the imminence, scale, and sophistication of the alleged plot.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+As found by the jury, the defendant operated multiple anonymous online accounts propagating radical ideology, disseminating operational manuals, and coordinating procurement activities for explosive precursors. The accounts demonstrated increasing sophistication from 2023 onward, including use of the Tor network and end-to-end encrypted messaging applications. The forensic analyst reports submitted disclose traces of chemical residue consistent with triacetone triperoxide (TATP) precursors linked to the defendant’s digital footprint. The relevance of these findings to the intent element is uncontested.  
+
+Parallel to the digital evidence, a witness statement was tendered from an erstwhile associate of Mr H who described the defendant’s expressions of violent intent and a desire to effect symbolic retaliation against governmental institutions. The defence challenged the reliability of that witness on grounds of self-interest and partiality. However, the jury found the testimony credible when read alongside the digital and physical evidence. This combination of circumstantial and testimonial material informed the verdict.  
+
+The court acknowledges receipt of a psychiatric assessment conducted by Dr Faridah Mann, consultant forensic psychiatrist, dated 15 August 2025. Dr Mann notes Mr H shows no evidence of a major mental illness but identifies cognitive distortions consistent with ideological fixation and a propensity toward black-and-white moral reasoning. She emphasises the importance of ongoing multidisciplinary intervention to mitigate risk and facilitate disengagement, though expresses caution about the prospects given Mr H’s limited engagement to date. The report includes consideration of the defendant’s historical substance misuse in youth, resolved prior to offending.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+It is regrettably necessary to observe the increased demand placed on forensic mental health services occasioned by defendants with complex ideological presentations, as distinct from classical psychiatric diagnoses. At an operational level, the National Health Service’s forensic medium-secure services face enduring capacity challenges, reflected in waiting lists for assessments and delays in access to structured interventions. These deficiencies have a tangible impact upon the justice system’s capacity to apply therapeutic jurisprudence principles efficiently.  
+
+Further, the persistent resourcing shortfalls extend to the Probation Service, where caseloads have escalated markedly over the past five years. The strain on Public Protection Units,

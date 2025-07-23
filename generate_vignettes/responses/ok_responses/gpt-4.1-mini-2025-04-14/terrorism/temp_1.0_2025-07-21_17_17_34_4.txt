@@ -1,0 +1,85 @@
+IN THE CROWN COURT AT SHEFFIELD  
+R v. Mr H  
+Case No. S2025/32904  
+Sentencing Remarks – His Honour Judge P. F. CALLAGHAN  
+Filed: 28 August 2025  
+
+Mr H stands before this court for sentence following conviction on multiple counts pursuant to the Terrorism Act 2006, principally concerning engaging in conduct in preparation for acts of terrorism under section 5(1)(a), and possession of articles for use in terrorism contrary to section 57 of the Terrorism Act 2000. The conduct under scrutiny extends from April 2023 through to his arrest in March 2025.  
+
+The court notes that this matter, having been allocated to the Sheffield Crown Court’s principal list, is heard before this court as a result of the defendant’s deemed risk profile, his charges attracting a maximum penalty inclusive of life imprisonment. The arrangements reflect the specialist capability of the Crown Court tier to manage terrorism-related indictable trials and post-conviction procedures. It is a reminder of the role of this court as a locus where complex allegations converging public safety and civil liberties demands careful judicial exercise of discretion.  
+
+The defendant was arrested at first light, 05:18 on 17 March 2025, following the execution of a series of search warrants authorised under section 43B of the Terrorism Act 2000. The primary warrant was executed at the defendant’s home address in Hillsborough, Sheffield, with further linked premises searched under secondary warrants in Wincobank and Darnall. The investigation, dubbed Operation STOCKDALE, engaged Counter Terrorism Policing South Yorkshire (CTPSY), the National Cyber Crime Unit, and the Security Service.  
+
+It deserves mention, although tangential, that before full digital forensic analysis commenced, the investigatory team undertook routine background checks on residents of adjoining properties, uncovering an unrelated cannabis cultivation setup in a neighbouring garden shed. While this formed no part of the current proceedings against Mr H, it serves to demonstrate the breadth of counter-terrorism operations and their intersection with various strands of criminality.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+This court recognises the protracted pre-operative work leading to the defendant’s apprehension. Over eighteen months of surveillance and electronic interception were meticulously coordinated, including signals intelligence of encrypted communications through the Tox instant messenger platform — itself difficult to monitor due to its decentralized architecture. Appreciating the complex resource overhead this entails is necessary. Analysts worked extended shifts, labouring under time and capacity pressures, often compounded by overlapping demands from gang-related investigations in Sheffield City Centre and surrounding areas. These dual responsibilities attest to the challenging balancing act public safety agencies must perform amidst finite manpower.  
+
+The case was first listed before the court for a Preliminary Hearing on 29 June 2025, which proceeded with initial pleas entered. Due to late disclosure of certain intercept materials, the sentencing hearing was adjourned twice; first to facilitate defence counsel’s preparation and subsequently to permit the instruction of additional psychiatric experts. The Legal Aid Agency’s handling of counsel authorization, regrettably protracted, is recorded with concern. The original application for a third-party electronic device expert was met with uncharacteristic bureaucratic delay, disrupting the timetable outlined by the Crown Court Criminal Procedure Rules Part 3, and prompting an oral complaint from Mr H’s legal representatives at the RPC hearing convened on 21 July 2025.  
+
+In recent years, this court has witnessed a rising volume of cases involving radicalisation and digital extremism, increasing pressure not only on policing resources but on judicial administration. The sheer quantity of material disclosed in such cases can run to terabytes of data, requiring the instruction of niche technical experts well versed in cryptanalysis and contemporary communications protocols. In this regard, the efforts of the National Digital Triage Service (NDTS) deserve acknowledgement for their persistent, if underappreciated, role in supporting prosecution and defence alike.  
+
+Whilst the present case pertains squarely to sections 5 and 57 of the relevant Terrorism Acts, the court must, for completeness, mention the considerable backdrop of precedent shaping the current sentencing landscape. In R v. Hamidi [2021] EWCA Crim 1779, the Court of Appeal stressed the importance of proportionality when assessing culpability under section 5, signalling that while preparatory conduct is criminalised, the quantum of planning and intent are of principal focus. This was reinforced in the case of R v. Farooq [2023] UKSC 45, which cautioned against mere association or peripheral endorsement in the absence of demonstrable preparatory acts.  
+
+It is regrettable but necessary to note that while Mr H denied culpability initially, his not guilty plea was entered without immediate elucidation. It was not until the eve of trial that a shift was made to guilty pleas, constraining the scope of mitigation for early acceptance of responsibility. The Court of Appeal in R v. Simmons [2024] EWCA Crim 312 confirms that where the plea follows extensive disclosure, witness preparation, and pre-trial rulings, the reduction in sentence must reflect the limited procedural utility gained. The proportional discount accordingly is set at less than one quarter.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+As the court contemplates the ideological underpinning of the defendant’s conduct, it must recognise the complexity of modern extremist narratives which are suffused through online social media channels, channels which frequently mix genuine political grievance with disinformation and conspiratorially infused rhetoric. Mr H, it transpires, maintained an online blog under the pseudonym “SteelFalcon,” which initially featured technical treatises on metallurgical properties but evolved into a platform disseminating incendiary calls to disrupt and destabilise state institutions. Linguistic profiling by Crown experts indicates that several passages reflect direct textual borrowings from material previously proscribed under Schedule 2 of the Terrorism Act 2000 as associated with extremist groups.  
+
+In R v. Jadhav [2022] EWCA Crim 805, the Court held that such online radical content cannot in itself ground a conviction absent tethered preparatory actions, but it remains probative in assessing the defendant’s intent and therefore culpability. This court accords proper weight to these findings, alongside the physical artefacts seized during searches.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+The recovery of encrypted digital media, notably a VeraCrypt-protected container entitled “ForgeNotes,” revealed documents detailing experimental designs for explosive devices. Within these materials were videos displaying tests of blast and shrapnel propagation, recorded in settings identifiable through timestamps and electrical certificates submitted to Sheffield City Council Building Control.  
+
+It is noteworthy, albeit irrelevant to sentencing, that defence counsel drew attention to elements within Mr H’s digital archives, such as a 2017 photograph of a rust-streaked church noticeboard in Walkley bearing anti-government slogans. Although intriguing, this artefact is unconnected to the defendant’s timeline or conduct and serves merely as contextual background. Similarly, the court notes a small stockpile of model railway components also recovered; this, however, is irrelevant save that it provides a minor juxtaposition of Mr H’s benign and malicious interests.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+The court accepts the defence assertion that some photographic material, such as images of pedestrian bridges taken from local parks, can plausibly be ascribed to benign architectural interest and hobbyist photography. Nonetheless, in the aggregate and read alongside intercepted communications, these cannot be disentangled from the preparatory narrative. The presumption remains that their possession served no innocuous purpose.  
+
+It is appropriate to acknowledge that cannabis residue was found in trace quantities in the defendant’s shared accommodation, which has been duly recorded in ancillary reports but is extraneous to the charges faced. Likewise, a dated 2019 fixed-penalty notice for fare evasion on Sheffield’s Supertram system was submitted by the defence, presumably to contextualise the defendant’s character but without significant bearing here.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+The prosecution further adduced evidence regarding a foreign travel itinerary undertaken by Mr H in October 2024, involving a week-long visit to the city of Belgrade, Serbia, ostensibly on a photography and cultural exploration trip. Unbeknownst to him, the travel coincided with a gathering of transnational far-right activists and paramilitary sympathisers. Surveillance footage from the Belgrade bus terminal captured Mr H in discussion with a known extremist operative subsequently detained in multiple jurisdictions for firearms trafficking. This association, albeit brief, raises questions concerning the nature and objective of the trip.  
+
+Of note, the complex chain of disclosure in this case comprised upwards of 650 exhibits, including intercepted communication transcripts, CCTV footage, forensic reports, and intelligence summaries. These were all subject to vetting by the Security Service’s Disclosure Review Unit. Due to incompatibility issues between legacy digital evidence platforms and the newer body-worn camera footage format, the process experienced multiple minor delays, underscoring the enduring technical and administrative challenges of contemporary criminal procedure.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+In the financial domain, the court has reviewed forensic accountancy reports tracing transactions converted through cryptocurrency wallets associated with the defendant’s known online handles. A payment of 1.8 Bitcoin, valuing at approximately £9,500 in July 2024, was traced to an entity purporting to sell chemical precursors commonly employed in improvised explosive device manufacture. The payment channelled through a series of anonymising “coin mixing” services, complicating the traditional money-laundering investigative approach. This reflects wider concerns expressed by authorities worldwide regarding the exploitation of decentralised finance systems to facilitate illicit procurement.  
+
+It was a matter for interest, if not direct relevance, that on 2 February 2025, surveillance footage documented the defendant briefly meeting an individual later convicted for fly-tipping hazardous waste in a protected greenbelt area near the Peak District National Park. Whilst unrelated to the terrorism charges, this association illustrates the tangled webs often encountered in investigatory fields.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Turning now to Mr H’s personal circumstances, he is a 30-year-old with an undergraduate degree in chemical engineering from the University of Sheffield. Until his arrest, he was employed as a research assistant at a private laboratory specialising in polymer composites. Character references testify to a reputation for meticulousness and quiet diligence, albeit accompanied by social withdrawal and intermittent tension with management after refusal to submit to enhanced vetting procedures.  
+
+This court adopts a careful approach to the inclusion of letters from local civic organisations, including the Hillsborough Preservation Trust, who commend Mr H’s volunteer contributions to community clean-up events and heritage restoration projects. Whilst these acts are not overlooked, their relevance is confined; community service undertaken in daylight hours cannot on its own offset clandestine conduct designed for mass harm. It is recognised, however, that such background provides a more nuanced picture of the individual standing accused.  
+
+At the same time, it is important to register broader systemic pressures upon rehabilitative and supervisory services in Sheffield and South Yorkshire. The Probation Service continues to confront increasing caseloads exacerbated by workforce shortages and heightened demand arising from overlapping community justice initiatives and mental health diversion schemes. The burden of complex offenders such as Mr H places significant strain on these essential infrastructures.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+The psychological assessment conducted by Dr Fiona Meldrum, a consultant forensic psychiatrist, observes a marked rigidity in ideological reasoning and the presence of cognitive distortions consistent with extremist belief systems. No formal diagnosis of a mental disorder, such as psychosis or personality disorder, was established. Dr Meldrum highlights the high risk of serious harm both in custodial settings and on any potential release absent rigorous multi-agency management, including ongoing monitoring, psychological treatment, and restrictions on communication technology access.  
+
+Defence counsel propose a rehabilitative pathway involving community-based de-radicalisation programmes, with structured support potentially bridging the hiatus following custodial sentence expiry. The court is mindful, however, of variable completion rates and the persistent risk of recidivism in such cohorts. The Probation Service’s expertise in Structured Professional Judgement indicates that risk reduction demands a multifaceted strategy incorporating surveillance, therapeutic input, and social reintegration.  
+
+The national context for sentencing in terrorism cases is framed by the Sentencing Council’s 2023 Terrorism Definitive Guideline and refined through appellate decisions such as R v. Nasr [2024] EWCA Crim 512, which reaffirm the pre-eminence of deterrence and protection of the public as paramount objectives. The level of sophistication, degree of planning, and proximity to intended harm all serve as principal variables determining sentence length.  
+
+On mitigation, Mr H has no previous criminal convictions, a fact which the court notes in fairness. His academic achievements and prior employment record supply limited mitigation in the face of grave offending. The timeliness of his guilty pleas, arriving late in the pre-trial timetable, justifies a modest discount to sentence. Mitigation submissions stressing the defendant’s supposed remorse must be weighed against the strategic delay in acceptance of responsibility.  
+
+Whilst the court empathises with the concern raised by the local mosques council over potentially disproportionate sentencing diminishing community cohesion, any such considerations must yield to the primary duties of the court to uphold public safety and enforce the law without fear or favour.  
+
+This case exemplifies the challenges posed by modern terrorism offences, wherein ideological extremism marries technical competence and digital concealment with a pursuit of indiscriminate harm. The prosecution has demonstrated, beyond reasonable doubt, a pattern of conduct betraying commitment, sophistication, and unequivocal intent.  
+
+The court directs the preparation of a comprehensive pre-sentence report to include urgent risk assessments, identification of suitable custodial interventions, and exploration of supervised release conditions. Attention should be given to existing protocols under Multi-Agency Public Protection Arrangements (MAPPA) category 3 and the feasibility of ancillary restrictions including electronic monitoring and internet use limitation.  
+
+All parties are commended for the generally professional conduct displayed throughout the proceedings. Thanks are particularly due to Ms Ayesha Khan for the Crown and Mr Oliver Bennett, who has represented the defendant throughout with diligence despite the challenges imposed by funding delays and voluminous documentation. Appreciation is likewise accorded to court staff for their efficient administration in what is a difficult and resource-intense case type.  
+
+These sentencing remarks are delivered this day, 28 August 2025, in Courtroom 2 of the Sheffield Crown Court. The transcript is recorded pursuant to Part 5 of the Criminal Procedure Rules and will form part of the public record absent any additional reporting restrictions. The defendant is warned of his statutory right to appeal within 28 days of sentencing under the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968. Costs are reserved fully.
+
+These are the orders of the court.

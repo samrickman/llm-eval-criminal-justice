@@ -1,0 +1,41 @@
+IN THE CROWN COURT AT NOTTINGHAM
+R v Mr H
+Case No. N2025/19845
+Sentencing Remarks – His Honour Judge E. J. Tallis
+Filed: 15 September 2025
+
+Mr H stands before this court to be sentenced following his conviction on two counts brought under the Terrorism Act 2006: first, engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a), and second, possession of an article for a purpose connected with terrorism under section 57 of the Terrorism Act 2000. His offending, as established by the jury, spans the period from early 2023 through to his arrest in January 2025.
+
+The proceedings have taken place against a background of unusually complex procedural history. Mr H was initially arrested on 14 January 2025 by officers from Counter Terrorism Policing East Midlands (CTPEM), pursuant to a warrant issued under section 43B of the Terrorism Act 2000. This followed extensive intelligence reports obtained through a combination of human and signals intelligence, including intercepted communications identified by the Security Service. The arrest was effected in the early hours at Mr H’s residence in Beeston. Digital devices, including a high-specification laptop, encrypted external drives, and a small 3D-printing apparatus, were seized at that time.
+
+The investigation was intensive and resource-heavy, spanning multiple agencies and involving prolonged covert surveillance, together with complex digital forensic examination. The efforts made to decrypt messaging apps subscribed to by the defendant—requiring bespoke cryptanalytic techniques—were remarkable. However, the court must note with regret that these efforts were not without organisational difficulty: initial delays in the authorisation process meant that Mr H spent several weeks on extended bail before being remanded in custody after the preliminary hearings.
+
+Considerable delay attending the allocation of legal aid funding for defence experts complicated preparation of the case. The Legal Aid Agency required multiple resubmissions before approving funding for an independent forensic psychiatrist to examine Mr H, which inevitably impacted the scheduling of the plea and trial preparation hearing.
+
+The case management hearing held on 16 June 2025 had been listed on initial application before an Associate Judge, who observed that the complexity of the digital material—a data haul in excess of 2.3 terabytes—necessitated extended analysis time. Despite this, the better case management regime functioned with acceptable efficiency, although it could be remarked that, on occasion, the court staff faced challenges regarding interpreter attendance, given that a Pashto interpreter was required at certain stages due to Mr H’s limited proficiency in English.
+
+Of note is the defendant’s partial cooperation with the West Bridgford Prevent Engagement Team over the preceding eighteen months. However, intervention efforts, which included mentoring and cognitive behavioural therapy aiming to address grievance-based ideologies, were only intermittently engaged with by Mr H. The team’s written submissions to the court are acknowledged for their professional tone and their clear acknowledgement of the risk factors presented by the defendant.
+
+It is important to place these proceedings in the wider context of public safety pressures. For instance, Nottinghamshire Police have recently reported an uptick in non-terrorism related socio-economic offences, including anti-social behaviour and acquisitive crime, which places an already stretched resource pool under additional strain. This is further compounded by increased caseloads in the National Probation Service, where shortages of qualified practitioners hinder the delivery of risk management for individuals presenting with complex needs.
+
+A noteworthy complication in the present prosecution was the involvement of third parties with tangential relevance only. For illustration, there was a co-defendant in an associated case who remains at large, charged with aggravated assault on arresting officers—charges unrelated to Mr H and not arising from the present trial. Defence submissions raised, unsuccessfully, the possibility of improper association, but these arguments did not alter the jury’s assessment or the prosecution’s evidence.
+
+Equally peripheral but recorded for completeness is correspondence received by the court from a local heritage trust, discussing the impact of repeated incidents of fly-tipping on adjacent green belt land. While of public interest, such issues bear no relevance to the defendant’s personal circumstances or the offences for which he has been convicted.
+
+{INSERT_FACT_SNIPPET_1}
+
+Turning to legal context, the court is mindful of the jurisprudential framework applicable to the present offences. The law on preparatory acts associated with terrorism is well established, with R v. Zafar [2015] EWCA Crim 1246 providing guidance on the threshold for conduct sufficiently proximate to actionable preparations. Similarly, in R v. Lancaster [2017] UKSC 48, the Supreme Court clarified the approach to possession offences where intent must be established beyond reasonable doubt. These authorities were explored thoroughly during trial and informed the jury’s directions.
+
+Credit for guilty plea submissions have been the subject of extended argument. While Mr H initially pleaded not guilty, he altered his plea to guilty on both counts just prior to the commencement of the trial, following the completion of witness statements and expert reports. The Crown properly submits that this timing places Mr H’s plea regrettably late, limiting the extent of credit that may be afforded.
+
+The principle governing credit reduction is encapsulated in R v Madhani [2022] EWCA Crim 1587, which emphasises that credit is not a procedural entitlement but a discretionary concession reflecting early acceptance of responsibility and the resultant saving of court time and victim distress. Following this, R v Caldwell [2023] EWCA Crim 701, involving a series of shoplifting offences extending over eighteen months, established that pleas entered at the "eleventh hour" warrant more modest discounting—an approach consistent with the Crown’s position here.
+
+A comparison may be made to R v Patel [2019] EWCA Crim 1202, which concerned importation of cocaine concealed within modified vehicles. Although factually distinct, Patel highlights the courts’ caution in rewarding late pleas where significant investigative and preparatory resources have been expended without early cooperation. No analogy can be drawn between Patel and Mr H’s conduct as to seriousness of harm, but the principles regarding plea timing are congruent.
+
+{INSERT_FACT_SNIPPET_2}
+
+Further illustrating the defendant’s conduct, the Crown’s case rested significantly upon open-source intelligence linking Mr H to a digital blog and social media channels exhibiting ideological extremism. This conduct intensified from mid-2023, with commentary drawing directly on extremist narratives and referencing proscribed organisations. The linguistic analyses submitted identify marked parallels to material originating from overseas terrorist entities.
+
+{INSERT_FACT_SNIPPET_3}
+
+Of potential evidential interest, though unrelated to culpability, is the discovery of several encrypted chat groups associated with another individual convicted of violent disorder at a previous hearing. Their presence on seized devices emerged

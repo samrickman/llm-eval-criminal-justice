@@ -1,0 +1,37 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/27952  
+Sentencing Remarks – Her Honour Judge E. J. Thornton  
+Filed: 18 October 2025  
+
+Mr H appears before this court for sentence following conviction on two counts, namely engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with terrorism contrary to section 57 of the Terrorism Act 2000. The conduct which gave rise to these charges is said to have occurred between June 2023 and the defendant’s arrest in March 2025.  
+
+The defendant was apprehended on 4 March 2025 at approximately 04:30 hours, following execution of search warrants under section 43B of the Terrorism Act 2000 by officers belonging to Counter Terrorism Policing South West. The warrants were precipitated by an extended intelligence operation which included surveillance, signal intercepts, and digital forensic activity. The arrest was effected at Mr H’s flat in Clifton. At that time, officers seized electronic devices including two laptops, several encrypted external drives, and manuals relating to explosive manufacture.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The ensuing investigation, designated Operation FENWICK, was multi-agency in nature, involving close cooperation between CTPSW, the National Cyber Crime Unit (NCCU), and the Forensic Explosives Laboratory (FEL). The complex nature of the digital evidence required specialist skills, with a clear emphasis on the maintenance of evidential integrity and compliance with the Criminal Procedure and Investigations Act 1996. It is noteworthy that during the initial phase of the inquiry, the volume of material recovered led to a backlog within the computer forensic unit, delaying forensic examination for several months.  
+
+The defendant was initially remanded in custody on 10 March 2025 following a hearing before the District Judge at Bristol Magistrates’ Court. Bail was refused owing to concerns relating both to risk of further offending and interference with witnesses. Applications for bail were subsequently made and refused on several occasions, including a contested hearing on 15 June 2025 before the Senior District Judge at Bath, who emphasised the gravity of the charges, the risk to the public, and the substantial forensic evidence amassed.  
+
+Prior to trial, this matter was listed for several procedural hearings. Notably, the plea and trial preparation hearing took place on 2 September 2025. At this hearing, Mr H altered his plea from not guilty to guilty, with the admission entered immediately before the commencement of the trial proper. This late plea limited the credit available for remorse and early acceptance of responsibility.  
+
+The often-arduous nature of pre-trial disclosure in terrorism cases cannot be overstated. Here, the prosecution served a voluminous primary disclosure schedule in excess of 850 items, in addition to secondary schedules comprising encrypted chat logs, audio intercept transcripts subject to Public Interest Immunity (PII) considerations, and international co-operation material from partners under the Five Eyes arrangement. The Crown indicated that further disclosure was anticipated as additional analysis was completed. The Court appreciates the burdens such disclosure obligations place on defence solicitors and counsel, particularly given the funding caps imposed by the Legal Aid Agency.  
+
+In this connection, it should be recorded with some regret that the Legal Aid procurement for defence representation in the case was delayed on several occasions pending the outcome of funding agreements. These administrative challenges are all too typical and regrettably introduce delays potentially inimical to the proper administration of justice. The Court is keen to acknowledge the professionalism and perseverance displayed by Mr Callum Jennings, instructed for the defence under a provider contract with Legal Aid, who managed these obstructions diligently and without apparent complaint.  
+
+The Court also notes the intervention of the West Bristol Prevent Hub, which had engaged with Mr H intermittently since 2020 following a referral from a university lecturer concerned about ideological shifts. The Hub’s caseworker submitted a detailed report outlining numerous attempts to engage Mr H with deradicalisation programmes, none of which he consistently maintained. The panel convened under the Channel process had accordingly discharged him on grounds of disengagement; nonetheless, the Hub emphasised its willingness to revisit support post-custody.  
+
+The court is well acquainted with the challenges faced by multi-agency risk management forums. In this instance, the case was considered by the MAPPA Category 3 panel on three occasions prior to trial. Representatives from Probation, CTPSW, NHS/Mental Health Services and Housing were present. The panel’s comprehensive minutes—provided to the court—reflect debates about the risk posed by Mr H, considerations about supervised accommodation, and the practical challenges of monitoring in the community given technological limitations.  
+
+Apart from the imperatives of public safety, this case brings into sharp focus wider societal dynamics. The normalisation of ideologically motivated crime in certain quarters poses manifold challenges to law enforcement, social care, and community cohesion efforts. Recent increases in hate crimes, catalogue of incidents involving extremist paraphernalia in schools, and the prevalence of online echo chambers feeding grievance narratives all demonstrate how deeply embedded such risks have become. It is of concern that despite a growing body of legislation and preventive strategies, the problem remains intractable and evolving.  
+
+The defence submissions on sentencing hinged upon Mr H’s personal circumstances and mental health. The Court has been provided with a psychiatric report from Dr Nadia Copeland, consultant forensic psychiatrist at Bristol Secure Unit. The report, dated 10 October 2025, is detailed and professionally composed. While it notes that Mr H exhibits traits consistent with an obsessive-compulsive personality disorder, no formal diagnosis of severe mental illness is made. Dr Copeland cautions that ideological beliefs held by the defendant are unlikely to be amenable to straightforward psychological intervention and recommends intensive risk management post-release.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The Crown’s opening summary provides a full account of the incriminating digital evidence, including communications exhibiting a clear trajectory towards operational planning. The importance of this is underscored by the Crown’s forensic linguistic analysis report, which identifies a consistent pattern of coded references and allusions linked to materials disseminated by a proscribed organisation under Schedule 2 to the Terrorism Act 2000.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+The defendant’s possession of a range of technical equipment — including a desktop 3-D printer modified for metallic filament use — was verified by forensic examination. Defence counsel sought to argue that this was consistent with legitimate hobby interests, noting a substantial quantity of 3-D printed model railway components recovered from the same premises. While acknowledging this, the court recognises that the presence of dual-use
