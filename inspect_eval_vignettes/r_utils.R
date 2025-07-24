@@ -153,11 +153,13 @@ create_llm_results_dt <- function(m_gap, accuracy_dt, out_file) {
 
 # * Plot distribution of accuracy across different tasks (e.g. shoplifting/terrorism) and LLMs
 plot_accuracy_distribution <- function(dt, subtitle, out_file, width = 16, height = 10) {
+    # Create labels for the plot
     mean_accuracy_dt <- dt[
         ,
         .(accuracy = sprintf(
-            "Accuracy: %s",
-            round(mean(accuracy), 2)
+            "%s: %s",
+            tools::toTitleCase(task[1]), # shoplifting or terrorism
+            round(mean(accuracy), 3)
         )), .(model, task)
     ]
 
@@ -172,10 +174,11 @@ plot_accuracy_distribution <- function(dt, subtitle, out_file, width = 16, heigh
             data = mean_accuracy_dt,
             aes(
                 npcx = 0.1,
-                npcy = 0.7 + ifelse(task == "shoplifting", 0.05, 0),
+                npcy = 0.7 + ifelse(task == "shoplifting", 0.1, 0),
                 label = accuracy,
                 color = task
-            )
+            ),
+            size = 6
         ) +
         scale_color_manual(values = c(
             "terrorism" = "red",
