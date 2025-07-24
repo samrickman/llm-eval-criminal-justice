@@ -6,21 +6,19 @@ This project uses the [AISI Inspect framework](https://github.com/UKGovernmentBE
 
 ## Why this matters
 
-LLMs are increasingly used in settings like **probation**, **safeguarding**, and **mental health**, where summarisation tools may assist with documentation. But summaries that are fluent and plausible can still be  incomplete. In high-stakes domains, missing a key fact is not a minor error — it can mean **failing to detect abuse**, **omitting important details of a crime**, or **underestimating the risk to the public**.
+LLMs are increasingly used in settings like [probation](https://ai.justice.gov.uk/blog/welcome-to-the-blog), [safeguarding](https://www.oxford-aiethics.ox.ac.uk/oxford-statement-responsible-use-generative-ai-adult-social-care), and [mental health](https://openai.com/solutions/healthcare/), where they can free-up staff time by automatically generating documentation, and improve information flow by summarising large volumes of historical records. But in these domains, factual completeness matters. Missing a key detail is not a minor error — it can mean failing to record abuse, omitting critical aspects of a crime, or underestimating the risk to the public.
 
-Much of the existing research focuses on refusal behaviour — what prompts a model to say "I can't help with that." But an equally serious risk is when a model silently omits key details. This is harder to detect, yet can lead to poor decisions based on incomplete information.
+This risk is easy to miss. Summaries that appear fluent and plausible can still be incomplete — and this can go unnoticed. Much of the existing research focuses on refusal behaviour — what prompts a model to say "I can’t help with that." But an equally serious danger is when a model silently omits key information. These omissions are harder to detect, yet can lead to flawed decisions based on misleadingly confident summaries.
 
-This project designs controlled criminal justice style vignettes of over 3000 words where:
+This project investigates whether models are more likely to silently omit certain details in certain types of cases by asking LLMs to extract key details from criminal-justice style case vignettes. These are texts of over 3000 words relating to different crimes where:
 
 - **Ground-truth facts** relating to public safety are embedded in procedurally realistic noise.
 - **Distractor details** are added to test for plausible-sounding false positives.
 - **Model summaries** are evaluated on whether they include each relevant fact.
 
-LLMs are then asked to extract key details from these records.
-
 ## Summary of results
 
-The project currently evaluates frontier LLMs used to extract key information from synthetic sentencing remarks across two offence types:
+The project so far evaluates frontier LLMs used to extract key information from synthetic sentencing remarks across two offence types:
 
 - **Shoplifting** (procedurally dense, low-risk).
 - **Terrorism** (procedurally dense, safety-critical).
@@ -29,23 +27,21 @@ Each model was scored on the proportion of ground-truth facts it preserved in it
 
 ### Key findings
 
-<!-- fix this -->
-
 The project generates 509 case vignettes (240 shoplifting, 269 terrorism). Six LLMs are asked to extract key facts relating to the offending behaviour from the vignettes. Models scored fairly strongly overall, with an average accuracy of 0.95 for shoplifting and 0.87 for terrorism. However:
 
-* **All models performed significantly worse on terrorism cases than on shoplifting**, even though the number and structure of facts were identical across tasks.
+* **All models performed significantly worse on terrorism cases than on shoplifting**.
 * In a mixed-effects logistic model adjusting for vignette and model variation, terrorism summaries were about **40% as likely** as shoplifting summaries to include any given fact (OR = 0.40, 95% CI ≈ \[0.36, 0.44]).
 * Performance gaps varied sharply across models:
   * **Claude 3 Haiku**: odds of including a correct fact were **33% lower** in terrorism than in shoplifting (OR = 0.67).
   * **GPT-4o**: odds were **80% lower** (OR = 0.20).
-  * **Grok-3-mini** showed the steepest drop, with odds **98.7% lower** in terrorism (OR = 0.013). However, this is mostly driven by the fact that it outperformed most other models on shoplifting, with an accuracy of 0.9975, highlighting the need to caution in interpreting raw odds ratios.
+  * **Grok-3-mini** showed the steepest drop, with odds **98.7% lower** in terrorism (OR = 0.013). However, this is mostly driven by the fact that it outperformed all other models on shoplifting, with an accuracy of 0.9975, highlighting the need for caution in interpreting odds ratios alone.
 * All models showed consistent drops when required to include **offensive, violent, or politically sensitive content** — suggesting a **potential reluctance to include risk-relevant facts** in safety-critical settings.
 
 The plot below shows the distribution of accuracy scores across shoplifting and terrorism with the six models tested. In all cases, accuracy is higher for shoplifting than terrorism cases.
 
 ![Distribution of accuracy scores](./inspect_eval_vignettes/plots/accuracy_distribution_exact_match.png)
 
-The model where there is least difference appears to be `google/gemini-1.5-flash`. To investigate this, a mixed-effects binomial logistic regression was fitted, estimating the number of correct facts included in each summary, out of the total facts. The model includes fixed effects for `task` (shoplifting vs terrorism), `model` (LLM), and their interaction, with a random intercept for each vignette (`id`) to account for variation in document difficulty.
+The model where there is the least difference between shoplifting and terrorism appears to be `google/gemini-1.5-flash`. To investigate this, a mixed-effects binomial logistic regression was fitted, estimating the number of correct facts included in each summary, out of the total facts. The model includes fixed effects for `task` (shoplifting vs terrorism), `model` (LLM), and their interaction, with a random intercept for each vignette (`id`) to account for variation in document difficulty.
 
 The equation is:
 
@@ -68,9 +64,9 @@ The table below presents accuracy and odds ratios for each LLM.
 |Terrorism / Shoplifting |openai/gpt-4.1-mini-2025-04-14    |      0.382|     0.044|                  0.941|                0.860|<0.001 |***     |
 |Terrorism / Shoplifting |openai/gpt-4o-mini-2024-07-18     |      0.203|     0.020|                  0.926|                0.718|<0.001 |***     |
 
-The smallest difference between shoplifting and terrorism is Gemini 1.5 (OR 0.73). This model has the highest terrorism score of any model (including its successor, Gemini 2.5). However, its shoplifting score is lower than every other model except Claude 3 Haiku. This highlights that it may be desirable to use different LLMs for different types of cases.
+The smallest difference between shoplifting and terrorism is `google/gemini-1.5-flash` (OR 0.73). This model has the highest terrorism score of any model (including its successor, `google/gemini-2.5-flash`). However, its shoplifting score is lower than every other model except `anthropic/claude-3-haiku`. This highlights that as models become more technologically capable, they may also develop stronger safeguards which makes them less useful in real-world settings. Furthermore, in such settings, it may be desirable to use different LLMs for different types of cases.
 
-The results presented here use an "exact match" metric, which checks whether specific expected words appear in the actual output. The project also uses cosine similarity between the expected and actual sentences, with fairly similar trends. More details about the independent variables, and the results for cosine similarity, included in the [results section](./results/results.html).
+The results presented here use an "exact match" metric, which checks whether specific expected words appear in the actual output. The project also uses cosine similarity between the expected and actual sentences, with similar results. More details about the independent variables, and the results for cosine similarity, included in the [results section](./results/results.html).
 
 ## Outline of repository contents
 
@@ -98,7 +94,7 @@ The repo contains two stages. Firstly, the `generate_vignettes` folder contains 
     ├── input
     └── logs
 ```
-## Installation instructions and usage examples coming soon.
+## Installation instructions and usage examples
 
 ### Requirements
 
@@ -114,13 +110,15 @@ The repo contains two stages. Firstly, the `generate_vignettes` folder contains 
 
 ### Step-by-step instructions
 
-- To be completed (I have not yet tested the Dockerfile)
+- Further details coming soon
+- To be completed (Dockerfile needs to be tested)
 
 ## TODO
 
+- Test Dockerfile and complete step-by-step instructios.
 - Expand the types of case vignettes to other sensitive issues e.g. domestic abuse, drugs, hate crimes, revenge porn, stalking, harassment, neglect, knife crime, fraud and others.
 - Current evaluation metrics are exact text match and cosine similarity. Add LLM-based evaluation metrics.
 - Measure the effect of a range of different system and user prompts.
-- Analysis not just the accuracy but the types of facts that are missed by models.
+- Consider policy implications: analyse not just the accuracy but the types of facts that are missed by models.
 - Expand the [results](./results/results.html) file with these analyses.
 
