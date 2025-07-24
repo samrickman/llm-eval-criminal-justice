@@ -153,10 +153,31 @@ create_llm_results_dt <- function(m_gap, accuracy_dt, out_file) {
 
 # * Plot distribution of accuracy across different tasks (e.g. shoplifting/terrorism) and LLMs
 plot_accuracy_distribution <- function(dt, subtitle, out_file, width = 16, height = 10) {
+    mean_accuracy_dt <- dt[
+        ,
+        .(accuracy = sprintf(
+            "Accuracy: %s",
+            round(mean(accuracy), 2)
+        )), .(model, task)
+    ]
+
     ggplot(dt) +
         geom_density(aes(x = accuracy, fill = task), alpha = 0.5, bw = 0.1) +
         facet_wrap(vars(model), scales = "free_y") +
         scale_fill_manual(values = c(
+            "terrorism" = "red",
+            "shoplifting" = "blue"
+        )) +
+        ggpp::geom_text_npc(
+            data = mean_accuracy_dt,
+            aes(
+                npcx = 0.1,
+                npcy = 0.7 + ifelse(task == "shoplifting", 0.05, 0),
+                label = accuracy,
+                color = task
+            )
+        ) +
+        scale_color_manual(values = c(
             "terrorism" = "red",
             "shoplifting" = "blue"
         )) +
