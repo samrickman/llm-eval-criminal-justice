@@ -66,7 +66,7 @@ The table below presents accuracy and odds ratios for each LLM.
 
 The smallest difference between shoplifting and terrorism is `google/gemini-1.5-flash` (OR 0.73). This model has the highest terrorism score of any model (including its successor, `google/gemini-2.5-flash`). However, its shoplifting score is lower than every other model except `anthropic/claude-3-haiku`. This highlights that as models become more technologically capable, they may also develop stronger safeguards which makes them less useful in real-world settings. Furthermore, in such settings, it may be desirable to use different LLMs for different types of cases.
 
-The results presented here use an "exact match" metric, which checks whether specific expected words appear in the actual output. The project also uses cosine similarity between the expected and actual sentences, with similar results. More details about the independent variables, and the results for cosine similarity, included in the [results section](./results/results.html).
+The results presented here use an "exact match" metric, which checks whether specific expected words appear in the actual output. The project also uses cosine similarity between the expected and actual sentences, with similar results. More details about the independent variables, and the results for cosine similarity, included in the [results section](https://samrickman.github.io/llm-eval-criminal-justice/results.html).
 
 ## Outline of repository contents
 
@@ -120,5 +120,5 @@ The repo contains two stages. Firstly, the `generate_vignettes` folder contains 
 - Current evaluation metrics are exact text match and cosine similarity. Add LLM-based evaluation metrics.
 - Measure the effect of a range of different system and user prompts.
 - Consider policy implications: analyse not just the accuracy but the types of facts that are missed by models.
-- Expand the [results](./results/results.html) file with these analyses.
+- Expand the [results](https://samrickman.github.io/llm-eval-criminal-justice/results.html) file with these analyses.
 
