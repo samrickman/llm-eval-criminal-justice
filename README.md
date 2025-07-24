@@ -51,6 +51,7 @@ The equation is:
 
 $$
 \text{logit} \left( \Pr(\text{correct}) \right) = \beta_0 + \beta_1 \cdot \texttt{task} + \beta_2 \cdot \texttt{model} + \beta_3 \cdot (\texttt{task} \times \texttt{model}) + u_{\texttt{id}} \\
+\\
 \quad u_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2)
 $$
 
