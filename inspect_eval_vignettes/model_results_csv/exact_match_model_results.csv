@@ -1,0 +1,7 @@
+Contrast,Model,Odds ratio,Std. Err.,Accuracy (shoplifting),Accuracy (terrorism),p,p_stars
+Terrorism / Shoplifting,anthropic/claude-3-haiku-20240307,0.669,0.048,0.771,0.694,<0.001,***
+Terrorism / Shoplifting,google/gemini-1.5-flash,0.726,0.102,0.954,0.937,0.023,*
+Terrorism / Shoplifting,google/gemini-2.5-flash-lite,0.39,0.06,0.969,0.924,<0.001,***
+Terrorism / Shoplifting,grok/grok-3-mini,0.013,0.009,0.999,0.924,<0.001,***
+Terrorism / Shoplifting,openai/gpt-4.1-mini-2025-04-14,0.382,0.044,0.941,0.86,<0.001,***
+Terrorism / Shoplifting,openai/gpt-4o-mini-2024-07-18,0.203,0.02,0.926,0.718,<0.001,***

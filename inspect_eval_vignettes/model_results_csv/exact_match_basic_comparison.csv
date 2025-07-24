@@ -1,0 +1,2 @@
+Contrast,Odds ratio,Std. Err.,Accuracy (shoplifting),Accuracy (terrorism),p,p_stars
+Terrorism / Shoplifting,0.398,0.018,0.927,0.843,<0.001,***
