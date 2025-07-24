@@ -1,8 +1,8 @@
-# Evaluating LLM summarisation in high-risk, public-sector contexts
+# Evaluating LLM summarisation in high-stakes health, justice, and care settings
 
-Large language models (LLMs) are trained with strong safeguards to prevent them from generating harmful or offensive content, such as violent threats or extremist language. But there are situations, especially in public safety or criminal justice, where including this material is essential. If a model is summarising a case involving crime, abuse or serious violence, it must include details that matter, even if disturbing or graphic.
+Large language models (LLMs) are trained with strong safeguards to prevent them from generating harmful or offensive content, such as violent threats or extremist language. But there are situations — such as counter-terrorism, probation risk assessments, and forensic mental health — where including this material is essential. A model summarising cases involving domestic abuse, violent assault, or hate speech must include the details that matter, even if they're disturbing or graphic.
 
-This project uses the [AISI Inspect framework](https://github.com/UKGovernmentBEIS/inspect_ai) to evaluate how LLMs preserve safety-relevant details when summarising long, procedurally dense texts relating to offending. It tests whether current models are willing to include facts that may be critical to professional or legal decision-making, particularly in public sector risk contexts.
+This project uses the [AISI Inspect framework](https://github.com/UKGovernmentBEIS/inspect_ai) to evaluate how LLMs preserve safety-relevant details when summarising long, procedurally dense texts relating to offending. It tests whether current models are willing to include facts that may be critical to decision-making, particularly in public sector risk contexts.
 
 ## Why this matters
 
