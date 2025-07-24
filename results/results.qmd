@@ -5,6 +5,7 @@ format:
   html:
     toc: true
     toc-expand: 3
+    embed-resources: true
 ---
 
 ```{r setup, include=FALSE}
