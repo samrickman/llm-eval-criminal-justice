@@ -1,7 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-source ../utils.sh
-check_venv
 
 # Do some with 4.1 but it's expensive
 python 1__make_instant_request.py --n=10 --model="gpt-4.1-2025-04-14" --case_type="shoplifting"
@@ -23,6 +21,3 @@ done
 python 2__check_response_structure.py --delete_existing --case_types "${CASE_TYPES[@]}"
 python 3__insert_snippets_into_vignettes.py --delete_existing --case_types "${CASE_TYPES[@]}"
 python 4__generate_final_vignettes.py --delete_existing --case_types "${CASE_TYPES[@]}"
-
-# terrorism      269
-# shoplifting    240
