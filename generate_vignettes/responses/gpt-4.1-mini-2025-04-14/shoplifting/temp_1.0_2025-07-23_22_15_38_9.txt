@@ -1,0 +1,90 @@
+IN THE KINGSTON CROWN COURT  
+R v. MR H  
+Case No. KT2025/15847  
+Sentencing Remarks – Her Honour Judge M. K. RENWICK  
+Filed: 21 September 2025  
+
+Mr H, you stand before this court for sentencing consequent upon your conviction for theft by shoplifting contrary to section 1 of the Theft Act 1968. The offending period spans from late 2023 through to early spring of this year, involving several retail establishments located within the boroughs of Kingston, Richmond, and parts of metropolitan southwest London.
+
+Preliminary and Procedural History  
+Your initial arrest took place on 31 March 2025, following a complex investigation led by the Kingston Metropolitan Police Service’s Retail Crime Unit, working in partnership with the Kingston Business Crime Partnership and local Community Safety Teams. The investigation was instigated as a result of numerous complaints and loss prevention reports submitted by a diverse range of retailers—ranging from well-established national supermarket chains to smaller independent outlets specialising in pharmaceutical and personal care goods. The offences were initially perceived as sporadic incidents but, upon collation of data across business reports and intelligence sharing forums, indicated a pattern of repetitive offending by an individual fitting your description and bearing specific identifying markers corroborated by closed-circuit television recordings.
+
+The investigative process was far from straightforward. As this court has noted on numerous occasions in similar cases, the actual collection of evidence in shoplifting matters demands meticulous effort. Store CCTV systems, while increasingly sophisticated, often present practical challenges — variable quality of footage, inconsistent timestamp synchronisation, and frequent obstructions caused by shelving or customer flow. Moreover, many incidents involve brief and furtive actions conducted in crowded aisles, making identification unreliable without corroborative data. The police undertook exhaustive efforts, including retrospective retrieval of transactional data from self-checkout terminals and interviewing retail staff under substantial operational pressures.
+
+Adjunct to the criminal investigation, it is worthy of mentioning that the Business Crime Partnership framework underpinning the coordination between businesses and law enforcement, although extensive on paper, frequently faces challenges of compliance and timeliness. These partnerships depend heavily on the commitment of local officers and store managers to share incident intelligence promptly. Kingston’s scheme, by contrast, has been commended for fostering relatively effective cooperation despite constraints posed by personnel shortages exacerbated by the national police recruitment crisis.
+
+It should also be recorded that the case progressed through the Better Case Management (BCM) process, which remains central to expediting Crown Court matters under the Criminal Procedure Rules. Following your initial appearance in the Magistrates' Court on 14 April, the prosecution offered a consolidated indictment encompassing multiple incidents which were indicative of your modus operandi.
+
+The BCM protocol, as you are no doubt aware, seeks to streamline evidential issues early and facilitate timely trial preparation. Your case was listed for a plea and trial preparation hearing on 2 June 2025, during which you first entered a not guilty plea. This occasion also marked the submission of initial defence statements, which challenged the sufficiency of evidence on various technical grounds relating to identification and procedural propriety. The court recalls that at that hearing, some applications were made to exclude specific portions of surveillance footage owing to claims of inadmissible editing.
+
+{INSERT_FACT_SNIPPET_1}.
+
+In the weeks following that hearing, supplementary witness statements and expert reports were served by the Crown, including analyses by retail loss prevention specialists and forensic video enhancement technicians. Following the receipt of these materials, your defence team applied to instruct an independent forensic psychologist to conduct an assessment — an application which experienced considerable delay due to protracted Legal Aid Agency authorisation procedures, notwithstanding the recognised importance of psychiatric evaluation in cases involving repeat acquisitive offending.
+
+It may be tempting to view such delays as a mere administrative inconvenience; however, they reflect a deeper and systemic difficulty suffusing the justice system. Legal Aid funding bottlenecks are well documented and can impact the timely administration of justice. Similar problems have been noted across a variety of case types, exacerbated by restrictive budgetary controls and an increasingly risk-averse culture within funding bodies. The Legal Aid Agency’s repeated procedural scrutiny of your counsel’s application, with interim requests for clarification and supplementary documentation, extended hearings and raised costs demonstrably above projected levels. That said, I acknowledge the professionalism of your solicitors in navigating these constraints.
+
+A subsequent plea hearing was convened on 15 July 2025, when you changed your plea to guilty. The plea, entered at the outset of the trial window, attracts reduction in sentence credit; yet this court notes that it was a late early guilty plea rather than an immediate acceptance at first hearing, relevant to the extent of the discount that will apply.
+
+It may be instructive to observe, in view of the plea timing, the Court of Appeal’s ruling in R v. Yeats [2023] EWCA Crim 645, where the timing rather than the mere presence of a guilty plea was emphasised as pivotal to sentencing reductions. There, the defendant was found to have delayed until after the prosecution had served substantial evidence bundles before admission. The court there warned against unduly generous credit for pleas entered solely when defeat becomes inevitable. While your plea came weeks post-charge, it nonetheless carries some lesser mitigating weight.
+
+Further jurisprudential context may be drawn from R v. Easton [2024] EWCA Crim 812, which concerned theft from charity shops over a period of ten months. The Court underscored the particular vulnerability of such premises—often dependent on volunteer staff and charitable goodwill—and the community impact of repeated losses, despite the modest value of stolen goods.
+
+I also mention, for completeness and without direct parallel, the decision in R v. Ferris [2021] EWCA Crim 1782, which dealt with aggravated burglary involving affray at a residential address. Despite considerable factual divergence, it serves as a reminder that sentencing must consider not only the statutory offence but the wider harm arising from intrusion into protected spaces. Shoplifting, while less overtly violent, invokes analogous concerns regarding personal security and public confidence.
+
+{INSERT_FACT_SNIPPET_2}.
+
+It may also be noted that alongside judicial adjudication, the probation service in London continues to face mounting caseload pressures. Recent reports from Her Majesty’s Probation Inspectorate (HMPI) highlight challenges in delivering consistent supervision and rehabilitation, including staff vacancy rates reaching 20% in some boroughs. These operational realities temper the expectations one might otherwise hold regarding the capacity for community orders and targeted interventions to fully engage complex offenders in a timely manner.
+
+Despite these systemic constraints, the probation assessment prepared in this case, dated 8 September 2025, offers a detailed overview of your background, presenting social and psychological factors relevant to both offending behaviour and potential mitigation. The report, prepared by Ms Harpreet Kaur, probation officer, incorporates input from a draft psychological evaluation by Dr Nathan Cheng, a forensic psychologist with expertise in impulse-control disorders and acquisitive offending patterns. Dr Cheng’s analysis suggests that while no formal diagnosis of a specified mental disorder can be made, certain personality dynamics—particularly impulsivity and avoidant coping strategies—contribute significantly to your behavioural profile.
+
+{INSERT_FACT_SNIPPET_3}.
+
+It is regrettable that early opportunities for intervention appear to have been missed or declined, as the report suggests limited engagement with voluntary sector resources. Organisations such as the Kingston Mental Health Support Alliance, as well as local food bank providers and housing advisory services, have documented challenges in maintaining continuous contact with individuals presenting unstable accommodation and complex needs. The probation officer’s note that you have sporadically engaged with some support offers, but not in sustained or reliable fashion, is consistent with patterns observed in similar cases.
+
+I must also record the court’s awareness of the increasing workload imposed upon police digital forensics units. The Kingston police technical bureau, which contributed to this investigation, continues to face backlogs due to the exponential growth in devices requiring processing each year. In your case, a comprehensive extraction of CCTV footage from six retail outlets, together with analysis of transport card records and limited mobile device data, required significant specialist input. The allocated officers—despite staffing reductions—have demonstrated commendable dedication, which must not be overlooked.
+
+It is noted that the Retail Support and Recovery Network, a voluntary-sector service with a remit to assist victim businesses, has succeeded in liaising with affected retailers to provide impact statements and victim personal statements. These documents speak to ongoing economic cost, staff anxiety, and altered store operations including shuttered aisles and increased security presence.
+
+Turning to legal procedural points, I summarise that the case was delayed on two occasions. The first adjournment concerned the Legal Aid Agency’s approval for psychological assessment funding, while the second resulted from a brief industrial dispute action by court ushers in July, which disrupted listings nationally. These delays, though unfortunate, are illustrative of wider systemic and staffing issues presently afflicting the justice system.
+
+{INSERT_FACT_SNIPPET_4}.
+
+I proceed next to address your personal history. You are now aged 34 and reside in temporary accommodation provided via a local authority scheme. Your previous conviction record comprises four separate theft-related offences, all shoplifting, dating from 2018 onwards, with intermittent periods of compliance with diversionary orders and community resolutions. Notably, none of these earlier disposals involved custodial sentences. Family references indicate fractured relationships, though there is some limited extended family contact.
+
+You have no known involvement with gangs or organised crime. Your defence team has submitted a letter authored by a sister, Ms Bernice Williams, attesting to committed but sometimes sporadic support provided to you over the past decade. References from the Kingston Homeless Outreach Project confirm intermittent engagement with food provision and drop-in services, though long-term sustained participation is lacking.
+
+{INSERT_FACT_SNIPPET_5}.
+
+It is also appropriate to mention, for context, that your current landlord—managing a block of temporary housing—has recently been the subject of a noise abatement notice triggered by unrelated complaints from other residents. This fact has no bearing on your case, but illustrates, if only tangentially, the pressures on housing providers and tenant relations within the borough.
+
+In the forensic context, I note that the initial case file contained a witness statement from a shop supervisor who also had a distant relative facing prosecution for benefit fraud. Such familial overlaps are not uncommon in adult criminal courts, but carry no imputations for you.
+
+Historical sentencing reviews emphasize the importance of acknowledging the broader social circumstances without diluting accountability. The Public Protection Sentencing Guidelines, as embodied in the Sentencing Council’s theft offences manual, highlight the balance between recognizing mitigation and the centrality of deterrence for repeat acquisitive offending.
+
+This court acknowledges the evolving nature of court protocol over the past decade, including improvements in electronic document filing, digital evidence presentation, and remote witness testimony. These changes, while designed to expedite proceedings, sometimes generate additional complexity during case management.
+
+{INSERT_FACT_SNIPPET_6}.
+
+The defence asks this court to consider both your expressed difficulties with employment and housing stability alongside mental health concerns. Defence counsel submits that community-based orders incorporating rehabilitation activity, coupled with tailored cognitive-behavioural therapy, present the most appropriate judicial response.
+
+The Crown submits that the offending is serious due to its repetitive nature and impact on vulnerable retail premises, urging this court to impose a custodial sentence — albeit one moderated in length to reflect the mitigating factors and your guilty plea.
+
+I receive with thanks letters of representation from the Kingston Retailers Association, which articulate the concerns of small shopkeepers about persistent theft; these documents are respectful and measured, noting the emotional toll on staff rather than overstating economic losses.
+
+Also accompanying submissions is a detailed victim impact statement from the manager of the Richmond Pharmacy, who describes the erosion of staff confidence and the introduction of security shields to protect certain products.
+
+{INSERT_FACT_SNIPPET_7}.
+
+As is customary, this court draws attention to the Sentencing Guidelines Council publication on Theft Offences, noting the aggravating factors such as targeting vulnerable premises, planning, repeat offending despite warnings, and failure of previous informal warnings to deter. Mitigating considerations, including early guilty plea and personal circumstances, are equally acknowledged.
+
+Experience shows that persistent shoplifting can have a ripple effect, impacting not only business viability but community wellbeing. Staff turnover increases, recruitment difficulties mount, and overall neighbourhood cohesion can be impaired by the perception of lawlessness or neglect.
+
+The court also observes that while some community orders can provide structured support, their success is frequently dependent on the defendant’s willingness to engage earnestly with rehabilitative processes. Unfortunately, non-compliance rates rise where underlying personal issues—such as unstable accommodation or untreated mental health difficulties—are unaddressed.
+
+{INSERT_FACT_SNIPPET_8}.
+
+I repeat my thanks to Ms Fiona Gregson, who appears for the Crown, and to Mr Daniel Osbourne, representing you on a Legal Aid certificate. I must again express concern at the procedural delay occasioned by the lengthy Legal Aid Agency considerations, which have demonstrably hampered progression and occasioned adjournments.
+
+This court hopes that lessons are being learned from systemic inefficiencies, both within justice agencies and allied service sectors, so that future defendants may receive timely and thorough assessments, with minimal disruption to court resources and, most importantly, to victims.
+
+These sentencing remarks are issued this day,

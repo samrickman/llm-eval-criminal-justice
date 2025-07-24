@@ -1,0 +1,91 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/24931  
+Sentencing Remarks – Her Honour Judge M. L. WAKEFORD  
+Filed: 4 September 2025
+
+Mr H appears before this court to be sentenced upon his convictions of two counts: the first of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and the second of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct is alleged to have taken place over an extended period from September 2022 until his arrest on 19 January 2025.
+
+The matter has followed a somewhat protracted procedural path. Notably, initial charges were preferred in March 2025, following an intensified investigation by Counter Terrorism Policing West Midlands (CTP WM). As is customary in cases involving matters of national security, several administrative delays arose, not least the vetting of sensitive material under the Justice and Security Act 2013. The court also notes the resolute efforts employed by CTP WM and its collaborative partners in conducting complex digital forensic inquiries under challenging circumstances, compounded by substantial caseloads of competing priority.
+
+The defendant initially entered pleas of not guilty but ultimately changed pleas to guilty to both counts on the morning of the sentencing hearing. The timing of this plea change is a matter to which the court shall have regard in determining any mitigation for early acceptance of responsibility. The court is mindful that the Criminal Procedure Rules Part 22 require careful balancing of encouragement for early pleas against the realities of evidence disclosure and legal advice.
+
+It merits noting that the Legal Aid Agency imposed a cap on defence preparation hours, an issue which has become increasingly prevalent in cases of this nature. Counsel for the defence made repeated applications to vary these limits. Though ultimately authorised, the delays occasioned by these procedural hurdles have placed strain on the effective management of the defence case, a reality inevitably reflected in the conduct of proceedings.
+
+The case was listed before this court on 3 occasions for preliminary hearings, held respectively on 15 March, 27 May, and 16 July 2025. Adjournments were suffered on each occasion, attributable variously to disclosure complexities, witness availability, and, regrettably, industrial action affecting court staff impacting listing availability. Such vicissitudes, though regrettable, are to be expected given the increasing pressures on the criminal justice system and must be factored professionally into the administration of justice.
+
+The statutory framework governing sentencing in terrorism cases has been well-established over the course of recent years and is informed by a significant corpus of case law, including, inter alia, R v Gul [2013] UKSC 64 and R v Chitumba [2017] EWCA Crim 1569, both of which clarify the necessity of emphasizing public protection and deterrence as principal sentencing aims. The Sentencing Council’s Terrorism Offences Definitive Guideline (2023) further delineates criteria for assessing culpability and harm, including the sophistication of conduct and proximity to potential harm.
+
+{INSERT_FACT_SNIPPET_1}
+
+In addressing the timeline of the investigation, the defendant was identified following a covert operation codenamed "Operation Moorland," which combined traditional surveillance with innovative data-analytic techniques. The investigation drew upon technical capabilities including extraction of metadata from peer-to-peer encrypted networks and judicially authorised intercepts, enabling precise tracking of the defendant’s communications. The reactive strain on digital forensics teams is well documented in the Annual Data Crime Report (2024), which notes an escalating backlog of encrypted device assessments, highlighting resource shortfalls impacting investigative efficiency.
+
+At the outset of proceedings, the court acknowledges the assistance rendered by the West Midlands Probation Service, who undertook assessments of the defendant’s custodial antecedents and risk profile. Despite chronic staffing shortages widely documented in Probation Service Annual Reviews (2023–2024), the service managed to produce a comprehensive report incorporating psychometric evaluation and previous engagement records for the court’s consideration.
+
+The court is conscious of the broader societal context in which these offences have occurred. The recent upticks in urban disorder — manifesting in rising incidents of low-level antisocial behaviour and street homelessness — testify to strains on community cohesion and public services alike. Although unrelated to the present matter, such background underscores the complex milieu within which law enforcement and judicial authorities operate.
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant’s ideological inclinations were a significant focus of the evidence. He operated under the online pseudonym “CrimsonVoid,” through which he posted material of an extremist nature. Expert testimony was provided by Ms. Helen Blythe, a digital extremism analyst from the Centre for Online Radicalisation Studies, who elaborated upon the linguistic coding and thematic motifs appearing in those postings. The defence challenged the expert’s conclusions, contending that some statements were susceptible to multiple interpretations. However, the jury — informed by other evidential strands — rejected this contention.
+
+It is pertinent to recall the judgment in R v Stafford [2019] EWCA Crim 1337, where the Court of Appeal emphasised that subjective interpretation of material must be balanced against contextual analysis and corroborative evidence. This principle has guided the court’s assessment of the material recovered from Mr H’s devices.
+
+In addition to online activity, forensic analysis recovered an assortment of digital artefacts encrypted within container files, labelled with benign titles unrelated to the content, including “PhotoProjects” and “Groceries2023.” Decryption required substantial computational time and skill, attributable to the application of truecrypt-style volume encryption preceded by several layers of obfuscation. These technical protections contributed to the extended timeframe within which prosecution evidence could be collated and disclosed.
+
+{INSERT_FACT_SNIPPET_3}
+
+Defence submissions addressed the defendant’s purported interest in amateur chemistry and electronic hobby electronics, including a well-documented attendance at local maker meets. Counsel invited the court’s attention to this benign aspect of Mr H’s life, attempting to divert from a purely ideological narrative. The court accepts that such hobbies per se are not indicative of criminal intent, but given the concomitant evidence and the nature of the materials seized, this mitigating argument carried limited weight.
+
+{INSERT_FACT_SNIPPET_4}
+
+The court considered the relevance of recovered items ranging from kitchen scales through to measurement apparatus, allegedly linked to both culinary and engineering activities. These were adduced as evidence of the defendant’s preparedness to manufacture explosive substances, in light of expert evidence from the National Forensic Explosives Service. It was noted that the defendant possessed literature on the synthesis of hazardous substances but no formal academic qualifications or professional standing in chemical engineering.
+
+A further matter arose regarding the presence of cannabis filament residue discovered on a cloth in Mr H's residence, which the defence sought to portray as indicating a “normal young adult milieu.” The court notes this was uncharged conduct, with no evidence of supply or commercial purpose. Moreover, in line with the guidance in R v. O'Malley [2020] EWCA Crim 756, recreational substance use is not ordinarily predictive of ideological or violent risk.
+
+Attention is also drawn to an unrelated matter: the defendant’s neighbour was reported to the environmental health authority for persistent noise complaints, relating to amplified music during unsociable hours. The court records this only for the avoidance of doubt; it has no bearing upon the charges or sentencing in this case.
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant undertook a trip to Romania in May 2024, for which documentation included travel records featuring a short-stay visa and hotel bookings in Bucharest. Encrypted chat logs revealed communications with an individual known to be affiliated with a far-right extremist cell in Eastern Europe. CCTV footage from the Otopeni Airport showed Mr H in proximity to this person, raising the prospect of ideological exchange and operational networking. The prosecution contended this was more than coincidental contact; the defence maintained that the meetings were incidental and unsanctioned.
+
+The court notes there has been an increase in scrutiny of overseas journeys in relation to radicalisation risk, highlighted by the findings of the All-Party Parliamentary Group on Counter-Extremism (2024). The ramifications of international travel for subversive purposes remain a salient consideration in sentencing.
+
+Reference must also be made to the substantial quantity of material disclosed in this case, running to in excess of 650 exhibits, including digital data, witness statements, expert reports, and intercepted communications. The disclosure process was conducted under the watchful eye of the Crown Prosecution Service’s Counter Terrorism Division, and although inevitably protracted, was managed in a manner consistent with fairness and the defendant’s rights as enshrined in Article 6 of the European Convention on Human Rights.
+
+The court also notes that defence counsel requested expert psychiatric evidence on three separate occasions, the final of which was secured through a delayed authorisation from the Legal Aid Agency after administrative challenges. This contributed to adjournments, though no fault is attributable to the legal team.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial transactions in cryptocurrency were a notable feature of the case, with an expert forensic accountant, Mr Simon Redmayne, providing testimony concerning blockchain tracing. He demonstrated transfers amounting to approximately £4,120 worth of Bitcoin, moving between wallets associated with the defendant’s online identities and secondary accounts linked to darknet marketplaces transacting in dual-use chemical powders. This digital financial trail bolsters the prosecution case regarding the premeditated acquisition of precursor substances.
+
+It is increasingly acknowledged that criminal exploitation of cryptocurrency networks poses acute enforcement challenges, as discussed in the Home Office’s Digital Crime Strategy 2025. International regulatory cooperation remains nascent, and the court expresses concern at the risks such opacity presents for public safety.
+
+In the interests of accuracy, mention must be made of an ancillary police investigation concerning a third party, a roommate of the defendant, discovered to be in possession of an unlicensed bladed article during an unrelated search warrant executed in July 2024. No charges were brought against Mr H; the case against the roommate remains pending. The court is careful to distinguish this matter from the present proceedings, highlighting that guilt or innocence cannot be presumed by association.
+
+{INSERT_FACT_SNIPPET_7}
+
+Regarding the defendant’s personal circumstances, Mr H is 30 years old, single, and originally from Dudley. He holds a Bachelor of Science in Electrical Engineering awarded from Midlands Metropolitan University with upper second-class honours. Until early 2023, Mr H was employed at a local manufacturing firm but resigned following an internal compliance inquiry into his use of company IT resources, which had identified traffic to extremist websites. He has a limited criminal record, consisting only of minor motoring offences and a conviction for shoplifting toiletries from a local supermarket in 2018, which is unrelated to the present charges.
+
+Letters of support were tendered by family and associates, including testimonials from a volunteer youth club where Mr H occasionally helped tutor children in mathematics. While the court recognises the value of positive community engagement, it must be cautious not to conflate this with mitigation in the absence of evidence of remorse for the offences committed.
+
+The court also notes with interest correspondence from the Birmingham Resettlement and Reintegration Forum, which emphasised the importance of early intervention in managing ideological risk. Their submission, though primarily forward-looking, highlighted the chronic resource challenges faced by charitable organisations tasked with deradicalisation support, particularly in the wake of funding cuts since 2021.
+
+Finally, the court observes an ongoing regional issue: persistent graffiti of extremist slogans appearing on public transport infrastructure in the Greater Birmingham area, currently the subject of a Metropolitan Police crackdown. While unrelated to Mr H, the presence of such community tensions forms an unfortunate backdrop to these types of offences.
+
+{INSERT_FACT_SNIPPET_8}
+
+A detailed psychiatric report prepared by Dr Fiona Sellers, consultant forensic psychiatrist at West Midlands Secure Unit, provides a considered analysis of Mr H’s mental state. Dr Sellers notes “pronounced cognitive rigidity,” with an “ideological absolutism” that, while not meeting criteria for a formal mental disorder, nonetheless frames his worldview in starkly binary terms. The risk assessment concludes with a categorisation of high risk of serious harm, principally because of Mr H’s technical skills, ability to plan covertly, and demonstrated network contacts.
+
+The report further recommends a period of intensive supervision on release, ideally within the framework of Multi-Agency Public Protection Arrangements (MAPPA) Category 3, with electronic monitoring and restricted access to internet-enabled devices. The report emphasises that despite engagement with Prevent interventions prior to arrest, disengagement was partial, erratic, and without demonstrable shift in ideological commitment.
+
+The court is reminded that convictions for serious offences such as that of Mr H carry profound and lasting implications for public safety. While the judicial system must remain proportionate and fair, it must also send an unequivocal message regarding the intolerability of such conduct.
+
+The court expresses thanks to counsel for their thorough submissions today: Ms Lorna Tilley for the Crown, whose clarity and professional demeanour contributed materially to the efficient progress of the hearing; and Mr David Kemple, representing the defence, who navigated complex procedural and evidential matters with commendable diligence under challenging circumstances.
+
+The physical courtroom in which these proceedings have been conducted underwent recent refurbishment over the summer recess, improving acoustics and seating layout, enabling better access for all parties involved. Court ushers and administrative staff maintained order and helped facilitate the smooth running of hearings despite unforeseeable delays in interpreter arrival earlier this morning.
+
+The court directs the preparation of a pre-sentence report addressing all relevant matters, including the defendant’s risk profile, engagement with rehabilitative programming, and proposals for licence conditions tailored to counter-extremism management.
+
+These sentencing remarks are made at the Crown Court at Birmingham, on this 4th day of September 2025, in Court 5. Proceedings have been transcribed as required under Part 5 of the Criminal Procedure Rules. The defendant is informed of his right to appeal conviction and sentence within 28 days pursuant to the relevant statutory provisions, including the Criminal Appeal Act 1968. The court recognises that no reporting restrictions under section 49 of the Children and Young Persons Act 1933 apply in this case. Costs are reserved.
+
+These are the orders of the court.

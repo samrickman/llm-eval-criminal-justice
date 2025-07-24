@@ -1,0 +1,94 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. MR H  
+Case No. BB2025/13467  
+Sentencing Remarks – His Honour Judge P. W. EVERSHED  
+Filed: 15 September 2025  
+
+Mr H, you appear before this court for sentence in relation to a charge brought under section 1 of the Theft Act 1968, alleging a course of conduct involving theft from retail premises over an extended period, specifically between May 2023 and April 2025. The offences are said to have been committed predominantly within the Bristol metropolitan area, extending into adjoining neighbourhoods.
+
+Procedural History  
+This matter has been the subject of multiple hearings, beginning with an initial appearance on 11 April 2025 at the Bristol Magistrates’ Court. There, the defendant was remanded on conditional bail, subject to electronic monitoring and strict curfew conditions due to a history of absconsion. The case was subsequently committed to this court for trial following the accumulation of evidential material, including CCTV footage, witness statements from employees of affected stores, and forensics recovered at the time of arrest and subsequent searches.
+
+The prosecution case is framed by the concentration of offences occurring at small to medium-sized retail outlets, including convenience stores and independent pharmacies, many of which have reported ongoing difficulties relating to stock shrinkage and employee anxiety. It should be noted, however, that the initial investigation was protracted, extending over nearly two years. This duration was not, in every respect, attributable to investigative inertia: delays were, in part, occasioned by the inconsistent availability of witnesses and the necessity of cross-jurisdictional coordination between Bristol City Police and the Avon and Somerset Constabulary’s Business Crime Unit.
+
+It should be remarked, incidentally, that this court remains cognisant of the broader systemic pressures confronting policing bodies nationally. The continuing demands of counter-terrorism operations, cybercrime investigations, and a rise in interpersonal violence have diverted front-line resources away from acquisitive crime. While the Crown Prosecution Service (CPS) and police have striven to maintain balanced case management, the impact of such resource reallocation is undeniable. In this context, offences such as those charged against you can, regrettably, receive erratic attention despite the cumulative toll they exact on victims and communities.
+
+The case has been subject to the Better Case Management (BCM) protocol, under which it was listed for a plea and trial preparation hearing on 27 June 2025. At that stage, you entered an initial not guilty plea. However, following the disclosure of further evidence including detailed forensic analysis by the National Forensic Service and review of a chronology assembled by the business crime liaison officer, you altered your position to plead guilty on 29 August 2025, thereby averting a full contested trial.
+
+The timing of the guilty plea falls to be considered in the context of R v. Sinclair [2022] EWCA Crim 158, which emphasises the necessity for courts to discount the credit for pleas entered when the weight of evidence becomes insurmountable, rather than at the earliest possible opportunity consistent with the principles set out in the Criminal Procedure Rules. The court also notes the observations in R v. Brookes [2023] EWCA Crim 993 concerning the importance of safeguarding judiciary and public resources, and affording due deference to the impact on victims of protracted proceedings.
+
+It is well established that although the offences before this court relate to property theft of relatively low monetary value, the aggregate impact, both tangible and psychological, can exceed that of higher-value but isolated instances. This court further notes with interest the findings of the Retail Crime Standards Authority, whose 2024 report underscores the economic and staffing pressures faced by independent shops in urban centres, with shoplifting a leading deterrent to viable sustainable business.
+
+I record appreciation for the diligent efforts of the Avon Retail Support Network, a local voluntary organisation, whose submissions to the court highlight the significance of cumulative petty theft on staff wellbeing, turnover, and local economic vibrancy. Their position paper, submitted on 1 September 2025, emphasises the need for multi-agency collaboration involving law enforcement, social services, and the voluntary sector to mitigate the recidivist tendencies evident in cases such as yours.
+
+In this vein, the court also acknowledges the participation of Ms. Angela Irving, the Senior Probation Officer assigned to your case, who has provided a comprehensive pre-sentence submission detailing both your personal circumstances and prior criminal history — an important consideration in ensuring the sentence imposed is both just and proportionate. Further, I extend thanks to Dr. Michael Cartwright, Consultant Forensic Psychiatrist, whose expert psychological report was secured at defence counsel’s request following protracted Legal Aid application negotiations.
+
+This latter point merits discussion. I take this opportunity to voice deep disappointment with the performance of the Legal Aid Agency in this matter. The delay in processing the application for an independent psychiatric assessment is emblematic of systemic inefficiencies bedevilling the administration of legal aid funding nationally. The application, lodged 17 May 2025, was not approved until 28 July 2025, during which time critical case preparation was delayed. This has imposed additional strain on the court, prosecution, and defence practitioners alike.
+
+While the aspirations of legal aid reform — greater cost-effectiveness, rigorous oversight — are understandable, the practical effect appears to have been to create bottlenecks detrimental to the timely administration of justice. It must be emphasised this observation is made without prejudice to the allocated defence counsel, Mr Ben Nicholson, whose professionalism and advocacy in this case have been exemplary.
+
+It is worthwhile to mention that the layout and refurbishment of Court 5, where this hearing takes place, is now complete following extensive works to improve access for litigants with disabilities and the installation of upgraded audio-visual systems intended to facilitate evidence presentation. Despite some initial teething problems with the microphone system noted at this sitting, I commend court staff for their adaptability and efficiency.
+
+Before proceeding to outline the relevant legal framework and the facts as agreed or found proved, a brief excursion into related case law seems appropriate. In recent years, the Court of Appeal has considered links between shoplifting and broader criminogenic factors. In R v. Ainsley [2021] EWCA Crim 1289, the court assessed the interface between persistent acquisitive offending and underlying substance dependency, underscoring that sentencing must balance punitive and rehabilitative aims.
+
+Simultaneously, the appellate decisions in R v. Pritchard [2023] EWCA Crim 771 and R v. Dumas [2019] EWCA Crim 562 contemplate the appropriate credit for guilty pleas entered after extensive contestation, reiterating that more limited discounts should be applied where pleas occur at the last moment, with limited benefits for witnesses spared the ordeal of trial.
+
+Of contextual interest only, this court also references the recent case R v. Miles [2025] EWCA Crim 200, concerning unrelated charges of fly-tipping in a protected greenbelt area. Although entirely distinct from the instant offences, the case offers an instructive overview of environmental crime enforcement evolution, highlighting the judiciary’s role in combating harm beyond the immediate human victim. The defendant in Miles was sentenced to 18 months’ imprisonment concurrent with other sentences, illustrating the variable measures afforded across differing offence categories.
+
+I now turn to summarise the facts of the offending conduct as presented on the evidence and particularised in the indictment. It should be noted that the Crown elected to proceed on a single representative count reflecting a course of conduct.
+
+{INSERT_FACT_SNIPPET_1}.
+
+{INSERT_FACT_SNIPPET_2}.
+
+The court heard compelling evidence that these offences were not isolated nor sporadic but reveal an entrenched pattern. The suspect’s use of concealment techniques, manipulation of store layout, and timing during shift changes suggests deliberate planning.
+
+In parallel with these facts, it is appropriate to recognise that the defendant’s prior record includes several prior sanctions for acquisitive offences — notably a conviction in 2019 for criminal damage caused to a supermarket’s noticeboard. That offence, while bearing no direct relation to the current charges, demonstrates a history of offending within the retail environment and must inform the sentencing exercise.
+
+A further example of the judiciary’s approach to non-violent persistent offending can be seen in R v. Penrose [2018] EWCA Crim 1698, where the court upheld an immediate custodial sentence for repeated burglary at a community allotment site, emphasizing the cumulative psychological harm to elderly volunteers as an aggravating factor.
+
+Against this background, an analysis of the personal factors relevant to Mr H is necessary. Dr. Cartwright’s psychiatric assessment, conducted at the defendant’s accommodation on 12 August 2025, identifies traits consistent with borderline personality disorder, marked impulsivity, and occasional depressive episodes. However, no evidence of psychotic illness was found, nor did the report indicate active suicidality or delusional thought.
+
+Dr. Cartwright supplements his clinical findings with commentary on the low level of insight demonstrated by the defendant regarding his offending behaviour. The report highlights that Mr H declined to engage fully with available therapeutic services, a pattern aligned with previous refusals noted in probation records. The Psychiatrist expresses guarded optimism for change, conditioned on sustained engagement with structured community support.
+
+A probation assessment furnished on 3 September 2025 echoes these findings, outlining a medium risk of harm, a moderate likelihood of reoffending, and considerable protective factors arising from potential family involvement should such engagement be harnessed. The probation officer notes the defendant’s presently unstable housing situation but highlights ongoing attempts by local homelessness services to secure more permanent accommodation.
+
+The issue of housing instability resonates with the findings of a recent report by the National Housing Federation (2024), which observes a troubling increase in street homelessness among those with offending backgrounds, underscoring the reciprocal relationship between accommodation insecurity and criminal behaviour. The court is aware that such social determinants, while impactful, do not excuse criminal conduct.
+
+Another case instructive by analogy is R v. Flannery [2022] EWCA Crim 113, which concerned theft from pharmacy premises and highlighted the importance of safeguarding vulnerable retail workers facing repeated theft attempts. There, the court emphasised the psychological toll on staff, including anxiety and reluctance to work alone, factors present in this case as borne from victim impact statements.
+
+{INSERT_FACT_SNIPPET_3}.
+
+Observations from staff at multiple retail locations reveal tangible consequences extending beyond mere financial loss. Employees commonly report increased stress, consequent absenteeism, and in some instances feelings of personal threat, notwithstanding the absence of direct violence in your offences.
+
+{INSERT_FACT_SNIPPET_4}.
+
+Equally pertinent is the recognition that repeated offending of this nature diverts policing and judicial resources from more serious matters. The Greater Bristol Police Annual Report (2024) refers to a significant shift in allocation of detective time toward serious violent crime and cyber enabled crime, with resultant diminished capacity to proactively address acquisitive crime. This case thus exemplifies the tensions facing modern criminal justice systems.
+
+{INSERT_FACT_SNIPPET_5}.
+
+Concurrent with these observations is the acknowledgement of your personal circumstances outlined in correspondence dated 6 September 2025 from the charity SupportConnect, which has attempted without success to deploy wraparound services addressing your marked difficulties with substance misuse and social isolation.
+
+Your use of substances, detailed both in your own statements and collateral reports from SupportConnect, presents a complex element to this case. While not a direct cause, it is a contributory factor in your conduct and risk profile.
+
+{INSERT_FACT_SNIPPET_6}.
+
+It is also relevant that, despite warnings and a previous community resolution on file, you resumed offending shortly thereafter. Community resolution schemes – while useful tools for the justice system – have limitations where underlying issues remain unaddressed and non-compliance is demonstrated, as in your case.
+
+{INSERT_FACT_SNIPPET_7}.
+
+I observe that, notwithstanding the absence of violence or direct threat, the cumulative effect of your conduct has been to undermine staff confidence, disrupt business operations, and contribute to a climate of insecurity within local neighbourhoods.
+
+The court is also mindful of the increasing role played by digital forensics in modern policing. The National Cyber Forensics Unit’s recent publication, "Shoplifting in the Digital Age" (2025), details the evolving intersection of physical theft and digital evidence — a point illustrated here by the extensive review of CCTV footage, timestamp analysis, and mobile phone location data used to establish your movements.
+
+{INSERT_FACT_SNIPPET_8}.
+
+I note further that your co-defendant in a separate matter is currently subject to an unrelated investigation concerning possession of indecent imagery — an issue with no nexus to the present case, but which nonetheless bears noting as a procedural adjunct.
+
+While not material to your own sentence, the involvement of persons connected to your social network in other offences highlights the complex environments from which such offending may emerge and the multiple demands placed on enforcement agencies.
+
+In addition, a recent report by the South West Police Federation raises concerns about assaults on officers, including an incident where a co-defendant—unconnected to you—allegedly used a chair as a weapon during an arrest. This illustrates the volatile contexts within which property crime investigations sometimes unfold.
+
+From a sentencing perspective, the guidelines relevant to your offences are those promulgated by the Sentencing Council for theft and dishonesty offences (2020), which emphasise the balance between punishment, deterrence, rehabilitation, and protection of the public. The commission of multiple offences over a sustained period generally elevates culpability to a higher category than isolated thefts.
+
+Moreover, the courts deem community impact, the use of deception or planning, and the cumulative distress caused to staff as factors warranting increased

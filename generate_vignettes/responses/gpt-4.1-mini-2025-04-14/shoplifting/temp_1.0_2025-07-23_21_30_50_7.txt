@@ -1,0 +1,109 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. MR H  
+Case No. T2025/14530  
+Sentencing Remarks – Her Honour Judge L. M. SANDERS  
+Filed: 14 September 2025  
+
+Mr H, you appear before this court for sentencing on a charge alleging theft, specifically multiple counts of shoplifting over an extended period. The offending conduct spans from late 2023 to early 2025 and involved various retail establishments primarily located within the Bristol city centre and adjoining suburbs.
+
+Procedural History  
+You were first arrested on 2 April 2025 following an investigation led by the Bristol City Police’s Retail Crime Unit, in collaboration with several local policing teams and the South West Business Crime Group. The investigation was precipitated by a marked increase in reported shoplifting incidents targeting a cluster of convenience stores and pharmacies situated along the Bath Road corridor. These incidents, while individually minor in value, exhibited a consistent modus operandi attributed to a single male suspect over several months, drawing concerns from the affected retailers and community representatives alike.
+
+This pattern of persistent offending amidst an already challenging retail environment is disquieting but, unfortunately, familiar. The rise in shoplifting offences is often observed in tandem with other social phenomena, including the chronic underfunding of frontline police services and the consequent prioritisation of more serious or violent crimes. The intelligence-led approach deployed here, which notably incorporated video analytics and facial recognition software, underscores the increasing reliance on technology to bolster evidential quality in acquisitive crime, which otherwise might attract minimal resources. While such methods are invaluable, they are resource-intensive and divert attention from other pressing community safety priorities.
+
+You appeared before the magistrates on 9 April 2025 and pled not guilty. At the plea and trial preparation hearing conducted on 24 June, following disclosure of substantial CCTV evidence and forensic findings, you changed your plea to guilty on a single consolidated charge of theft contrary to section 1 of the Theft Act 1968. The case was subsequently allocated here, to the Crown Court, under the Better Case Management framework, with a sentencing date provisionally fixed for today.
+
+The Better Case Management initiative, introduced under the Criminal Procedure Rules Part 3, aims to streamline proceedings, improve timeliness, and avoid the customary avoidable delays that often plague cases involving multiple defendants or extended evidential reviews. While this case does not involve co-defendants, the aggregated nature of the offending required meticulous collation of surveillance footage, supporting witness statements, and the forensic expert’s report on recovered property. I commend the efforts of all practitioners involved in achieving this relatively prompt case progression, although the delays occasioned by repeated applications for further disclosure of payment card transaction records and mobile service provider information—as well as considerations relating to disclosure under the Data Protection Act—are noted.
+
+On this point, it is important to remark upon the evolving nature of digital evidence in retail crime investigations. The demands placed on disclosure officers and the defence in navigating volumes of digital data, including social media content and electronic communications, have expanded substantially in recent years. While this does not excuse avoidable protraction, it contextualises the increased complexity of even ostensibly straightforward theft offences.
+
+Before turning to the facts, I must register my gratitude to the representatives for both the Crown, Ms Fiona Aldridge, and the defence, Mr Declan Monroe. Both counsel have conducted themselves with professionalism and adhered to the cumulative time allocations despite the pressures inherent in a busy criminal listing. Regrettably, this case has not been immune to the systemic issues affecting legal aid administration, with Mr Monroe’s initial application to instruct a forensic psychologist experiencing delay due to procedural ambiguities over funding thresholds. Such bureaucratic hurdles are increasingly commonplace and cause unnecessary strain on all parties; that, however, is an institutional problem beyond this court’s remit.
+
+The halls of justice bear the burden of these systemic inefficiencies while striving to administer fair and expeditious hearings. The wider implication for defendants’ rights and defence quality is a matter that must be addressed at policy level to restore confidence in timely and effective representation.
+
+I note also with some concern defensive delays manifesting as late pleas, which—as rigourously established by appellate authorities such as R v Singh [2022] EWCA Crim 1701—command a commensurately reduced mitigation credit. The decision to plead only after the prosecution’s evidential case becomes unassailable risks compounding the distress to witnesses and places added strain upon court resources.
+
+The Crown has adduced carefully assembled evidence corroborating the charge, including detailed accounts from store security staff, transactional logs, and CCTV sequences from multiple premises.
+
+{INSERT_FACT_SNIPPET_1}.
+
+The defendant’s actions, as depicted, are neither isolated nor sporadic. Instead, they chart a repetitive and deliberate pattern of behaviour, exhibiting a studied approach to exploiting vulnerabilities in store security arrangements. Such conduct necessitates a considered response that balances the needs of rehabilitation with the imperative of public protection.
+
+In similar contexts, the courts have been guided by the sentencing principles elucidated in R v Foster [2020] EWCA Crim 1410, concerning repeated thefts from retail premises where the defendant appealed against immediate custody on grounds of personal mitigation. The Court affirmed that while mitigating circumstances warrant careful consideration, the persistent nature of such offending conveys a demonstrable risk to the community that sentencing must reflect.
+
+It is instructive to reflect on the foundational provisions of the Theft Act 1968, where section 1 defines theft as the dishonest appropriation of property belonging to another with intent to permanently deprive. The statutory framing punctuates the requirement that dishonesty and intent coexist to found criminal liability. In the present case, the evidence clearly satisfies these criteria.
+
+The court observes that both value and manner of theft bear upon culpability and sentencing severity. Although the value of individual items was often modest, the cumulative deprivation and repeated intrusion upon businesses of modest scale or community significance exerts harms extending beyond mere pecuniary loss. This amplification of harm was recognised in R v Ashworth [2018] EWCA Crim 792, where the Court emphasised that small-scale acquisitive crimes, when repeated and targeted, collectively undermine public confidence in retail environments.
+
+Moreover, it is critical to consider the social and economic backdrop. The period since mid-2020 has been marked by sustained disruption associated with macroeconomic turbulence, inflationary pressures, and heightened levels of unemployment. While such conditions do not mitigate criminal responsibility, they contextualise the environment in which offending arises.
+
+That said, in sentencing there must be a clear distinction between understanding context and excusing conduct.
+
+{INSERT_FACT_SNIPPET_2}.
+
+Authorities continue to grapple with the interface between mental health and acquisitive offending, a nexus particularly apparent in retail crime prosecutions. In R v Dennison [2021] EWCA Crim 1382, affording guidance on the role of psychiatric assessments, it was held that the presence of mental health issues does not necessarily obviate custodial sentences where offending patterns are entrenched and deliberate.
+
+To this end, I commend the detailed psychiatric report prepared by Dr Sandra Phelps, Consultant Forensic Psychiatrist, whose engagement was delayed due to the aforementioned Legal Aid hurdles. Dr Phelps’ thorough assessment delineates no diagnosable psychosis or major psychiatric condition but references traits consistent with impulsivity and emotional dysregulation. The report also notes that while you have experienced periods of accommodation instability, no significant cognitive impairment was identified.
+
+{INSERT_FACT_SNIPPET_3}.
+
+Publications such as the “Sentencing Council’s Definitive Guideline on Theft Offences” (issued in 2016 and last amended in 2022) provide the requisite framework within which I am obliged to fashion an appropriate sentence. The guideline emphasises the importance of assessing harm caused, culpability, previous convictions, and mitigating factors including remorse and engagement with rehabilitation.
+
+While the guideline notes that sentences should be calibrated to balance deterrence with rehabilitation, it explicitly recognises that persistent and planned offending typically resides in the middle to higher culpability brackets. Custodial sentences, including immediate custody, are routinely employed in such contexts.
+
+Turning again to the impact on victims and the wider community, the court acknowledges receipt of representations from the Bristol Retailers' Association and the Bristol Community Safety Partnership. Their statements elucidate the cumulative impact of your offending, including economic disruption, erosion of staff confidence, and increased costs associated with heightened security measures. These considerations are not peripheral; they underscore the broader societal cost beyond the immediate victims.
+
+{INSERT_FACT_SNIPPET_4}.
+
+The expert probation report prepared by Mrs Diane Franklin was made available in advance of today’s hearing. It provides a comprehensive assessment of both risk and needs, highlighting your limited engagement with previous community order conditions, periods of non-compliance, and the persistence of substance misuse issues. Notably, the report recommends a mix of community interventions, including cognitive skills programmes and intensive supervision, conditional upon your cooperation.
+
+The court is sensitive to, but not bound by, such recommendations. Ultimately, the decision rests within the confines of the sentencing framework, with rehabilitation as a principal, yet subordinate, consideration to protection of the public and punishment.
+
+I am aware of a previous community order imposed on you in 2022, following an out-of-court disposal for similar offences. That order was breached on multiple occasions, with little evidence of genuine engagement. Such a history weighs heavily against mitigation by reason of personal circumstances.
+
+{INSERT_FACT_SNIPPET_5}.
+
+It is worth noting that your written submission to this court was carefully and articulately composed. While this is no guarantee of sincerity, it does suggest some capacity for reflection.
+
+Despite these points, however, persistent offending over such a period cannot be lightly disregarded. The court’s duty is to consider the protection of potential victims and community confidence alongside your prospects for rehabilitation.
+
+I am also mindful of the distressing intersection of housing insecurity and crime. The South West region continues to experience acute shortages in affordable accommodation, with thousands languishing on waiting lists. Organisations such as HomeStart South West and the Bristol Homelessness Prevention Service provide vital support under strained conditions. The court welcomes their proactive attempts to assist defendants such as yourself, though acknowledges the systemic limitations.
+
+{INSERT_FACT_SNIPPET_6}.
+
+Foremost among aggravating factors is your failure to desist despite prior warnings and formal interventions, implying a troubling disregard for legal boundaries and social norms.
+
+The sentencing statistics published by the Ministry of Justice reveal that in cases of repetitive shoplifting, immediate custody is imposed in approximately 43% of custodial outcomes, reflecting judicial consensus on the seriousness of repeated acquisitive offences.
+
+The recent case of R v Bellamy [2024] EWCA Crim 1997 is also instructive here. There, a defendant was sentenced to nine months’ custody for serial thefts from a regional chain of grocery stores over six months. The Court of Appeal upheld the sentence notwithstanding some mental health mitigation, recognising the necessity of a custodial term to deter similar conduct and protect retail staff.
+
+The court further recalls the enduring principle set out in R v Lamont [2019] EWCA Crim 154, affirming that remorse and early pleading materially affect sentencing credit. However, in your case, the plea was entered late, following exhaustive disclosure and the collapse of contested evidence motions.
+
+{INSERT_FACT_SNIPPET_7}.
+
+That necessarily limits any reduction for plea.
+
+Conversely, consideration is due to your limited previous custodial record. You have no history of violent offending or threats to personal safety. Additionally, your documented volunteer involvement in a local youth drop-in centre attests to some positive engagement with community life.
+
+Regarding the arrangements within this court, I must acknowledge the ongoing refurbishment of Court 5, which has resulted in occasional rescheduling and adjustments to hearing lists. While operationally challenging, efforts remain focused on ensuring fair access and continuity.
+
+The administrative burden placed on court staff in managing multi-faceted cases involving digital and forensic evidence is notable. Many officers work tirelessly in the background—managing case files, evidence tracking, and witness coordination—tasks that are integral to the administration of justice yet often go unseen.
+
+In the wider policy environment, the court notes continuing discussion about the allocation of resources to the Business Crime Reduction Partnerships, which foster collaborative approaches to retail crime. While outcomes are mixed, initiatives such as targeted offender panels and supported exit referrals show promise in reducing recidivism.
+
+{INSERT_FACT_SNIPPET_8}.
+
+The court also takes cognisance of recent reports by the National Institute for Health and Care Excellence (NICE) illuminating gaps in the provision of cognitive behavioural therapy for individuals involved in acquisitive offending. The shortage of appropriate psychological services compounds the difficulties faced by probation services and underlines the necessity of sentences incorporating rehabilitative elements.
+
+Sentencing Options and Conclusion  
+The sentencing framework permits a range of disposals, including custodial sentences, community orders, or alternatives such as suspended sentences with curfew and treatment stipulations. Given the multiplicity and persistence of your offending, alongside the limited engagement with prior disposals, an immediate custodial sentence is not out of the question.
+
+Nonetheless, balanced against this is your relative lack of violent behaviour, some expressed remorse, and the prospect of constructive intervention. I shall therefore await the comprehensive sentencing report ordered from the probation service, which is tasked with exploring all viable rehabilitative options.
+
+This report should also assess your accommodation status, capacity for compliance, and possible substance misuse support needs. It is imperative that any sentence imposed contributes positively to public protection by reducing risk and promoting desistance, rather than merely punishing past conduct.
+
+The court accepts that you face significant societal and personal challenges, including unstable housing and intermittent employment. However, the law is clear that hardship does not excuse theft.
+
+In closing, I reiterate my thanks to all parties who have contributed to the preparation of this matter, including Dr Phelps, Mrs Franklin, and the representatives of the business and voluntary sectors who have submitted written representations. Their work helps ensure that sentencing is conducted on a basis that is as informed and fair as circumstances permit.
+
+The sentencing hearing today has been held in open court in Court 5 at the Crown Court at Bristol. The proceedings have been formally recorded in accordance

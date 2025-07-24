@@ -1,0 +1,59 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/19983  
+Sentencing Remarks – His Honour Judge L. M. Bentley  
+Filed: 17 October 2025  
+
+Mr H stands before this court for sentence upon two counts of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of articles for a purpose connected with the commission of terrorism contrary to section 57 of the Terrorism Act 2000. The offending is said to have taken place between September 2022 and the date of arrest in January 2025.  
+
+The defendant was apprehended under warrant executed by Counter Terrorism Policing West Midlands on 14 January 2025 at his place of residence, a one-bedroom flat located above a retail premises in the Handsworth district. The warrant was authorised pursuant to section 43B of the Terrorism Act 2000. Seized at the time were multiple electronic devices including two laptops, several USB drives, encrypted mobile telephones, and paraphernalia consistent with the construction of explosive devices.  
+
+{INSERT_FACT_SNIPPET_1}
+
+This investigation, codenamed Operation NIGHTFALL, was the product of over eight months of intelligence activity involving collaboration between the West Midlands Counter Terrorism Unit, the National Cyber Crime Unit, and the Intelligence Corps. Access to the defendant’s encrypted communications required judicial authorisation, underscoring the seriousness with which this inquiry was conducted. It is worthy of note, though regrettable, that much of the digital forensic work was protracted due to the defendant’s use of multiple layers of VPN tunnelling and the deployment of ephemeral messaging applications designed to delete content automatically.  
+
+The procedural history of this matter includes an initial hearing at Birmingham Magistrates’ Court on 20 January 2025 and subsequent committal to this Crown Court. Several applications for further material and expert evidence caused adjournments in March and June of this year. Despite these delays, the case proceeded with due diligence and conforming to the principles enshrined within the Criminal Procedure Rules, notably Parts 3 and 5. Procedures concerning disclosure, both primary and secondary, were managed in accordance with statutory requirements, though the volume of material presented a considerable burden for defence preparation.  
+
+A significant point to note relates to the defendant’s status under the Legal Aid Agency’s scheme. Mr H’s counsel, instructed pursuant to a full representation order, encountered administrative challenges typical in terrorism cases, including delays in accessing funding for expert psychiatric evidence. These delays, observed across numerous similar matters in the last two years, reflect systemic tensions between resource constraints and the need for comprehensive defence preparation in cases of such gravity. The court records its hope that a review of these administrative processes may be prioritised in the interests of justice.  
+
+It is pertinent to reference a Prevent referral made on 17 August 2021 by a local university lecturer who had become concerned about Mr H’s rhetoric during seminars on international relations. The referral, while ultimately not proceeding beyond its initial Channel panel, situates the defendant within a context of early-warning frameworks designed to identify vulnerability to radicalisation. It would be improper to judge the efficacy of Channel interventions on isolated referrals; nevertheless, the record serves as a reminder of the limitations inherent in preventive regimes reliant on voluntary engagement and often lacking robust enforcement measures.  
+
+The defendant entered guilty pleas at the outset of the trial, on 21 September 2025, which was welcomed, though the court notes that the case had been listed for trial since April of this year. Such timing is in keeping with observations laid down in the seminal Court of Appeal authorities concerning credit for guilty pleas (see R v Hartley [2023] EWCA Crim 891 and R v Dalton [2022] EWCA Crim 1034). While Mr H’s plea spared the court and the prosecution the necessity of a contested trial, it came after extensive investigative work and preparation, thereby limiting the extent of potential remission for prompt guilty plea.  
+
+It would be remiss not to address the issue of credit for plea in circumstances such as these. The rationale for such credit, as cogently expressed in R v Henry [2024] EWCA Crim 515, is founded upon the twin concepts of freeing court time and evidencing genuine remorse. Where pleas are not made at the first reasonable opportunity, the court must quantify the discount accordingly to reflect only those savings truly effected and the degree of contrition demonstrated.  
+
+A useful review of the evolution of credit for guilty pleas is found in the recent decision of the Court of Appeal in R v Langford [2025] EWCA Crim 138. There, the court underscored the necessity for sentencing judges to exercise their discretion carefully, warning against the mechanical application of formulaic reductions. That case concerned a defendant in a drug importation conspiracy but shares important jurisprudential principles with offences of terrorism, notably regarding the import of early admission relative to resource savings.  
+
+A further relevant authority is R v Owens [2021] EWCA Crim 1146, which explored the proportionality of credit in instances where defendants entered pleas on a limited basis or failed to make full admissions to relevant evidence. Though Mr H entered unequivocal pleas, the quantity and complexity of the material suggests that his admissions, while timely, came after considerable investigative effort was expended.  
+
+{INSERT_FACT_SNIPPET_2}
+
+The prosecution presented evidence including logs of Mr H’s online activity, tracing the evolution of his ideological stance via multiple social media accounts operated under various aliases. Of note was a closed Telegram group with over 150 members, to which Mr H was shown to have contributed encrypted files purporting to be manuals for the compilation of improvised explosive devices. Linguistic expert analysis linked some postings to contemporary extremist narratives, incorporating themes of grievance and apocalyptic recrudescence.
+
+{INSERT_FACT_SNIPPET_3}
+
+Forensic examination uncovered a virtual server hosted in a jurisdiction notorious for lax enforcement of anti-terrorism statutes. Mr H’s VPN connections were tracked to this server, facilitating communication with an entity subsequently identified by international intelligence agencies as affiliated with banned terrorist networks. The sophistication of Mr H’s digital evasions demonstrates a deliberate awareness of investigative countermeasures.
+
+{INSERT_FACT_SNIPPET_4}
+
+Defence submissions have argued that much of the material recovered was derivative or obtained from publicly accessible sources, invoking the protective ambit of freedom of expression. The court, however, must reconcile such claims with the statutory threshold in section 5 of the Terrorism Act 2006, where preparatory conduct intended for use in terrorism cannot be shielded by abstract principles of speech.  
+
+While on the topic of defensible conduct, it is acknowledged that Mr H’s flat was found to contain a collection of technical manuals on electrical circuits, 3D printing, and mechanical engineering. Defence counsel sought to contextualise these as the interests of a hobbyist or potential student. The court notes this context but observes that expertise can be, and has been, harnessed for both lawful and unlawful ends; no inference as to the latter need or should be presumed without the evidence adduced.  
+
+It is worth recording that no evidence was adduced to suggest that Mr H was involved directly in acts of violence or incitement. This observation aligns with the legal distinction emphasised in R v Peterson [2019] EWCA Crim 105, articulating that preparatory acts under the Terrorism Act require careful judicial balance to avoid undue criminalisation of thought and inquiry per se.  
+
+Notwithstanding this, the court must balance the protection of fundamental rights with the imperatives of public safety. The legislative framework is unambiguous in its intention to incapacitate those who engage in substantive conduct preparatory to terrorism, even where no destructive act was ultimately committed.  
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant’s personal travel history was scrutinised. Records show that he visited Istanbul twice in late 2023 for ostensibly academic conferences on Middle Eastern geopolitics. Surveillance evidence places him near locations associated with known extremist operatives, though no direct communications at these times have been conclusively established. The Crown submits that the trips were used as reconnaissance, a submission the court must weigh alongside the defence’s assertion of innocent attendance.  
+
+Turning to procedural matters, this case is emblematic of the chronic stress upon criminal justice resources occasioned by high-volume disclosure and complex digital forensics. The National Disclosure Unit reported over 1,200 pages of redacted material requiring meticulous review to ensure compliance with public interest immunity claims and protective measures mandated by statute. This labour-intensive process depends on the expertise of a small cadre of counter-terrorism officers and civilian support staff, who face increasing workloads compounded by the demands of public inquiries and parliamentary scrutiny.  
+
+It is instructive to remind ourselves of the observations of Lady Justice Simmons in her review of counter-terrorism court workloads published earlier this year, wherein she highlighted the exacerbating impact of frequent and voluminous disclosure on the ability of courts to maintain timely hearings. Yet, despite the periodic frustrations occasioned by administrative overload, it must be emphasised that no procedural shortcuts have been taken in this case.  
+
+In a related vein, the probation service reports a shortage of qualified practitioners able to undertake terrorism risk assessments. The National Probation Directorate estimates a national gap approaching 25% in relevant personnel. This deficit has the potential to hinder resettlement planning and risk management upon release, increasing the importance of robust multi-agency cooperation.  
+
+Multi-Agency Public Protection Arrangements (MAPPA) Category 3 oversight of Mr H’s case has been in place since the point of remand. The MAPPA board convened on 15 September where risk management plans were discussed. Representatives from Probation, CT Policing West Midlands, and NHS forensic mental health services attended. The meeting minutes reflect appropriate risk stratification, though concerns were noted about the availability of approved premises for release under licence.  
+
+The court also acknowledges helpful submissions

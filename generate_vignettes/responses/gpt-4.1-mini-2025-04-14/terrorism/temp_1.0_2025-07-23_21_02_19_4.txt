@@ -1,0 +1,76 @@
+IN THE CROWN COURT AT CARDIFF  
+R v. Mr H  
+Case No. C2025/27839  
+Sentencing Remarks – His Honour Judge L. G. ARDWELL  
+Filed: 15 October 2025  
+
+Mr H appears before this court for sentence on multiple counts under the Terrorism Act 2006, including engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a), and possession of articles for a terrorism-related purpose, contrary to section 57 of the Terrorism Act 2000. The conduct in question is said to have taken place primarily from January 2023 until his arrest in late March 2025.  
+
+The defendant was apprehended at 04:45 hours on 29 March 2025 following warrants executed at his residence at Flat 6, Penylan Court, Cardiff. The warrant was authorised under section 43B of the Terrorism Act 2000, following information provided by the Security Service, which had monitored encrypted communications used by the defendant and associates. At the time of arrest, officers recovered encrypted electronic devices, a number of components consistent with explosive manufacture, and digital storage media.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The investigation, codenamed Operation HAWTHORN, involved a co-ordinated effort between Welsh Counter Terrorism Policing, the National Cyber Crime Unit, and the Forensic Explosives Laboratory. The multi-agency collaboration was characterised by considerable resource investment, including deployment of specialist digital forensics teams and signals intelligence units, given the complexity of the encrypted data and volume of material requiring detailed analysis. This court acknowledges the professionalism and dedication of the officers and analysts involved, who operated under sustained pressure with intermittent operational setbacks.  
+
+The defendant was initially released on bail subject to stringent conditions pending the progression of the case. Bail compliance was monitored closely by the Wales National Prevent Hub, whose referral of the defendant in late 2022 had precipitated some of the early investigative activity. This referral concerned expressions of extremist ideology noted by an academic mentor at the University of South Wales, where Mr H was at the time enrolled in an engineering course. The mentor’s concerns had focused on his isolated behaviour and increasing engagement with online forums espousing violent jihadist messaging.  
+
+The procedural history of the case reflects a number of adjournments and rescheduling due to administrative and operational reasons. A plea and trial preparation hearing originally listed for 30 July 2025 was vacated to allow for the completion of digital forensic analyses and the provision of supplementary expert reports. Defence counsel applied for an extension to gather character references and for additional disclosure from the Crown concerning intercept material.  
+
+It bears noting that the Legal Aid Agency was engaged following grant of representation to Mr Callum Harper, who has acted for the defendant throughout, but that initial funding approval was delayed by administrative bottlenecks, which have become unfortunately commonplace. Such delays inevitably impact preparedness and impose additional burdens on the court system and defendants alike.  
+
+Operationally, Mr H was subject to a series of risk reduction and de-radicalisation interventions led by the Welsh Prevent Hub and coordinated via MAPPA Category 3 arrangements. While engagement was reportedly inconsistent, outreach workers note that some initial cooperation was evident in 2023, including participation in cognitive behavioural workshops focused on ideological challenge and alternative narratives.  
+
+Statistically, it may be observed that the period covered by this case coincides with noticeable increases in the volume of low-level disruptive public order incidents across metro Cardiff, many linked to property damage and targeted graffiti. These offences, while not directly germane to the terrorism offences here, have imposed attendant strain on Police Community Support Officers (PCSOs) and detracted from priority resourcing in terrorism risk management. Such indirect impacts are relevant to understanding the broader public safety ecosystem in which this case has unfolded.  
+
+The judiciary continues to grapple with the challenge of balancing transparency and operational security, particularly in terrorism cases. The restriction on full public access to all evidence, especially intercepted communications, is a necessary but regrettable feature of our justice system, intended to protect sources, methods, and ongoing investigations.   
+
+Cases such as R v. Abassi [2017] EWCA Crim 288 serve to emphasise the centrality of due process even amid national security concerns. That decision upheld the principle that individuals must be tried on evidence accessible to them and their counsel, with appropriate counter-balancing protections. The present court is confident that these safeguards have been fully respected.  
+
+The sentencing guidelines issued by the Sentencing Council on Counter Terrorism (2023 edition) remain authoritative, directing courts to consider culpability, harm, and preventive sentencing objectives. Alongside statutes, the court is guided by leading appellate authorities including R v. Gul [2013] UKSC 64, which clarified the scope of “terrorist purpose” broadly to encompass actions intended to influence government or intimidate the public.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant’s online activity revealed a progression from relatively innocuous content-sharing towards increasingly sophisticated dissemination of extremist propaganda materials. Linguistic profiling and metadata analysis indicated the use of peer-to-peer platforms and anonymised virtual private networks (VPNs) designed to evade detection. It is noteworthy that the defendant’s digital pseudonyms were associated with nodes within a wider extremist network, raising concern as to both capacity for harm and influence over vulnerable others.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Recovered encrypted archives included manuals detailing explosive device construction, manual detonator assembly, and remote triggering mechanisms. This court also notes a substantial volume of chat logs referencing chemical precursors, sourced from open-source trade publications, juxtaposed with discussions revealing attempted procurement. These materials evince an operational understanding beyond mere ideological alignment.  
+
+The defence proffered an explanation that certain recovered files constituted "academic research interests," citing university projects in applied chemistry. While intellectual curiosity is to be encouraged, it is apparent here that the contextual framing and concurrent conduct negate any innocent interpretation.  
+
+The evidence also reveals a number of communications sent by the defendant attempting to facilitate recruitment of at least two individuals, one located overseas and subject to an active UN sanctions regime. This aspect encountered limitation due to international evidentiary restrictions but nonetheless warranted forensic corroboration.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Despite the defence’s assertions that the defendant’s attendance at gatherings was purely social and not linked to radical intent, investigative teams positively identified connections with known extremists and proscribed organisations. Although mere attendance is insufficient for conviction, the context of evidence here underpins inference of complicity.  
+
+The court is mindful that attendance at social or religious events, in isolation, is constitutionally protected and enjoys safeguards under human rights legislation. However, when coupled with preparatory acts enabling terrorist violence, such activities acquire a markedly different character.  
+
+The access to the defendant’s shared flat revealed, adjacent to personal effects, a small quantity of tobacco paraphernalia and several unpaid utility bills. The presence of these eminently mundane items is noted to reflect the ordinariness that often cloaks terrorism offenders, rather than any indicator of mitigation.  
+
+An unrelated prior conviction for shoplifting nothing of consequence arose nearly a decade ago and has not been advanced as a relevant factor here. It remains a matter of record only.  
+
+A co-defendant named in the early investigatory stage, who remains at large, was separately charged with affray and possession of offensive weapons arising from a distinct incident involving a pub brawl several months prior. Responsibilities for those offences do not lie with the defendant before this court.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+The defendant undertook a short international trip to Riga in late 2023. The ostensible purpose was tourism, but evidence assembled from border security and telecommunications surveillance shows he diverted from planned itineraries to meet with individuals flagged by Counter Terrorism Policing Poland. While correlation is not causation, the circumstantial picture is troubling and has been factored into the risk assessment.  
+
+Such overseas travel highlights the difficulty of balancing freedom of movement with safeguarding imperatives. Travel undertaken in support of proscribed activity is specifically addressed in section 5 of the Terrorism Act 2006, reflecting Parliament’s clear intent to cast a broad protective net.  
+
+The defence sought to adduce several letters of character reference, including from a youth sports club where Mr H volunteered as an assistant coach. The letters commend his patience and positive interactions with young people. This court recognises and applauds voluntary contributions to community well-being. Yet such good works do not diminish the gravity of subsequent offences.  
+
+Correspondence was also received from the Cardiff Remembrance Association, which expressed concern at the impact of the defendant’s behaviour on victims and the wider public. Such victim impact considerations form a crucial facet of sentencing exercise.  
+
+It is regrettable to note the increasing volume of graffiti and vandalism targeting public transport infrastructure in Cardiff. While these acts remain outside the scope of the present case, they occupy police resources and public attention, compounding the challenges of maintaining order.  
+
+The strain on psychiatric forensic services is well-documented. Long waiting lists for assessments, especially for detained defendants requiring specialist input, frustrate the Criminal Justice System and risk delayed justice. This court is conscious of such systemic pressures.  
+
+The defendant underwent psychiatric evaluation by Dr Lisa Grant, consultant forensic psychiatrist at Llanishen Secure Unit, producing a comprehensive report dated 3 September 2025. The report finds no formal psychiatric diagnosis but notes traits of cognitive rigidity, high moral absolutism, and an elevated propensity for ideological fixation. Risk of future harm without supervision was assessed as significant.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Financial investigation uncovered cryptocurrency transactions amounting to approximately £3,800 sent from wallets linked to the defendant to darknet marketplaces dealing in dual-use chemical supplies. Anti-money laundering rules do not apply effectively to such transactions, complicating enforcement. The court urges legislative review in this evolving domain.  
+
+The rise of such decentralised financial tools challenges law enforcement paradigms. Legislative frameworks must keep pace lest anonymity becomes a shield for those intent on harm.  
+

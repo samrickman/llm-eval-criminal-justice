@@ -1,0 +1,95 @@
+IN THE CROWN COURT AT NEWCASTLE UPON TYNE  
+R v. Mr H  
+Case No. N2025/27654  
+Sentencing Remarks – His Honour Judge F. J. CALVERT  
+Filed: 18 September 2025
+
+Mr H appears before this court today for sentence following conviction on one count of engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The period relevant to the conduct in question is from September 2022 until his arrest on 16 January 2025.
+
+The defendant's prosecution proceeded after a series of hearings before this court, including a plea and directions hearing held on 13 March 2025 and a trial conducted over the course of four weeks during July and August months of 2025. Due listings challenges, including the nationwide industrial action affecting court staff in May and June 2025, occasioned unavoidable adjournments. The case was managed under the Better Case Management (BCM) guidelines, with efforts made to coordinate disclosure and expert evidence pacing in accordance with Criminal Procedure Rules, Part 3, and approved practice directions.
+
+It is pertinent at the outset to commend the orderly and professional manner in which all parties, including counsel for the Crown and defence, conducted themselves throughout the proceedings, notwithstanding the well-documented pressures suffered by the criminal justice system nationally in 2025. The pressures on court listings and law enforcement resources remain acute, with significant backlogs impacting serious and complex cases, including those concerning terrorism and national security.
+
+Date-specific observations about the court facilities centre on the recent refurbishment of courtroom 5 at the Newcastle Crown Court, which now boasts improved acoustic arrangements and updated digital evidence presentation technology. These enhancements, though unrelated to the facts of this case, represent the ongoing investment in infrastructure supporting the administration of justice.
+
+Prior to his trial, Mr H was remanded in custody, following an initial unsuccessful application for bail made on 19 January 2025. That application was considered in light of the statutory framework under the Bail Act 1976 and the statutory presumption against bail in terrorism-related matters, outlined in Schedule 1, paragraph 9(7) Terrorism Act 2000. The court accepted oral and written submissions from both parties but determined, in accordance with the paramountcy of public safety, that the risk posed by the defendant’s continued liberty outweighed other considerations.
+
+{INSERT_FACT_SNIPPET_1}
+
+The police operation leading to Mr H’s arrest was conducted under the code name “Operation Nightshade.” This involved collaboration between Counter Terrorism Policing North East (CTPNE), the National Crime Agency (NCA), and local police forces, with cyber forensic support provided by the Government Communications Headquarters (GCHQ) Research Centre on Emerging Threats. Importantly, it was necessary to secure a series of warrants, including those under section 43B of the Terrorism Act 2000 authorising both search and seizure of digital material and electronic detection under Regulation of Investigatory Powers Act 2000 (RIPA), which involved judicial approval by a senior magistrate.
+
+The investigation notably featured a synthetic identity deception attempt associated with financial transactions via a virtual currency exchange based offshore. The defendant attempted to obfuscate fund origins through mixing services, evidencing a high level of intent and sophistication in concealment methods. Defence counsel has drawn the court’s attention to a recent appellate decision, R v. Mahmodi [2025] EWCA Crim 1098, concerning the evidential weight of blockchain ledger analysis, which, while instructive, does not limit the court’s consideration of circumstantial factors present here.
+
+In the course of proceedings, the court took account of the defendant’s interactions with multi-agency safeguarding structures, particularly the Prevent programme. A referral was originally submitted in early 2020 by a specialist tutor at a north-east technical college, who reported concerns regarding Mr H’s emerging interest in politically charged material focusing on extremist narratives. The panel overseeing the referral, pursuant to the statutory guidance contained in the Counter Terrorism and Security Act 2015, noted Mr H’s partial engagement before his withdrawal from the programme later that year. While it is correct to observe the challenges posed by erratic engagement in preventative interventions, the court must emphasise that disengagement may well compound risk rather than mitigate it.
+
+The court also received several communications from third-sector organisations operating on the margins of counter-terrorism outreach: notably two letters from the East Tyne Community Resilience Forum and a submission from the Northern Faith Council. These documents, while expressing empathy with the defendant's family situation, urge a careful balancing act between forensic sentencing and the protection of vulnerable community members from stigmatization.
+
+The defendant’s counsel, Mr Gareth Lenton, of counsel at Wilson & Partners, has advanced mitigation centred on the claimed influence of mental health vulnerabilities, referencing the psychiatric assessment prepared by Dr Hannah Irvine, Consultant Forensic Psychiatrist at the Newcastle Secure Unit. Dr Irvine’s report, dated 10 August 2025, concludes that Mr H suffers from an anxiety disorder with elements of obsessive-compulsive traits but finds no evidence of a formal psychotic or delusional illness. The report states, “Despite these features, the defendant maintains full awareness of the nature and quality of his acts and their wrongfulness.” This assessment accords with principles laid down in R v. Mallory [2008] EWCA Crim 1624 regarding the interplay of psychiatric symptoms and criminal culpability.
+
+Further psychiatric observations address the strain placed on mental health services, which, as this court has observed elsewhere, face chronic underfunding and consequential waiting lists extending beyond current national targets. The East Tyne NHS Trust, under significant workload, has struggled to allocate psychology sessions specifically tailored to ideological extremism, resulting in therapeutic gaps whose impact on recidivism remains under-examined but potentially significant.
+
+{INSERT_FACT_SNIPPET_2}
+
+It is not without interest that the defendant maintained a blog under the pseudonym “SteelWolf23,” at first devoted exclusively to urban exploration narratives, but which, by mid-2023, began featuring increasingly veiled calls to action, including references to political uprisings and passages praising past terrorist incidents abroad. Linguistic experts engaged by the Crown identified specific phrases consistent with English-language propaganda disseminated by proscribed entities, supported by analyses offered in R v. Smith [2020] EWCA Crim 341.
+
+The evidential matrix includes the digital seizure from several encrypted drives containing detailed PDFs on explosive material composition, component sourcing, and credible attack simulations. Notably, one such file was entitled “Blast Radius Calculations v2.1.” Although the defence endeavoured to portray these as academic interests, the court notes the consistent message throughout the collaboration between the defendant’s online postings and the physical evidence.
+
+{INSERT_FACT_SNIPPET_3}
+
+The forensic analysis team uncovered encrypted archives behind a decoy VeraCrypt partition labelled “Art Projects,” whose contents were extensively examined with the assistance of overseas cooperation under Mutual Legal Assistance Treaties.
+
+Of particular note within the encrypted files were videos demonstrating controlled blast testing on synthetic gelatine blocks, conducted in a makeshift workshop whose electrical usage records, obtained via utility data subpoena, matched the times of the recordings. Defence pointed towards Mr H’s involvement in a local amateur dramatics society and the possession of theatrical pyrotechnic certifications, but the court remains unconvinced that those explain the substantive quantities of explosive precursors found on the premises.
+
+{INSERT_FACT_SNIPPET_4}
+
+The events of the defendant’s arrest coincided with notable unrelated incidents in the region. For instance, the court took judicial notice of a separate prosecution of a co-defendant on an unrelated charge of affray stemming from a pub altercation involving pool cues. That individual absconded following a failed electronic monitoring condition and remains at large, but I reiterate for clarity that the defendant is not implicated in that offence.
+
+Similarly, police records reflect an unrelated investigation into fly-tipping on greenbelt land near Hexham. While that offense is of serious environmental concern, it bears no connection to Mr H and shall have no bearing on sentencing considerations here.
+
+The presence of minor cannabis residue in the defendant’s accommodation was also noted but not charged; the court accepts that such substances are unfortunately prevalent in various demographics and does not consider their presence indicative of enhanced culpability.
+
+{INSERT_FACT_SNIPPET_5}
+
+Turning now to international travel, the Crown presented evidence that in August 2024 Mr H journeyed to Warsaw ostensibly for an international conference on alternative energy. Surveillance and CCTV footage, however, indicate he made side travel to a border zone known for gatherings of individuals espousing radical nationalist ideologies. The defendant further maintained contact by encrypted telephone applications with a third party subsequently arrested in connection with the illegal importation of ammonium nitrate in Germany.
+
+The court notes the defendant’s assertion of innocence in relation to these contacts and the ostensible coincidence of travel plans. However, the cumulative evidence prompts a strong inference of premeditation and active linkages with ideological actors abroad.
+
+This case required extensive disclosure preparation. The Crown’s exhibit schedule comprised over 820 primary items, each subject to rigorous vetting including counter-terrorism units and the Senior National Disclosure Officer. It is a salutary reminder of the complexity inherent in such cases that protective markings and national security considerations impose significant procedural overheads.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial investigations revealed a transfer of 1.15 Bitcoin, approximately £5,200, from a wallet linked to Mr H to an overseas vendor advertising chemical synthesis sets. These transactions were routed via tumbling services designed to anonymise blockchain trails, underscoring the defendant’s intent to conceal illegal activity.
+
+The court takes this opportunity to comment on the growing challenge faced by law enforcement in tracing cryptocurrency transactions associated with serious crime. While some in technological circles champion decentralisation and privacy as democratic gains, the employment of these technologies in illicit activities poses a substantial risk to public safety.
+
+The forensic team devoted over 300 hours to unpick the relevant transactions, demonstrating the manpower-intensive nature of such inquiries and the limitations faced by public agencies operating amid heightened workloads.
+
+{INSERT_FACT_SNIPPET_7}
+
+Regarding personal circumstances, Mr H is a 28-year-old mechanical engineer with a first-class honours degree awarded by a northern university. He was employed at a precision engineering firm until his sudden resignation in August 2023, shortly after refusal to comply with enhanced background security checks related to export-controlled technologies.
+
+Character references submitted describe him as “meticulous” and “intensely private,” with evidence of volunteering on community gardening projects and occasional participation in local historical societies. These contributions, whilst commendable, provide a limited counterbalance to the scale of the offending conduct.
+
+It has been noted that Mr H’s family are experiencing considerable strain, exacerbated by media attention and the severity of the charges, and have cooperated with police in providing background material. These circumstances are no doubt distressing but are not mitigating in the legal sense.
+
+{INSERT_FACT_SNIPPET_8}
+
+The psychological evaluation, as detailed by Professor Michael Sanderson, Consultant Forensic Psychologist, emphasizes Mr H’s high cognitive rigidity and a propensity for dichotomous thinking. The report warns of a significant risk of extremist re-engagement absent continuous and intensive intervention. Professor Sanderson underscores the challenges of achieving effective deradicalisation in individuals exhibiting such cognitive profiles.
+
+Defence counsel has referenced the Desistance and Disengagement Programme (DDP) as a potential framework for rehabilitation. While the court recognises the potential benefits of such programmes, the existing evidence suggests a success rate that is moderate at best, particularly among defendants with deeply held ideological convictions.
+
+In the framing of sentence, the court applies the 2023 Terrorism Sentencing Guidelines issued by the Sentencing Council, which set out a graded approach to culpability, taking into account sophistication, intent, planning, and potential for harm.
+
+Throughout these proceedings, the court has kept in mind the dual aims of sentencing: the need to protect the public from further harm and the opportunity to promote rehabilitation where feasible. It is accepted that while custodial measures are necessary, they should be accompanied by thoughtful and sustainable strategies for risk management, including the prospect of multi-agency collaboration in the community.
+
+I am grateful to Ms Emily Cartwright appearing for the Crown and to Mr Gareth Lenton appearing on behalf of the defendant. I would also like to record appreciation for the professionalism of the court staff, notably the ushers and clerks at this court who maintain decorum and effective administration under difficult conditions, as well as the interpreters who have been available throughout proceedings, albeit on short notice.
+
+The court is aware of the ongoing debate concerning the balance between individual liberty and collective security, as well as public sensitivities around minority communities, particularly those of faith or ethnicity perceived to be overrepresented in counter-terrorism caseloads. It is the court’s firm position that the rule of law demands impartiality and fairness without prejudice or favour, applying established legal principles rigorously and justly.
+
+The sentencing hearing to determine the appropriate custodial term will follow the preparation of a comprehensive pre-sentence report. This report will assess risk, explore suitable rehabilitation pathways, consider accommodation options, and recommend licence conditions relevant to any period of release.
+
+I formally direct the Probation Service to furnish this report with particular attention to the defendant’s engagement history, mental health assessments, and potential for reintegration within a managed environment. This will be essential to ensure that the sentence imposed is not only just but informed by a robust evidence base regarding future risk.
+
+The sentencing remarks are issued this day, 18 September 2025, in Court 5 at the Crown Court at Newcastle upon Tyne. The transcript of these proceedings has been prepared in accordance with Part 5 of the Criminal Procedure Rules. The defendant is advised of his right of appeal against sentence and conviction under the Magistrates' Courts Act 1980 and the Criminal Appeal Act 1968, with time limits as prescribed by statute. There are no reporting restrictions currently in force pursuant to Section 49 of the Children and Young Persons Act 1933.
+
+These are the orders of the court.

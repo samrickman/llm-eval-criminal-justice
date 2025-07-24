@@ -1,0 +1,73 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/17834  
+Sentencing Remarks – Her Honour Judge E. L. FENTON  
+Filed: 11 September 2025  
+
+Mr H appears before this court for sentence on charges brought under the Terrorism Act 2006. Specifically, he is convicted of one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Act, together with one count of possession of an article for a purpose connected with the commission of terrorism as defined by section 57 of the Terrorism Act 2000. The conduct is said to have taken place over a period commencing in July 2023 and culminating with his arrest in January 2025.
+
+At the outset, it is appropriate to record that Mr H was initially arrested on 16 January 2025 pursuant to warrants effected at his residence on Moseley Road. The warrants were endorsed under section 43B of the Terrorism Act 2000 on basis of intelligence reports developed collaboratively by Counter Terrorism Policing West Midlands and the Security Service. The intelligence indicated encrypted communications involving a user profile linked to Mr H, referencing materials known to be associated with proscribed organisations. Seized items included digital devices, specialist electronic components, and handwritten notes of a technical nature.
+
+The arrest buoyed a protracted investigation which included extensive forensic work. Specialists at the West Midlands Regional Cyber Crime Unit conducted data extractions from devices secured, overcoming notable obstacles posed by layered encryption and anti-forensic software. It must be noted that the forensic process was prolonged—not for want of diligence, but rather the growing sophistication of digital concealment methods. These challenges are symptomatic of a broader national trend, in which law enforcement is forced to grapple continually with adaptive technologies deployed by offenders.
+
+The court records that Mr H was first remanded in custody but was subsequently released on strict bail conditions pending trial. These conditions included a 7pm–7am curfew enforced electronically, prohibition on internet access save for approved devices, and regular reporting to a designated police officer. Such measures, while restrictive, represent a moderating factor in risk management during pre-trial phase.
+
+{INSERT_FACT_SNIPPET_1}
+
+In setting the procedural context, it is fitting to acknowledge that this case was first listed for plea and case management on 10 March 2025 before Her Honour Judge Mansfield. There were a number of administrative delays attributable in part to the volume and complexity of disclosure, necessitating successive adjournments. Moreover, the case was subject to constraint by the availability of counsel instructed via the Legal Aid Agency, which has recently been subject to scrutiny in parliamentary committees for systemic underfunding. This court expresses its concern at the detrimental effect such systemic issues pose on the proper administration of justice.
+
+Letters of support and professional character references submitted on behalf of Mr H span a range of disparate sources, including a local sports club, the Springfield Volunteer Network, and a faith-based community group. Though these documents attest to his previous civic engagement, the court is mindful that such endorsements must be weighed alongside the gravity of the offences. Mere community participation, whilst commendable, cannot detract from the deliberate nature of terrorism-related conduct.
+
+It has been brought to this court’s attention that Mr H’s younger brother is currently subject to unrelated criminal proceedings concerning an allegation of aggravated burglary in the context of a local disturbance. While such family matters may be of personal concern to the defendant, they have no bearing upon his culpability or risk assessment in the case before this court.
+
+The jurisdiction of this court is founded upon robust legislative frameworks designed to address the particular challenges posed by terrorism offences. Since its establishment in 1961, the Crown Court has evolved to encompass a wide jurisdiction and functions as a central pillar in the criminal justice system. The present case, being indictable and raising matters of profound public interest, appropriately sits within this tier.
+
+By way of further procedural history, it is noted that a mid-trial application was advanced by the prosecution to admit evidence relating to intercepted electronic communications captured under the Regulation of Investigatory Powers Act 2000. Following a detailed ruling on 12 August 2025, the court permitted such evidence subject to stringent restrictions on publicity and further redactions to protect sensitive information.
+
+{INSERT_FACT_SNIPPET_2}
+
+Accompanying the trial evidence was voluminous expert testimony on linguistic patterns and codeword usage. The Crown called upon Mr Stephen Barrows, a senior terrorism analyst with the National Counter Extremism Centre, who provided a comprehensive report detailing the progression of Mr H’s online communications from innocuous political discourse to explicitly endorsing and facilitating violent extremist narratives over the span of two years.
+
+{INSERT_FACT_SNIPPET_3}
+
+To add context, the court’s attention is drawn to a series of training materials and doctrinal treatises concerning improvised explosive devices, recovered during a search of the defendant’s property. These documents, while not novel in the abstract, contained indications of adaptation and modification potentially intended to circumvent existing detection methodologies.
+
+The defence made submissions to the effect that Mr H’s interest in such materials stemmed from legitimate hobbies related to engineering mechanics and computer programming. An Instagram account connected to Mr H contained photographic posts of model construction, aerial surveying drones, and social gatherings with university friends. While public engagement in such pursuits is by no means suspicious per se, the court is bound to consider the totality of circumstances.
+
+The case before this court must be viewed within a wider societal context. The challenges faced by law enforcement in counter-terrorism are not limited to detecting imminent threats but include mitigating the underlying drivers of radicalisation. There is clear evidence of increasing strain upon public sector resources, including overstretched community policing teams and limited capacity within mental health services tasked with intervention and support.
+
+{INSERT_FACT_SNIPPET_4}
+
+Aside from direct investigative work, this case generated a substantial volume of digital material requiring expert interpretation. The National Digital Evidence Unit reported a helter-skelter of forensic challenges, from image recognition difficulties induced by visual obfuscation, to partial datastream recoveries corrupted by deliberate deletion attempts. This level of complexity is emblematic of modern terrorism cases, where the border between technical proficiency and criminal intent often appears blurred to lay observation.
+
+In reviewing related appellate decisions, it is instructive to consider R v. Farrow [2019] EWCA Crim 1098, where the Court of Appeal addressed the interplay between possession of extremist material and preparatory conduct. The judgment stressed that mere possession will rarely suffice absent demonstrable intention or contextual connection to preparatory acts. In the present matter, the court is satisfied that the evidence transcends mere possession, as exemplified by his active digital communications and acquisition of related paraphernalia.
+
+The defence argued that Mr H’s behaviour reflected a transient episode of ideological fascination, intensified by social and economic dislocation. Counsel referenced the seminal judgment in R v. Patel [2015] EWCA Crim 348, which acknowledged the potential for ideological disengagement given appropriate intervention. This court recognises the need for proportionate sentencing to facilitate rehabilitation, without undermining deterrence or protection of the public.
+
+{INSERT_FACT_SNIPPET_5}
+
+In a noteworthy ancillary disclosure, documents surfaced relating to Mr H’s travel itinerary in late 2023. Specifically, records show a visit to Prague with a stated purpose of architectural tourism. However, security services documented time spent in lesser-known districts associated with gatherings of extremist sympathizers. CCTV footage corroborates interactions with individuals currently subject to investigation for possession of explosives. The defence suggests coincidence and an innocent explanation; the court, however, views these developments in conjunction with the broader evidence as indicative of intent.
+
+This case has generated considerable disclosure volumes, with over 800 primary exhibits and further materials designated as sensitive. The CJSS protocol required careful vetting by multiple agencies to balance open justice against protective considerations. As is well understood, such tension is a persistent feature in terrorism trials, demanding judicial vigilance.
+
+To observe closely the issue of sentencing credit, it is necessary to note the timing of Mr H’s guilty plea, entered during the fifth day of the trial. Case law emphasises, as in R v. Lowther [2023] EWCA Crim 1617, that early and unequivocal pleas merit enhanced credit—a principle embodied within the Sentencing Council’s guidelines. Conversely, pleas given after full disclosure and near trial commencement attract more modest allowances.
+
+{INSERT_FACT_SNIPPET_6}
+
+Of considerable significance is the financial audit presented by experts who traced cryptocurrency transfers from wallets associated with Mr H to entities believed to facilitate the procurement of dual-use components. These transactions, while shrouded in the obscurity of blockchain technology, revealed a deliberate obfuscation strategy involving mixers and layered transfers.
+
+The court notes that the role of cryptocurrencies in terrorism financing has been a subject of parliamentary debate, fuelled by case examples such as R v. Greaves [2022] EWCA Crim 1415. Such digital currencies present heightened challenges to tracing illicit flows, requiring law enforcement agencies to develop countervailing expertise.
+
+In the course of the investigation, surveillance footage captured Mr H visiting a riverside location during nocturnal hours in November 2024. The extensive post-event analysis of this footage was resource intensive, necessitating advanced image enhancement and cross-referencing with environmental sensor data. While the activity was of limited duration, the specificity of the location—proximate to a public transport hub—added to concerns about possible reconnaissance activity.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to personal background, Mr H is aged 31, with an academic record including a bachelor’s degree in electrical engineering. Employment history included a brief tenure with a telecommunications firm, terminated following a dispute over IT security protocols. Letters from former employers describe him as industrious and technically adept but note concerns relating to his social isolation and detachment from workplace culture.
+
+Submitted mitigation includes testimonials from the Acocks Green Community Library, where Mr H assisted in cataloguing archival materials, and from the Handsworth Peace Project, where he volunteered sporadically. While such involvement is worthy of regard, the court is conscious that genuine rehabilitation in terrorism cases requires sustained engagement coupled with demonstrable attitudinal change.
+
+Professor Willoughby, a consultant forensic psychiatrist, authored a detailed report indicating no formal mental illness but noted personality traits characterised by black-and-white thinking and rigid ideological adherence. The report assesses Mr H’s risk of harm as elevated, emphasising the difficulty of disengagement without intensive intervention.
+
+{INSERT_FACT_SNIPPET_8}
+
+The case as

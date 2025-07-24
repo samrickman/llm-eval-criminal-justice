@@ -1,0 +1,75 @@
+IN THE CROWN COURT AT BRIGHTON  
+R v. Mr H  
+Case No. B2025/29341  
+Sentencing Remarks – His Honour Judge E. J. HOLLOWAY  
+Filed: 4 September 2025
+
+Mr H appears before this court today for sentence following conviction on two counts: engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006; and possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The conduct for which Mr H has been convicted covers a period from autumn 2023 through to his arrest in late April 2025.
+
+The defendant was arrested at dawn on 29 April 2025 under warrant issued by this court pursuant to section 43B of the 2000 Act. The arrest followed an extensive investigation conducted by Counter Terrorism Policing South East (CTPSE), assisted by the National Technical Assistance Centre and the Joint Terrorism Analysis Centre. This investigation involved the deployment of intrusive surveillance techniques, electronic interception, and forensic examination of multiple seized digital devices. Such investigations are invariably complex, drawing on national assets and requiring long lead-in times, often with considerable coordination delays caused by competing priorities in the wider counter-terrorism landscape.
+
+This case, while serious, mirrors many others in its reliance on cross-sectoral cooperation. Inter-agency collaboration here included liaison with the Home Office Hate Crime Unit, local authority community safety teams, and NHS forensic psychiatric services. The scale and scope of cooperation illustrate the institutional challenges faced when attempting to dismantle and disrupt ideologically motivated offending. Resources are taxed not only by the volume of cases but also by ever-evolving methods of covert communication and the increasing sophistication of digital encryption.
+
+{INSERT_FACT_SNIPPET_1}
+
+It is appropriate to record the procedural journey of this matter to date. Following his arrest, the defendant was remanded in custody. The case was listed for a plea and trial preparation hearing on 11 June 2025. Mr H initially pleaded not guilty to both counts, and the matter was firmly set for trial. However, on the morning of trial, the defendant altered his pleas to guilty. This late plea has influenced the calculation of reduction credit, as will be addressed in due course. Such late change of plea is not uncommon in terrorism prosecutions, reflecting the weight of overwhelming technical and testimonial evidence assembled by the Crown.
+
+Though the criminal justice system accords significant procedural safeguards to defendants, and properly so, one cannot elide the broader systemic pressures on the courts. The prosecution team comprised senior counsel and specialist junior advocates accredited for work in terrorism law. Defence representation was led by counsel experienced in national security matters; however, the earliest stages were hampered by protracted Legal Aid Agency authorisation issues, notably regarding funding permits for expert psychiatric and technical reports, further delaying full preparation of the defence.
+
+In this context it is salutary to reflect upon the evolution of the Court's approach to terrorism offending over the past decade. The incremental legislative amendments and judicial interpretations since the Terrorism Act 2000 and 2006 were enacted have sought to balance necessity with proportionality. The pivotal decided cases of R v. Ameer [2014] EWCA Crim 712 and R v. Youssef [2017] EWCA Crim 1546 provide remedial principles on the requirement of intent and the scope of preparatory acts, as refined since the introduction of ideas surrounding “radicalisation pathways” and “self-starting extremism.” Meanwhile, the statutory regime of Extended Sentence orders introduced in the Criminal Justice Act 2003 section 226A continues to apply selectively, placing greater emphasis on post-sentence supervision where warranted.
+
+Of note are the recently reported cases concerning sentencing credit for guilty pleas, a matter which is contentious in this case. The guidance in R v. Potts [2022] EWCA Crim 1918, concerning a conspiracy to supply firearms, emphasizes the absence of automatic entitlement to full credit for plea where entered only after exhaustive witness preparation and trial mobilisation. This approach finds consonance with the principles expressed in R v. Halvorson [2023] EWCA Crim 1029, where credit was significantly limited in respect of a plea entered following extensive forensic examination and mock trials.
+
+Those precedents underscore an emerging judicial landscape intolerant of tactical pleas of convenience, mindful of the considerable public expense—both financial and emotional—of terrorism trials. There is a pressing societal need to discourage delay and to uphold the interests of victims and witnesses, many of whom undergo protracted stresses in preparing evidence on matters involving lethal intent and mass harm.
+
+{INSERT_FACT_SNIPPET_2}
+
+In relation to the material seized pursuant to search warrants at the address in Whitehawk, Brighton, officers recovered multiple encrypted storage devices, several unmarked chemical containers reminiscent of precursor substances, and a laptop containing detailed notes on explosive synthesis, together with diagrams indicating a familiarity with timings, blast radii, and potential casualties. The communication patterns exported from Mr H’s devices demonstrated contact with servers known for distributing instructional manuals supportive of violent extremist ideology.
+
+Significant attention has been paid to the defendant’s online activity. Forensic digital analyses reveal an extensive corpus of downloaded material, including files stored under innocuously named folders such as “Linen Projects” and “Workshop Records.” These were encrypted using advanced cipher algorithms, necessitating months of decryption effort by the National Digital Security Service. Of particular concern were files containing instructions on the modification of commercial fireworks to achieve maximum fragmentation, raising challenges both in risk management and in broader regulatory oversight of pyrotechnic products.
+
+{INSERT_FACT_SNIPPET_3}
+
+Further examination uncovered a series of fichiers audio and video in hidden partitions titled “Footsteps.” Linguists specialising in counter-terrorism discourse analysed these materials, confirming the presence of coded phrases consistent with established communications used by proscribed organisations. These included veiled analogies to “planting seeds in winter” and exhortations to “awaken the sleeping nation through fire.” The semantic layers apparent in these communications bear close similarity to propaganda identified in the 2019 Home Office Extremism Stratification Report.
+
+The existence of such encrypted rhetoric points toward a sophistication in the defendant’s approach. Defence attempts to characterise these as academic exercises in rhetoric or “critical theory” lack credibility in light of the broader package of instrumentation, planning, and operational specificity revealed during the investigation.
+
+Among the voluminous digital materials, there was also a folder titled “Recipe Archives,” containing chemical recipes and instructions for manufacturing explosive mixtures, including ammonium nitrate-based devices and triacetone triperoxide. The presence of these dangerous formulas underlines the extent of the threat posed, not merely by abstract ideological commitment, but by concrete operational capability.
+
+{INSERT_FACT_SNIPPET_4}
+
+While the defendant's digital footprint includes references to drone photography and various benign scientific interests, the court is satisfied that these were often a cover for more nefarious ends. This is corroborated by metadata indicating that drone images coincided with reconnaissance of critical infrastructure, including the Brighton Pier and the adjacent power distribution substation.
+
+Of peripheral interest but not relevant to this proceeding, the defendant had no recorded prior criminal convictions, save for a 2016-noted fine for fly-tipping at a nearby green belt site. That instance involved the unauthorised disposal of garden waste and is acknowledged purely as a historical footnote, unconnected to the charges currently before the court.
+
+Similarly, witnesses called during trial referenced multiple co-defendants who had been separately arrested in related operations; one such individual is currently at large, having failed to appear after bail was granted following charged counts of affray during a pub brawl in Worthing. These details, while illustrative of the wider network within which terrorism offences can sometimes be nested, are inapposite to the court’s assessment of individual culpability for Mr H.
+
+The defendant’s cohabitation arrangements were scrutinised. His landlord, who operates several flats in the Whitehawk area, was noted in investigation files as having been subject to a Noise Abatement Notice issued by Brighton Council in 2022 for repeated disturbances caused by other tenants in a separate unit. Such matters, while reflecting the realities of shared urban housing, bear no pertinence to the charges under consideration.
+
+{INSERT_FACT_SNIPPET_5}
+
+Of particular note was Mr H’s extensive travel history in 2024 and 2025. Records show multiple visits to the southern coast of France, including the port city of Marseille where he attended several conferences promoting “alternative cultural histories.” At first glance, the conferences appear innocent enough. However, subsequent interrogation established contacts with individuals later arrested in Switzerland under suspicion of attempting to import sizeable quantities of explosive material through freight parcels.
+
+This pattern of travel is particularly significant against the background of a rising tide in ‘failed state’ incursions and unregulated border zones in Southern Europe, where extremist supply chains have been documented frequently in the literature, notably in the 2023 Europol Radicalisation Threat Assessment.
+
+Such movements represent a crucial touchstone for understanding Mr H’s intent and proximity to potential acts of terror. The assembled Intelligence Assessment Unit placed his conduct in the context of cross-border, self-radicalising networks that eschew formal hierarchical control but are nevertheless capable of considerable operational harm.
+
+{INSERT_FACT_SNIPPET_6}
+
+On the financial front, a forensic audit of cryptocurrency wallets disclosed transactions amounting to the equivalent of £5,170, transferred via multiple “mixing” platforms designed to obfuscate ownership. Funds were sent to entities linked to foreign darknet marketplaces specialising in dual-use chemical precursors and restricted delivery drones. The use of crypto-assets for funding purposes highlights the challenges faced by law enforcement in tracing and disrupting financial flows underpinning terrorism.
+
+Although cryptocurrencies have legitimate uses in providing financial privacy, their attraction to criminal networks, including those involved in the procurement of materials for terrorist acts, is well documented in recent law enforcement and regulatory publications. The decentralised architecture complicates identification and interdiction, necessitating enhanced international cooperation and sophisticated data analytics.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to the defendant’s personal circumstances, Mr H is presently aged 31. He holds a bachelor's degree in chemical engineering from a regional university, where academic records indicate strong performance, including distinctions in organic synthesis and materials analysis. His previous employment, until mid-2023, was at a research unit focused on polymer composites, a role that entailed access to laboratory chemicals and manufacturing processes. Testimony from a former line manager describes him as “principled but withdrawn,” with a tendency toward solitary work.
+
+Character references submitted on Mr H’s behalf come from various voluntary organisations, including the Brighton Community Gardening Network and the Silverleaf Literacy Programme, for which he volunteered intermittently over several years. While charitable and community service is commendable and can reflect mitigating factors, such contributions cannot, and should not, overshadow the gravity of offences committed. The court remains mindful that social engagement does not grant license to offend, particularly in the public safety domain.
+
+The defendant’s family have provided a letter reflecting on the challenges he faced during adolescence, including the sudden death of his father in 2010 and the subsequent economic hardship. While relevant to understanding context, these personal difficulties do not mitigate the well-documented intent and steps taken toward the commission of serious offences.
+
+{INSERT_FACT_SNIPPET_8}
+
+Expert psychological assessment has been provided by Dr Leonie Pereira, consultant forensic psychologist at the Eastbourne Secure Hospital, whose report describes Mr H as demonstrating “rigid cognitive styles, with a notable propensity for black-and-white thinking and obsessional preoccupation with grievance narratives.” There is no formal diagnosis of mental illness, but the risk assessment categorises Mr H as presenting a high risk of serious harm, particularly through violent extremism.
+
+Dr Pereira’s report emphasises the need for intensive post-sentence supervision and engagement with structured deradicalisation programmes to manage residual risk. The Desistance and Disengagement Programme has been suggested by the defence as a suitable intervention. The court accepts the programme’s utility but notes its historically limited success rates, the challenges of

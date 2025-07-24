@@ -1,0 +1,63 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/26749  
+Sentencing Remarks – His Honour Judge L. J. MONTREUX  
+Filed: 18 September 2025
+
+Mr H appears before this court having been convicted following a jury trial on one count of engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending acts comprised a sustained period spanning from September 2022 until his arrest in February 2025. Mr H’s ensuing proceedings have traversed a course reflective of modern counter-terrorism justice — complex, protracted, and resource-intensive.
+
+The defendant was arrested at approximately 04:45 hours on 11 February 2025 when officers from Counter Terrorism Policing South West executed a warrant under section 43B of the Terrorism Act 2000 at 37 Cheriton Road, Stoke Park. That warrant was predicated upon extensive intelligence including intercept material received from the Security Service involving encrypted communication platforms suggestive of planning activity linked to proscribed entities. At the time of arrest, a number of digital devices including two laptop computers, a tablet, and multiple encrypted USB drives were seized for forensic examination.
+
+{INSERT_FACT_SNIPPET_1}
+
+The investigation, termed Operation FENROW, was notable for its multi-agency collaboration, involving not only CTPSW but also the National Cyber Crime Unit and regional fire service specialists who assisted in risk assessment of explosive precursors found at the address. Such cross-disciplinary cooperation, though now routinely expected at this level of threat, often comes with significant challenges in terms of inter-agency information sharing and jurisdictional boundaries. The court notes with some concern that despite the National Counter Terrorism Policing’s aspiration for seamless integration, differences in data management systems and operational protocols continue to impede swift action on occasion.
+
+Throughout the pre-trial period, the defendant was subject to three separate bail extensions, granted under section 47 of the Police and Criminal Evidence Act 1984, primarily because of delays in obtaining decrypted material from abroad. These delays reflected the necessary adherence to strict legal safeguards governing the use of intercept evidence and the involuntary cooperation of foreign partners whose processing times prove unpredictable. Whilst frustrating for all parties, the court is satisfied that these procedural extensions complied fully with the exigencies of fairness and due process.
+
+Of particular interest is the history of early intervention. Mr H was the subject of a Channel referral in 2019 following concerns raised by a university tutor who observed extremist themes in his coursework and noted his withdrawal from group tutorials. That referral, while initially detailed and referral-specific preventative measures undertaken, did not proceed to multi-agency management beyond six months. The panel, in assessment, found no immediate indicators sufficient to warrant continued intervention. The court does not seek here to criticise those judgements, acknowledging the inherent difficulties in correctly forecasting long-term potential for radicalisation. The predictive limitations of such schemes remain a perennial challenge.
+
+At the plea and trial preparation hearing held on 9 July 2025, Mr H indicated not guilty. He maintained that position until the morning of the trial proper on 15 September 2025, when counsel tendered guilty pleas to both counts. It is important to emphasise that those pleas were entered at a very late stage. The court, mindful of the established principles, must accordingly calibrate the credit to be afforded with circumspection. It is common knowledge that under the Criminal Procedure Rules and appellate authorities such as R v. Manton [2019] EWCA Crim 104, earlier pleas merit greater discount for the considerable savings measured in court time and victim and witness distress.
+
+The timing of Mr H’s change of plea falls well beyond the initial reasonable opportunities and emerged merely following the completion of full evidential disclosure and pre-trial rulings with substantial witness preparation deployed. The court therefore applies the guidance from R v. Bywater [2021] EWCA Crim 1579 in which the Court of Appeal held that last-minute pleas—especially in terrorism-related matters with voluminous and complex evidence—warrant only limited reduction lest they inadvertently incentivise unnecessary delay.
+
+The court observes that during the lengthy preparation period, an independent psychiatric assessment was commissioned and a report supplied by Dr Victoria Langford, consultant forensic psychiatrist, who had extensive experience with ideologically motivated offenders. Dr Langford’s report, dated 30 August 2025, indicated that Mr H did not meet criteria for a formal psychiatric disorder but presented with rigid cognitive frameworks and evidence of entrenched ideological commitment requiring specialist psychological intervention. Treatment, the report warned, is likely to be difficult but necessary to reduce risk post-release.
+
+{INSERT_FACT_SNIPPET_2}
+
+The Crown’s case included evidence of an online blog hosted between October 2023 and January 2025, under the moniker “Voltage Exile.” This digital platform initially propagated benign political commentary but evolved over time into virulent rhetoric endorsing violence as political praxis. Expert witnesses from the Department of Digital Crime Analysis testified to linguistic idiosyncrasies aligning strongly with overseas publications disseminated by proscribed organisations.
+
+{INSERT_FACT_SNIPPET_3}
+
+The forensic recovery of over seventy encrypted documents including technical manuals on explosive devices was a cornerstone of the prosecution’s case. One particular file, labelled “Workshop Manual V2,” contained detailed schematics and pressure vessel calculations compatible with improvised devices. Defence submissions emphasised a purported interest in “pyrotechnics for hobbyist purposes,” referencing YouTube tutorials on amateur fireworks construction. The court finds this assertion devoid of credibility in light of the integrated contextual evidence.
+
+{INSERT_FACT_SNIPPET_4}
+
+Somewhat tangentially, the investigation recovered various unrelated prescription forms for amitriptyline and sertraline dated 2020–2021 issued to a former flatmate of Mr H who has no connection to this offence. No clinical diagnosis or ongoing treatment of the defendant was indicated. Reference to these artefacts was made only in defence mitigation in an attempt to suggest an alternative narrative of mental health vulnerability unsupported by independent medical evidence.
+
+The court cannot overlook the burden that investigations of this nature place on already stretched public services. The Probation Service, facing recruitment challenges and rising caseloads, has expressed concerns in correspondence about the availability of dedicated terrorism probation officers in the Bristol area, a recurring issue flagged in regional oversight reports. Similarly, the National Health Service forensic mental health units have reported substantial waiting lists for specialist risk assessment clinics with corresponding impacts on pre-release planning. This systemic pressure is exacerbated by the multidimensional supervision requirements of offenders like Mr H.
+
+{INSERT_FACT_SNIPPET_5}
+
+Of procedural note, the defendant undertook a weekend trip to Brussels in April 2024, recorded via passport entry stamps and public transport card usage in the city. Intelligence reports placed him within proximity of a known extremist-associated community centre. Defence counsel argued that the visit was purely for personal tourism, referencing photos of architectural landmarks shared on social media. The Crown submits that this was a calculated attempt to establish contacts and acquire specialised instructional material abroad.
+
+In an unrelated matter, the case management process itself has endured postponements owing in part to a judiciary-wide strike action in August 2025, which saw multiple trial listings deferred. The administrative delays, while regrettable, are an unfortunate byproduct of broader structural negotiations affecting the justice system as a whole. The court appreciates the patience and professionalism of all legal representatives affected.
+
+Among the exhibits disclosed is an intriguing letter from the Easton Peace Collective, a regional charity engaged in community development and deradicalisation prevention work. The letter, dated 3 September 2025, commends the diligent engagement of their officers with Mr H prior to his arrest, noting his sporadic participation in workshops concerning non-violent activism and civic understanding. Their submission, although acknowledging the eventual failure to prevent extremist conduct, urges ongoing support and structured reintegration as a matter of public interest.
+
+{INSERT_FACT_SNIPPET_6}
+
+A forensic audit examined the flow of funds traced from Mr H’s digital wallets. The court learned from a detailed financial report that significant cryptocurrency transfers, aggregating to approximately £1,850 in Bitcoin, were channelled towards vendors known for the supply of dual-use materials capable of both civilian and military applications. The anonymity afforded by tumbling services markedly complicated tracing efforts, shedding light on the ongoing challenges law enforcement faces in this evolving technological landscape.
+
+The court reflects with some poignancy on the sobering realities faced by investigative personnel, whose technical assignments extend far beyond the conventional parameters of traditional policing. Analysts and operators frequently labour in obscurity, their painstaking efforts consumed by ceaseless streams of metadata and telemetry analysis. The complexity and resource demands rival that of contemporary cybercrime investigations, underscoring the rapid digitisation of terrorist methodologies.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to the defendant’s personal circumstances, Mr H is currently 31 years of age. His undergraduate studies culminated in a second-class honours degree in communications engineering with a subsequent period employed as a technical analyst at the regional utility provider. Letters of character reference from prior employers and academic mentors were submitted, describing him as “capable and conscientious” but “socially withdrawn and prone to ideological inflexibility.” The abrupt termination of his employment in late 2022 followed non-compliance with security vetting procedures and internal investigations into his internet activity.
+
+Several supporting letters were tendered from local community groups, notably a gardening cooperative and a youth mentoring scheme with which Mr H was affiliated between 2018 and 2020. These attest to his previous positive engagement and contributions to neighbourhood projects. While the court recognises the value of such endeavours, these do not diminish the gravity of the offences before the court.
+
+In respect of mental health, Professor Geoffrey Mallory, consultant forensic psychologist, provided a comprehensive assessment. His report, dated 5 September 2025, portrays a subject lacking diagnosable psychiatric disorder but exhibiting marked cognitive rigidity and a “monothematic worldview,” consistent with sustained radicalisation. The assessing expert notes the high risk of reoffending absent intensive structured supervision and the uncertain prospects of voluntary disengagement from extremist ideology.
+
+{INSERT_FACT_SNIPPET_8}
+
+The offences represent a carefully conceived, technologically sophisticated attempt to facilitate violent political ends through acquisition and preparation of devices intended to cause mass harm. The sentencing guidelines applicable direct particular focus upon

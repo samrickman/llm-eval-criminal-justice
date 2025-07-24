@@ -1,0 +1,63 @@
+IN THE CROWN COURT AT BRIGHTON  
+R v. Mr H  
+Case No. B2025/29815  
+Sentencing Remarks – Her Honour Judge L. J. Marketon  
+Filed: 15 October 2025  
+
+Mr H stands before this court today for sentencing in relation to offences contrary to section 5(1)(a) of the Terrorism Act 2006, specifically engaging in conduct in preparation for acts of terrorism, and an associated offence under section 57 of the Terrorism Act 2000, being possession of an article for a purpose connected with the commission of terrorism. The conduct in question occurred over an extended period from early 2023 until Mr H’s arrest in late January 2025.  
+
+The procedural history of this case has been complex and protracted, reflecting the multifaceted nature of terrorism prosecutions in contemporary times. The case was first listed for a plea and trial preparation hearing on 20 May 2025, at which Mr H maintained not guilty pleas. It was ultimately only at the close of the trial, on 30 September 2025, that he entered pleas of guilty to both counts. Credit for the late plea will be considered with due circumspection given the delay in admission.  
+
+The arrangements for this hearing have required considerable coordination between the Crown Prosecution Service Counter Terrorism Division, the Defence team, and various forensic and psychiatric experts. I record my thanks to Ms Fiona Harcourt, who appears for the Crown, and Mr Simon Dall, representing Mr H pursuant to a grant of Legal Aid. The court acknowledges their thorough and professional conduct throughout proceedings, notwithstanding the inherent difficulties posed by extensive disclosure, the voluminous nature of digital evidence, and the sensitive nature of the allegations.  
+
+The court notes, by way of procedural observation, that the listing of this case was impacted by several external factors including industrial action by court staff in London in July 2025 and intermittent delays occasioned by reallocation of judicial resources to urgent terrorism hearings elsewhere. While regrettable, such matters are beyond the control of the parties and the judiciary alike but serve as a reminder of the competing pressures under which public justice is administered.  
+
+It is also appropriate to record the court’s concern regarding the challenges facing the Legal Aid Agency in timely approvals for independent experts. This case involved repeated requests for authorisation of psychiatric and digital forensic specialists. The resultant delays, partly attributable to administrative backlogs within the Legal Aid system, imposed avoidable strain on preparation schedules and risked prejudicing the defendant’s ability to present his case effectively. Such systemic difficulties demand urgent redress.  
+
+The investigation culminating in Mr H’s arrest began with extensive monitoring by Counter Terrorism Command officers in conjunction with the National Crime Agency’s digital intelligence unit. The defendant’s use of encrypted messaging platforms, including proprietary protocols resistant to intercept, necessitated protracted technical efforts to recover content of communications and associated metadata. This work included cross-jurisdictional cooperation with Europol and domestic cybercrime taskforces, highlighting the increasingly transnational aspect of counter-terrorism work.  
+
+The arrest of Mr H on 28 January 2025 was conducted pursuant to warrant under section 43B Terrorism Act 2000 at his residence in Patcham, Brighton. Officers seized a laptop, encrypted storage devices, and electronic components consistent with improvised explosive device manufacture. The subsequent forensic examination was exhaustive, complicated by the use of layered encryption and steganographic techniques designed to obfuscate evidence.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The facts of the case require careful analysis, with extensive evidential material spanning electronic communications, analysis of travel records, financial transactions, and witness statements. The Crown offered detailed expert testimony including from Dr Nia Patel, a digital forensics expert with the National Technical Assistance Centre, and from Detective Chief Inspector James Holcroft of Counter Terrorism Policing South East. Their reports laid bare the deliberate and sustained nature of the defendant’s activities.  
+
+The court was also provided with a comprehensive psychiatric report authored by Dr Rasheed Karim, a consultant forensic psychiatrist, whose evaluation of Mr H ran to 67 pages. Dr Karim described the defendant as presenting with marked cognitive rigidity, an absence of established mental illness but with pronounced ideological fixation driven by grievance and a black-and-white worldview. The report highlighted the high risk posed, particularly in relation to potential future engagement with extremist networks post-release if adequate supervision is not imposed.  
+
+A salient feature of this case, frequently encountered in terrorism prosecutions, is the role played by community and voluntary sector organisations. Mr H had sporadic involvement with the Brighton Resilience and Prevention Forum, which seeks to offer interventions aiming at reducing radicalisation. The court is cognisant of the dedicated efforts of staff at this organisation—as documented in multiple letters tendered in mitigation—who endeavoured to engage Mr H through mentoring, tailored workshops, and social support measures over an eighteen-month period. Their reports, while recognising challenges with Mr H’s engagement, nonetheless reflect a commitment to public safety.   
+
+The intersection of statutory safeguards and public protection underpins the court’s sentencing exercise. Reference is made to the Sentencing Council’s approved Terrorism Guidelines issued in 2023, which categorise offending according to culpability and harm potential. The highest range applies to conduct exhibiting clear intention and manifest technical sophistication, including acquisition of weaponisable materials and evidence of active preparation. Lesser culpability applies where conduct is formative or passive.  
+
+With regard to historical case law, it is prudent to note the principles enunciated in R v. Ali [2015] EWCA Crim 1059, where the Court of Appeal underscored the import of deterrence and incapacitation in terrorism sentencing. Similarly, in R v. Mehmet [2019] EWCA Crim 1845 the court affirmed the propriety of lengthy determinate sentences even where attack plans were disrupted prior to execution, emphasising that early intervention does not dilute culpability. These authorities provide important guidance on sentencing calibration in cases where harm was averted by reason of law enforcement vigilance.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Mr H’s digital footprint reveals an evolution from initial online radical sympathies to active procurement of components with dual-use potential, concealed communications with known associates on secure channels, and participation in encrypted chat groups advocating violent jihadist strategies. The evidence indicates that while an actual operational attack did not crystalise, the very engagement with such material and behaviours constitutes a serious threat meriting significant custodial sanction.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Forensic analysis recovered files containing detailed schematics for improvised explosive devices, including adaptations for enhanced fragmentation and blast radius. There were also tutorials sourced from proscribed platforms instructing manufacture and deployment of chemical incendiaries. The court recognises the burden placed on forensic scientists in dealing with such materials, often operating under conditions of limited funding and high demand, but whose expertise is essential to ensuring comprehensive evidentiary integrity.  
+
+In examining the relevance of the defendant’s prior history, it is noted that Mr H has no antecedents of violence or criminal activity of any kind prior to this case. He has held steady employment in manufacturing, though his reluctance to speak openly about certain personnel conflicts is recorded in employer references. Defence counsel points to an absence of prior offending as indicative of potential for rehabilitation.  
+
+However, the court must observe that the natural pathway from construction of explosive devices to acts that threaten public safety cannot be lightly discounted, regardless of lack of earlier convictions. Similar caution was expressed in R v. Varma [2022] EWCA Crim 1420, where a defendant with no criminal record was imposed a lengthy sentence because intent and preparation sufficed to warrant serious punishment.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+During the investigation, the recovery of several inert pipe bombs at a location linked to a co-defendant was noted. This co-defendant, Mr D, who remains at large following failure to appear for trial, is not the subject of the current sentencing and the possession of these devices is not attributed to Mr H. While relevant to the broader operation, and emblematic of the dangers posed by the network involved, such facts must not influence the individual sentence here other than by context.  
+
+The court further notes, by way of institutional observation, the impact of operational terrorism investigations on stretched local services, including fire and rescue units called to respond to suspicious packages, and on policing resources diverted from other priorities such as gang-related violence. Such opportunity costs, while peripheral to sentencing, must not be overlooked in system-wide evaluations.  
+
+The defendant engaged reluctantly with risk assessment processes. Psychological testing undertaken by Eastbourne Community Forensic Psychiatry Service notes a degree of social withdrawal and interpersonal mistrust, common in cases involving extremist convictions. However, there was no evidence of formal mental health pathology that would mitigate culpability or sentence.  
+
+Prior to sentencing today, the court received and carefully considered a pre-sentence report prepared by Probation Services. The author, Mr James Barnett, emphasised the challenges in managing ideological risk given Mr H’s limited engagement with provided interventions while on remand. The report proposes potential interventions including intensive psychological support, structured community supervision, and consideration of licence conditions restricting contact with certain individuals or unfettered internet access.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+The defendant’s travel history came under scrutiny, notably a trip to Vienna in March 2024 that coincided with known extremist gatherings. Surveillance logs indicate the defendant met with a person subsequently convicted of firearms offences linked to terrorism. Defence submissions suggest innocent cultural tourism, but given the encrypted communications and timing, this explanation is viewed with scepticism.  
+
+Disclosures were voluminous and required painstaking vetting, some materials containing redactions under national security provisions. The process has drawn attention to the burdens of compliance experienced not only by prosecution and defence but also by administrative court staff. The afternoon registry clerk, Ms Hatton, whose seasonal flu absenteeism temporarily delayed filing, is noted with sympathy.  
+
+An unusual procedural event occurred during the trial when a power outage in Court 4 caused by a lightning strike on local power lines interrupted proceedings for over two hours. Counsel and jury adjourned with good grace, though the court recognises the inconvenience and additional stress such externalities impose on all participants.  
+
+There have been submissions about the applicability of the Better Case Management (BCM) directives as set out in the Criminal Procedure Rules. This case exemplifies significant improvements in BCM practice; pre-trial reviews occurred without unexpected adjournments, and disclosure timetables were, broadly speaking, adhered to despite systemic

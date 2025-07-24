@@ -1,0 +1,57 @@
+IN THE CROWN COURT AT BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/20736  
+Sentencing Remarks – Her Honour Judge L. M. GREAVES  
+Filed: 14 August 2025  
+
+Mr H appears before this court for sentence following his conviction on one count of engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct relates to the period from early 2023 to the date of his arrest in January 2025.  
+
+The case has been subject to multiple procedural hearings since Mr H’s initial appearance on 30 January 2025 at Birmingham Magistrates’ Court. A custody time limit application was heard on 13 March, which was granted, considering the volume and sensitivity of the material under review. This court heard the case on 10 July 2025, when the jury returned unanimous guilty verdicts on both counts. Sentencing has today been scheduled subject to the receipt of a comprehensive pre-sentence report and further representations.  
+
+Mr H was arrested in the early hours of 29 January 2025 pursuant to a warrant executed under section 43B of the Terrorism Act 2000 at his residence in the Edgbaston district. The arrest arose from extensive investigative work conducted by the West Midlands Counter Terrorism Unit (WMCTU), together with specialist assistance from the National Cyber Crime Unit and the Forensic Explosives Laboratory. The steps taken included covert electronic surveillance, analysis of encrypted messaging applications, and cross-jurisdictional intelligence sharing.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+These prosecutorial measures followed protracted intelligence gathering over a period of approximately fourteen months. The evidence was identified through a combination of human intelligence sources and covert technical surveillance authorised under judicial warrant. It is acknowledged that such powers must operate within the bounds established by the Investigatory Powers Act 2016, ensuring adherence to proportionality, necessity, and legality. The robust safeguards built into the complaints and oversight mechanism have, in this case, not been engaged.  
+
+It is salient to note that the investigative procedures were accompanied by the usual rigours of evidential handling, including the maintenance of a strict chain of custody for all electronic devices seized and the employment of independent forensic specialists to verify data integrity. The complex task of decrypting voluminous encrypted communications placed unprecedented demands on limited forensic cyber resources. We owe acknowledgement to the tireless efforts of forensic analysts who, against a backdrop of increasing cybercrime and digital extremism, balance the competing priorities of multiple high-harm investigations.  
+
+The initial bail hearing was characterised by considerable debate around the appropriateness of remand, balancing the presumption of innocence against the unique risk factors inherent in terrorism-related offending. Ultimately, the defendant was remanded in custody given the severity of the allegations, the nature of the material found, and intelligence suggesting potential ongoing radicalisation.  
+
+The court acknowledges, with professional respect, the work of the Legal Aid Agency in facilitating representation for Mr H by Mr Oliver Marsh, who has ably represented his interests throughout. Although there were regrettable administrative delays in granting instructions for expert psychiatric evaluation, these were eventually resolved through judicial intervention and interlocutory correspondence. The court urges the Legal Aid Agency to continue streamlining its authorisation protocols to avoid undue prejudice in complex cases.  
+
+Reference must also be made to the involvement of the West Midlands Prevent Team, who engaged with Mr H on multiple occasions between June 2021 and February 2023. Their documented activities included cognitive behavioural therapy sessions aimed at addressing ideological beliefs, mentoring by community volunteers, and referrals to educational placements. However, records indicate that Mr H’s participation was intermittent, characterised by disengagement following initial sessions. This pattern—common among those with entrenched beliefs—is a constant challenge faced by practitioners attempting to interrupt radicalisation trajectories within the community. It calls for continued investment in tailored risk assessment tools and specialist staff training.  
+
+The judicial process also brought to light correspondence from the Edgbaston Faith Forum, which expressed concern not only about the defendant’s progression towards extremism but also about the impact such cases have on community cohesion and interfaith relations. Their statements evince a recognition that public safety and social harmony are inseparable aims, reinforcing the need for sentencing to reflect both individual culpability and broader societal harm.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The Crown’s opening submissions outlined a deliberate and sustained course of conduct by the defendant, involving the acquisition and modification of materials with the potential for mass casualty impact. The prosecution invited the court to regard this behaviour as falling within the highest culpability band in the Sentencing Council's Terrorism Guidelines, citing the meticulous planning efforts, clear evidence of ideological purpose, and intent to cause indiscriminate suffering.  
+
+The defendant, through counsel, submitted that there are mitigating features deserving careful consideration. In particular, Mr H’s co-operation deep into the trial process and his recent guilty plea to both charges were presented as indicators of remorse and acceptance of responsibility, albeit late in the proceedings. However, the defence acknowledged that the timing limited the extent to which full credit could be afforded.  
+
+Proper assessment of the plea timing requires reflection on the jurisprudence. In R v. Branston [2023] EWCA Crim 1789, the Court of Appeal reiterated that whilst credit for a guilty plea remains an important element of sentencing, the benefits awarded must be proportionate to the stage at which the plea was entered. The principle that early pleas preserve the resources of the public purse and reduce trauma for victims remains sacrosanct, and belated admissions made only when the weight of evidence is incontrovertible attract markedly reduced credit. The present case fits within these paradigms.  
+
+Historical context is instructive. The Terrorism Act 2006 was introduced following the recommendations of the Cullen Review post the July 2005 London bombings, reflecting a legislative intent to provide enhanced mechanisms for early interception of terrorist activity. The act has undergone numerous amendments, including the incorporation of digital evidence provisions and measures to address lone actor phenomena. The offence of engaging in conduct in preparation for terrorism is noted in R v. Martins [2014] EWCA Crim 394 as encompassing a broad spectrum of preparatory acts, none wholly sufficient on their own but cumulatively evidencing intent.  
+
+It is perhaps worthwhile to note tangential developments in case law. In R v. Trevelyan [2019] EWCA Crim 1122, which concerned a defendant convicted of arson endangering life, the Court underpinned that sentences must balance deterrence against rehabilitation prospects, reminding all courts that “public protection is not served by incantations alone.” Though arson is tangential to the current matter, and the defendant there unrelated to this case—as is the offence involving possession of a bladed article in a school car park by an unrelated co-defendant—such principles resonate across the range of serious offences.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+A prosecuting forensic psychologist, Dr Abigail Harrold, provided an expert analysis of Mr H’s electronic footprint. She testified that the defendant’s encrypted digital activity evinced an escalating commitment to violent ideology, distinguished by a progression from passive consumption of extremist literature to active facilitation of capabilities consistent with the production of homemade explosives. This report was detailed and professionally written, although its reliance on open-source platforms common to many hobbyists was raised as a defence point.  
+
+The court was reminded of the perils that can emerge when intelligence strands are taken in isolation without context. This was explored in civil proceedings brought by the managing agent of an apartment block where Mr H formerly resided, concerning noise complaints and alleged violations of leasehold covenants related to unauthorised structural modifications. While the complainant’s assertions received due consideration, such issues bear no relation to the terrorist allegations and represent only part of the defendant’s complex social circumstances.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Additional evidence emerged during trial surrounding the defendant’s travel, including an intercontinental flight to the Middle East in November 2023. Immigration data revealed changes in itinerary and last-minute booking cancellations. This raised important questions regarding the defendant’s intended destination and purpose. Although suggested as part of a cultural exchange by defence counsel, subsequent investigation revealed links between a contact met there and individuals known for extremist networking. The tenuous nature of such associations was thoroughly tested in cross-examination.  
+
+The court notes that these travel details coincided temporally with several other unrelated incidents in the same region, notably a significant drug seizure involving courier routes, and a separate case involving a co-defendant of different charges. It is vital to ensure such elements are not conflated with the present defendant’s conduct. Similarly, the defendant’s estranged sister, currently subject to unrelated criminal proceedings for benefit fraud, was referenced in ancillary material but holds no relevance here beyond being part of the personal context.  
+
+The court also takes judicial notice of the growing backlog in the Forensic Toxicology Department, which despite recent capital investment, continues to experience significant operational delays. This has, on occasion, prolonged the preparation for cases involving alleged drug-facilitated extremism, though no such allegations arise in the instant case.  
+
+Before continuing, I note that the defence counsel's written submissions referenced R v. Kirkham [2018] EWCA Crim 1564, a case involving aggravated burglary with no connection to terrorism. The inclusion appears strategic to invoke precedent regarding plea credit but remains tangential. The authority holds instructive value on judicial discretion but does not directly illuminate the matters at hand.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+On the issue of concealment, evidence was presented about the defendant’s use of a network of anonymising virtual private networks (VPNs) and encrypted messaging applications. Financial records submitted by the Crown revealed cryptocurrency transactions totalling

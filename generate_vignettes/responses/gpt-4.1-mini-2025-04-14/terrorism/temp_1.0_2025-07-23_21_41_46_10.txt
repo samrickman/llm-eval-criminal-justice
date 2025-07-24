@@ -1,0 +1,67 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/27869  
+Sentencing Remarks – His Honour Judge L. S. WHITMORE  
+Filed: 29 August 2025  
+
+Mr H appears before the court for sentence following his conviction on multiple counts, including one count of engaging in conduct in preparation for acts of terrorism pursuant to section 5(1)(a) of the Terrorism Act 2006, as well as one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The incidents underlying these charges occurred over a period extending from late 2022 to his arrest in March 2025.
+
+The proceedings before this court have unfolded in a manner that, while ultimately satisfactory in their resolution, nonetheless reflect some of the enduring challenges faced by the criminal justice system when handling matters of such import and complexity. Initial custody hearings were conducted with due expedition, but the extensive volume of digital material disclosed necessitated repeated adjournments. These were compounded by the complexity of the evidence and the need for specialised forensic analysis, all under conditions of heightened security protocol.
+
+Mr H was detained at 04:45 hours on 13 March 2025 after a warrant was executed at his residential address in Easton, Bristol. The warrant was authorised under section 43B of the Terrorism Act 2000, based upon intelligence gathered from a Security Service operation targeting encrypted communications. Authorities had intercepted exchanges from an encrypted account linked to Mr H, which suggested a connection to an overseas server known to distribute extremist propaganda and operational manuals. At the time of arrest, law enforcement officers seized multiple electronic devices, including laptops, encrypted thumb drives, and a multifunction 3-D printer.
+
+{INSERT_FACT_SNIPPET_1}
+
+The case was the product of a lengthy investigation known as Operation CAMERON, which employed a combination of traditional surveillance, signal intelligence, and sophisticated digital forensic techniques. Encrypted messaging application traffic was analysed over several months, with specialists decrypting intercepted files only after applying cutting-edge cryptographic exploits authorised through judicial warrants. The investigation was hindered at various stages by restricted funding and staff shortages in counter-terrorism units, a fact borne out by the three-month delay in accessing forensic evidence stored within Mr H’s digital devices.
+
+A bail application was made by the defence in late April 2025, supported by the then defence counsel, Mr Oliver Fenwick of counsel, who advanced submissions regarding Mr H’s previously unblemished character and the risk of undue remand. The application was refused on legal grounds of flight risk and public protection. It should be emphasised that this refusal was made with careful reference to the statutory tests, not as a punitive measure, but as a pragmatic determination of risk, duly mindful of the nature of the allegations.
+
+The court notes, incidentally, that Mr H was the subject of a Prevent referral submitted in early 2021 by a further education college tutor. This was based upon his submission of a political essay that quoted certain passages from literature associated with proscribed organisations. The referral panel, operating under the Channel Framework, ultimately determined that there was insufficient evidence to warrant further intervention at that time. The court neither criticises nor endorses that decision, which was made in good faith on limited information. The record is referenced to illustrate the difficulties in early identification and the inherent uncertainty in predictions of future offending.
+
+It is regrettably commonplace for terrorism-related cases to involve extended pre-trial periods, often exacerbated by the demands of disclosure and a scarcity of suitably qualified legal representatives. In this instance, the court experienced delays associated with the allocation of counsel on Legal Aid, a matter compounded by pressures nationwide within the Criminal Defence sector. Such strain on the justice system has regrettably become a feature of contemporary practice, diminishing not only case progression but potentially infringing on the rights of defendants to a prompt hearing.
+
+A plea and trial preparation hearing was convened on 12 July 2025. Mr H initially entered a plea of not guilty, with defence counsel signalling concerns over the admissibility of intercepted material and the scope of forensic analysis. It was not until the morning of this sentencing hearing, after a forensic psychiatrist’s report had been received and extensively considered, that Mr H changed his pleas to guilty on all counts. The late nature of the plea reduces the extent of credit that may be offered, a principle well-established in case law.
+
+The Court of Appeal authority R v. Grayson [2023] EWCA Crim 881 provides pertinent guidance on the extent of mitigation applicable to late pleas in terrorism cases. In that case, the appellant, arrested for facilitating terrorism, maintained a not guilty plea through prolonged pre-trial hearings, only to admit guilt shortly before sentence. The court held that the limited credit available must reflect genuine acceptance of responsibility and the benefit to witnesses and the court system. There, as here, the Court emphasised that tactical considerations should not be rewarded with full mitigation.
+
+In parallel, R v. Sandbrook [2021] EWCA Crim 1097, a seminal case concerning clandestine importation of weapons using encrypted communications, underlines the gravity with which courts treat delay in pleas where public safety is concerned. The judgment stresses the balance to be struck between encouraging early admissions while not diminishing deterrence.
+
+The case was conducted in this Crown Court, an institution established in the early 1990s to serve as a regional seat of justice for complex criminal matters. The courtroom itself underwent refurbishment in 2024, featuring modern technology intended to facilitate the presentation of electronic evidence. The court thanks the ushering staff and clerks for their professionalism throughout these proceedings. Their role in maintaining decorum and the smooth running of a case of such scale cannot be overstated.
+
+{INSERT_FACT_SNIPPET_2}
+
+Mr H’s conduct must be contextualised against a background of increasing engagement with extremist ideology on encrypted platforms. It was established through expert linguistic analysis that his communications contained coded references and tactical terminology congruent with publications from groups proscribed under Schedule 2 of the Terrorism Act 2000.
+
+{INSERT_FACT_SNIPPET_3}
+
+The defence attempted to attribute some materials found on Mr H’s devices to a private interest in pyrotechnics purely for recreational purposes. Despite this, the overall weight of evidence demonstrates a series of deliberate acts inconsistent with a benign hobbyist profile. Matters of domestic brewing and collection of fireworks were also uncovered during home searches, but the court views these artefacts as tangential, not explanatory.
+
+The court is mindful of the observations made by the Probation Service in similar cases that personal hobbies may sometimes mask more insidious motivations. Research by the Ministry of Justice into violent extremism recognises the limits of stereotyping offenders and emphasises the nuanced assessment required in these sensitive cases.
+
+Among the exhibits disclosed was an archival folder named "Project Phoenix," containing detailed schematic diagrams resembling components for improvised explosive devices. Rivetingly, though unrelated to the defendant, an evidentiary footnote records that a co-defendant in a separate matter was prosecuted under the Firearms Act 1968 for possession of an illegal submachine gun, a fact unconnected with Mr H but present within the broader set of multi-defendant disclosures.
+
+{INSERT_FACT_SNIPPET_4}
+
+Further, the ongoing burden on police resources caused by what may initially appear as low-level offenses is highlighted by a recent intelligence summary from Avon and Somerset Police. It notes that, while shoplifting of alcohol from local supermarkets had increased by 13% over the last year, such activity was unrelated to the serious risk posed in counterterrorism investigations but nonetheless contributes to systemic pressure.
+
+This serves to underline the multi-faceted challenges law enforcement faces day to day. The dichotomy between so-called “non-serious” crimes and high-impact terror-related offences can tend to blur in both public discourse and operational prioritisation, though the legal thresholds necessarily remain distinct.
+
+{INSERT_FACT_SNIPPET_5}
+
+Attention was drawn in closing submissions to Mr H’s travel history, including a week-long visit to Budapest in April 2024 ostensibly on vacation. Notably, the defendant’s movements included an unscheduled trip to a border town, where CCTV footage suggests contact with an individual subsequently arrested for firearms violations not connected to Mr H. The prosecution urged caution in drawing direct inferences; the defence maintained this was a coincidence.
+
+On a procedural note, all parties were appreciative of the court's patience in accommodating adjournments granted due to the late disclosure of medical reports, including a highly technical psychiatric assessment provided by Dr Hema Rajan of the Avon Secure Unit. Dr Rajan’s report, though comprehensive, found no evidence of a formal mental disorder but highlighted Mr H’s cognitive rigidity and ideological fixation.
+
+Such psychological profiling has formed an increasingly important facet of sentencing in terrorism cases, as courts strive to balance rehabilitation prospects with public safety. The report recommended continued supervision and access to structured disengagement programmes post-release, whilst recognising the inherent challenges of sustained ideological detachment.
+
+The court acknowledges the efforts of the East Bristol Rehabilitation Initiative (EBRI), a local NGO which provided a letter confirming their offer of support for Mr H on release, including vocational training and mental health counselling. Given resource constraints and the nature of ideological extremism, the court notes with concern the limited data regarding the success rates of such community interventions.
+
+The Multi-Agency Risk Assessment Conference (MARAC) met on 15 August 2025 to discuss ongoing risk management arrangements for Mr H’s eventual release. Representatives from the National Probation Service, Counter-Terrorism Policing South West, NHS forensic mental health teams, and local housing authorities contributed to a robust risk management plan involving electronic monitoring and restricted electronic communications protocols.
+
+{INSERT_FACT_SNIPPET_6}
+
+One particularly troubling discovery during forensic analysis was a transactional record indicating a cryptocurrency payment of £3,500 made from a wallet associated with Mr H to a marketplace known for the sale of dual-use chemical reagents. The use of cryptocurrency adds a layer of opacity to financial flows often exploited by offenders in this domain, and reflects a concerning trend identified in several recent counterterrorism prosecutions.
+
+The court’s attention has been drawn to R v. Faruq [2023] EWCA Crim 400, a case involving similar use of crypto payments, where the Court emphasised the seriousness attached to financial facilitation of terrorism-related purposes and the secondary harms occasioned by such economies in illicit trade.
+
+Notwithstanding, Mr H’s counsel has advanced a plea for mitigation grounded in his young age at the time

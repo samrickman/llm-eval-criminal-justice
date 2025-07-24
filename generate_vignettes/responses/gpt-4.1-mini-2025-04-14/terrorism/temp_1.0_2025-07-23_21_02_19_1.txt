@@ -1,0 +1,57 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/19542  
+Sentencing Remarks – His Honour Judge L. M. RICHMOND  
+Filed: 17 October 2025  
+
+Mr H appears before this court for sentence on charges indicting him with engaging in conduct in preparation of terrorist acts, contrary to section 5(1)(a) of the Terrorism Act 2006, together with a count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending conduct is alleged to have taken place over a protracted period from September 2022 through to his arrest in early 2025.  
+
+The defendant was apprehended by officers from Counter Terrorism Policing South West at 04:38 hours on 11 February 2025, following the execution of search warrants at a residential address in the St George area of Bristol. These warrants were authorised under section 43B of the Terrorism Act 2000, predicated on interception warrants and intelligence indicating significant encrypted communications trafficking. These communications, linked to multiple pseudonymous accounts traced to the defendant’s IP address, included exchanges of materials closely resembling manuals for improvised explosive devices disseminated amongst known extremist online communities. At the time of arrest, officers seized a desktop computer, multiple encrypted USB storage devices, together with various printed schematics labelled in code, and an inert firearm component consistent with restricted parts regulated under the Firearms Act 1968.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The culmination of this extensive covert operation followed nearly two years of investigative work combining human intelligence, electronic surveillance and digital forensic breakthroughs. Counter Terrorism Policing South West coordinated with the National Cyber Crime Unit (NCCU) and the National Crime Agency’s Strategic Centre for Organised Crime Coordination. Of note, the forensic examination required the deconstruction of sophisticated anti-forensic countermeasures including data fragmentation and multi-layered encryption regimes employing the VeraCrypt platform with custom key iterations. Analysts reported that the volume and depth of technical analysis necessitated over 800 analyst hours, employing state-of-the-art algorithms for de-obfuscation and timeline reconstruction.  
+
+Administrative delays intermittently impacted procedural progress, most notably in securing legal authority to disseminate classified intercept materials to the defence. These delays reflect the inherent tension between transparency in open justice and the protection of highly sensitive national security-related intelligence. This court is acutely mindful of the strain on investigative resources and the carefully calibrated balance of disclosure obligations, as encapsulated in the dictum of Lord Thomas CJ in R v AB and CD [2014] EWCA Crim 354, which this court referenced at length.  
+
+Historically, a Channel referral was initiated in late 2020 by a pastoral care officer at the college attended by Mr H, prompted by essays showing uncritical engagement with extremist literature and graphical submissions containing stylised representations of weapons. The referral panel elected to discontinue interventions after Mr H participated in a limited mentoring scheme, which service providers reported was characterised by sporadic attendance and ambivalence toward disengagement objectives. While it is tempting to retrospectively critique such decisions, early intervention schemes operate within the limits of real-time intelligence and cannot forecast future conduct with certainty.  
+
+The case progressed initially with pleas of not guilty entered at the plea and trial preparation hearing on 23 July 2025. Notwithstanding voluminous evidential material served by the Crown, Mr H maintained those pleas until the commencement of trial, when on 6 October 2025, he tendered guilty pleas in respect of both charges. The lateness of this concession must, as the court has observed in numerous precedent cases, significantly temper any entitlement to credit for plea.    
+
+It is well established in law that credit for a guilty plea is a matter of judicial discretion, designed not simply to reward admission of guilt but to encourage early resolution for the sake of victims, witnesses, and public resources. In R v Collingridge [2022] EWCA Crim 1873, the Court of Appeal emphasised that pleas entered at the point of inevitable evidential overwhelm fail to save significant court time or relieve witness anxiety and thus justify markedly reduced credit. Further guidance was provided in R v Haslett [2021] EWCA Crim 902 and R v Nugent [2023] EWCA Crim 1440, each underscoring that judicial discounting must be sensitive to timing, motivation, and the procedural impact of pleas.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+Mr H’s online activities reveal a notable transformation from mundane hobbies to ideological extremism. Initially posting photographs of local architectural heritage under the pseudonym “CivicScribe,” his blogs progressively incorporated inflammatory political commentary, including explicit repudiations of democratic governance structures and endorsements of violent action as political redress. Linguistic experts retained as part of the prosecution demonstrated that specific phrases and idioms closely mirrored those used in propaganda issued by proscribed groups designated under Schedule 2 of the 2000 Act. These findings bear significantly upon the issue of intent and the defendant’s engagement in purposeful radicalisation.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Digital forensic analysis of Mr H’s devices uncovered a hidden VeraCrypt container labelled “WorkshopArchive,” containing a series of encrypted files. Among these were detailed schematics and video tutorials documenting the construction and deployment of explosive devices. It is noteworthy—though not determinative for sentence—that some files were truncated or corrupted, but the completeness of material is immaterial where intention can otherwise be inferred from accompanying communications and activity patterns. The court declines to entertain defence contentions that incomplete downloads or corrupted files detract materially from culpability, consistent with the approach taken in R v Bakar [2022].  
+
+These findings stand in stark contrast to defence submissions that paint Mr H as an innocuous hobbyist, interested merely in aerial photography—a claim seemingly supported by dormant Instagram posts displaying harmless landscape imagery. However, the court finds such submissions unconvincing in light of the totality of evidence, which includes encrypted communications soliciting restricted precursor chemicals and detailed logistical planning.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+Alongside the primary terrorism offences, the court observes the recovery of a small quantity of cannabis resin in the defendant’s shared accommodation. While no charge has been preferred arising from this, and it bears no aggravating effect on terrorism offending, the mention is made only to acknowledge its place in the broader contextual framework. Likewise, a parking charge notice issued to the defendant in 2019 was adduced, reportedly in an attempt to depict a pattern of minor regulatory breaches rather than serious offending. Such evidence, while perhaps humanising, is ultimately tangential and does not mitigate culpability for the grave offences under consideration.  
+
+The court regrets to note the increasing normalization of antisocial conduct, as reflected in data trends from municipal crime statistics, which show rising rates of public order offences including low-level drug possession and disorderly conduct. While these are not directly germane to Mr H's case, they form part of a prevailing social milieu that exacerbates resource pressures on policing and probation services alike.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Contemporaneous travel records indicate that Mr H undertook an ostensibly innocuous holiday to Lisbon in early 2024. Closer scrutiny, however, reveals side trips to Madeira coinciding with local events associated with radical political fringes. CCTV analysis further identified meetings with individuals subsequently linked to extremist networks in Spain, prompting international cooperation between Counter Terrorism Policing UK and the Guardia Civil. Defence counsel suggested coincidence, but the court finds this improbable in the context of Mr H’s broader communications and material acquisition.  
+
+Correspondence from the National Prevent Programme, addressing earlier referrals, outlines that Mr H engaged intermittently with intervention activities, yet ultimately resisted sustained behavioural change. The report carefully notes his intellectual capacity but identifies pronounced cognitive rigidity, black-and-white thinking, and a narrative of grievance. These observations are consistent with the psychological profile detailed in the expert reports tendered.  
+
+The witness testimony presented by Ms Joanna Fellows, a senior intelligence analyst, underscored the meticulous nature of the investigation. Ms Fellows described the extraction of metadata from interconnected devices and the triangulation of encrypted network traffic exhibiting patterns characteristic of darknet marketplace interactions. The importation of these techniques reflects technological evolution unparalleled in the history of counter-terrorism law enforcement, but also highlights escalating complexity and operational cost.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+A forensic financial analysis linked the defendant to cryptocurrency transfers totaling approximately £3,100, dispersed across multiple “mixing” services designed to conceal transactional origins. Funds were traced ultimately to vendors specialising in restricted chemical substances and protective gear commonly employed in hostile environments. The court notes, with concern, the altering landscape of financial crime wherein decentralised currencies and privacy-enhancing technologies impede detection and prosecution. This dynamic poses continuing challenge to law enforcement agencies struggling to keep pace.  
+
+In this context, references in case law to early-stage warnings and measured interventions offer limited comfort. The judiciary remains reliant on expert advice to gauge the efficacy of control orders, licensing conditions, and supervised release in limiting post-sentence risk. The court acknowledges the commitments of the Multi-Agency Public Protection Arrangements (MAPPA) in coordinating such responses, despite widely reported resource shortfalls and pressures from rising case volumes.  
+
+Among the ancillary material presented, letters from local community groups commend the defendant's prior volunteer work in a food bank initiative. While such positive social engagement is to be encouraged, its presence cannot extinguish the very real hazards posed by Mr H’s criminal conduct. It remains a fundamental tenet that acts of civic virtue cannot displace responsibility for premeditated planning of mass harm.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Mr H is a 30-year-old man educated to degree level in robotics and automation. Until his resignation in late 2023, he was employed as a junior engineer at a firm specialising in critical infrastructure maintenance. Evidence tendered from his former employer speaks

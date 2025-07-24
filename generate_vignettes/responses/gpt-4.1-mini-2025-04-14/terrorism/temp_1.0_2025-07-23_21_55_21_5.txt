@@ -1,0 +1,81 @@
+IN THE CROWN COURT AT NEWCASTLE-UPON-TYNE  
+R v. Mr H  
+Case No. N2025/27894  
+Sentencing Remarks – Her Honour Judge L. A. GIBSON  
+Filed: 12 September 2025  
+
+Mr H appears before this court for sentence on two counts: one of engaging in conduct in preparation for terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with terrorism under section 57 of the Terrorism Act 2000. The period in question extends from March 2023 through to his arrest in late January 2025.  
+
+His apprehension was effected at approximately 04:30 hours on 25 January 2025 following the execution of a warrant at a residence in the Heaton district by Counter Terrorism Policing North East in conjunction with the Northumbria Police Cyber Crime Unit. The warrant was authorised under section 43B of the Terrorism Act 2000 and supported by classified intelligence obtained through lawful intercepts and network surveillance activity. Officers recovered a desktop computer, several encrypted mobile devices, and an assortment of electronic storage media, including solid-state drives and encrypted USB sticks.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+This arrest culminated extensive multi-agency investigations, which incorporated collaboration among the Security Service, the National Cyber Crime Unit, and local police entities. Digital forensic analysis was notably challenging due to the defendant’s use of bespoke encryption software and anonymisation techniques such as The Onion Router (TOR) and multiple virtual private networks (VPN). The cumulative effect of these tactics presented a formidable barrier, extending investigative timelines far beyond initial estimates.  
+
+The hearing schedule in this matter was impacted by a number of procedural challenges, including several adjournments related to disclosure and reporting by expert witnesses. Defence counsel made an application on 8 August 2025 for an extension of time to prepare a comprehensive response to the Crown’s case, particularly concerning the forensic analysis of encrypted communications. That application was granted, reflecting the court’s recognition of the complexities inherent in cases reliant on advanced technology and cyber-forensic evidence.  
+
+Of additional procedural note, the Legal Aid Agency’s handling of funding requests in this case occasioned significant delay. Initial applications for the commissioning of a forensic mental health report and independent cyber forensic evaluation were met with protracted correspondence and indeterminate refusals, only resolved after intervention by the court’s administrative office. This, regrettably, is a growing concern within the justice system and merits broader institutional attention beyond the present circumstances.  
+
+A referral pursuant to the Channel programme was made in late 2021 by an academic tutor who observed the defendant’s repeated references to apocalyptic ideologies within submitted coursework. The resultant intervention was limited; the defendant participated in two sessions before disengaging. The managing panel concluded that, absent further indications of progression toward operational intent or material support, the referral should be closed. This decision aligns with current operational guidelines but also underscores the difficulties inherent in early-stage radicalisation interventions.  
+
+At the plea and trial preparation hearing dated 14 July 2025, Mr H initially entered not guilty pleas to all counts. It was only the morning of the trial that he changed his pleas to guilty following detailed legal advice. Whilst the court welcomes the acceptance of responsibility implicit in pleas of guilty, the lateness of those pleas constrains the extent of credit that can reasonably be granted, as established in well-settled appellate authorities.  
+
+In the seminal case of R v. Merrick [2019] EWCA Crim 642, the Court of Appeal underscored that credit for guilty pleas is a discretionary indulgence predicated upon the early alleviation of prosecutorial and judicial resources, as well as sparing victims and witnesses from the ordeal of trial. The decision echoes similar principles articulated in R v. Thoroughgood [2021] EWCA Crim 1087, where delayed pleas entered immediately prior to or during trial receive only limited discount.  
+
+In this regard, the timing of Mr H’s plea draws parallels with R v. Campion [2020] EWCA Crim 1213, which concerned a defendant charged with aggravated robbery who maintained denial until the day of trial despite overwhelming evidence, consequently receiving only a 10% reduction. The court acknowledges the practical and symbolic importance of these principles in maintaining the integrity of the criminal process.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The defendant’s online activities were subject to intense scrutiny. Expert linguistic profiling revealed that posts on an alias social media account exhibited use of coded language known to sympathisers of proscribed organisations. Moreover, metadata analysis linked several uploads with times coincident with known extremist commemorative dates. Such findings provide important context to the prosecution case and support the assertion of ideological commitment.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+On physical examination of recovered materials, investigators documented extensive collection of chemical precursors—some dual-use and legally obtainable, others controlled under Schedule 1 of the Control of Substances Hazardous to Health Regulations 2002. The combination and quantities suggested an attempt to manufacture explosive substances, though the defence contended this was part of an academic interest in chemistry unrelated to malign intent. The court is satisfied that the context and surrounding evidence negate any legitimate explanation.  
+
+Turning to precedent, the court recalls R v. Zahid [2018] EWCA Crim 771, where possession of similar precursors combined with digital inflammatory materials was held to demonstrate a tangible step towards hostile preparation despite the absence of a completed device. Similarly, R v. Branford [2020] EWCA Crim 131 reported that mere possession of such substances in suspicious quantities warrants significant custodial sentences to reflect the danger posed.  
+
+Expert psychiatric reports were obtained to consider the defendant’s mental state and ascertain any potential mitigating considerations. Dr Fiona Loxley, forensic psychiatrist, authored a detailed report dated 20 August 2025. She noted Mr H’s history of social isolation, pervasive anxiety disorder, and a degree of paranoid ideation. Notwithstanding this, Dr Loxley concluded that he retains full criminal responsibility, expressing no evidence to suggest a psychotic disorder or cognitive impairment that diminishes his understanding of his conduct.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+The report also emphasises Mr H’s entrenched ideological convictions, reporting “significant cognitive rigidity” and “an absence of insight into the consequences of his proposed actions.” Risk assessment instruments rated him at high risk of serious harm to the public if released without structured, intensive supervision and ongoing mental health support. The court notes that such assessments rely heavily on historical behaviour and present indicators but cannot predict future actions with certainty. Nonetheless, they provide a valuable framework for custodial and post-custodial management.  
+
+The court is well aware of the systemic pressures experienced by the Probation Service in undertaking risk assessments in terrorism-related cases. Staffing shortages and burgeoning caseloads frequently result in extended timescales for report preparation and limited capacity to provide high-intensity interventions. The court commends the dedication of probation professionals who, despite these challenges, strive to uphold public safety and offender rehabilitation.  
+
+Turning to the issue of community impact, the court heard from several local organisations that have encountered incidental impacts from the defendant’s conduct. It is worth recording that the North East Community Relations Forum submitted observations highlighting increased tensions in the Heaton area, marked by a rise in reported hate incidents during Mr H’s period of activity. Such contextual information, while not directly attributable to the defendant, illustrates the ambient social harm fostered by extremist narratives and the broader public safety imperative.  
+
+The matter of bail and remand length is regrettably relevant. Mr H spent in excess of 18 months on remand following his arrest, in large measure due to delays occasioned by complex disclosure and the aforementioned Legal Aid Agency funding issues. Such custodial delays pose significant challenges to case management and defendant welfare, and the court reiterates its call for systemic improvements to mitigate such delays in future.  
+
+Reference is also made to R v. Vinson [2016] EWCA Crim 342, which confirms that extended pre-trial detention, whilst regrettable, does not diminish the seriousness of offending or preclude custodial sentences appropriate to public protection.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+It is pertinent to remark that during the investigation, attention was also paid to a separate individual believed to be an associate of the defendant. That co-defendant was charged with possession of a bladed article in a school car park and a separate public order offence arising from an altercation near a local shopping centre. Those charges, though serious in their own right, have no bearing on Mr H’s case, save insofar as evidential links were established between the two individuals via electronic communication. The co-defendant remains under active investigation, and the court makes no inference as to Mr H’s liability for those matters.  
+
+The procedural history further includes reference to an unrelated burglary on 3 March 2024 at a neighbouring property, during which an intruder forcibly entered while the occupiers were away on holiday. The burglary was part of a separate police operation in the county and has been referenced in case logs and correspondence, appearing in disclosure material by virtue of shared custodial accommodation of a witness.  
+
+The court notes also a prior unrelated traffic offence committed by a relative of the defendant, involving driving while disqualified, documented in contemporaneous police records but without connection to the defendant himself.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Cryptocurrency transactions figured prominently in the investigation. Analysis revealed multiple transfers from wallets registered to email identifiers plausibly linked to Mr H. The transfers, cumulatively amounting to £3,800, were routed through tumblers and mixed with payments connected to online marketplaces purportedly dealing in dual-use materials.  
+
+The use of cryptocurrency in criminal contexts is a phenomenon that taxes law enforcement agencies across the globe. While it offers genuine innovation and financial inclusion to many, its anonymity and decentralisation are exploited by those seeking to circumvent legal controls. The court notes the growing legislative and enforcement focus on this area, and judicial responses must reflect the evolving technological landscape accordingly.  
+
+The court is mindful that the forensic resources dedicated to unraveling these complex financial trails are finite and often stretched thin by competing priorities, including but not limited to investigations involving organised crime groups, serious violence, and cyberfraud.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Turning now to the defendant’s personal background, Mr H is 31 years old, of stable family upbringing, and holds a degree in electrical engineering from a respected university. Prior to the inception of offending conduct, he was employed by a regional manufacturing firm specialising in automation technologies. Employment references attest to his reliability and technical aptitude.  
+
+The defence has provided character references from community sports clubs and a local music cooperative, both highlighting Mr H’s contributions over several years. These attestations, while commendable, must be weighted in the context of the defendant’s deliberate and sustained engagement in extremist activity.  
+
+The court is obliged to observe that positive community involvement, no matter how genuine, neither negates nor excuses criminal conduct of this gravity. Such mitigating factors are relevant in overall sentencing assessment but cannot be afforded disproportionate weight.  
+
+The adult social care service has indicated that Mr H experienced episodes of social anxiety but had not engaged with formal mental health services until compelled by this investigation. The court acknowledges the importance of early and ongoing access to such support, particularly in preventing the escalation of harmful ideologies.  
+
+A letter from Mr H’s sister, tendered with leave of the court, describes the familial and social pressures he faced during the period prior to arrest, including bereavement and financial instability. These humanise the defendant but, as with other mitigating evidence, do not substantially diminish culpability.  
+
+{INSERT_FACT_SNIPPET_8}  
+
+Expert opinion from Dr Rebecca Amory, consultant forensic psychologist, describes the defendant’s ideological fixation as “deeply entrenched and resistant to conventional cognitive restructuring.” The psychological evaluation warns of the “medium to high risk of re-engagement with extremist networks”

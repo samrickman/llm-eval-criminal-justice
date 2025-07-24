@@ -1,0 +1,71 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/24562  
+Sentencing Remarks – His Honour Judge J. W. ELLISON  
+Filed: 2 September 2025
+
+Mr H appears before this court convicted on two counts of engaging in conduct in preparation of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006, and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offending is reported to have taken place between July 2023 and his subsequent arrest in January 2025.
+
+The defendant was initially arrested on the morning of 22 January 2025 at an address in the Fishponds area pursuant to a warrant executed under section 43B of the Terrorism Act 2000. The warrant followed a 16-week multi-agency investigation codenamed Operation Steel Lock, conducted by Counter Terrorism Policing South West in partnership with the National Crime Agency, and supported by the Security Service. The investigation involved a combination of covert electronic surveillance, human intelligence, and forensic examination of digital devices recovered upon execution of the search warrant.
+
+It bears emphasis that the investigation was resource intensive, necessitating coordination across five police forces and two regional Prevent panels. This level of inter-agency collaboration underscores the complexity of modern counter-terrorism work, which often demands balancing operational expediency with legal safeguards and the preservation of civil liberties. At all times during this lengthy inquiry, the investigative teams observed due process and executed all warrants with judicial authorisation.
+
+Prior to formal charging, the defendant was subject to a series of bail conditions imposed by this court, including surrender of passport, nightly curfew between 8pm-6am, and prohibition on access to internet-enabled devices without prior authorisation. Breaches of such conditions were met with immediate recall to custody, the last of which occurred in November 2024.
+
+{INSERT_FACT_SNIPPET_1}
+
+The charge follows an investigation which, although concerned largely with preparatory conduct, uncovered a catalogue of material suggestive of intent to commit acts of terrorism. The prosecution relied extensively on forensic digital evidence retrieved from encrypted drives, which showed not only the possession of manuals relating to improvised explosive devices but also correspondence with known extremist sympathisers overseas.
+
+In addressing the procedural unfolding of the case, it is necessary to remark upon the challenges inherent in balancing the defendant’s right to a fair trial with the imperatives of effective counter-terrorism enforcement. Disclosure obligations proved complex and prolonged. A material volume exceeded 1.7 terabytes, much of which was encrypted or redacted pursuant to national security considerations. This court acknowledges the diligence with which the Crown Prosecution Service Counter-Terrorism Division and the Security Service Disclosure Unit discharged their responsibilities.
+
+An application to appoint an independent expert in digital forensics was delayed due to the Legal Aid Agency’s protracted internal authorisation procedures, which led to an adjournment at the case management hearing on 14 May 2025. The court trusts that this delay, far from undermining the fairness of proceedings, ultimately advanced the comprehensive examination of material critical to the defence’s consideration.
+
+The court is indebted to the publicly funded defence team led by Mr A. Shelton QC, whose representations reflected assiduous preparation despite constraints imposed by limited Legal Aid budgets, which continue to hamper the criminal justice system disproportionately.
+
+Reference may be made, although somewhat tangential, to R v. Pemberton [2018] EWCA Crim 2924, a case involving offences under the Explosive Substances Act where a co-defendant was convicted of conspiracy to cause explosions damaging public transport infrastructure. Though entirely unrelated to the present proceedings, the judgement therein elucidates principles relating to the foreseeability of harm and the scope of preparatory acts. The court notes with frustration that the defendant’s sibling is presently subject to an ongoing trial concerning separate charges of benefit fraud in a neighbouring jurisdiction — an identification which, while unfortunate, has no bearing upon Mr H’s culpability and must not prejudge him.
+
+It is regrettable that this case’s final trial date had to be deferred on two occasions due to court room refurbishment and, later, action short of a strike by the court clerks. Such extraneous delays only serve to propagate backlogs and increase the stress on all parties involved, including victims, witnesses, and the judiciary.
+
+Attendance at the initial plea and preparation hearing on 17 June 2025 revealed that Mr H entered a not guilty plea. It was only on the morning of the trial, scheduled for 1 September 2025, that he electively changed his plea to guilty on both counts of preparation of terrorism and possession of terrorist-related articles. The court acknowledges the late timing of the plea and notes with concern its procedural impact.
+
+Credit for guilty plea is a matter of judicial discretion, designed to reward genuine remorse and save public resources and victims the ordeal of contested proceedings. Such credit is reduced in cases where the plea is delayed until trial commencement, as reiterated in R v. Gallivan [2024] EWCA Crim 1221, which concerned an internet-facilitated firearms conspiracy. The Court of Appeal there confirmed that the mechanics that permit credit must not be abused as tactical devices.
+
+Again, and of note in the present context, is R v. Dawson [2023] EWCA Crim 1065 where the late plea was associated with a hacking conspiracy aimed at critical national infrastructure. The court in Dawson limited credit to a maximum of 15 per cent due to the eleventh-hour admission.
+
+{INSERT_FACT_SNIPPET_2}
+
+The digital content recovered from Mr H’s devices included an extensive series of online postings under the pseudonym ‘SilentSentinel’. Early posts, dating from 2021, pertain to political commentary and philosophy. However, by mid-2023, the tone shifted markedly and became characterised by calls to violent agitation against state actors. Experts in surveillance linguistics, called to give evidence, opine that the defendant’s writings exhibited characteristics consistent with ‘lone actor’ radicalisation profiles as described in the Home Office publication “Pathways of Radicalisation” (2020).
+
+It is noted, although not for mitigation, that the defendant’s collection encompassed a variety of hobbyist aircraft flight logs. While this has been positively presented by the defence as evidence of lawful recreation, it is equally valid that unmanned aerial vehicles have been subject to significant misuse in conflict zones worldwide, raising flags around dual-use technology concerns. This court appreciates the fine line assessed by prosecution experts and takes a forensic approach to each circumstance.
+
+{INSERT_FACT_SNIPPET_3}
+
+Extensive forensic examination revealed the presence of multiple retracted online messages—known as ‘burn after reading’ communications—from secure messaging services. These correspondences indicate coordination with individuals believed to be subject to ongoing Counter Terrorism Policing investigations outside the UK, raising cooperation issues with foreign law enforcement agencies.
+
+The defendant possessed encrypted technical manuals, including eight PDF files labelled ‘Future Projects’ stored in an encrypted container. Defence representation emphasised that their incomplete download status suggested limited engagement, but the prosecution produced evidence from metadata timestamps indicating active interaction on multiple occasions.
+
+It is worthy of attention, though tangential, that during the investigation, another suspect associated remotely to this case was found to be culpable for aggravated burglary of a private dwelling the week of Mr H’s arrest but is currently at large and presumed abroad. Such cross-jurisdictional considerations underscore the ongoing challenge of transnational crime but possess no direct connection with the defendant’s conduct.
+
+{INSERT_FACT_SNIPPET_4}
+
+At the scene of arrest, a small stash of home-brew elderflower wine was located in the kitchen area. The defence solicited this detail in mitigation, positioning it as indicative of a standard lifestyle outside ideological engagement. The court notes the commonplace nature of such activities, but it is irrelevant to sentencing in this matter.
+
+A 2019 unpaid parking ticket was also referenced in attempt to soften perceived character flaws, a tactic which fails to engage directly with the severity of terrorism offences under consideration.
+
+The court further observed during review of the evidentiary materials that the defendant had a 2022 fixed-penalty notice for fare evasion on a local bus route; again, this is peripheral, and does not excuse or reduce culpability for the charges before this court.
+
+{INSERT_FACT_SNIPPET_5}
+
+Regarding international travel, Mr H made a visit in October 2023 to Lisbon, citing cultural tourism, but records indicate he travelled on to Evora for a two-day stop-over. Investigators traced his contact with an individual known to be under surveillance in Spain for alleged involvement in illicit chemical procurement. Defence counsel posited coincidental acquaintance, but the court is satisfied that the journey was at least partly motivated by the defendant’s ideological circle.
+
+While not directly relevant, it is noted in passing that during a separate police operation in Plymouth earlier in 2024, three offenders were convicted of fly-tipping on protected green belt land, causing environmental damage estimated at £45,000. This circumstance, though not connected to Mr H, bespeaks wider concerns about resource diversion within protective services.
+
+The Crown disclosed 653 primary exhibits in this matter, reflecting a voluminous case file requiring careful management. The digital secure storage platforms employed have been subject to periodic system outages, including a pivotal failure coinciding with trial preparation which was fortunately mitigated by off-site backups.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial analysis traced cryptocurrency transactions initiated under Mr H’s control. A transfer amounting to 1.83 Ethereum tokens, valued approximately £2,670 in December 2024, was sent to a wallet affiliated with an overseas supplier dealing in dual-use chemical precursors.
+
+This court has noted with concern the increasingly common use of cryptocurrency tumblers to obfuscate transactional trails. Such mixers impose additional burdens on law enforcement while creating an artificial layer of financial opacity exploited by criminal networks.
+
+Procedural complexities emerged surrounding the

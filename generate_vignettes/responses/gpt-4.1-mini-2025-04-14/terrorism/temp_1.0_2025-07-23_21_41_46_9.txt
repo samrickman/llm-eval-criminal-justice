@@ -1,0 +1,61 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/24209  
+Sentencing Remarks – His Honour Judge L. R. FEDERICK  
+Filed: 12 August 2025  
+
+Mr H appears for sentence before this court on two counts. The first alleges engaging in conduct in preparation for acts of terrorism under section 5(1)(a) of the Terrorism Act 2006, and the second possession of an article for a purpose connected with the commission of terrorism contrary to section 57 of the Terrorism Act 2000. The dates of offending are admitted to be between May 2023 and the date of arrest in January 2025.  
+
+The defendant was arrested at 07:03 hours on 18 January 2025 pursuant to a warrant executed by officers from Counter Terrorism Policing South West (CTPSW) at his residential address on Fairwater Road, Bristol, which had been subject to covert surveillance for several months. The warrant was issued following intercept evidence obtained under the Regulation of Investigatory Powers Act 2000, indicating repeated encrypted communications with a known extremist network based abroad. Electronic devices seized included a desktop computer, multiple encrypted external drives, and various components consistent with improvised explosive device assembly.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+This arrest culminated an investigation codenamed Operation IRONBLOOM, which is notable for its deployment of novel digital triage techniques. A particularly painstaking element of the inquiry involved decrypting proprietary secure messaging archives utilising zero-knowledge proofs—a cryptographic advance traditionally reserved for commercial blockchain transactions, now repurposed by law enforcement to penetrate complex precautionary measures. The investigative team’s success underscores the evolution of cyber-forensic practice but also the increasing technical barriers that law enforcement faces in combating ideologically motivated harm.    
+
+It is pertinent, before considering the substantive merits or mitigating features, to comment upon the procedural history. The preparatory hearings began on 1 February 2025 but were adjourned on two occasions, once due to defence counsel’s application for an independent forensic psychiatric assessment—an application ultimately granted—and subsequently owing to unexpected delays in the delivery of digital evidence pursuant to Section 7 notices under the Terrorism Act 2000. The court notes with some frustration the administrative challenges posed by the Legal Aid Agency. Counsel for the defence, Mr Simon Fairbanks, faced considerable difficulty securing timely authorisation for expert reports, an issue lamentably common in cases of this complexity, and one which threatens the expedient administration of justice to the detriment of both defendant and public interest.  
+
+In the earlier hearing on 3 March 2025, the defence initially entered not guilty pleas on both counts. However, following disclosure and contentious forensic analysis, Mr H entered guilty pleas on the morning of the sentencing hearing. The court bears in mind the jurisprudence of R v Cooper [2017] EWCA Crim 2375, reinforcing that the timing of a guilty plea is critical to the assessment of credit. The plea entered at this late juncture, after exhaustive investigation and expert report exchanges, constitutes a tactical resolution rather than an early acceptance of culpability, and accordingly the reduction in sentence credit will reflect that reality.  
+
+Historically, the court recalls the principles elaborated in R v Homewood [2014] EWCA Crim 1817 concerning sentencing in terrorist-related offences, which reiterate that the sentence must reflect the gravity of the offence and the significant risk posed to the public, balanced against any expressions of remorse and mitigating factors. Homewood established that while custodial sentences of considerable length are often warranted, sentencing remains individualised.   
+
+The general backdrop to contemporary terrorism sentencing is one characterised by the increasing sophistication and decentralisation of extremist networks, as noted in recent Home Office reports. These reports emphasise the persistent threat posed by “lone-actor” offenders and the difficulties in early intervention, an observation reinforced by the defendant’s failure to engage meaningfully with Prevent initiatives at any stage despite multiple referrals.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The court’s understanding of the radicalisation and subsequent actions of Mr H is enhanced by an extensive narrative recovered from his online activity and communications, including manifestos and instructional materials shared via the “ShadowEncrypt” forum, a platform clandestinely used to propagate violent ideology. Analysis by CTPSW indicates that Mr H maintained an online account under the pseudonym “IronProwler,” a moniker appearing frequently in extremist digital literature. His postings increasingly reflected a departure from passive grievance expression to active preparation and facilitation of violent means.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+Digital forensic examination revealed hidden storage spaces within encrypted containers labelled “Solstice” and “RemedyKit.” These contained voluminous files detailing chemical formulas, modified circuitry diagrams, and testing logs from makeshift detonation trials within industrial estates in the Bristol area. The forensic data also identified correspondences with identified insurgents in Eastern Europe and Southeast Asia, suggesting a networked element to an otherwise self-directed operation.  
+
+The court’s attention was drawn by the defence to a series of personal emails, some dating back to 2021, which portrayed Mr H as a man struggling with identity and social isolation. However, it must be emphasised that these correspondences do not mitigate the obvious and premeditated danger his conduct presented to the public.   
+
+{INSERT_FACT_SNIPPET_4}  
+
+The defence attempted to provide a benign explanation for some travel movements recorded in 2023, citing attendance at scientific conferences and academic visits. A Facebook account, purportedly created simultaneously, shows photographs of urban exploration and craft beer tastings. While such activities might be typical of many individuals in his age cohort, there is a problematic juxtaposition with the covert procurement and modification of explosive components during the same period. The court has little difficulty rejecting the submission that these hobbyist interests negate the gravity of preparatory offences.  
+
+In addressing matters related to the defendant’s personal history, mention must be made of reports commissioned from the South West Mental Health Forensics Unit, in particular by Dr Amina Sharif, whose eloquent but unequivocal assessment provides indispensable context. Dr Sharif's report, dated 5 July 2025, notes the defendant exhibits features consistent with elevated anxiety and depressive symptomatology but diagnoses no major psychotic or personality disorder. She further observes that Mr H demonstrates “a cognitive style marked by ideological absolutism exacerbated by social withdrawal, rather than mental illness.” This distinction is of critical importance in sentencing deliberations.   
+
+From a procedural standpoint, it is relevant to recall the difficulties posed by the pandemic-induced backlog within the probation services, exacerbated by repeated waves of staff absences. The Bristol Community Rehabilitation Company (CRC), tasked with supervising high-risk individuals, reports recurrent shortages which impact the potential for effective supervision post-release. This contextual information, while not directly altering individual culpability, informs the court’s view of secondary protective measures.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+The Crown presented evidence of the defendant’s travel history, notably an extended visit to Zagreb in September 2023. Investigations overseen by the Foreign and Commonwealth Office and regional Counter Terrorism Units revealed that Mr H had engaged with extremist sympathisers and attended paramilitary training under the guise of a short cultural exchange programme. CCTV from the city’s central markets corroborated these associations. Defence counsel contended the stay was for legitimate tourism purposes; the court considers this implausible given corroborative intercepts and the timing relative to confiscated materials.  
+
+In a related vein, the disclosure schedule in this case was considerable, amounting to over 843 items requiring detailed vetting under the counter-terrorism disclosure protocol. This heightened volume posed a significant burden on judicial and administrative staff, compounded by the multi-tiered security clearance requirements. It is a source of some concern that the staffing constraints in the court’s disclosure unit have lengthened what ought to be more timely proceedings.  
+
+One notes for completeness that two co-defendants initially charged—individuals known as Jusa and Mancini—did not appear in this court owing to ongoing proceedings in Istanbul Metropolitan Court for separate offences relating to organised trafficking. That these persons were linked to Mr H’s communications underscores the transnational dimension of the network but must not distract from Mr H’s personal responsibility. The court will not speculate on their roles or the outcomes of those foreign proceedings.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+A financial investigation conducted by the Special Crime Unit identified cryptocurrency transactions from wallets traced to Mr H’s digital avatars. A sum approximating £4,230 was transferred through a series of obfuscating mixers and ultimately paid to a vendor offering dual-use electronic components. This financial trail supports the narrative of intention and preparation previously described. The court is compelled to comment on the rising challenge posed by cryptocurrencies in the terrorism financing context, reinforcing the importance of cross-agency efforts to close these loopholes.  
+
+The defendant’s movements on 12 October 2024 were closely scrutinised following a tip-off from a confidential informant. Covert camera footage from a warehouse district in Avonmouth reveals activities consistent with the preparation and storage of potential explosive devices. The analytic work required days of effort by CTPSW’s technical unit, underlining the disproportionate investment of law enforcement resources entailed by such investigations.  
+
+Historical precedent reveals parallels with R v. Shahzad [2017] EWCA Crim 163, which examined the possession and use of IEDs with tragic consequences. While the specific factual matrix differs, lessons on the seriousness of preparatory conduct and the importance of preventative judicial intervention remain pertinent.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Turning to the defendant’s personal and familial context, Mr H is 30 years of age and holds a Bachelor of Science degree in electrical engineering from a mid-tier university. The defendant’s supervisor at a local manufacturing firm testified to his punctuality and technical skills but expressed surprise at his abrupt resignation following an internal query about personal conduct. Letters of support from a local book club and a youth mentoring initiative attest to periods of community engagement, though they are qualified by observations of increasing withdrawal and ideological preoccupation.  
+
+It is well established, as in R v. Middleton [2018] EWCA Crim 2234, that commendable community activities do not negate serious offending, but may inform the court’s mitigation exercise, particularly concerning potential for rehabilitation. That said, such contributions cannot be disentangled from the context, and do not obscure the substantive culpability arising from intentional preparation of

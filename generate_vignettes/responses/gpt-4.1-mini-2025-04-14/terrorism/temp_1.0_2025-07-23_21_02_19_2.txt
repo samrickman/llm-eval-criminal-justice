@@ -1,0 +1,61 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/19876  
+Sentencing Remarks – Her Honour Judge L. M. GREAVES  
+Filed: 17 October 2025  
+
+Mr H stands before this court today for sentence having been convicted on two counts: engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The conduct under consideration occurred over a period commencing in September 2023 and culminating in his arrest in January 2025. These proceedings form part of the Crown Court tier of criminal justice, reflecting the gravity of the allegations and their statutory backdrop.  
+
+It is noted that Mr H’s case traces a trajectory commonly encountered in contemporary counter-terrorism jurisprudence: one involving encrypted communications, covert surveillance, and inter-agency collaboration on an intricate scale. The court is aware of the considerable public interest surrounding such cases and the imperative to reconcile open justice with national security concerns. As articulated in R v. AW [2014] EWCA Crim 1239, while transparency remains essential, certain disclosures necessarily remain constrained to prevent compromise to ongoing protective measures.  
+
+Mr H was arrested by officers of the South West Counter Terrorism Unit (SWCTU) on 15 January 2025 at his residence located in the Redcliffe district of Bristol. The warrant for search and arrest—executed under section 43B of the Terrorism Act 2000—followed a lengthy multi-agency intelligence operation, coordinated with inputs from the National Crime Agency’s Cyber Investigation Branch and supplemented by analysis undertaken by the Electronic Evidence Response Team. The substantial digital footprint recovered at the premises included computers, mobile phones, encrypted USB devices, as well as analogue notebooks.  
+
+{INSERT_FACT_SNIPPET_1}  
+
+The arrest, while dramatic in contemplation, was the product of patient and meticulous police work. SWCTU investigators utilised advanced digital forensics, including network traffic analysis and pattern of life mapping. This was complemented by conventional surveillance measures, including the deployment of listening devices and physical watch operations at Mr H’s place of employment and frequent public locations. The extensive surveillance necessitated adherence to the Protection of Freedoms Act 2012 safeguards, with multiple renewals of warrants under Schedule 5 permissions of the Regulation of Investigatory Powers Act 2000.  
+
+During Mr H’s initial period of detention, significant administrative delays were encountered in the provision of certain classified material disclosed under the Justice and Security Act 2013 closed material procedures. These delays were attributable to inter-agency security clearances and the need to redact sensitive information to protect sources. While regrettable, the court is satisfied such delay did not prejudice the overall fairness of proceedings. This context is a salutary reminder of the tension between the requirements of due process and the imperatives of security investigations in terrorism cases.  
+
+There was a Channel referral made by a youth worker in October 2021 following concerns about Mr H’s engagement with extremist material expressed within a college history seminar. That referral involved evaluation by the local Prevent team and included repeated offers of support and intervention, which, according to the documentation furnished to the court, Mr H declined or engaged with sporadically. The court understands that Channel panels, while valuable, operate against a backdrop of limited resources and frequently partial cooperation, making outcomes unpredictable.  
+
+Mr H initially entered pleas of not guilty at the first appearance hearing held on 2 March 2025. Following a plea and trial preparation hearing on 21 July 2025, he maintained this position through jury selection. On the morning of the trial commencement on 12 September 2025, however, Mr H entered guilty pleas to both counts. The court accepts these pleas but must note the lateness and the consequent limitation on the credit for that plea. As was observed in R v. Langley [2023] EWCA Crim 1127, credit available for plea reflects not only the entry itself but the timing and the degree to which it alleviates the trial process, spares witnesses, and conserves resources. Late pleas of the nature now under consideration typically attract a credit somewhat reduced from more timely admissions of guilt.  
+
+The body of appellate authority underlining credit for pleas in terrorism cases includes decisions such as R v. Sergeant [2024] EWCA Crim 678, which underscored the importance of balancing procedural economy with recognition of genuine remorse. Absent early engagement, courts rightly limit discount. That jurisprudence informs the current assessment.  
+
+Case law in the arena of sentencing for terrorism offences remains ever-important to the court’s approach. The sentencing framework under the Terrorism Act 2006 has been informed, though not constrained, by the Sentencing Council’s Terrorism Guidelines issued in 2023. The Guidelines provide structured criteria encompassing offence seriousness, culpability levels, harm caused or intended, and associated factors such as role, antecedents, and mitigation. Among leading authorities, R v. Benothman [2019] EWCA Crim 1043 establishes the principle that the preparation of terrorist acts is culpable even absent actual deployment of weapons or devices, with the scale and sophistication of activity embedded as aggravating factors. Similarly, the judgment in R v. Suleiman [2021] EWCA Crim 811 directs close attention to the use of encrypted communication technologies and the deliberate evasion of law enforcement detection.  
+
+In recent years, the courts have wrestled with the challenge of sentencing offenders whose intent and capability vary widely, often undertaking calibration through extended determinate sentences coupled with post-custody supervision to enhance public protection. The court is mindful of these precedents.  
+
+{INSERT_FACT_SNIPPET_2}  
+
+The materials adduced further revealed an extensive online blog maintained under Mr H’s pseudonym "IronVale," a moniker believed used in various social media platforms. The blog displayed a marked progression from initially mundane commentary on mechanical engineering topics to the propagation of extremist ideology, including references to indebted grievances and calls for direct action. The content analysis was supported by a joint linguistic report compiled by the Home Office Centre for Applied Nonviolence Studies dated 27 August 2025.  
+
+{INSERT_FACT_SNIPPET_3}  
+
+The digital forensic examination uncovered multiple encrypted files within nested VeraCrypt containers, labelled with ostensibly innocuous titles such as “WorkshopLogs2024.” Among these were manuals on low-yield explosive assembly and schematic diagrams of vehicular parts modifications. The court received evidence establishing a timeline for these materials from 2022 through to late 2024, indicating sustained content acquisition and revision. The defence suggested that some of these materials might relate to Mr H’s hobbyist interest in engineering projects; however, the contextualised pattern and accompanying messaging negate any benign interpretation.  
+
+{INSERT_FACT_SNIPPET_4}  
+
+An area warranting mention relates to a minor quantity of unprescribed medication—benzodiazepines—found at the defendant’s address. These substances were not the subject of charge and no link to terrorism offences was suggested. The inclusion in the evidence bundle was for completeness and underlines the multifactorial nature of some defendants’ personal lives.  
+
+The defendant’s vehicular registration history included a clean record; no prior driving offences had been recorded. This detail bears no relevance to the offences herein but features within the background material provided by the probation service.  
+
+{INSERT_FACT_SNIPPET_5}  
+
+Records disclose that Mr H undertook travel to various European cities between 2023 and 2024, including a short trip to Antwerp in November 2023. Immigration and travel documents indicated he attended a conference ostensibly on mechanical design innovation, but intelligence reports flagged interaction with individuals of interest associated with radicalised movements elsewhere on the continent. The court is mindful that foreign travel, standing alone, is not indicative of wrongdoing; correlation, however, with other factors requires closer scrutiny when linked with terrorism offences.  
+
+The court acknowledges delays occasioned by national legal aid funding constraints. Applications to secure expert psychiatric assessment were prolonged, requiring intervention by the judiciary to expedite authorisation. These administrative difficulties are symptomatic of wider systemic pressures that risk compromising timely justice delivery.  
+
+The case was also affected adversely by listing issues within Bristol Crown Court due to extended industrial action by court staff, further contributing to adjournments and rescheduling. Such operational disruptions exacerbate the load on courts and participants alike, compounding anxieties for all involved.  
+
+{INSERT_FACT_SNIPPET_6}  
+
+Further financial analyses revealed cryptocurrency transfers made via a series of anonymising services (‘mixers’). Approximately £1,850, converted to various cryptoassets including Monero and Bitcoin, was transferred across a complex wallet chain. These transactions bear significance in tracing funding of materials related to Mr H’s intended activities. The court explicitly recognises the increasing challenge law enforcement faces in tracking such financial flows.  
+
+The forensic investigation team dedicated over 600 hours to digital data recovery and analysis, an illustration of the resource-intensive nature of modern counter-terrorism work. This investment reflects a concerted public safety endeavour but also highlights the immense workforce demands placed on law enforcement bodies and affiliated civilian experts.  
+
+{INSERT_FACT_SNIPPET_7}  
+
+Personal background information paints Mr H as a 31-year-old male, educated to degree level with a foundation in mechanical engineering and prior employment in various industrial settings. Character references submitted commend his punctuality and skills but lament an apparent social withdrawal in the years before the offending. Consultation with occupational health professionals indicates potential work-related stressors preceding this withdrawal. Social services received brief reports of family estrangement circa 2022, though no ongoing child protection concerns existed.  
+
+Several letters of support were filed on behalf of Mr H, including correspondence from the Easton Community Hub and the Bristol Volunteer Gardener’s Association, praising his volunteer contributions to local environmental improvements. Whilst these activities demonstrate a degree of civic engagement, they do

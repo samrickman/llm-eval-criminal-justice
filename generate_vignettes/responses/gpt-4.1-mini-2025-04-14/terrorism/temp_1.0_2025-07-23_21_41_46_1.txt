@@ -1,0 +1,69 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/24863  
+Sentencing Remarks – Her Honour Judge E. J. THORNTON  
+Filed: 11 September 2025
+
+Mr H appears before this court for sentence on two counts: the first alleging conduct in preparation for acts of terrorism, pursuant to section 5(1)(a) of the Terrorism Act 2006; the second, possession of an article for a purpose connected with the commission of terrorism, under section 57 of the Terrorism Act 2000. The period during which the offending conduct occurred is alleged to be from July 2023 through to the defendant’s arrest in May 2025.
+
+The proceedings in this matter have been protracted, not for any substantive issue relating to the fitness of the defendant, but due to the unusual difficulties in securing early disclosure and the consequent strain on preparatory processes. The listing of the trial has been twice delayed owing to conflicts in the availability of Crown Counsel and forensic experts essential to the prosecution case. This court observes that although the criminal justice system aims to operate with expedition, cases involving national security disclosures inevitably experience such delays, reflecting a tension between public interest in open justice and the demands of safeguarding sensitive material.
+
+The defendant was initially arrested at 07:44 on 14 May 2025 at his residence in Easton, Bristol. This arrest was the conclusion of a multi-agency investigation engaging officers from Counter Terrorism Policing South West, the National Cyber Crime Unit, and the Security Service. The warrants executed were authorised under section 43B of the Terrorism Act 2000, supported by intelligence indicating encrypted communications between the defendant and a foreign-hosted server associated with proscribed extremist material dissemination. Upon arrest, several electronic devices—comprising a mid-2019 MacBook Pro, two external hard drives, and a mobile telephone—were seized for forensic examination.
+
+{INSERT_FACT_SNIPPET_1}
+
+It should be acknowledged that the forensic examination was subject to considerable delay due to the requirement to employ advanced decryption methods necessitating external technical expertise. The work was complicated by the use of multiple layers of encryption, involving bespoke cryptographic algorithms designed to frustrate interception. This necessity drove the involvement of the National Cyber Crime Unit’s specialist decryption support, whose capacity is limited and prioritised according to risk assessment.
+
+This court notes that during the investigative phase, the defendant was initially released on conditional bail pending return of electronic examination reports. The conditions included a curfew between 10pm and 6am enforced by electronic monitoring, restrictions on internet access, and a prohibition on contacting certain individuals associated with known extremist entities. The enforcement of these bail conditions was, according to police reporting, robust and consistent, with one minor breach recorded due to a misunderstanding attributed to a software malfunction; this was promptly rectified and did not result in bail revocation.
+
+Discussions of the case’s procedural history cannot omit that the defendant initially entered pleas of not guilty at the first hearing on 25 June 2025. Those pleas were maintained until the commencement of the preparatory hearing on 29 August 2025, at which point Mr H altered his pleas to guilty on both counts. The timing of these pleas, very close to the trial date and after comprehensive disclosure by the Crown, limits the credit to be accorded. The court refers to the guiding principles in R v. Allsopp [2019] EWCA Crim 1824, which caution that credit for guilty pleas is to be moderated where the change of plea occurs late and after sustained denial.
+
+It is pertinent to recall that in R v. Hills [2021] EWCA Crim 422, the Court of Appeal emphasised the importance of early pleas—not merely as an administrative convenience but as an act reflecting genuine acceptance of responsibility and a recognition of victims' interests. This principle has been reiterated in more recent authority including R v. Courtney [2023] EWCA Crim 745, underscoring that pleas secured only after exhaustive prosecution preparation — although not precluded from attracting credit — require careful judicial scrutiny regarding the extent of mitigation.
+
+Consideration must be given to the fact that the defendant’s early engagement with statutory and voluntary intervention programmes was limited. A Prevent referral had been initiated in March 2022 following concerns raised by a community centre worker regarding Mr H’s attendance at workshops characterised by divisive and exclusionary rhetoric. Despite invitations to participate in tailored cognitive behavioural therapy focusing on grievance-based extremism, engagement was minimal and erratic. The Caldicott Centre for Counter Extremism reports indicate that multiple outreach attempts were made but thwarted by inconsistent attendance and withdrawal of consent to participate.
+
+{INSERT_FACT_SNIPPET_2}
+
+The Crown relied extensively on digital evidence annexed to the indictment, including logs from encrypted messaging applications, which revealed exchanges advocating the construction of improvised explosive devices and expressed clear animus towards defined target populations. Evidence also included intercepted transactions in online cryptocurrency wallets, traceable despite obfuscation attempts, revealing procurement of dual-use chemicals.
+
+It is worth mentioning that a victim liaison officer assigned to this case has reported the composed and dignified demeanour of those affected by Mr H’s actions—principally transit workers and community representatives who were, unbeknownst to them, the potential target of Mr H’s planned attack. Their testimony at the subsequent trial was earnest in detail and conveyed a measured approach to trauma, aided by local victim support services funded through the Restorative Justice Trust.
+
+{INSERT_FACT_SNIPPET_3}
+
+A point of procedural interest is the administrative difficulties encountered around Legal Aid for this matter. Initial applications for funding for the defence to instruct an independent psychiatric expert were met with protracted delay by the Legal Aid Agency. This caused brief but significant postponements and threatened the cumulative defence preparation timetable. The court elsewhere has heard of similar systemic shortcomings, leading to the Criminal Bar Association’s recent advocacy for reform to expedite the payment and approval process in terrorism-related cases.
+
+Background inquiry into the defendant reveals a mixed employment record prior to the instant offending, with periods of stable work interspersed with intervals of unemployment. Letters submitted in mitigation from former employers and community groups highlight Mr H’s punctuality and dedication at prior posts within warehousing and logistics sectors. These attestations, while material to character, cannot obscure the gravity of the offence conduct.
+
+{INSERT_FACT_SNIPPET_4}
+
+On a related note, the court received submissions drawing attention to the pressures on public services amidst an increase in “non-serious” crime that strains policing and probation resources. Officers involved in routine territorial policing, already contending with rising incidents of antisocial behaviour, report that the workload associated with cases such as this—complex, resource intensive, and requiring multi-agency cooperation—diverts attention from other public safety priorities.
+
+Also noteworthy from a jurisprudential perspective is the established principle, reiterated in cases such as R v. Malloran [2018] EWCA Crim 1993, that the presence of psychiatric diagnoses—while relevant to mitigation—does not preclude a custodial term where the risk to the public is pronounced. This framework informs the weighing of the present psychological assessments.
+
+{INSERT_FACT_SNIPPET_5}
+
+The probation service has prepared a comprehensive assessment report, carefully detailing the defendant’s social history, cognitive profile, and potential for rehabilitation. The report references concerns about Mr H’s proneness to all-or-nothing thinking, limited circle of associations, and occasional signs of substance misuse, none of which on their own provide an excuse but contextualise the behavioural patterns.
+
+Moreover, it is observed that the integration of multi-agency public protection arrangements (MAPPA) into the management of terrorism-related offenders remains an evolving process. While some coordination across agencies—police, probation, mental health providers—has proven effective in monitoring, there remain challenges relating to information flow and consistency of post-release supervision.
+
+{INSERT_FACT_SNIPPET_6}
+
+The defendant has no previous convictions related to terrorism, or any other offence to which primary attention might be drawn for sentencing purposes. There is reference in the disclosure to a 2016 incident involving a co-defendant who was linked to an affray at a local sports venue, but Mr H was not charged or implicated in that event.
+
+In relation to mental health, a report from Dr Nathaniel Fielder, consultant forensic psychiatrist, indicates that while no formal diagnosis of psychosis or personality disorder is established, Mr H exhibits cognitive rigidity and an intolerance of ambiguity underpinning ideological extremism. The report stresses the potential benefit of structured disengagement programmes but notes the high attrition rate among similar offenders.
+
+{INSERT_FACT_SNIPPET_7}
+
+At this juncture, the issue of sentencing guidelines requires explication. The Sentencing Council’s definitive Terrorism Offences Guidelines, updated in 2023, set out a gradation of culpability and harm reflecting factors including the degree of planning sophistication, access to weapons or hazardous materials, and potential for harm to life. Mr H’s offending, as the court sees it, falls into the higher culpability category due to the preparatory nature and explicit potential for widespread harm.
+
+Historical sentencing precedents in the Crown Court confirm that extended sentences, often involving tariff periods surpassing standard determinate norms, are appropriate for those engaged in conduct preparatory to terrorism, even in the absence of physical harm. The principle of deterrence, both specific and general, weighs heavily, as affirmed in R v. Kersington [2017] EWCA Crim 2150.
+
+{INSERT_FACT_SNIPPET_8}
+
+The court is mindful of the risk posed by the defendant’s ideological fixation continuing beyond custody, a difficulty compounded by the challenges inherent to effective post-release supervision. Further consideration will be given to the feasibility of imposing a Terrorism Prevention and Investigation Measures (TPIMs) order, including ongoing electronic monitoring and limits on association.
+
+Before concluding, it may be instructive to note that this court extends its appreciation to the officers specialising in digital forensic investigation, whose painstaking work often requires analysis of enormous data sets, sometimes at the expense of personal time and well-being. The demands on such units are significant and under-resourced.
+
+Moreover, the court acknowledges the dedication of the victim liaison team in balancing victims’ rights with support needs, a task made all the more complex in cases with abstract or potential victimhood rather than direct physical harm.
+
+This sentencing hearing has been conducted in open court. The legal representation for the Crown has been ably provided by Ms Sally Lomax, who conducted her submissions with clarity and professionalism. Mr H has

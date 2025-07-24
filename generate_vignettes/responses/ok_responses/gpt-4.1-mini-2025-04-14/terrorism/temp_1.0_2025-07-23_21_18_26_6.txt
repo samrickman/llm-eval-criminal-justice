@@ -1,0 +1,83 @@
+IN THE CROWN COURT AT EDINBURGH  
+R v. Mr H  
+Case No. E2025/19834  
+Sentencing Remarks – His Honour Judge P. V. STANFORD  
+Filed: 17 September 2025
+
+Mr H appears before the court for sentence on multiple charges under the Terrorism Act 2006, namely engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) and possession of an article for a purpose connected with the commission of terrorism under section 57 of the Terrorism Act 2000. The conduct spans the period from September 2022 to his arrest in January 2025.
+
+The defendant’s initial apprehension took place on 14 January 2025 following the execution of warrants at his flat in the Tollcross district of Edinburgh. The warrants, authorised pursuant to section 43B of the Terrorism Act 2000, were the culmination of a coordinated multi-agency investigation involving Counter Terrorism Policing Scotland, the National Cybercrime Unit, and the Scottish Intelligence Service. The investigative focus initially arose from intercepted online communications flagged by the Security Service’s specialist linguistic unit, indicating contacts between accounts linked to Mr H and a known overseas entity proscribed under Schedule 2 of the 2000 Act.
+
+{INSERT_FACT_SNIPPET_1}
+
+The arrest was notably preceded by six months of covert surveillance involving technical penetration teams analysing encrypted messaging platforms and pattern-of-life monitoring. The resources dedicated to this investigation were substantial. It must be observed here that such operations are not cost-neutral; they typically require deployment of both human resources and advanced forensic capabilities that impose strains on the already stretched counter-terrorism apparatus. The document sentiently records that the National Cybercrime Unit was at 95% of its operational capacity during this period, impacted by concurrent investigations relating to hostile state-sponsored cyber intrusion detected in Glasgow and Aberdeen.
+
+The court is conscious that the trial processes in such complex cases must accommodate the particular challenges attendant on balancing open justice and national security. Proceedings have been sensitive to these considerations, including the adoption of heavily redacted disclosure schedules, alongside a closed material procedure as permitted under the Justice and Security Act 2013.
+
+It is, regrettably, a marked feature of such cases that the accused frequently delay pleas of guilt until the later stages of proceedings. Here, Mr H maintained a not guilty plea until the day of sentencing, despite extensive expert and downloaded digital evidence presented at trial.
+
+The principle governing the granting of credit for guilty pleas remains well-established. Credit is reserved for timely admissions which demonstrably curtail proceedings and spare witnesses the rigour of cross-examination. The Court of Appeal decisions in R v Taylor [2022] EWCA Crim 1243 and R v Abdel-Karim [2023] EWCA Crim 975 reaffirm the necessity of considering the plea’s timing and the benefits realised. This principle is applied strictly in terrorism cases, given the exceptional gravity of the offending and the public interest in deterrence. In the present case, the defendant’s late plea necessarily restricts credit to a minimal allowance.
+
+Whilst the modern approach to sentencing prioritises rehabilitation alongside punishment, the particular risks inherent in terrorist offending require a finely calibrated application of custodial sanctions in order to serve deterrence, retribution, and public protection objectives. The sentencing guidelines issued by the Sentencing Council in March 2023 on terrorism offences set a framework within which courts calibrate the gravity and culpability of offending, assessing factors including sophistication, scale, and actual or potential harm.
+
+{INSERT_FACT_SNIPPET_2}
+
+The defendant maintained an online presence under various pseudonyms through which he disseminated ideological material referencing and amplifying extremist propaganda. The court received expert linguistic analysis indicatively linking key phrases and rhetoric to those commonly espoused in online propaganda produced by a proscribed organisation. While a certain latitude for political expression is recognised, where such material is intended to encourage or facilitate violent action it ceases to be protected speech and enters criminal territory.
+
+{INSERT_FACT_SNIPPET_3}
+
+Analysis of forensic digital evidence yielded a large volume of encrypted files, some of which contained detailed manuals and instructional videos purporting to guide the manufacture of explosive devices and the deployment of incendiary devices. The defence argued these represented innocent hobbyist interest or academic research in chemistry and pyrotechnics; the court finds such explanations wholly implausible in light of contextual evidence.
+
+Mr H’s possession of related chemical precursors and apparatus, including balances, sealed containers, and packaging equipment, were seized during the search warrants. Although some items could be used for licit purposes, the volume and manner of storage and concealment, together with specialist chemical analysis, confirmed their intended use in the preparation of devices capable of causing serious injury and loss of life.
+
+The court notes here, parenthetically, unrelated local news reports concerning a recent series of graffiti incidents targeting public transport infrastructure within Edinburgh city centre over the summer months of 2024. While these acts may, on a superficial reading, reflect public disorder, the court deems them irrelevant to the present circumstances or the defendant’s conduct in any capacity.
+
+{INSERT_FACT_SNIPPET_4}
+
+The trial process heard, too, of Mr H’s efforts to procure restricted precursor substances via Internet-based vendors utilising cryptocurrencies. Transactions were traced using blockchain forensic tools to wallets linked to the defendant. Such activity highlights the increasingly intricate methods by which modern offenders seek to mask their involvement in illicit networks. The court draws attention to the observations made recently in R v. Muhammad [2024] EWCA Crim 879 concerning cryptocurrency’s role in sophisticated criminal enterprises, noting the judiciary’s clear condemnation of its use for terror-related activities.
+
+Despite the evident magnitude of the investigation and the consequential evidential complexity, no charge relating to co-defendants or associates has been brought in this matter. The court is reminded that prosecutions invariably must proceed on the evidence specific to the accused and no person should be prejudged by association.
+
+Background references to cases such as R v. Anderson [2020] EWCA Crim 665 concerning armed robbery, or R v. Halliday [2019] EWCA Crim 593 addressing fly-tipping offences, while noted by counsel in submissions relating to the breadth of sentencing discretion, bear no real relevance here and serve only to clutter the determination of culpability in this distinct domain.
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant’s movements included a trip to the Netherlands in July 2023 under the pretence of language study. His itinerary, however, included visits to locations linked with extremist recruiters, and correspondences recovered from encrypted devices suggest communications designed to facilitate collaboration with persons abroad. Although the trip was truncated owing to the cancellation of a connecting flight, it is clear that the defendant harboured an intent inconsistent with benign tourism or casual interest.
+
+The role of multi-agency coordination in this case is a salient feature. The participation of the Scottish Fire and Rescue Service’s hazardous materials unit was vital in the assessment of the risk posed by the defendant’s stockpiles. Their expert reports, careful risk mapping, and operational advice contributed materially to safeguarding practitioners’ understanding of the logistical and explosive threats.
+
+As the court is aware, the Probation Service continues to face unprecedented challenges in personnel retention and case backlogs. Such pressures inevitably affect the timeliness of pre-sentence reports, which remain essential in affording the court a nuanced appreciation of the individual risk profile and rehabilitative prospects. The delays in report submission in this case regrettably reflect these systemic issues but have not compromised the court’s ability to proceed.
+
+The efforts of voluntary sector organisations, including the East Lothian Social Inclusion Network, in supporting those with ideological risk factors merit recognition. Though their remit is not specialised counter-extremism, their holistic approach contributes to community resilience and social cohesion, factors which underpin long-term desistance.
+
+{INSERT_FACT_SNIPPET_6}
+
+Forensic accounting traced cryptocurrency transactions totalling £3,650 sent from an account controlled by the defendant to vendors linked to dual-use equipment suppliers. Whilst some payments corresponded with technical laboratory apparatus, others were flagged as concerning given the material’s potential explosive applications. Such blending of legitimate and illicit procurement is emblematic of contemporary terrorist preparation and represents a predatory sophistication.
+
+In addition to the substantial forensic digital demands encountered by law enforcement, civilian and specialist police cyber units reported record caseload increases during the period, stretching resources against parallel spikes in cyber-enabled fraud and online child exploitation investigations. This case, therefore, unfolded in an environment of acute operational tension and systemic resource constraint.
+
+The Personal Circumstances Report compiled by the Probation Service, to which the court will attend in the sentencing phase, outlines Mr H’s background as a university graduate in materials engineering with a previously unblemished criminal record. Counsel for the defence has submitted character references from former colleagues highlighting his early professional promise and noted volunteer activities including participation in urban conservation efforts overseen by the Edinburgh Parks Trust.
+
+{INSERT_FACT_SNIPPET_7}
+
+Psychiatric assessment by Dr Fiona Carter, consultant forensic psychiatrist, diagnosed no formal mental disorder but identified significant traits including dogmatic and inflexible thinking patterns, accompanied by a tendency to social isolation and harbouring grievance narratives. Dr Carter’s report stresses the persistent risk posed by unresolved extremist ideological commitment without structured intervention and restricted environmental exposure.
+
+The court acknowledges defence submissions positing the potential benefits of engagement with programmes such as the Structured De-radicalisation and Social Reintegration Scheme (SDSRS). Notwithstanding, the efficacy of such programmes remains situationally dependent and should not be considered a panacea. Recidivism rates, according to recent Home Office data, remain non-negligible, particularly when offender cooperation is partial or sporadic.
+
+Correspondence from the Scottish Muslim Youth Forum, submitted on Mr H’s behalf, urges cautious sentencing mindful of community cohesion and the risks of alienation. The court recognises such concerns as worthy of consideration; yet the paramount duty remains the safeguarding of the public and the maintenance of the rule of law.
+
+{INSERT_FACT_SNIPPET_8}
+
+As a composite, the offending demonstrated a high degree of planning, ideological dedication, and operational intent, warranting a sentence at the higher end of the sentencing spectrum. Mitigating factors are scant, limited to Mr H’s lack of previous convictions and the formal plea tendered albeit late.
+
+All parties are once again thanked for their thorough and professional conduct of this matter. Counsel appearing for the Crown, Miss Evelyn Forth, has provided clear and concise submissions. Defence counsel, Mr Andrew Gold, has navigated significant disclosure and procedural burdens with commendable dedication despite evident administrative constraints.
+
+The court records regret the ongoing delays faced within the Legal Aid framework, which continue to impede the timely and efficient procurement of specialist expert reports. This phenomenon burdens both defendants and the court and requires urgent systemic attention.
+
+This sentencing hearing has been conducted with due regard to the overriding objective of the Criminal Procedure Rules—to deal with cases justly and proportionately. The layout and technology within Court 5, recently refurbished to national accessibility standards, have facilitated an effective and dignified forum for the administration of justice.
+
+The court reserves final sentence pending receipt of the comprehensive pre-sentence report from the Probation Service, which should address the appropriateness of custodial and post-custody requirements including potential Extended Determinate Sentence provisions and risk management strategies such as electronic monitoring and licence conditions.
+
+A formal transcript has been recorded pursuant to Criminal Procedure Rules Part 5 and will be appended to the court record. The defendant is reminded of his right to appeal within 28 days under the Magistrates’ Courts Act 1980 and the Criminal Appeal Act 1968.
+
+These are the orders of the court.

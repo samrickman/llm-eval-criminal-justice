@@ -1,0 +1,71 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/27945  
+Sentencing Remarks – His Honour Judge S. L. HARTWELL  
+Filed: 16 September 2025  
+
+Mr H appears before this court today for sentence having been convicted on indictment of two counts: first, engaging in conduct in preparation for acts of terrorism, contrary to section 5(1)(a) of the Terrorism Act 2006; and second, possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The offences, as found by the jury, are said to have taken place during the period from July 2023 until the defendant’s apprehension on 18 January 2025.
+
+Prior to addressing the offending conduct, it is appropriate to set out the procedural history of the case. The indictment was served on 5 February 2025, following an extensive investigative process carried out by Counter Terrorism Policing South West (CTPSW) in close coordination with the National Cyber Crime Unit (NCCU) and the Intelligence Corps Cyber Unit of the British Army. The defendant was remanded in custody at first appearance. The matter has passed through the usual stages: plea and case management hearings on 15 May and 12 June 2025 respectively; full service of prosecution disclosure in multiple tranches; and pre-trial directions hearings, including one on 10 July which led to the granting of a number of contested rulings regarding digital material.
+
+The defence was represented at all stages by Mr Alistair Greenwood, instructed under a legal aid certificate subject to the usual budgetary constraints imposed by the Legal Aid Agency. Of note, in this instance, was a significant delay caused by the need to obtain additional funding to instruct an independent forensic IT expert — a delay which ultimately compressed otherwise more generous timeframes for the preparation of written submissions on sensitive technical issues. The court would observe in passing that, despite the acknowledged financial risks associated with litigating terrorism offences, the Legal Aid system remains heavily overburdened, leading to procedural inefficiencies which, while not prejudicing the defendant here, place an intolerable strain on the effective administration of justice.
+
+The court notes with regret the ongoing pressures facing both local authority safeguarding units and community support organisations tasked with monitoring individuals at risk of radicalisation. The defendant had been known to the Bristol Prevent team since late 2021 after a referral made by a university lecturer. The referral cited expressions of increasingly hostile and violent rhetoric in social media postings attributable to him, coupled with a rapid withdrawal from academic and social circles. The panel at that time opted not to proceed beyond initial contact, citing insufficient evidence of imminent risk. This instance is a sobering illustration of the constant tension between civil liberties and public safety faced by practitioners in the far-reaching realm of counter-terrorism.
+
+The defendant was arrested on 18 January 2025 at 07:30 hours at his domicile in the Lawrence Hill district, pursuant to a warrant issued under section 43B of the Terrorism Act 2000. The warrant followed receipt of a substantial body of material derived from covert human intelligence sources and signals intelligence (SIGINT), which indicated Mr H’s possession of multiple items identified as being capable of use in the construction of explosive devices, together with communications suggesting intent to cause serious harm in furtherance of a radicalised ideological agenda. The subsequent search yielded a number of electronic devices, including encrypted hardware wallets, and components associated with the manufacture of pyrotechnics.
+
+{INSERT_FACT_SNIPPET_1}
+
+The police investigation was particularly complex, involving meticulous pattern-of-life analysis secured through cross-referencing of public transport journeys, network cache data, and the defendant’s internet service provider records. These were supplemented by telecommunications metadata, material that in combination enabled investigators to draw a comprehensive picture of Mr H’s activities over an eighteen-month period. The intricacy of such operations necessarily entails a significant commitment of resources and specialized skill sets at a time when CTPSW is contending with ever-increasing operational demands across multiple threat vectors.
+
+In the course of the trial, the court heard testimony from a number of expert witnesses. Among them was Detective Chief Inspector Laura Manson, a specialist in terrorism-related financial investigations from the National Crime Agency. She detailed the tracing of cryptocurrency transactions associated with Mr H, involving multiple anonymizing services designed to obfuscate fund flows. Such financial mechanisms, while increasingly common in illicit enterprise, pose formidable challenges to law enforcement, heightening the risk profile of identified suspects. The defendant, through his electronic footprint, manifested a clear intent to fund activities preparatory to violent action.
+
+The court also considered extensive forensic reports prepared by Dr Martin Kilpatrick, a consultant forensic psychologist from the West of England Secure Unit. Dr Kilpatrick’s assessments, conducted over two sessions in the course of August and September 2025, comprehensively examined the defendant’s psychological profile, ideological motivations, and potential risk factors related to recidivism following release. His report was both detailed and professionally composed, providing significant insight into the cognitive mechanisms underpinning Mr H’s actions, though it ultimately concluded that he did not suffer from any diagnosable mental illness capable of displacing criminal responsibility.
+
+Prior to the trial, a sentencing hearing was initially listed for 22 September 2025. That date was vacated due to the sudden unavailability of a key specialist prosecutor. Such unavoidable adjournments demonstrate the fragility of the crowded criminal court timetable and the frequent necessity of re-listing matters to accommodate essential personnel absences. The court further acknowledges the exceptional patience exhibited by victims and witnesses in this case, some of whom have remained engaged with the prosecuting authorities over a period exceeding one year.
+
+{INSERT_FACT_SNIPPET_2}
+
+Regarding the defendant’s digital activities, it was established that Mr H had operated several encrypted communication accounts under various pseudonyms. Linguistic experts testified to the discernible influence of extremist propaganda, including verbatim excerpts from proscribed group literature. The presence of these materials demanded particular attention under the Terrorism Act’s provisions dealing with publication and dissemination, though no direct count pertaining to dissemination was laid in this indictment.
+
+{INSERT_FACT_SNIPPET_3}
+
+In addition to electronic documentation, the prosecution presented evidence relating to physical components found in the defendant’s possession. These included items commonly used in the assembly of improvised explosive devices, such as pressure sensors, end caps, and wires suitable for remote detonation. This variety of material underlines the seriousness of the preparatory acts and ratifies the classification of the conduct within the upper bands of culpability as contemplated in the Sentencing Council’s guidelines.
+
+{INSERT_FACT_SNIPPET_4}
+
+Although it was suggested by defence counsel that some items might be incidental to personal hobbyist pursuits, no credible benign explanation accounted for their combination or the context in which they were stored. The court finds the submission unpersuasive in light of the totality of the evidence.
+
+Among non-violent ancillary offences referenced in prosecution material but unrelated to the present defendant’s conduct, certain co-accused were implicated in offences including aggravated burglary of a private dwelling in the Westbury area, fly-tipping of waste on greenbelt land, and minor criminal damage to public transport infrastructure. None of these acts are attributable to Mr H and the court expressly excludes them from consideration in relation to his personal culpability or risk assessment.
+
+The court also notes the recent case of R v. Langford [2024] EWCA Crim 3087, which dealt with issues surrounding the appropriate assessment of credit for guilty plea timing in terrorism cases. The Court of Appeal reiterated the need for sentencing courts to distinguish between pleas entered at the earliest opportunity and those prompted by incontrovertible evidential collapse, cautioning against undue generosity where tactical delay prevails.
+
+{INSERT_FACT_SNIPPET_5}
+
+The defendant’s travels came under scrutiny during the trial, including a visit to Brussels in January 2024. The Crown’s evidence linked this journey to attendance at a conference of like-minded individuals espousing radical ideology. Details emerged, however, that Mr H spent a substantial portion of the trip engaged in unrelated tourism and cultural visits. While clearly not exculpatory, these facts contribute nuance to the understanding of the defendant’s activities beyond the narrow focus of extremist conduct.
+
+Equally tangential but procedurally relevant was a series of correspondence disclosed in court from the Southmead Community Homelessness and Support Network. Though unrelated to the defendant’s criminal conduct, these letters attest to the fragile housing circumstances experienced by many in Bristol during the period covering 2022 to 2024 and illustrate the socio-economic pressures facing those living in deprived urban areas.
+
+In line with the pattern observed in recent years, delays were imposed by the volume of digital material, necessitating collaboration between CTPSW and the Local Computer Forensics Laboratory, which is currently experiencing a backlog of over 800 cases. This backlog is attributable in part to increased demand for forensic analysis of encrypted messaging applications and the proliferation of end-to-end encryption protocols resistant to conventional investigative methods.
+
+{INSERT_FACT_SNIPPET_6}
+
+The Crown called the testimony of ACPO financial crime lead Detective Inspector Simon Crowley, who detailed the tracing of substantial bitcoin payments originating from an anonymous mixing service to wallets linked to technical manuals on explosive manufacture. The defendant’s user handles were firmly associated with these transactions following painstaking cross-channel analysis.
+
+The court is cognisant that cryptocurrency’s role in facilitating obscured financial flows represents a considerable modern frontier in counter-terrorism enforcement. While this nascent technology has laudable applications in sovereignty and privacy, its unregulated borderless nature renders it vulnerable to exploitation by those seeking to circumvent traditional financial oversight and accountability mechanisms.
+
+In a more mundane but relatable context, evidence emerged during the trial that Mr H was issued a plurality of fixed penalties for minor traffic infractions unrelated to the offences charged herein. These included two separate speeding fines in 2021 and 2022 and a parking contravention near Bristol Temple Meads railway station. Such infractions, while not trivial, bear no direct connection to the matters at hand.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to the defendant’s personal circumstances, Mr H is currently 30 years old. He holds an upper-second-class honours degree in software engineering obtained in 2018 from the University of Bath. His employment history includes a brief tenure at a regional IT consultancy until 2021, followed by a period of self-employment engaged in freelance software development. Character references submitted during pre-trial proceedings, including one from a former employer dated 20 March 2025, describe him as “technically proficient, dependable, and respectful” though note an increasing withdrawal from social interaction in the months leading up to arrest.
+
+From available records, Mr H’s family background is unremarkable. Letters of support were filed on his behalf from a former schoolteacher and a neighbour, who both noted his courtesy and occasional volunteer work with local youth groups. While such information is provided in mitigation, the court is reminded that humanitarian acts must be balanced against the gravity of unlawful conduct in the counter-terrorism context.
+
+The case attracted the attention of several advocacy groups specialising in rehabilitation and resettlement, including Vision for Peace UK, which submitted a detailed briefing advocating for structured community-based interventions aligned with the Desistance and Disengagement Framework. The court welcomes the involvement of such organisations; nonetheless, it must weigh public protection as paramount.
+
+The probation service has produced a pre-sentence report, dated 9 September 2025, which offers a comprehensive analysis of the defendant’s risk and needs profile. The report highlights Mr H’s limited history of offending, articulates concerns regarding his entrenched ideological beliefs, and recommends consideration of post-custodial supervision through MAPPA regime Category 3 in recognition of residual public risk.
+
+{INSERT_FACT_SNIPPET_8}
+
+Dr Eleanor Mathers, consultant forensic psychologist, endorsed the risk classification and observed that Mr H exhibits a “notable propensity for cognitive inflexibility coupled with a high degree of ideological commitment,” though assessed as lacking any diagnosable psychosis or personality disorder. The

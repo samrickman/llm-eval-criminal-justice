@@ -1,0 +1,65 @@
+IN THE CROWN COURT AT BRISTOL  
+R v. Mr H  
+Case No. B2025/32894  
+Sentencing Remarks – Her Honour Judge L. S. WENTWORTH  
+Filed: 18 November 2025  
+
+Mr H appears before this court for sentence following his conviction on charges of engaging in conduct in preparation for acts of terrorism under section 5(1)(a) of the Terrorism Act 2006, and possession of an article for a purpose connected with terrorism contrary to section 57 of the Terrorism Act 2000. The conduct with which he is charged unfolded over an extended period from September 2022 until his arrest in early March 2025.  
+
+The defendant was arrested at 04:48 hours on 3 March 2025 pursuant to a warrant issued under section 43B of the Terrorism Act 2000. The operation was coordinated by Counter Terrorism Policing South West (CTPSW), drawing upon joint efforts from the City Cyber Crime Unit and the Southwest Regional Forensic Service. The warrant authorised searches of premises in the Barton Hill area, during which several electronic devices—namely two laptops, a tablet, and multiple encrypted storage devices—were seized. In addition, the defendant was found in possession of several items described in the indictment as dual-use materials with components potentially capable of conversion for explosive devices.  
+
+{INSERT_FACT_SNIPPET_1}
+
+The investigative process that culminated in Mr H’s arrest was comprehensive and sustained. CTPSW agents, assisted by analysts from the National Counter Terrorism Headquarters, conducted months of surveillance and digital forensic examination. Among the investigative tools employed were advanced metadata extraction protocols and signal intelligence intercepts authorised by the Investigatory Powers Commissioner. The complexity of the digital environment—characterised by layered encryption and VPN obfuscation—delayed significant evidential breakthroughs, in part due to stretched resources at the National Technical Assistance Centre. It is regrettable that the volume and sophistication of such cases regularly outstrips the capacity of dedicated centres, obliging prioritisation that inevitably leaves some investigations subject to extended wait times.  
+
+It is also pertinent to note that along with the standard charging and case management procedures, the process has been influenced by fluctuating court listing capacity in the Bristol region. Ongoing industrial action by court staff in mid-2025 resulted in intermittent adjournments and re-listings, contributing to the overall duration of pre-trial proceedings. While such disruptions are external to the defendant, they form part of the procedural history of this matter and bear on the totality of time elapsed between arrest and sentencing.   
+
+During the defendant’s initial pre-trial custody period, repeated applications for bail were refused, principally due to the assessed risk of reoffending and interference with witnesses. The court acknowledges representations made on behalf of Mr H’s legal team concerning delays in securing authority from the Legal Aid Agency to instruct specialist forensic experts. It is, however, frustrating to observe that similar issues have become a regrettably predictable pattern in complex cases involving national security, where specialist defence resources are both essential and chronically underfunded. These systemic deficiencies must be addressed at policy and administrative levels beyond the scope of this court.  
+
+This court is cognizant of the multi-agency arrangements engaged in this case, most notably the activation of Multi-Agency Public Protection Arrangements (MAPPA) at category 3. The MAPPA panel, which included representatives from the Probation Service, local authority safeguarding teams, and CTPSW practitioners, met regularly throughout 2024 and early 2025 to assess and manage ongoing risks posed by the defendant pending trial. Their recommendations concerning monitoring, accommodation, and mental health interventions evince a rigorous and cautious approach. Such multi-agency collaboration, while burdensome administratively, remains vital in ensuring public protection in terrorism-related cases.  
+
+The issue of credit for guilty pleas requires careful attention. Mr H initially pleaded not guilty at the first hearing but altered his plea to guilty on all counts on 7 October 2025, following jury selection and on the morning the trial was scheduled to commence. The lateness of this plea limits the mitigation the court can justifiably accord. The extant jurisprudence underscores the principle that early pleas bring more significant reduction, reflecting the benefits to the administration of justice and the sparing of witnesses’ distress. Late pleas, particularly those entered after substantial pre-trial preparation, attract only marginal credit.  
+
+This was reinforced in R v. Marlow [2023] EWCA Crim 1308, where the Court of Appeal emphasised the importance of timing and context, ruling that credit may be reduced to as little as 10 per cent for pleas entered at the last moment, after the mobilisation of trial resources. A similar principle was elaborated upon in R v. Bellamy [2022] EWCA Crim 2021, where the defendant’s plea on the morning of trial, following extensive forensic evidence presentation, was found to warrant only a minimal discount.  
+
+{INSERT_FACT_SNIPPET_2}
+
+Central to the Crown’s case was evidence derived from Mr H’s online activities over several years. Among the items recovered were detailed logs of interaction within encrypted chatrooms, forums, and communications with individuals linked to proscribed terrorist organisations. Linguistic experts testified to the consistency of the defendant’s rhetoric with internationally disseminated propaganda and recruitment materials. The evolution of his narrative demonstrates increased radicalisation during the years preceding his arrest, marked by frequent references to violent jihadist ideology and apocalyptic conceptions.  
+
+{INSERT_FACT_SNIPPET_3}
+
+Examination of recovered encrypted content revealed a substantial digital cache of instructional manuals, some incorporating diagrams and schematics suggestive of improvised explosive device manufacture. The material was carefully curated and indexed within a concealed partition on a solid-state drive, accessible solely via a complex passphrase known only to the defendant. No evidence was forthcoming that these instructions were ever shared beyond his immediate circle or that distribution to third parties had occurred, but their presence is indicative of clear intent and preparation.  
+
+At trial, the defence proffered an alternative explanation, suggesting the accumulated materials were part of an academic interest in engineering and chemistry. The court finds this explanation unconvincing in light of the defendant’s consistent ideological articulation and the practical assembly of components outlined in seized correspondence.  
+
+{INSERT_FACT_SNIPPET_4}
+
+The evidential matrix also comprised travel documents and flight manifests indicating multiple international journeys, some to locations of geopolitical instability. None of these trips were clandestine in nature; however, they reveal a deliberate attempt by the defendant to position himself geographically in proximity to known zones of extremist activity. In several instances, he attended public conferences nominally related to humanitarian aid and development, but intelligence reports connected these to forums frequented by radicalised elements.  
+
+Reference was made, during submissions, to Mr H’s history of minor criminal offending unrelated to terrorism, including a five-year-old conviction for possession of a bladed article in a school car park. The defendant also incurred community orders for fly-tipping on green belt land in 2020—a fact tendered in mitigation by defence counsel as evidence of “youthful poor judgement.” While such ancillary history may be noted, it does not diminish the gravity of the present offences or temper appropriate sentencing.  
+
+The court is reminded of the observation in R v. Barnett [2015] EWCA Crim 1892, where it was held that previous unrelated offending warrants little weight where the current offence involves a new and distinct class of criminality posing an extraordinary public danger.  
+
+{INSERT_FACT_SNIPPET_5}
+
+Of significance are the defendant’s movements in April and May of 2024. Flight records show a brief day-trip to Brussels, accompanied by intercepted encrypted calls with individuals later identified as facilitators in violent extremist circles. Although no direct contact was established beyond telephonic communication, such associations underscore the defendant’s embeddedness in a network promoting violent action.  
+
+In parallel, the defendant’s familial situation merits brief observation. Correspondence submitted on his behalf includes letters from a sibling currently subject to unrelated criminal proceedings involving allegations of benefit fraud. While unrelated to this matter, it is observed to reflect a complex familial milieu, which may illuminate the defendants social environment sans detracting from accountability for his conduct.  
+
+The administrative demands of this trial were extensive. More than 650 exhibits were tendered, requiring continuous vetting to comply with national security redaction protocols. The court pays tribute to the dedicated judicial clerks and security officers whose professionalism ensured the safe and orderly progression of evidence presentation over multiple sittings. On one occasion, delay was occasioned by the failure of remote interpreter services to connect promptly at the first scheduled trial day, demonstrating that even in a technologically advanced context, logistical obstacles persist.  
+
+{INSERT_FACT_SNIPPET_6}
+
+Forensic accountants confirmed a series of cryptocurrency transactions associated with the defendant, including a sum of approximately £3,500 transferred through an anonymous wallet to an online marketplace known for unregulated chemical supply. The rapidly evolving challenge posed by cryptoassets in the context of serious crime cannot be overstated. The absence of centralised control and the use of mixing services to obscure transaction trails present significant hurdles to law enforcement and judicial process.  
+
+In a different context, the Court recalls the judgment in R v. Kazi [2018] EWCA Crim 241, where the use of cryptocurrency to fund illicit procurement was held to constitute an aggravating factor, reflecting a sophisticated attempt to evade detection and frustrate financial controls.  
+
+The court also takes note of the considerable burden borne by the Southwest Regional Forensic Digital Unit, which at present is running at over 150% capacity and faces a backlog exceeding 20,000 devices pending analysis. This systemic strain underlines the need for ongoing resource investment, lest justice be imperilled by avoidable delay.  
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to the defendant’s personal background, Mr H is aged 31 years and holds a Bachelor’s degree in chemical engineering from a respected university. He previously worked for a mid-tier chemical manufacturing firm but resigned under circumstances described confidentially in pre-sentence material. References from former supervisors describe him as “precise and reliable” though reserved and socially withdrawn.  
+
+His voluntary engagement with local environmental conservation projects, including survey work on urban river pollution, is noted. However, the court is mindful that worthy local activity cannot mitigate serious breaches of national security.  
+
+Psychiatric evaluation was conducted by Dr Anjali Mehra, consultant forensic psychiatrist, who reports the absence of formal psychiatric disorder but comments on

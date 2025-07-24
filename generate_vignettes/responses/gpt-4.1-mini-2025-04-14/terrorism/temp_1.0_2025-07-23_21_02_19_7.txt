@@ -1,0 +1,69 @@
+IN THE CROWN COURT OF BIRMINGHAM  
+R v. Mr H  
+Case No. B2025/31289  
+Sentencing Remarks – His Honour Judge Llewellyn R. FARNWORTH  
+Filed: 18 October 2025
+
+Mr H appears for sentence before this court having been convicted by jury verdict of one count of engaging in conduct in preparation for acts of terrorism contrary to section 5(1)(a) of the Terrorism Act 2006 and one count of possession of an article for a purpose connected with the commission of terrorism, contrary to section 57 of the Terrorism Act 2000. The conduct under consideration occurred over a period spanning April 2023 to his arrest in January 2025.
+
+The proceedings in this matter have unfolded against a backdrop of significant operational and administrative complexity not uncharacteristic of modern terrorism prosecutions. The case was initially listed at the Birmingham Crown Court on 25 March 2025, although ultimately a series of adjournments followed, owing primarily to the complexities of disclosure and the late provision of expert psychiatric material. The case has been tried before a appropriately empanelled jury and this court records its gratitude for their measured attention to detail and steadfast commitment to their civic duty.
+
+The defendant was first identified through extensive surveillance operations conducted by Counter Terrorism Policing West Midlands (CTPWM). Those operations included the deployment of covert human intelligence sources, signals intercept, and close cooperation with the National Cyber Crime Unit. The arrest was effected on the morning of 14 January 2025 at a residential address in Edgbaston, following execution of a search warrant granted pursuant to section 43B of the Terrorism Act 2000. On arrest, the defendant was found in possession of multiple electronic devices, including an encrypted smartphone, a laptop, and various data storage media.
+
+There is no doubt that the investigation into the defendant’s activities represented a multi-agency endeavour involving a considerable allocation of resources. Digital forensic work was particularly intensive, with the National Cyber Crime Unit's specialists employed over a period of nine months to decrypt and analyse voluminous encrypted communications. Such resource demands arise in part due to the increased communications security used by suspects of this nature, and the consequent intensification of technical expertise required. It is also pertinent to observe, though perhaps lamentable, that similar forensic teams remain stretched by other pressures, including the rise in vehicle key cloning offences and cyber-enabled financial fraud.
+
+{INSERT_FACT_SNIPPET_1}
+
+The prosecution evidence clearly demonstrated an intricate and carefully orchestrated plan involving the production of IED components and the procurement of dual-use chemicals. Whilst the defendant’s prior clean criminal record was noteworthy, as is customary in terrorism cases, the focus remains firmly on culpability and public protection rather than antecedents alone.
+
+This court would be remiss, however, to neglect the broader systemic context in which cases of this type unfold. The administration of justice in terrorism matters is frequently challenged by the volume and nature of sensitive evidence. The need to balance open justice with operational secrecy often results in the imposition of Public Interest Immunity certificates and closed material procedures under the Justice and Security Act 2013. Such constraints inevitably prolong proceedings and place a considerable burden on legal practitioners and court staff alike.
+
+It is also appropriate to note the indirect impact of these proceedings on victim support services. Although there is no individual victim in the conventional sense, the indirect victims—members of the wider public who might have been exposed to harm—are represented by dedicated officers within counter-terrorism victim liaison teams. The sensitivity and trauma associated with this form of offence require specialised support networks, which remain underfunded despite their vital role.
+
+Pre-trial preparation was not without difficulty. Adjournments were necessary to accommodate further disclosure of material from the Security Service, including intercept transcripts requiring national security vetting. The Legal Aid Agency initially declined on administrative grounds to approve additional funds for defence expert reports, a decision that was later overturned following successful application to the Bar Tribunal and Adjudication Service. The inevitable delays arising from such procedural challenges offshoot to the strain on the court timetable generally.
+
+The plea and trial preparation hearing took place on 12 June 2025, at which the defendant maintained a not guilty plea to the charges. The matter proceeded to jury trial on 7 September 2025 and concluded after six days of evidence and submissions.
+
+Relevant authorities provide guidance on sentencing in such cases. In R v. Gul [2013] UKSC 64, the Supreme Court affirmed the breadth of “terrorist purpose” under section 5 of the 2006 Act, emphasising the sufficiency of intent to advance a political goal through intimidation or coercion. Subsequent judgments, including R v. Hani [2017] EWCA Crim 1031, have delineated the parameters of sentencing periods dependent on the level of commitment and sophistication of the planning conduct, highlighting the critical nature of deterrence and protection of the public.
+
+{INSERT_FACT_SNIPPET_2}
+
+The defendant’s online activities attracted specific scrutiny from the prosecution. Expert analysts recovered a blog hosted anonymously since mid-2022, which initially comprised benign environmental commentary before progressively shifting towards inflammatory rhetoric and expressed support for proscribed entities. The changing tenor of these posts was supported by forensic network analysis linking IP addresses to encrypted communications consistent with extremist forums.
+
+{INSERT_FACT_SNIPPET_3}
+
+Investigators located encrypted archives with digital schematics for explosive devices, which control evidence confirmed had been disseminated within closed online cells. The proliferation of such digital manifestos echoes longstanding concerns about decentralised lone-actor radicalisation but also raises novel challenges for multi-agency digital policing strategies.
+
+During the course of the investigation, a forensic review of the defendant's mobile device revealed an application designed to obfuscate GPS location through the generation of spoof signals, a fact that was conceded in police interview. This raises important considerations as to intent to avoid detection, one of many factors indicating the sophistication of the defendant’s preparatory conduct.
+
+{INSERT_FACT_SNIPPET_4}
+
+Defence submissions included reference to the defendant’s prior cooperation with voluntary community groups addressing youth disenfranchisement. Such engagement, whilst admirable in the abstract, stood in sharp contrast to his clandestine online activities. The dichotomy assists in understanding, but does not excuse, the gravity of offending.
+
+It was also highlighted that in 2021, Mr H was warned by university security after being found in possession of makeshift lock-picking tools in the engineering workshops, an incident deemed minor and not prosecuted. Although not directly attributable to the current offending, this episode featured as part of the personal background collated by prosecution and defence experts alike.
+
+Notes from the local authority housing department recorded noise complaints related to parties hosted at the defendant’s residence in early 2023; these reports, though ultimately unrelated to the criminal conduct, give texture to the social environment in which Mr H resided.
+
+{INSERT_FACT_SNIPPET_5}
+
+Amongst the evidence disclosed was a trip to Budapest, Hungary, in autumn 2023, described in a false itinerary as a “cultural visit.” Surveillance footage from a railway station in the city showed the defendant meeting with individuals subsequently arrested on unrelated charges of gun running, unconnected with this defendant. Defence argued mistaken association; the prosecution urged caution, citing encrypted communications coinciding with the meeting times.
+
+This case also presents an opportunity to observe developments in multi-agency coordination since the revised MAPPA guidance of 2024. The defendant was subject to Category 3 MAPPA oversight owing to the nature of the offending and perceived risk level. Reports from the Midlands Regional Probation Trust confirmed information-sharing among police counter-terrorism units, housing officers, and mental health professionals. Despite stretched resources and recent staffing shortages attributed to recruitment challenges, the cooperation was deemed adequate with room for improvement.
+
+As a matter of public administration, it bears noting that the probation service recently issued a report on challenges faced in managing high-risk offenders with ideological motivations. The report identified delays in psychological assessments resulting from waiting lists that have grown to twelve months, as well as emerging issues related to post-release accommodation.
+
+The court expresses concern about the limited availability of secure approved premises for terrorism offenders in this jurisdiction, with most individuals housed some distance away, complicating supervision and structured intervention delivery.
+
+{INSERT_FACT_SNIPPET_6}
+
+Financial investigation uncovered a series of cryptocurrency transactions routed through multiple exchange platforms. Analysis unearthed payments totaling approximately £4,100 towards the purchase of chemical precursors and precision-engineered mechanical components, presumed to be used in device manufacture. The court takes judicial notice that the increasing use of virtual currencies in illicit markets constitutes a growing challenge to law enforcement globally.
+
+Such complexities highlight the critical importance of investigative partnerships with financial regulators and international counterpart agencies. The sophistication of the defendant’s procurement strategy contrasts with his otherwise unremarkable personal profile, pointing to growing trends in the radicalisation of skilled technical personnel.
+
+The court also reviewed covert surveillance data recording a late-night visit to an industrial estate in Dudley on the 22 November 2024, necessitating cross-examination of audio-visual material and corroborative intelligence. The detailed work involved in ascertaining Mr H’s movements exemplifies not only the demands placed upon counter-terrorism resources but also the meticulous care with which evidence is gathered to support prosecutions of this nature.
+
+{INSERT_FACT_SNIPPET_7}
+
+Turning to personal background, Mr H is aged 31 and holds a master’s degree in electrical engineering. His employment history reflects periods of steady work involvement, predominantly as a junior engineer at a Midlands manufacturing firm. Reference was made to his previous well-regarded contribution to apprenticeships and outreach to local schools, albeit overshadowed by his abrupt resignation following an internal security inquiry related to irrelevant but documented concerns about computer use.
+
+There were multiple references to his upbringing in a household shaped by complex familial dynamics. Statements obtained from extended family members—unsolicited and offered voluntarily—attest to his mild-tempered nature, though some expressed concern about recent withdrawings and heightened political interest. Such personal history is an important
