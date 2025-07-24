@@ -1,0 +1,158 @@
+---
+title: "Evaluating LLM summarisation in high-risk, public-sector contexts"
+author: Sam Rickman
+format:
+  html:
+    toc: true
+    toc-expand: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
+options(knitr.kable.NA = "")
+library(knitr)
+library(kableExtra)
+library(data.table)
+``` 
+
+This project evaluates how reliably large language models (LLMs) preserve risk-relevant details when summarising long procedural texts, such as sentencing remarks and offending histories. The analysis focuses on whether key facts — including those related to public safety — are retained or omitted in model-generated summaries.
+
+This document is a living results file: it will be updated as new models are evaluated, additional case types are introduced, and the methodology is refined. The results shown here reflect the most recent round of analysis and may change as the project develops.
+
+# Results (so far)
+
+## Exact match
+
+### Basic model
+
+#### Model specification
+
+We fit a binomial mixed-effects logistic regression to estimate the probability that a model includes a correct fact in its summary. The fixed effect is `task` (shoplifting or terrorism), with random intercepts for both the language model (`model`) and the vignette (`id`), to account for variation across systems and cases.
+
+The model equation is:
+
+$$
+\text{logit} \left( \Pr(\text{correct}) \right) = \beta_0 + \beta_1 \cdot \texttt{task}_{\text{terrorism}} + u_{\texttt{model}} + u_{\texttt{id}}
+$$
+
+Where:
+
+* $\beta_0$ is the intercept (for shoplifting),
+* $\beta_1$ captures the effect of the terrorism task,
+* $u_{\texttt{model}} \sim \mathcal{N}(0, \sigma^2\_{\text{model}})$ is the random effect for each LLM,
+* $u_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2\_{\text{id}})$ is the random effect for each vignette.
+
+```{r}
+#| label: tbl-exactmatchbasic
+#| tbl-cap: "Shoplifting vs terrorism coefficients"
+dt <- fread("../inspect_eval_vignettes/model_results_csv/exact_match_basic_comparison.csv")
+setnames(dt, "p_stars", " ")
+dt |>
+    kableExtra::kbl(booktabs = TRUE) |>
+    kableExtra::kable_styling()
+```
+
+The overall accuracy of all LLMs for shoplifting was 0.93, and for terrorism was 0.84. The odds ratio is 0.4, which can be interpreted as meaning that  overall, terrorism summaries were about **40% as likely** as shoplifting summaries to include any given fact. However, there is wide variance in performance between different LLMs. This is examined in the next section.
+
+### LLM-interaction model
+
+![Distribution of accuracy scores](../inspect_eval_vignettes/plots/accuracy_distribution_exact_match.png)
+
+#### Model specification
+
+We fit a binomial mixed-effects logistic regression to estimate the probability that a model includes a correct fact in its summary. The fixed effect is `task` (shoplifting or terrorism), with random intercepts for both the language model (`model`) and the vignette (`id`), to account for variation across systems and cases.
+
+The model equation is:
+
+$$
+\text{logit} \left( \Pr(\text{correct}) \right) = \beta_0 + \beta_1 \cdot \texttt{task} + \beta_2 \cdot \texttt{model} + \beta_3 \cdot (\texttt{task} \times \texttt{model}) + u_{\texttt{id}} \\
+\quad u_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2)
+$$
+
+Where:
+
+* $\beta_0$ is the intercept (baseline log-odds of including a correct fact for the reference model on the shoplifting task),
+* $\beta_1$ captures the main effect of `task` (terrorism vs shoplifting),
+* $\beta_2$ captures the main effect of `model` (differences between language models),
+* $\beta_3$ captures the interaction between `task` and `model` — i.e., how the effect of task differs across models,
+* $u\_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2)$ is a random intercept for each vignette to account for variation in case difficulty.
+
+```{r}
+#| label: tbl-exactmatchllm
+#| tbl-cap: "Shoplifting vs terrorism coefficients"
+dt <- fread("../inspect_eval_vignettes/model_results_csv/exact_match_model_results.csv")
+setnames(dt, "p_stars", " ")
+dt |>
+    kableExtra::kbl(booktabs = TRUE) |>
+    kableExtra::kable_styling()
+```
+
+It is evident that the smallest difference between shoplifting and terrorism is Gemini 1.5 (OR 0.73). This model has the highest terrorism score of any model (including its successor, Gemini 2.5). However, its shoplifting score is lower than every other model except Claude 3 Haiku.
+
+## Cosine similarity
+
+![Distribution of accuracy scores](../inspect_eval_vignettes/plots/accuracy_distribution_cosine_similarity.png)
+
+### Basic model
+
+#### Model specification
+
+We fit a binomial mixed-effects logistic regression to estimate the probability that a model includes a correct fact in its summary. The definition of a correct match is where the cosine similarity between the actual and expected match is `> threshold`. The threshold is defined in [`2__cosine_similarity.py`](../inspect_eval_vignettes/2__cosine_similarity.py) and at the time of writing is set to `0.85`.
+
+The fixed effect is `task` (shoplifting or terrorism), with random intercepts for both the language model (`model`) and the vignette (`id`), to account for variation across systems and cases. The model equation is:
+
+$$
+\text{logit} \left( \Pr(\text{correct}) \right) = \beta_0 + \beta_1 \cdot \texttt{task}_{\text{terrorism}} + u_{\texttt{model}} + u_{\texttt{id}}
+$$
+
+Where:
+
+* $\beta_0$ is the intercept (for shoplifting),
+* $\beta_1$ captures the effect of the terrorism task,
+* $u_{\texttt{model}} \sim \mathcal{N}(0, \sigma^2\_{\text{model}})$ is the random effect for each LLM,
+* $u_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2\_{\text{id}})$ is the random effect for each vignette.
+
+```{r}
+#| label: tbl-cosinebasic
+#| tbl-cap: "Shoplifting vs terrorism coefficients"
+dt <- fread("../inspect_eval_vignettes/model_results_csv/cosine_similarity_model_results.csv")
+setnames(dt, "p_stars", " ")
+dt |>
+    kableExtra::kbl(booktabs = TRUE) |>
+    kableExtra::kable_styling()
+```
+
+### LLM-interaction model
+
+#### Model specification
+
+As with the exact match, we have a dataset of binary values (matched or not matched). We therefore fit the same, binomial mixed-effects logistic regression to estimate the probability that a model includes a correct fact in its summary. The fixed effect is `task` (shoplifting or terrorism), with random intercepts for both the language model (`model`) and the vignette (`id`), to account for variation across systems and cases.
+
+The model equation is:
+
+$$
+\text{logit} \left( \Pr(\text{correct}) \right) = \beta_0 + \beta_1 \cdot \texttt{task} + \beta_2 \cdot \texttt{model} + \beta_3 \cdot (\texttt{task} \times \texttt{model}) + u_{\texttt{id}} \\
+\quad u_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2)
+$$
+
+Where:
+
+* $\beta_0$ is the intercept (baseline log-odds of including a correct fact for the reference model on the shoplifting task),
+* $\beta_1$ captures the main effect of `task` (terrorism vs shoplifting),
+* $\beta_2$ captures the main effect of `model` (differences between language models),
+* $\beta_3$ captures the interaction between `task` and `model` — i.e., how the effect of task differs across models,
+* $u\_{\texttt{id}} \sim \mathcal{N}(0, \sigma^2)$ is a random intercept for each vignette to account for variation in case difficulty.
+
+```{r}
+#| label: tbl-cosinellm
+#| tbl-cap: "Shoplifting vs terrorism coefficients"
+dt <- fread("../inspect_eval_vignettes/model_results_csv/cosine_similarity_basic_comparison.csv")
+setnames(dt, "p_stars", " ")
+dt |>
+    kableExtra::kbl(booktabs = TRUE) |>
+    kableExtra::kable_styling()
+```
+
+The model code can be found in the `run_glm()` and `run_gap_glm()` [functions](../inspect_eval_vignettes/r_utils.R).
+
