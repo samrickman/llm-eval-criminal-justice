@@ -8,3 +8,4 @@ __pycache__/
 notebooks/
 usage/
 setup.sh
+results_files/
